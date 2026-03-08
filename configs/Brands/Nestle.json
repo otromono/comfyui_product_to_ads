@@ -1,0 +1,274 @@
+{
+  "brand_info": {
+    "name": "Nestlé",
+    "tagline": "Good food, Good life.",
+    "category": "Food and beverage",
+    "positioning": "The world’s largest food and beverage company, positioned as a science-based nutrition, health, and wellness leader serving consumers across all life stages.",
+    "vision": "To be the leading Nutrition, Health and Wellness company, enhancing quality of life and contributing to a healthier future.",
+    "mission": "Enhance quality of life and contribute to a healthier future by providing nutritious, high-quality, safe food and beverages.",
+    "origin_story": "Founded in 1866 in Vevey, Switzerland by Henri Nestlé with the invention of an infant cereal to address malnutrition, Nestlé evolved into a global food and beverage group built on nutrition science and scale."
+  },
+  "brand_values": {
+    "core_values": [
+      "Nutrition and health",
+      "Science-based innovation",
+      "Quality and safety",
+      "Sustainability",
+      "Shared value creation",
+      "Trust and responsibility"
+    ],
+    "brand_promise": "Provide food and beverages that are safe, nutritious, and enjoyable while supporting healthier lives and sustainable systems.",
+    "differentiators": [
+      "Unmatched global scale across categories and geographies.",
+      "Strong integration of nutrition science and R&D.",
+      "Portfolio spanning everyday nutrition, indulgence, and specialized health products.",
+      "Long-term commitment to sustainability and Creating Shared Value."
+    ],
+    "non_negotiables": [
+      "Product safety and quality standards must never be compromised.",
+      "Science-based claims and regulatory compliance are mandatory.",
+      "Sustainability and responsibility must be embedded across operations.",
+      "Trust and transparency must be preserved at all touchpoints."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All ages",
+      "gender": "All",
+      "income_level": "Mass to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Consumers seeking convenient, trustworthy food and beverage solutions aligned with health, wellbeing, and everyday life.",
+      "values": [
+        "Health and nutrition",
+        "Family wellbeing",
+        "Trust in brands",
+        "Quality and safety",
+        "Responsible consumption"
+      ],
+      "behavior": "Routine purchasing across categories, reliance on trusted household brands, increasing interest in nutrition transparency and sustainability."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Responsible",
+      "Reassuring",
+      "Scientific",
+      "Caring",
+      "Authoritative"
+    ],
+    "communication_style": "Clear, reassuring, and evidence-based, balancing scientific credibility with accessible human language.",
+    "language_register": "Corporate / Informative / Trust-building",
+    "preferred_structures": [
+      "Clear benefit-led statements",
+      "Fact-based explanations",
+      "Purpose-driven messaging"
+    ],
+    "avoid": [
+      "Sensationalist claims",
+      "Overly emotional or fear-driven messaging",
+      "Unsubstantiated health promises"
+    ],
+    "emotional_temperature": "Calm confidence",
+    "tone_dos": [
+      "Emphasize trust, safety, and responsibility",
+      "Communicate benefits clearly and transparently",
+      "Balance science with human relevance"
+    ],
+    "tone_donts": [
+      "Exaggerated claims",
+      "Ambiguous health language",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Nestlé wordmark with bird’s nest symbol.",
+      "usage_rules": "Maintain clarity and respect clear space; avoid distortion or decorative effects.",
+      "lockup_behavior": "Corporate logo used consistently across markets; sub-brands may appear with endorsement.",
+      "safe_area": "Minimum padding equals the height of the 'N' in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#00385E",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#E6E6E6",
+        "#7A7A7A"
+      ],
+      "color_usage_rules": "Clean, trustworthy palette with restrained accents; sub-brands may extend palettes while preserving corporate coherence."
+    },
+    "typography": {
+      "primary_font": "Clean corporate sans-serif",
+      "secondary_font": "Supporting sans-serif for emphasis and readability",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.02em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Regular/Bold sans",
+        "Body – Regular sans",
+        "Captions – Regular sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured corporate grid",
+      "white_space_ratio": "Moderate to generous",
+      "image_vs_text_balance": "Balanced, clarity-first",
+      "cta_placement": "Lower third or end of message",
+      "alignment": "Orderly and stable compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "trustworthy",
+        "human",
+        "everyday life",
+        "nutrition-focused",
+        "clean"
+      ],
+      "preferred_photographers": [
+        "Lifestyle photographers focused on family and everyday moments",
+        "Food photographers emphasizing quality and freshness",
+        "Corporate and documentary photographers for sustainability stories"
+      ],
+      "camera_feel": "Natural, reassuring imagery grounded in real-life contexts.",
+      "pose_guidelines": "Natural interactions, everyday gestures, family and community moments.",
+      "casting_attitude": "Inclusive representation across cultures and life stages."
+    },
+    "technical": {
+      "lighting": "Soft natural or diffused studio lighting.",
+      "contrast": "Low to medium.",
+      "grain": "Low.",
+      "depth_of_field": "Moderate; clarity prioritized.",
+      "color_grading": "Natural, neutral tones reinforcing trust."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Trust and reassurance",
+      "Everyday nutrition",
+      "Human warmth",
+      "Responsible optimism"
+    ],
+    "preferred_locations": [
+      "Homes and kitchens",
+      "Farms and sourcing locations",
+      "Production and research facilities"
+    ],
+    "contexts": [
+      "Daily meals",
+      "Family moments",
+      "Health and wellbeing education",
+      "Sustainability and sourcing narratives"
+    ],
+    "model_casting": {
+      "age_range": "All ages",
+      "diversity": "Broad and global representation",
+      "attitude": "Warm, trustworthy, relatable"
+    },
+    "product_presentation": {
+      "hero_visibility": "Clear packaging and product recognition prioritized.",
+      "styling_approach": "Honest, appetizing, and realistic.",
+      "avoid": [
+        "Over-stylized food imagery",
+        "Ambiguous health symbolism"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured and calm.",
+      "transitions": "Smooth, unobtrusive transitions."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Communicate trust and clarity",
+        "Show real people and real food",
+        "Maintain corporate consistency"
+      ],
+      "visual_donts": [
+        "Sensationalist visuals",
+        "Fear-based health imagery",
+        "Inconsistent brand presentation"
+      ],
+      "copy_dos": [
+        "Be clear, factual, and responsible",
+        "Reinforce nutrition and quality credentials",
+        "Align with purpose and shared value"
+      ],
+      "copy_donts": [
+        "Overpromising health outcomes",
+        "Ambiguous claims",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Nestlé logo integrity",
+        "Nutrition, health, and wellness positioning",
+        "Trust and responsibility focus"
+      ],
+      "can_evolve": [
+        "Visual storytelling approaches",
+        "Sustainability communication",
+        "Digital engagement formats"
+      ],
+      "test_zone": [
+        "Personalized nutrition",
+        "Plant-based and alternative proteins",
+        "Advanced sustainability narratives"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clear shelf communication",
+        "Educational point-of-sale materials",
+        "Consistent brand blocks"
+      ],
+      "interactive_elements": [
+        "Nutritional education touchpoints",
+        "QR-based transparency tools"
+      ],
+      "soundscape": "Neutral and calm"
+    },
+    "digital": {
+      "tone_adjustment": "Informative, transparent, and reassuring",
+      "content_ratio": {
+        "campaign_vs_product": "45:55",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Everyday nutrition stories, brand purpose highlights",
+        "Website": "Corporate transparency, nutrition science, sustainability",
+        "Newsletter": "Educational content and brand initiatives"
+      }
+    },
+    "print": {
+      "paper": "Standard coated or uncoated corporate stock",
+      "cover_rules": "Clear brand presence with human-centric imagery"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting the Nestlé logo",
+      "Placing logo on low-contrast backgrounds",
+      "Separating the wordmark from the nest symbol"
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "brand_info": {
+    "name": "Umbro",
+    "tagline": "This Is Our Game",
+    "category": "Sportswear & Lifestyle",
+    "positioning": "The authentic football tailor of distinction, bridging the gap between professional performance and terrace culture.",
+    "vision": "To be the most authentic football brand in the world, deeply rooted in the culture of the game.",
+    "mission": "To outfit footballers and fans with high-quality, authentic gear that celebrates the passion and unity of the beautiful game.",
+    "origin_story": "Founded in 1924 in Wilmslow, England, by brothers Harold and Wallace Humphreys. The name is a portmanteau of 'Humphrey Brothers'. Starting from a small cupboard in a family pub, it grew to become the 'Dior of the football world', outfitting legendary teams and World Cup winners."
+  },
+  "brand_values": {
+    "core_values": [
+      "Authenticity",
+      "Heritage",
+      "Quality",
+      "Unity",
+      "Passion"
+    ],
+    "brand_promise": "Providing the quality and craftsmanship of a tailor with the performance required for the pitch.",
+    "differentiators": [
+      "Deep British football heritage",
+      "Double Diamond iconic status",
+      "Focus on grassroots and fan culture over corporate flashiness",
+      "Unique 'Sports Tailoring' aesthetic"
+    ],
+    "non_negotiables": [
+      "The Double Diamond logo must be present",
+      "Connection to football or rugby culture",
+      "Commitment to quality craftsmanship"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "16-34",
+      "gender": "Unisex (Primary focus on Men, growing Women's segment)",
+      "income_level": "Middle to Upper-Middle (Value-conscious but quality-driven)"
+    },
+    "psychographics": {
+      "lifestyle": "Active, football-centric, urban, terrace-culture oriented",
+      "values": [
+        "Authenticity",
+        "Community",
+        "Style-conscious",
+        "Loyalty"
+      ],
+      "behavior": "Plays grassroots football, follows professional leagues, adopts heritage sportswear for daily fashion."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Authentic",
+      "Down-to-earth",
+      "Passionate",
+      "Witty",
+      "Humble"
+    ],
+    "communication_style": "Direct and relatable, avoiding the 'brash and noisy' tone of larger competitors.",
+    "language_register": "Informal to Semi-formal (Conversational but professional)",
+    "preferred_structures": [
+      "Short, punchy sentences",
+      "Football-related metaphors",
+      "Inclusive 'We' and 'Our' language"
+    ],
+    "avoid": [
+      "Corporate jargon",
+      "Overly aggressive marketing",
+      "Hyper-technical buzzwords"
+    ],
+    "emotional_temperature": "Warm and inclusive",
+    "tone_dos": [
+      "Celebrate the fan experience",
+      "Use humor where appropriate",
+      "Stay grounded in the game's reality"
+    ],
+    "tone_donts": [
+      "Don't sound elitist",
+      "Don't use generic stock-style messaging",
+      "Don't ignore the heritage"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Stacked Double Diamond with Umbro wordmark",
+      "usage_rules": "Must be used in black or white where possible; red accents allowed in specific 2024+ iterations.",
+      "lockup_behavior": "Stacked (Diamond above wordmark) is the standard for marketing and digital.",
+      "safe_area": "Minimum clear space equal to the height of the 'U' in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000 (Black)",
+        "#FFFFFF (White)"
+      ],
+      "secondary_colors": [
+        "#E21F26 (Umbro Red)",
+        "#0033A0 (Royal Blue)"
+      ],
+      "color_usage_rules": "Black and white dominate for stability; vibrant colors are used to reflect kit and fan culture."
+    },
+    "typography": {
+      "primary_font": "Sequel Sans Display Heavy",
+      "secondary_font": "Trade Gothic Regular",
+      "weights": {
+        "headlines": "Extra Bold / Heavy",
+        "body": "Regular / Medium",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight (Minimal spacing for wordmark)",
+        "line_height": "Generous (for body text clarity)"
+      },
+      "hierarchy": [
+        "Heavy geometric sans-serif for impact",
+        "Clean gothic for supporting information"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured but flexible to allow for dynamic sports imagery",
+      "white_space_ratio": "Moderate (Balanced to maintain a 'clean' but 'full' feel)",
+      "image_vs_text_balance": "Image-led (Photography is the primary storyteller)",
+      "cta_placement": "Bottom right for digital; integrated into layout for print",
+      "alignment": "Centered or bottom-aligned wordmarks"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Authentic",
+        "Gritty",
+        "Romantic",
+        "Candid",
+        "Terrace-inspired"
+      ],
+      "preferred_photographers": [
+        "Louis Bever",
+        "Henry Diagne"
+      ],
+      "camera_feel": "Film-like, documentary style, avoiding overly polished studio looks.",
+      "pose_guidelines": "Natural, relaxed, or action-oriented; models should look like real players or fans.",
+      "casting_attitude": "Unpretentious, diverse, and genuinely connected to the game."
+    },
+    "technical": {
+      "lighting": "Natural light, overcast 'British' feel, or high-contrast stadium lighting.",
+      "contrast": "Medium to High (to emphasize texture and grit)",
+      "grain": "Visible film grain often used for heritage/lifestyle collections.",
+      "depth_of_field": "Shallow for portraits; deep for stadium/crowd shots.",
+      "color_grading": "Desaturated or vintage-toned for heritage; vibrant and true-to-life for performance."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Nostalgic",
+      "Community-driven",
+      "Raw",
+      "Tailored"
+    ],
+    "preferred_locations": [
+      "Local football pitches",
+      "Stadium tunnels",
+      "Urban streets",
+      "Pubs/Terraces"
+    ],
+    "contexts": [
+      "Match day preparations",
+      "Grassroots training",
+      "Streetwear/Lifestyle settings"
+    ],
+    "model_casting": {
+      "age_range": "18-30",
+      "diversity": "High (Reflecting the global nature of football)",
+      "attitude": "Authentic, non-commercial, 'one of us'"
+    },
+    "product_presentation": {
+      "hero_visibility": "High (Product is the 'star player')",
+      "styling_approach": "Mix of performance gear with casual lifestyle pieces (e.g., jerseys with denim).",
+      "avoid": [
+        "Over-styling",
+        "Artificial poses",
+        "Generic gym environments"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Rhythmic, matching the energy of a match or urban life.",
+      "transitions": "Clean cuts or film-burn effects for heritage content."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Include a football reference in every shot",
+        "Use the Double Diamond as a 'club crest'",
+        "Show real textures of fabrics"
+      ],
+      "visual_donts": [
+        "Don't distort the logo",
+        "Don't use overly bright, neon-only palettes",
+        "Don't use stock photography"
+      ],
+      "copy_dos": [
+        "Speak to the fan's heart",
+        "Reference specific football culture (e.g., Sunday League, VAR)",
+        "Keep it British and witty"
+      ],
+      "copy_donts": [
+        "Don't sound like a tech company",
+        "Don't use 'win at all costs' aggressive language",
+        "Don't be generic"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Double Diamond logo",
+        "Football-first focus",
+        "Black and white primary identity"
+      ],
+      "can_evolve": [
+        "Lifestyle silhouettes",
+        "Digital engagement tactics",
+        "Color accents for specific collections"
+      ],
+      "test_zone": [
+        "High-fashion collaborations",
+        "Web3/NFT fan engagement",
+        "Sustainable material innovation"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Polished concrete",
+        "Steel mesh",
+        "Reclaimed wood",
+        "AstroTurf accents"
+      ],
+      "interactive_elements": [
+        "Jersey customization stations",
+        "Historical archive displays"
+      ],
+      "soundscape": "Ambient stadium noise, Britpop, or local indie music."
+    },
+    "digital": {
+      "tone_adjustment": "More interactive and reactive to live match events.",
+      "content_ratio": {
+        "campaign_vs_product": "60/40",
+        "motion_vs_static": "50/50"
+      },
+      "platform_behavior": {
+        "Instagram": "Lifestyle-led, high-quality photography, fan features.",
+        "Website": "Clean, product-focused, easy navigation with heritage storytelling.",
+        "Newsletter": "Direct, community-focused, early access to drops."
+      }
+    },
+    "print": {
+      "paper": "Uncoated, tactile paper for heritage lookbooks; high-gloss for performance catalogs.",
+      "cover_rules": "Minimalist with a large Double Diamond or a high-impact portrait."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching the diamond",
+      "Using the 1924 script font for modern performance products",
+      "Placing the logo in a busy box that obscures the diamond shape"
+    ]
+  }
+}

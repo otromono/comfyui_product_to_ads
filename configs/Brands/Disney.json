@@ -1,0 +1,288 @@
+{
+  "brand_info": {
+    "name": "The Walt Disney Company (Disney)",
+    "tagline": "Disney100: 100 Years of Wonder citeturn2search2turn2search4",
+    "category": "Entertainment & Lifestyle",
+    "positioning": "The world’s premier entertainment company, built on iconic brands, creative excellence, and innovative technologies; delivering entertainment, information, and inspiration through storytelling. citeturn0search4",
+    "vision": "Be the world’s premier entertainment company. citeturn0search4",
+    "mission": "Entertain, inform, and inspire people around the globe through the power of unparalleled storytelling. citeturn0search4",
+    "origin_story": "Founded on October 16, 1923 by Walt Disney and Roy O. Disney as Disney Brothers Cartoon Studio, initially producing the Alice Comedies and building into a global entertainment enterprise. citeturn0search6turn0search3"
+  },
+  "brand_values": {
+    "core_values": [
+      "Storytelling excellence",
+      "Imagination",
+      "Optimism",
+      "Family-friendly trust",
+      "Innovation",
+      "Nostalgia-to-future continuity"
+    ],
+    "brand_promise": "Deliver emotionally resonant, family-friendly experiences where wonder, joy, and belonging feel universally accessible across media, parks, products, and community programs.",
+    "differentiators": [
+      "Unparalleled storytelling franchise ecosystem",
+      "Character-driven emotional equity",
+      "Cross-platform experiential world-building (screen to parks to consumer products)",
+      "Iconic brand trust and global cultural footprint"
+    ],
+    "non_negotiables": [
+      "Brand safety and family appropriateness",
+      "Clear character and logo integrity",
+      "Emotional clarity (wonder/hope/joy) over cynicism",
+      "High polish and craft standards"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All ages",
+      "gender": "All",
+      "income_level": "Mass premium (broad reach with premium experiences across tiers)"
+    },
+    "psychographics": {
+      "lifestyle": "Family entertainment seekers, pop-culture fans, travelers, collectors, and experience-first consumers",
+      "values": [
+        "Wonder",
+        "Togetherness",
+        "Nostalgia",
+        "Optimism",
+        "Escapism with emotional safety"
+      ],
+      "behavior": "Consumes franchises across channels, participates in shared cultural moments, collects characters/merch, plans experiences (parks, cruises, events) around storytelling IP"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Warm",
+      "Optimistic",
+      "Imaginative",
+      "Inclusive",
+      "Polished"
+    ],
+    "communication_style": "Aspirational yet accessible; emotionally clear; story-first; community-oriented when purpose-led.",
+    "language_register": "Friendly-premium (simple language with elevated emotional phrasing)",
+    "preferred_structures": [
+      "Short declarative lines",
+      "Wonder-led statements",
+      "Invitation-style calls to participate (share, celebrate, join)"
+    ],
+    "avoid": [
+      "Cynicism",
+      "Edgy shock tactics",
+      "Excessive sarcasm",
+      "Overly technical language",
+      "Ambiguous moral tone"
+    ],
+    "emotional_temperature": "Warm-high",
+    "tone_dos": [
+      "Lead with emotion (wonder/joy/hope)",
+      "Anchor to characters or human stories",
+      "Use inclusive, global language",
+      "Keep messages clean and memorable"
+    ],
+    "tone_donts": [
+      "Overcomplicated copy",
+      "Aggressive sales tone",
+      "Dark or nihilistic framing"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Disney signature (logotype) with optional castle brand mark in entertainment contexts; corporate usage aligns to The Walt Disney Company identity system.",
+      "usage_rules": "Logo must remain pristine, correctly proportioned, and never distorted; prioritize high contrast and clear space; avoid cluttered overlays that reduce legibility.",
+      "lockup_behavior": "Centered or upper-zone placement for entertainment properties; for corporate communications, clean header/footer placements with generous clear space.",
+      "safe_area": "Minimum padding equals at least the height of the Disney logotype’s capital letter height (or equivalent) on all sides."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FFFFFF",
+        "#000000",
+        "#0A3D91"
+      ],
+      "secondary_colors": [
+        "#BFA7FF",
+        "#C7D2FE",
+        "#F5F3FF",
+        "#D4AF37"
+      ],
+      "color_usage_rules": "High-contrast readability; brand moments often use luminous blues, whites, and iridescent celebration palettes for milestone storytelling (e.g., Disney100). citeturn2search2turn2search8"
+    },
+    "typography": {
+      "primary_font": "Disney signature logotype (custom); supporting typefaces vary by division and campaign.",
+      "secondary_font": "Clean, modern sans-serif for clarity in corporate and digital contexts.",
+      "weights": {
+        "headlines": "Bold or semi-bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – short, emotional headline",
+        "H2 – benefit/context line",
+        "Body – clear supporting info",
+        "CTA – simple invitation"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible (campaign-led), commonly centered hero compositions with strong focal subject and clean negative space for legibility.",
+      "white_space_ratio": "Moderate to generous, especially in premium celebration and corporate storytelling.",
+      "image_vs_text_balance": "Image-led; text supports emotion and participation.",
+      "cta_placement": "Lower third or end-of-copy; never competes with hero subject.",
+      "alignment": "Centered for iconic statements; left-aligned for informational/corporate clarity."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "cinematic",
+        "storybook",
+        "high polish",
+        "celebratory",
+        "emotion-forward",
+        "character-led",
+        "human stories"
+      ],
+      "preferred_photographers": [
+        "Campaign-dependent (varies widely across divisions and partners)"
+      ],
+      "camera_feel": "Cinematic clarity with accessible warmth; hero subject reads instantly; story context supports wonder.",
+      "pose_guidelines": "Open, approachable body language; expressive but readable; family-friendly emotional range (joy, awe, determination).",
+      "casting_attitude": "Inclusive, global representation; real-world role models for purpose-led campaigns (e.g., #DreamBigPrincess). citeturn1search2turn1search15"
+    },
+    "technical": {
+      "lighting": "Soft, flattering light for human stories; luminous spectacle lighting for celebration and parks; avoid harsh realism that breaks fantasy.",
+      "contrast": "Medium; ensure legibility and emotional softness.",
+      "grain": "Minimal to subtle (clean digital polish preferred).",
+      "depth_of_field": "Moderate; subject separation without losing context.",
+      "color_grading": "Clean, vibrant but controlled; cool luminous highlights for magic moments; warm skin tones preserved."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Wonder-led celebration",
+      "Cinematic optimism",
+      "Purpose-led empowerment when relevant",
+      "Iconic character equity"
+    ],
+    "preferred_locations": [
+      "Theme parks and experiential environments",
+      "Studio or controlled cinematic sets",
+      "Real-world documentary-style environments for empowerment/community storytelling"
+    ],
+    "contexts": [
+      "Milestone celebrations (Disney100)",
+      "Community participation and cause marketing (#ShareYourEars)",
+      "Empowerment storytelling (#DreamBigPrincess)",
+      "Parks-wide initiatives (Where Dreams Come True / Year of a Million Dreams)"
+    ],
+    "model_casting": {
+      "age_range": "All ages (campaign dependent)",
+      "diversity": "Global, inclusive representation",
+      "attitude": "Warm, hopeful, emotionally readable; real-world role models for purpose campaigns"
+    },
+    "product_presentation": {
+      "hero_visibility": "Hero is the experience: character, story, or destination; products and offers are secondary and integrated cleanly.",
+      "styling_approach": "Brand-safe, family-friendly; premium polish; avoid visual noise that competes with iconography.",
+      "avoid": [
+        "Off-brand edginess",
+        "Low-quality composites",
+        "Crowded typography over faces",
+        "Ambiguous or cynical emotional beats"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Cinematic, uplifting, with clear emotional arc; celebration often uses crescendos and reveal moments.",
+      "transitions": "Clean fades, magical reveals, soft wipes/glow-driven transitions when appropriate."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Center emotion and wonder",
+        "Use iconic symbols/characters responsibly",
+        "Keep compositions legible and premium",
+        "Use community participation mechanics for purpose-led activations (hashtags, UGC prompts) citeturn1search4turn1search2"
+      ],
+      "visual_donts": [
+        "Distort logos or character silhouettes",
+        "Use dark, cynical, or unsafe themes",
+        "Overcrowd with copy",
+        "Use low-fidelity assets that reduce trust"
+      ],
+      "copy_dos": [
+        "Short, uplifting lines",
+        "Invite participation (share, celebrate, join)",
+        "Anchor to storytelling and human meaning",
+        "State mission-aligned intent in corporate comms citeturn0search4"
+      ],
+      "copy_donts": [
+        "Hard-sell, aggressive urgency",
+        "Overexplaining the magic",
+        "Sarcastic or combative language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Story-first framing",
+        "Family-friendly trust and safety",
+        "Iconic logo integrity",
+        "Emotional clarity (wonder/joy/hope)",
+        "High craft polish"
+      ],
+      "can_evolve": [
+        "Campaign visual palettes (property-specific)",
+        "Casting and documentary vs cinematic balance",
+        "Platform-native formats (short form, social-first)"
+      ],
+      "test_zone": [
+        "Purpose-led social activations",
+        "Cross-company milestone celebrations",
+        "New experiential formats tied to parks, streaming, and live events"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Gloss and illumination cues (magic)",
+        "Premium finishes where applicable (metallics, iridescent celebration)",
+        "Character-led wayfinding and storytelling zones"
+      ],
+      "interactive_elements": [
+        "Photo moments",
+        "Character touchpoints",
+        "Limited-edition celebration moments (Disney100 style cues) citeturn2search8"
+      ],
+      "soundscape": "Iconic musical cues and uplifting orchestration, tuned per property and venue"
+    },
+    "digital": {
+      "tone_adjustment": "Social-first participation mechanics for campaigns; clean, story-led corporate narratives on owned sites.",
+      "content_ratio": {
+        "campaign_vs_product": "80:20",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "Hero visuals with short wonder-led copy; campaign hashtags when active (#DreamBigPrincess, #ShareYourEars) citeturn1search2turn1search4",
+        "Website": "Story-forward editorial pages; clear mission and company updates citeturn0search4",
+        "Newsletter": "Highlights and invitations; clean hierarchy; minimal clutter"
+      }
+    },
+    "print": {
+      "paper": "Premium coated or semi-matte depending on division; high color fidelity for character worlds and celebration palettes.",
+      "cover_rules": "Strong hero focal point; clean logo placement; minimal copy with high legibility."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretched or warped Disney signature",
+      "Low-contrast logo on busy backgrounds",
+      "Logo placed over faces or critical story focal points"
+    ]
+  }
+}

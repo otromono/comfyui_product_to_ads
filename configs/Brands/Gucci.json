@@ -1,0 +1,273 @@
+{
+  "brand_info": {
+    "name": "Gucci",
+    "tagline": "",
+    "category": "Moda di lusso / Lifestyle",
+    "positioning": "Maison di lusso italiana che combina heritage artigianale e codici iconici (pelle, web stripe, GG) con creatività contemporanea, cultura pop e un’estetica narrativa riconoscibile.",
+    "vision": "Continuare a ridefinire il lusso in chiave contemporanea valorizzando creatività, artigianalità italiana e innovazione.",
+    "mission": "Creare e offrire collezioni e prodotti di lusso che celebrano creatività, artigianalità italiana e innovazione, mantenendo codici di marca iconici e un linguaggio culturale rilevante.",
+    "origin_story": "Fondato a Firenze nel 1921 da Guccio Gucci, il brand nasce dalla cultura del viaggio e della pelletteria d’eccellenza, evolvendo in una delle Maison di lusso più riconosciute al mondo grazie a codici distintivi e a una costante reinvenzione creativa."
+  },
+  "brand_values": {
+    "core_values": [
+      "Creatività",
+      "Artigianalità italiana",
+      "Innovazione",
+      "Espressione individuale",
+      "Eclettismo culturale"
+    ],
+    "brand_promise": "Ogni creazione Gucci unisce qualità artigianale e codici iconici a un immaginario contemporaneo e distintivo, trasformando il prodotto in segno culturale oltre la funzione.",
+    "differentiators": [
+      "Codici iconici immediatamente riconoscibili (web stripe verde-rosso-verde, monogram GG, hardware dorato, pelletteria heritage)",
+      "Capacità di creare mondi narrativi e campagne ad alta memorabilità visiva, tra moda, arte e cultura pop",
+      "Tensione controllata tra vintage e contemporaneo: styling e casting non convenzionali con finitura luxury"
+    ],
+    "non_negotiables": [
+      "Nessun compromesso su materiali, manifattura e dettagli di pelletteria",
+      "Uso coerente e rispettoso dei codici di marca (wordmark GUCCI, monogram GG, web stripe, motivi heritage)",
+      "Evitare l’estetica generica e anonima: ogni output deve essere riconoscibile come Gucci"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "Tutti (uomo e donna)",
+      "income_level": "Alto / Lusso"
+    },
+    "psychographics": {
+      "lifestyle": "Clienti urbani e globali che vivono la moda come identità culturale. Cercano pezzi iconici, styling espressivo e prodotti statement da collezionare, alternando heritage e contemporaneità.",
+      "values": [
+        "Auto-espressione",
+        "Cultura e creatività",
+        "Qualità e autenticità",
+        "Status simbolico ma non convenzionale"
+      ],
+      "behavior": "Acquisto guidato da desiderabilità, riconoscibilità e storytelling. Propensione a capsule e item iconici, con attenzione a dettagli distintivi (stripe, monogram, colori) e a immagini di campagna memorabili e condivisibili."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Creativo",
+      "Eclettico",
+      "Colto",
+      "Audace",
+      "Iconico"
+    ],
+    "communication_style": "Evocativo e culturale, con un sottotesto ironico o surreale, mai didascalico",
+    "language_register": "Contemporaneo e curato",
+    "preferred_structures": [
+      "Frasi brevi e assertive",
+      "Titoli poetici o concettuali",
+      "Copy minimale che lascia parlare l’immagine"
+    ],
+    "avoid": [
+      "Linguaggio eccessivamente tecnico o descrittivo",
+      "Toni promozionali aggressivi",
+      "Callout troppo commerciali che riducono la dimensione culturale"
+    ],
+    "emotional_temperature": "Energica e magnetica, con distacco controllato",
+    "tone_dos": [
+      "Usare riferimenti culturali impliciti",
+      "Mantenere ambiguità narrativa",
+      "Valorizzare il gesto e l’attitudine del talento"
+    ],
+    "tone_donts": [
+      "Spiegare il concept in modo esplicito",
+      "Eccesso di superlativi e hype",
+      "Slang volatile"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Logotipo 'GUCCI' in serif elegante ad alto contrasto, spesso in bianco o in colore pieno a forte impatto",
+      "usage_rules": "Logo sempre integro, leggibile e con tracking coerente. Ammesso overlay su immagine quando c’è sufficiente contrasto e spazio negativo; evitare sovrapposizioni su aree ad alto dettaglio che riducono la leggibilità.",
+      "lockup_behavior": "Spesso centrato e molto grande come elemento editoriale; alternative: centrato in alto con ampia aria, o centrato in basso in formato più contenuto.",
+      "safe_area": "Spazio libero attorno al logo pari ad almeno metà della sua altezza, preservando leggibilità e impatto"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#B31B1B",
+        "#1E5A3A",
+        "#D4AF37",
+        "#8B2A2A",
+        "#6B5B4A"
+      ],
+      "color_usage_rules": "Base neutra (bianco, nero) con accenti saturi e profondi. Ricorrenze: rossi lacca e bordeaux, verdi pieni, oro hardware, palette vintage e tappezzerie. Contrasti netti e combinazioni cromatiche non timide, ma sempre con finitura luxury."
+    },
+    "typography": {
+      "primary_font": "Serif ad alto contrasto in stile Didone (logotipo GUCCI)",
+      "secondary_font": "Sans-serif pulito e contemporaneo per testi di servizio",
+      "weights": {
+        "headlines": "Regular o Medium, tutto maiuscolo",
+        "body": "Light o Regular",
+        "captions": "Regular, minimale"
+      },
+      "spacing": {
+        "letter_spacing": "0.06em",
+        "line_height": "1.4"
+      },
+      "hierarchy": [
+        "H1 – Serif tutto maiuscolo, grande, spesso sovrapposto all’immagine",
+        "H2 – Sans-serif sobrio o serif ridotto per supporto",
+        "Corpo testo – Sans-serif minimale, poche righe"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "editoriale libero con centratura forte del logo",
+      "white_space_ratio": "Moderato: spazio negativo dove serve per logo e respiro, ma accetta fondi ricchi e narrativi",
+      "image_vs_text_balance": "Prevalenza immagini sul testo, con logo come unico elemento tipografico dominante",
+      "cta_placement": "Raro o assente nelle creatività di awareness; se presente, piccolo e discreto, in basso a destra o centrato in basso",
+      "alignment": "Centrature forti e composizioni sceniche; soggetto spesso leggermente decentrato per lasciare spazio al wordmark"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "narrativo",
+        "cinematografico",
+        "retro",
+        "massimalista",
+        "iconico",
+        "surreale controllato"
+      ],
+      "preferred_photographers": [
+        "Glen Luchford",
+        "Tina Barney",
+        "Nan Goldin"
+      ],
+      "camera_feel": "Immagini come scene di un film o di un editoriale vintage: senso di storia, personaggi e oggetti con presenza scenica.",
+      "pose_guidelines": "Pose composte ma non rigide, spesso con attitudine distaccata. Gesti precisi, mani e accessori in evidenza; corpo usato come architettura dell’immagine.",
+      "casting_attitude": "Androgino, eccentrico, colto, a volte outsider. Espressioni controllate, sguardi diretti o assenti, mood magnetico."
+    },
+    "technical": {
+      "lighting": "Mix di luce naturale e luce artificiale controllata. Ricorrenti: flash morbido o diretto per effetto editoriale, oppure luce ambientale cinematografica con ombre definite.",
+      "contrast": "Medio-alto, con colori saturi e neri profondi; oppure contrasto moderato su set neutri per enfatizzare silhouette e accessori.",
+      "grain": "Da minimo a medio, con resa analogica quando coerente con l’estetica vintage.",
+      "depth_of_field": "Variabile: spesso medio, per mantenere leggibili set e dettagli; bassa profondità quando serve a isolare il prodotto.",
+      "color_grading": "Palette ricca e leggermente vintage: rossi lacca, verdi pieni, toni caldi da interni, azzurri freddi da esterni; saturazione presente ma non neon."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Eclettismo sofisticato",
+      "Lusso culturale",
+      "Gioco tra vintage e contemporaneo",
+      "Ironia sottile"
+    ],
+    "preferred_locations": [
+      "Interni vintage e borghesi (salotti, hotel, ristoranti, tappezzerie e pattern)",
+      "Outdoor narrativi (strade deserte, paesaggi, mare e scogliere) con atmosfera da viaggio",
+      "Contesti urbani con segni di vita reale (auto, insegne, architetture) trasformati in set di moda"
+    ],
+    "contexts": [
+      "Scene di viaggio e movimento con accessori hero (borsoni, valigie, handbag) come protagonista",
+      "Ritratti editoriali su fondali puliti con styling statement",
+      "Tableau di gruppo con pattern e colori stratificati, senso di famiglia eccentrica e teatrale"
+    ],
+    "model_casting": {
+      "age_range": "18–45",
+      "diversity": "Sì, inclusiva e internazionale, con enfasi su volti distintivi",
+      "attitude": "Distacco elegante, sicurezza non ostentata, aura intellettuale o ribelle controllata"
+    },
+    "product_presentation": {
+      "hero_visibility": "Molto alta: il prodotto è un oggetto scenico, spesso in primo piano e con codici iconici evidenziati",
+      "styling_approach": "Mix di tailoring, riferimenti vintage, colori saturi e accessori statement. Contrasti voluti tra contesto e lusso, senza perdere raffinatezza.",
+      "avoid": [
+        "Set e styling generici da e-commerce",
+        "Minimalismo anonimo senza codici Gucci",
+        "Confusione visiva che nasconde dettagli iconici del prodotto"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Ritmo da cinema editoriale: lento, contemplativo, con momenti di gesto e presenza",
+      "transitions": "Tagli editoriali puliti o dissolvenze leggere; evitare effetti digitali vistosi"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Usare storytelling visivo e set con identità (vintage, viaggio, interni caratterizzati)",
+        "Sovrapporre il logo GUCCI in grande come elemento editoriale quando il layout lo consente",
+        "Mettere in evidenza codici iconici del prodotto (stripe, monogram, hardware dorato) con luce dedicata"
+      ],
+      "visual_donts": [
+        "Estetica stock o generica priva di codici di Maison",
+        "Illuminazione piatta da catalogo quando l’obiettivo è awareness editoriale",
+        "Sovra-caricare il frame con testi, badge e grafica promozionale"
+      ],
+      "copy_dos": [
+        "Copy minimale e concettuale, centrato su desiderio e attitudine",
+        "Poche parole ad alto impatto, coerenti con immaginario culturale"
+      ],
+      "copy_donts": [
+        "Messaggi troppo descrittivi del prodotto",
+        "Toni urlati o hard-sell",
+        "Linguaggio opportunistico o legato a trend effimeri"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Logotipo GUCCI sempre integro e leggibile",
+        "Codici iconici del brand (web stripe, monogram GG, hardware) corretti e coerenti",
+        "Qualità percepita luxury: materiali, texture, costruzione e finiture impeccabili"
+      ],
+      "can_evolve": [
+        "Casting e styling contemporanei purché mantengano l’attitudine Gucci",
+        "Sperimentazione di set e narrative nuove mantenendo i codici iconici",
+        "Palette e mix di pattern variabili entro un perimetro vintage-culturale"
+      ],
+      "test_zone": [
+        "Formati social sperimentali e capsule narrative",
+        "Collaborazioni culturali e contenuti speciali purché riconoscibili come Gucci",
+        "Nuove combinazioni cromatiche e styling più audaci, mantenendo la finitura luxury"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Marmo e pietra con finiture lucide, legni scuri o laccati, velluti e tessuti ricchi",
+        "Metalli dorati o ottone per hardware e dettagli, vetro e specchi",
+        "Elementi decorativi heritage (motivi, pattern) bilanciati da superfici pulite"
+      ],
+      "interactive_elements": [
+        "Vetrine scenografiche e installazioni narrative",
+        "Display digitali con contenuti di campagna e film di marca",
+        "Esperienze in-store che valorizzano artigianalità e codici iconici"
+      ],
+      "soundscape": "Sound design elegante con accenti contemporanei, spesso con impronta culturale e ritmo controllato"
+    },
+    "digital": {
+      "tone_adjustment": "Su sito tono editoriale e istituzionale; su social storytelling visivo con copy minimale; in newsletter selezione curata di immagini e titoli brevi ad alto impatto.",
+      "content_ratio": {
+        "campaign_vs_product": "70:30",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Immagini forti e narrative, palette ricca, logo presente con parsimonia, copy breve e concettuale",
+        "Website": "Full-bleed visual, storytelling per collezioni e progetti della House, navigazione pulita",
+        "Newsletter": "Layout essenziale con hero visual, titoli brevi, pochi link, tono esclusivo"
+      }
+    },
+    "print": {
+      "paper": "Carta di alta qualità con finiture che supportano colore pieno e neri profondi, anche con resa analogica",
+      "cover_rules": "Fotografia a piena pagina, logotipo GUCCI grande e pulito, gerarchia tipografica minimale"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorsione, rotazione o applicazione di effetti al logotipo GUCCI",
+      "Logo su sfondi ad alto dettaglio senza contrasto sufficiente",
+      "Uso del logotipo con spaziatura o proporzioni alterate"
+    ]
+  }
+}

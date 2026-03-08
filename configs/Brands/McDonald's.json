@@ -1,0 +1,161 @@
+{
+  "brand_info": {
+    "name": "McDonald's",
+    "tagline": "I'm lovin' it",
+    "category": "Quick Service Restaurant (QSR)",
+    "positioning": "The world's leading community-centric food service retailer offering accessible, feel-good moments.",
+    "vision": "To move fast and deliver delicious, feel-good moments to everyone, everywhere.",
+    "mission": "To make delicious feel-good moments easy for everyone.",
+    "origin_story": "Originally founded by Richard and Maurice McDonald in 1940; incorporated by Ray Kroc in 1955 in Des Plaines, Illinois, revolutionizing the franchise model."
+  },
+
+  "brand_values": {
+    "core_values": ["Service", "Inclusion", "Integrity", "Community", "Family"],
+    "brand_promise": "Consistent quality, convenience, and simple enjoyment regardless of location.",
+    "differentiators": ["Iconic menu items (Big Mac, Fries)", "Global cultural ubiquity", "The Golden Arches symbol"],
+    "non_negotiables": ["No food safety compromises", "No elitism", "No exclusion"]
+  },
+
+  "target_audience": {
+    "demographics": {
+      "age_range": "3-80 (Mass Market)",
+      "gender": "All",
+      "income_level": "Low to High / Value to Premium"
+    },
+    "psychographics": {
+      "lifestyle": "Busy families, students, workers on-the-go, late-night socializers",
+      "values": ["Comfort", "Convenience", "Affordability", "Nostalgia"],
+      "behavior": "Habitual purchasers seeking reliability, speed, and emotional uplift"
+    }
+  },
+
+  "tone_of_voice": {
+    "personality_traits": ["Playful", "Optimistic", "Familiar"],
+    "communication_style": "Simple, direct, and conversational",
+    "language_register": "Informal / Colloquial",
+    "preferred_structures": ["Short, punchy phrases", "Rhythmic jingles", "Fan-centric vernacular"],
+    "avoid": ["Complexity", "Pretentiousness", "Corporate jargon"],
+    "emotional_temperature": "Warm and Energetic",
+    "tone_dos": ["Focus on the joy of eating", "Celebrate unique customer rituals"],
+    "tone_donts": ["Lecture the customer", "Use negative humor"]
+  },
+
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "The Golden Arches (Stand-alone or with wordmark)",
+      "usage_rules": "Arches must remain golden; strict clear space; often cropped in modern minimalist campaigns",
+      "lockup_behavior": "Flexible; Arches often centered or used as a directional device",
+      "safe_area": "Proportional to the width of the legs of the Arches"
+    },
+    "color_system": {
+      "primary_colors": ["#FFC72C (McDonald's Gold)", "#DA291C (McDonald's Red)"],
+      "secondary_colors": ["#27251F (Black)", "#FFFFFF (White)"],
+      "color_usage_rules": "High contrast; Gold used for Arches/Product, Red for backgrounds/accents; White for clean modernity"
+    },
+    "typography": {
+      "primary_font": "Speedee (Custom)",
+      "secondary_font": "Lovin' Sans (Custom)",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Medium"
+      },
+      "spacing": {
+        "letter_spacing": "Tight",
+        "line_height": "1.2"
+      },
+      "hierarchy": ["H1 – Bold, playful, large scale", "H2 – Informative subheads", "Body – Clean and legible"]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible modular",
+      "white_space_ratio": "Balanced",
+      "image_vs_text_balance": "Visual-led",
+      "cta_placement": "Prominent, often accompanied by app icons",
+      "alignment": "Center-focused or grid-based for menu readability"
+    }
+  },
+
+  "photography": {
+    "style": {
+      "keywords": ["appetizing", "candid", "diverse", "joyful"],
+      "preferred_photographers": ["Commercial lifestyle specialists", "High-fidelity food stylists"],
+      "camera_feel": "Bright, approachable, capturing the 'moment of consumption'",
+      "pose_guidelines": "Natural interactions, genuine smiles, hand-focused product holding",
+      "casting_attitude": "Relatable, everyday people, authentic representation"
+    },
+    "technical": {
+      "lighting": "High-key, warm, natural simulation or popped studio strobe for food",
+      "contrast": "Medium-High",
+      "grain": "None (Clean digital)",
+      "depth_of_field": "Shallow for food (macro focus), Deep for lifestyle",
+      "color_grading": "Vibrant, saturated warm tones (yellows/reds/oranges)"
+    }
+  },
+
+  "campaign_guidelines": {
+    "visual_tone": ["Fun", "Vibrant", "Iconic"],
+    "preferred_locations": ["In-restaurant booths", "Drive-thru settings", "Living rooms", "Cars"],
+    "contexts": ["Shared meals", "Solo treats", "Late night runs", "Celebrations"],
+    "model_casting": {
+      "age_range": "Toddler to Senior",
+      "diversity": "Mandatory high diversity (race, age, style)",
+      "attitude": "Unpretentious happiness, anticipation of food"
+    },
+    "product_presentation": {
+      "hero_visibility": "Absolute center of attention",
+      "styling_approach": "Perfect build (melty cheese, condensation on cups, steam)",
+      "avoid": ["Messy eating visuals", "Unappetizing angles"]
+    },
+    "motion_rules": {
+      "pacing": "Upbeat, rhythmic cuts to audio",
+      "transitions": "Snap zooms, graphic slides matching the Arches geometry"
+    }
+  },
+
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": ["Highlight the texture of food", "Show the Golden Arches subtly or boldly"],
+      "visual_donts": ["Desaturated colors", "Dark/Mood lighting", "Abstract art direction"],
+      "copy_dos": ["Use 'fan truths'", "Keep it simple"],
+      "copy_donts": ["Over-explain ingredients", "Sound apologetic"]
+    },
+    "immutability": {
+      "must_remain": ["Golden Arches geometry", "Red & Gold dominance", "Jingle melody"],
+      "can_evolve": ["Packaging design", "Uniform styles", "Digital interface"],
+      "test_zone": ["Celebrity meals", "Merchandise collaborations", "Virtual worlds"]
+    }
+  },
+
+  "channel_expression": {
+    "retail": {
+      "materials": ["Light wood", "Yellow accents", "Digital kiosks"],
+      "interactive_elements": ["Self-order touchscreens", "Table service trackers"],
+      "soundscape": "Pop radio, upbeat background music"
+    },
+    "digital": {
+      "tone_adjustment": "Meme-centric on Twitter/X, Lifestyle on Instagram, Utility on App",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "70:30"
+      },
+      "platform_behavior": {
+        "Instagram": "User-generated content reposts, aesthetic food shots",
+        "Website": "Menu-first, promotion-heavy, clean navigation",
+        "Newsletter": "Deals-focused, loyalty program rewards"
+      }
+    },
+    "print": {
+      "paper": "Glossy for coupons, Matte for corporate reporting",
+      "cover_rules": "Iconic visual wit (e.g., Arches as fries), minimal text"
+    }
+  },
+
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": false,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": ["altering Arches proportions", "changing Arches color to anything but Gold (or White/Black in mono)"]
+  }
+}

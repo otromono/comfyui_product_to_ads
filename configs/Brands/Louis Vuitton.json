@@ -1,0 +1,263 @@
+{
+  "brand_info": {
+    "name": "Louis Vuitton",
+    "tagline": "",
+    "category": "Luxury fashion house / leather goods, ready-to-wear, accessories, jewelry, watches, perfumes",
+    "positioning": "A Parisian luxury Maison rooted in trunk-making and the art of travel, defined by exceptional craftsmanship, iconic codes (Monogram and Damier), and a global lifestyle universe spanning leather goods, fashion, and culture.",
+    "vision": "To continuously expand the Maison's heritage of travel, craftsmanship, and creative innovation into a complete luxury lifestyle, creating enduring icons that remain relevant across generations.",
+    "mission": "To create and craft exceptional products and experiences grounded in savoir-faire, innovation, and the art of travel, elevating everyday life through design, quality, and cultural dialogue.",
+    "origin_story": "Founded in 1854 in Paris by Louis Vuitton, who opened his first store at 4 Rue Neuve-des-Capucines near Place Vendome after years apprenticing as a master trunk-maker and packer. The Maison innovated travel trunks for a world on the move and built its artisanal heart in Asnieres-sur-Seine, where craftsmanship and innovation continue to be passed down."
+  },
+  "brand_values": {
+    "core_values": [
+      "Craftsmanship (savoir-faire)",
+      "Innovation",
+      "Travel heritage",
+      "Cultural creativity",
+      "Excellence"
+    ],
+    "brand_promise": "Every Louis Vuitton creation delivers unmistakable Maison codes with uncompromising craftsmanship and a sense of journey, making luxury feel both iconic and lived-in.",
+    "differentiators": [
+      "Heritage in trunk-making and travel innovation since 1854, with atelier culture anchored in Asnieres-sur-Seine",
+      "Iconic, globally recognized signature canvases and codes (Monogram, Damier) applied across categories",
+      "A lifestyle approach that merges fashion, travel, and cultural collaborations into a cohesive universe"
+    ],
+    "non_negotiables": [
+      "No dilution of craftsmanship, materials, or finishing quality",
+      "No off-brand logo treatments or altered typography for the Louis Vuitton wordmark",
+      "No generic stock-look visuals that erase the Maison's travel and icon-making identity"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-55",
+      "gender": "All genders",
+      "income_level": "Affluent to ultra-affluent; luxury aspirational segments for entry categories"
+    },
+    "psychographics": {
+      "lifestyle": "Globally mobile, culture-forward individuals who value icons, craftsmanship, and experiences. They travel for work and pleasure, collect objects with heritage, and engage with fashion as a lifestyle signal.",
+      "values": [
+        "Heritage with modernity",
+        "Status through icons",
+        "Design excellence",
+        "Experience and travel"
+      ],
+      "behavior": "Purchases are driven by signature codes, craftsmanship credibility, and campaign storytelling. High willingness to invest in hero leather goods, travel pieces, and seasonal fashion statements that still feel anchored in the Maison universe."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Iconic",
+      "Confident",
+      "Cultured",
+      "Adventurous"
+    ],
+    "communication_style": "Minimal copy, strong visual storytelling; declarative and assured rather than explanatory.",
+    "language_register": "Premium, international, editorial",
+    "preferred_structures": [
+      "Short, title-like phrases that suggest travel, craftsmanship, and modern culture",
+      "Proper-noun emphasis (Maison, heritage, atelier) with restrained messaging"
+    ],
+    "avoid": [
+      "Discount language",
+      "Overly technical product copy in ads",
+      "Excessively playful slang that undercuts luxury authority"
+    ],
+    "emotional_temperature": "Cool confidence with cinematic warmth; aspirational but not loud.",
+    "tone_dos": [
+      "Let images carry meaning; keep text sparse",
+      "Use cultural and journey cues to elevate product desire"
+    ],
+    "tone_donts": [
+      "Hard-sell CTAs",
+      "Crowded copy blocks",
+      "Over-promising or gimmicky claims"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "LOUIS VUITTON wordmark in uppercase with wide tracking, typically white on image or black on light backgrounds; the LV monogram used as a product code and emblem.",
+      "usage_rules": "Keep the wordmark perfectly horizontal, unwarped, high-contrast, and clean. Prefer centered placement across the frame or lower third with generous breathing room.",
+      "lockup_behavior": "Wordmark often appears alone without additional copy; it can overlay the subject but must remain highly legible.",
+      "safe_area": "Maintain clear space around the wordmark equal to at least the height of the letter 'O' to avoid visual crowding."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#7A5A3A",
+        "#C9A36A",
+        "#0E2A3A",
+        "#8D1F1F",
+        "#D9D2C3"
+      ],
+      "color_usage_rules": "Logo and typography are strictly monochrome. Image palettes oscillate between warm sunlit neutrals (sand, beige, honey, tobacco leather) and cool cinematic blues/greens, with occasional saturated accents (deep red) used as fashion or scenography anchors."
+    },
+    "typography": {
+      "primary_font": "Custom Louis Vuitton wordmark (uppercase, wide letterspacing)",
+      "secondary_font": "Clean modern sans-serif for functional UI (website, captions) when needed",
+      "weights": {
+        "headlines": "Regular to medium with wide tracking",
+        "body": "Light to regular, high legibility",
+        "captions": "Regular, minimal"
+      },
+      "spacing": {
+        "letter_spacing": "Wide tracking (approx. 0.12em to 0.20em feel)",
+        "line_height": "1.3 to 1.6 depending on format"
+      },
+      "hierarchy": [
+        "H1 - LOUIS VUITTON wordmark, centered, dominant",
+        "H2 - Minimal supporting line (rare), small, high-contrast",
+        "Body - Used sparingly; preference for near-zero copy"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Center-weighted editorial composition with strong negative space and horizon lines; asymmetric balance via subject placement",
+      "white_space_ratio": "High; backgrounds often simplified by shallow detail or atmospheric haze",
+      "image_vs_text_balance": "95:5 (image-led)",
+      "cta_placement": "Usually absent in campaign key visuals; when present, small and secondary",
+      "alignment": "Wordmark commonly centered horizontally across mid-frame or lower third"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "cinematic",
+        "travel narrative",
+        "icon-led",
+        "editorial",
+        "atmospheric"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "High-end fashion cinema stills: narrative moments, poised subjects, and objects as travel companions. Frames feel like a chapter from a journey rather than a studio product shot.",
+      "pose_guidelines": "Relaxed but deliberate: seated, leaning, walking, or paused mid-journey. Faces are often turned away or in profile, suggesting movement and introspection rather than direct engagement.",
+      "casting_attitude": "Global, diverse casting with confident composure. Expression ranges from calm to contemplative; attitude is self-possessed, never performative."
+    },
+    "technical": {
+      "lighting": "Naturalistic cinematic lighting: golden-hour sun, soft overcast diffusion, or controlled studio softness with atmospheric haze; occasional dramatic backlight silhouettes.",
+      "contrast": "Medium to high depending on scene; silhouettes and hard sun are used for graphic impact while preserving luxury texture.",
+      "grain": "Low to moderate; occasional filmic texture and haze for mood.",
+      "depth_of_field": "Moderate to shallow, with backgrounds softened to keep the subject and product readable.",
+      "color_grading": "Warm neutrals and honeyed highlights for travel scenes; muted greens/teals for studio moods; overall saturation controlled with selective accent color emphasis."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Journey and destination",
+      "Modern luxury with heritage codes",
+      "Cinematic atmosphere",
+      "Iconic object focus"
+    ],
+    "preferred_locations": [
+      "Coastal terraces and Mediterranean-style vistas",
+      "Transit and travel environments (trains, stations, boats, automobiles)",
+      "Minimalist architectural corridors and sculptural spaces",
+      "Studio vignettes featuring trunks and travel objects as set design"
+    ],
+    "contexts": [
+      "Travel as narrative: subjects in motion or between places, with luggage as an extension of identity",
+      "Icon objects staged as companions: bags and trunks integrated into the scene, not isolated",
+      "Atmospheric fashion tableaux: horizon lines, open skies, or controlled color fields that frame the subject"
+    ],
+    "model_casting": {
+      "age_range": "20-45",
+      "diversity": "High; global representation across skin tones and features",
+      "attitude": "Poised confidence, quiet charisma, and a sense of being mid-journey"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product is clearly visible and readable, either held naturally or staged prominently within the scene (often with trunks as set pieces).",
+      "styling_approach": "Elevated fashion silhouettes with tactile materials; styling supports narrative and brand codes rather than minimalism. Accessories and bags are central and intentional.",
+      "avoid": [
+        "Overcrowded props unrelated to travel or Maison codes",
+        "Overly literal product callouts",
+        "Cheap-looking textures or overly glossy artificial finishes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured, cinematic pacing; implied movement through posture and environment rather than action blur.",
+      "transitions": "Soft cuts and cinematic continuity; atmosphere and location changes feel like a journey chapter."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use the wordmark as the singular graphic element, large and clean",
+        "Build scenes around travel, movement, and iconic objects (bags, trunks)",
+        "Keep backgrounds atmospheric and simplified for brand legibility",
+        "Prioritize material realism: leather, canvas, metal hardware must read premium"
+      ],
+      "visual_donts": [
+        "Do not add extra typography blocks, badges, or promotional stickers",
+        "Do not distort the wordmark or reduce contrast",
+        "Do not use flat stock-photo lighting or generic lifestyle scenes without travel codes",
+        "Do not obscure the hero product with hands, cropping, or clutter"
+      ],
+      "copy_dos": [
+        "Keep copy minimal and elevated; let narrative come from image"
+      ],
+      "copy_donts": [
+        "No pricing, discounts, or aggressive imperative CTAs"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "LOUIS VUITTON wordmark integrity: uppercase, tracking, and clean rendering",
+        "Maison codes and craftsmanship credibility (premium materials, accurate hardware, precise construction)",
+        "Travel and icon-making narrative (objects as companions, not mere props)"
+      ],
+      "can_evolve": [
+        "Casting, cultural references, and contemporary styling provided the world remains luxurious and coherent",
+        "Location palette shifts (cool modernism vs warm travel) while preserving the cinematic language",
+        "Product category focus (fashion, leather goods, beauty) while keeping the same brand staging logic"
+      ],
+      "test_zone": [
+        "High-concept scenography and bold color fields as long as the product and wordmark remain dominant",
+        "New formats (social, vertical video) using the same minimal brand overlay and cinematic photography rules"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Polished stone, warm wood, and brushed metal accents",
+        "Leather and canvas textures as tactile cues",
+        "Museum-like display cases for icons"
+      ],
+      "interactive_elements": [
+        "Personalization stations and travel service touchpoints",
+        "Quiet digital storytelling screens for heritage and craft"
+      ],
+      "soundscape": "Subtle ambient music; calm, curated atmosphere with an art-gallery sensibility"
+    },
+    "digital": {
+      "tone_adjustment": "On website and socials, visuals stay dominant; copy is sparse and product-led. Social formats keep the wordmark presence strong and the narrative travel cue intact.",
+      "content_ratio": {
+        "campaign_vs_product": "70:30",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Cinematic frames, strong wordmark overlays in key visuals, travel and icon storytelling",
+        "Website": "Full-bleed imagery, minimal copy, editorial navigation to categories and heritage stories",
+        "Newsletter": "Hero image first, minimal lines of copy, product icons emphasized"
+      }
+    },
+    "print": {
+      "paper": "High-quality matte or semi-matte stock with rich blacks and controlled highlights",
+      "cover_rules": "Full-bleed photography with large centered wordmark; minimal additional text"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Warping, stretching, or applying effects to the LOUIS VUITTON wordmark",
+      "Placing the wordmark on low-contrast backgrounds that reduce legibility",
+      "Adding extra decorative typography, badges, or CTA blocks that compete with the wordmark"
+    ]
+  }
+}

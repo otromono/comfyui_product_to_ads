@@ -1,0 +1,265 @@
+{
+  "brand_info": {
+    "name": "Vichy Laboratoires",
+    "tagline": "Health Is Beautiful",
+    "category": "Dermocosmetics and skincare",
+    "positioning": "A dermocosmetic skincare brand positioned at the intersection of dermatological science and cosmetic care, rooted in thermal water expertise and developed in collaboration with health professionals.",
+    "vision": "To make skin health accessible to everyone through science-driven skincare solutions.",
+    "mission": "Develop safe, effective, and clinically tested skincare powered by Vichy volcanic thermal water and dermatological research.",
+    "origin_story": "Founded in 1931 in Vichy, France, Vichy Laboratoires was built around the discovery of the skin-strengthening properties of Vichy volcanic thermal water, establishing a science-led approach to skincare."
+  },
+  "brand_values": {
+    "core_values": [
+      "Scientific rigor",
+      "Skin health",
+      "Safety and tolerance",
+      "Clinical efficacy",
+      "Accessibility"
+    ],
+    "brand_promise": "Provide clinically proven skincare solutions that improve skin health over time.",
+    "differentiators": [
+      "Vichy volcanic thermal water as a core active ingredient.",
+      "Strong dermatological testing and clinical validation.",
+      "Positioning between pharmacy-grade care and cosmetic usability.",
+      "Broad portfolio addressing diverse skin needs."
+    ],
+    "non_negotiables": [
+      "Clinical validation of claims.",
+      "High safety and tolerance standards.",
+      "Clear, responsible communication.",
+      "No exaggerated or misleading promises."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-70",
+      "gender": "All",
+      "income_level": "Mass to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Consumers seeking effective, trustworthy skincare grounded in science and recommended by professionals.",
+      "values": [
+        "Skin health",
+        "Efficacy",
+        "Safety",
+        "Expert endorsement"
+      ],
+      "behavior": "Regular skincare routines, repeat purchase driven by perceived efficacy and dermatological credibility."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Expert",
+      "Reassuring",
+      "Clear",
+      "Responsible",
+      "Scientific"
+    ],
+    "communication_style": "Educational and evidence-based, balancing clinical authority with accessibility.",
+    "language_register": "Scientific / Dermatological / Informative",
+    "preferred_structures": [
+      "Problem-solution frameworks",
+      "Ingredient and benefit explanations",
+      "Clinical result summaries"
+    ],
+    "avoid": [
+      "Sensationalist beauty claims",
+      "Over-promising results",
+      "Lifestyle exaggeration"
+    ],
+    "emotional_temperature": "Calm confidence",
+    "tone_dos": [
+      "Explain benefits clearly",
+      "Reference testing and research",
+      "Reassure on safety"
+    ],
+    "tone_donts": [
+      "Emotional manipulation",
+      "Unsubstantiated claims",
+      "Comparisons with competitors"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Vichy Laboratoires wordmark.",
+      "usage_rules": "Maintain clarity and scientific authority; avoid decorative treatments.",
+      "lockup_behavior": "Wordmark typically paired with product visuals and scientific cues.",
+      "safe_area": "Minimum padding equal to the height of the logo cap height."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#009FE3",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#0A2A3A",
+        "#E6F3F9"
+      ],
+      "color_usage_rules": "Clean medical-inspired palette emphasizing freshness, purity, and trust."
+    },
+    "typography": {
+      "primary_font": "Clean modern sans-serif",
+      "secondary_font": "Functional sans-serif for clinical information",
+      "weights": {
+        "headlines": "Medium",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.01em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Medium sans",
+        "H2 – Regular",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured, modular grid",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Balanced between product and information",
+      "cta_placement": "Clear and functional",
+      "alignment": "Clean and orderly compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "clean",
+        "clinical",
+        "trustworthy",
+        "fresh",
+        "minimal"
+      ],
+      "preferred_photographers": [
+        "Beauty and clinical product photographers"
+      ],
+      "camera_feel": "Clear, precise imagery emphasizing texture, application, and product clarity.",
+      "pose_guidelines": "Natural, calm expressions; focus on healthy skin.",
+      "casting_attitude": "Neutral, credible, and diverse."
+    },
+    "technical": {
+      "lighting": "Soft, even lighting.",
+      "contrast": "Low to medium.",
+      "grain": "None.",
+      "depth_of_field": "Moderate, product and skin in focus.",
+      "color_grading": "Neutral and true-to-life."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Scientific credibility",
+      "Skin health focus",
+      "Clarity and reassurance",
+      "Modern dermatology"
+    ],
+    "preferred_locations": [
+      "Clinical-inspired studios",
+      "Clean domestic environments"
+    ],
+    "contexts": [
+      "Routine skincare",
+      "Dermatological solutions",
+      "Preventive skin health"
+    ],
+    "model_casting": {
+      "age_range": "18–70",
+      "diversity": "Broad and inclusive",
+      "attitude": "Calm, confident, and natural"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product and ingredient clarity prioritized.",
+      "styling_approach": "Minimal and clinical.",
+      "avoid": [
+        "Over-stylized beauty imagery",
+        "Luxury excess cues"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured and informative.",
+      "transitions": "Clean fades and explanatory motion."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use clean, clinical aesthetics",
+        "Show real skin textures",
+        "Highlight product efficacy cues"
+      ],
+      "visual_donts": [
+        "Heavy retouching",
+        "Overly glamorous styling"
+      ],
+      "copy_dos": [
+        "Be precise and educational",
+        "Support claims with testing language",
+        "Maintain reassuring tone"
+      ],
+      "copy_donts": [
+        "Miracle claims",
+        "Fear-based messaging",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Science-led positioning",
+        "Dermatological credibility",
+        "Thermal water heritage"
+      ],
+      "can_evolve": [
+        "Sustainability messaging",
+        "Digital diagnostics",
+        "Personalized skincare"
+      ],
+      "test_zone": [
+        "New active ingredient technologies",
+        "Digital skin analysis tools"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Pharmacy displays",
+        "Educational POS materials"
+      ],
+      "interactive_elements": [
+        "Skin diagnostics",
+        "Expert recommendations"
+      ],
+      "soundscape": "Neutral and professional"
+    },
+    "digital": {
+      "tone_adjustment": "Educational and reassuring",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "35:65"
+      },
+      "platform_behavior": {
+        "Instagram": "Routine education and product highlights",
+        "Website": "Clinical data, routines, and product education",
+        "Newsletter": "Skin health guidance and launches"
+      }
+    },
+    "print": {
+      "paper": "Matte or lightly coated stock",
+      "cover_rules": "Clean layouts with product focus"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Decorative logo effects",
+      "Low-contrast placement",
+      "Crowded layouts"
+    ]
+  }
+}

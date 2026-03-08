@@ -1,0 +1,259 @@
+{
+  "brand_info": {
+    "name": "Armani Exchange (A|X)",
+    "tagline": "New Energy. Same Spirit.",
+    "category": "Fashion",
+    "positioning": "Contemporary, urban fashion with a youthful, energetic attitude rooted in the Armani aesthetic, positioned between lifestyle streetwear and accessible designer fashion.",
+    "vision": "Express a modern, dynamic interpretation of Armani values through inclusivity, energy and urban relevance.",
+    "mission": "Deliver versatile, trend-aware essentials and statement pieces that reflect confidence, movement and a global urban lifestyle.",
+    "origin_story": "Founded in 1991 by Giorgio Armani, Armani Exchange was conceived as a youthful, urban-focused line inspired by street culture and the energy of major global cities, starting from New York."
+  },
+
+  "brand_values": {
+    "core_values": [
+      "Energy",
+      "Youthfulness",
+      "Inclusivity",
+      "Urban confidence",
+      "Accessibility"
+    ],
+    "brand_promise": "A bold, modern wardrobe that channels Armani style into an energetic, inclusive and contemporary urban language.",
+    "differentiators": [
+      "Strong graphic identity centered on the A|X logo",
+      "Fusion of streetwear, sport and sensual minimalism",
+      "High-energy campaigns with physicality and movement"
+    ],
+    "non_negotiables": [
+      "Strong logo presence",
+      "Clear urban attitude",
+      "Avoidance of classic luxury formality"
+    ]
+  },
+
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-35",
+      "gender": "All",
+      "income_level": "Medium / Accessible fashion consumer"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, active, socially expressive, trend-aware",
+      "values": [
+        "Self-expression",
+        "Confidence",
+        "Belonging",
+        "Contemporary culture"
+      ],
+      "behavior": "Engages with fashion as identity, favors bold visuals and recognizable branding"
+    }
+  },
+
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Confident",
+      "Energetic",
+      "Provocative"
+    ],
+    "communication_style": "Direct, visual-first and slogan-driven",
+    "language_register": "Informal-modern",
+    "preferred_structures": [
+      "Short declarative statements",
+      "Taglines paired with strong imagery"
+    ],
+    "avoid": [
+      "Overly poetic language",
+      "Luxury elitism",
+      "Subtle understatement"
+    ],
+    "emotional_temperature": "High-energy",
+    "tone_dos": [
+      "Emphasize movement and physicality",
+      "Use assertive, simple messaging"
+    ],
+    "tone_donts": [
+      "Long-form copy",
+      "Abstract or intellectual phrasing"
+    ]
+  },
+
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "A|X logotype with vertical divider",
+      "usage_rules": "Frequently large-scale and graphic, used as a compositional element",
+      "lockup_behavior": "Often paired with full brand name underneath or nearby",
+      "safe_area": "Minimal clear space, logo can interact with subjects and backgrounds"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#FF7A00",
+        "#B11226",
+        "#1F2A44"
+      ],
+      "color_usage_rules": "High-contrast palettes with occasional bold color fields or accents"
+    },
+    "typography": {
+      "primary_font": "High-contrast serif logotype",
+      "secondary_font": "Modern sans-serif for supporting text",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Light"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to normal",
+        "line_height": "Compact"
+      },
+      "hierarchy": [
+        "Logo or slogan as primary focus",
+        "Secondary descriptive text minimal or absent"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Loose editorial grid",
+      "white_space_ratio": "Variable, often reduced",
+      "image_vs_text_balance": "Strongly image-led",
+      "cta_placement": "Secondary or absent",
+      "alignment": "Dynamic, sometimes off-center"
+    }
+  },
+
+  "photography": {
+    "style": {
+      "keywords": [
+        "Urban",
+        "High-contrast",
+        "Graphic",
+        "Sensual",
+        "Energetic"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Direct, confrontational, fashion-forward",
+      "pose_guidelines": "Expressive, physical, leaning, twisting or in motion",
+      "casting_attitude": "Confident, youthful, unapologetic"
+    },
+    "technical": {
+      "lighting": "Hard studio light or strong natural light",
+      "contrast": "High",
+      "grain": "Minimal",
+      "depth_of_field": "Medium to shallow",
+      "color_grading": "Clean with strong contrast or bold color backgrounds"
+    }
+  },
+
+  "campaign_guidelines": {
+    "visual_tone": [
+      "High energy",
+      "Bold",
+      "Youth-driven",
+      "Graphic"
+    ],
+    "preferred_locations": [
+      "Studio sets",
+      "Urban backdrops",
+      "Minimal architectural spaces"
+    ],
+    "contexts": [
+      "Physical movement",
+      "Street-inspired attitudes",
+      "Body-centric compositions"
+    ],
+    "model_casting": {
+      "age_range": "18-35",
+      "diversity": "Clearly visible and intentional",
+      "attitude": "Assertive, expressive, confident"
+    },
+    "product_presentation": {
+      "hero_visibility": "Strong and explicit",
+      "styling_approach": "Sport-infused, body-aware, logo-visible",
+      "avoid": [
+        "Overly classic styling",
+        "Romantic or nostalgic moods"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast or punchy",
+      "transitions": "Hard cuts or graphic transitions"
+    }
+  },
+
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use bold poses",
+        "Emphasize logo and body language"
+      ],
+      "visual_donts": [
+        "Muted imagery",
+        "Low-energy compositions"
+      ],
+      "copy_dos": [
+        "Short impactful phrases"
+      ],
+      "copy_donts": [
+        "Verbose explanations"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "A|X logo prominence",
+        "Urban youthful energy"
+      ],
+      "can_evolve": [
+        "Color accents",
+        "Casting styles"
+      ],
+      "test_zone": [
+        "Experimental studio sets",
+        "Graphic logo treatments"
+      ]
+    }
+  },
+
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Concrete",
+        "Black metal",
+        "Glossy surfaces"
+      ],
+      "interactive_elements": [
+        "Large-scale visuals",
+        "Digital screens"
+      ],
+      "soundscape": "Contemporary electronic or pop beats"
+    },
+    "digital": {
+      "tone_adjustment": "More playful and immediate",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "High-impact visuals with minimal copy",
+        "Website": "Bold hero imagery with clear product focus",
+        "Newsletter": "Image-led with short headlines"
+      }
+    },
+    "print": {
+      "paper": "Standard coated stock",
+      "cover_rules": "Strong imagery with prominent logo"
+    }
+  },
+
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Low-contrast logo placement",
+      "Logo reduced to marginal size"
+    ]
+  }
+}

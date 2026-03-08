@@ -1,0 +1,272 @@
+{
+  "brand_info": {
+    "name": "ASICS",
+    "tagline": "Sound Mind, Sound Body",
+    "category": "Sportswear / Performance Footwear and Apparel",
+    "positioning": "Performance sports brand rooted in sports science and human-centric innovation, focused on running and athletic movement to improve physical and mental well-being.",
+    "vision": "To uplift the world through sport by improving physical and mental well-being.",
+    "mission": "To provide innovative, high-quality performance products inspired by sports science and designed to support a sound mind in a sound body.",
+    "origin_story": "Founded in 1949 in Kobe, Japan by Kihachiro Onitsuka as Onitsuka Co., Ltd., with the goal of helping Japanese youth rebuild post-war society through sport; later evolved into ASICS, an acronym of the Latin phrase 'Anima Sana In Corpore Sano'."
+  },
+  "brand_values": {
+    "core_values": [
+      "Sports science",
+      "Human-centric design",
+      "Integrity",
+      "Performance",
+      "Well-being",
+      "Continuous improvement"
+    ],
+    "brand_promise": "Scientifically engineered footwear and apparel that enhance athletic performance while supporting long-term physical and mental health.",
+    "differentiators": [
+      "Deep integration of biomechanics and sports science research",
+      "Strong credibility in running and endurance sports",
+      "Balanced focus on performance, injury prevention, and mental well-being"
+    ],
+    "non_negotiables": [
+      "Scientific credibility and research-backed claims",
+      "Athlete and runner well-being over pure aesthetics",
+      "Functional authenticity across all sports categories"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to mature athletes",
+      "gender": "All",
+      "income_level": "Mass premium / performance consumer"
+    },
+    "psychographics": {
+      "lifestyle": "People who train consistently, value long-term health, and approach sport as a disciplined, mindful practice",
+      "values": [
+        "Health",
+        "Balance",
+        "Consistency",
+        "Performance",
+        "Injury prevention"
+      ],
+      "behavior": "Invests in research-driven footwear and apparel, seeks expert validation, repeats purchases within trusted franchises, prioritizes comfort and biomechanics"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Trustworthy",
+      "Calm",
+      "Expert",
+      "Supportive",
+      "Focused"
+    ],
+    "communication_style": "Educational and performance-led with clear explanations grounded in science and athlete insight",
+    "language_register": "Professional, precise, reassuring",
+    "preferred_structures": [
+      "Clear benefit statements",
+      "Science-backed explanations",
+      "Athlete insight and testing cues"
+    ],
+    "avoid": [
+      "Aggressive hype",
+      "Unsubstantiated claims",
+      "Overly dramatic motivational language"
+    ],
+    "emotional_temperature": "Calm-confident",
+    "tone_dos": [
+      "Explain the why behind performance",
+      "Highlight physical and mental benefits",
+      "Maintain credibility and clarity"
+    ],
+    "tone_donts": [
+      "Overstimulation",
+      "Shallow inspiration without substance",
+      "Fashion-first language that undermines performance trust"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "ASICS logotype with signature curved stripe symbol",
+      "usage_rules": "Maintain clear space and legibility; never distort or apply decorative effects",
+      "lockup_behavior": "Often placed cleanly as an end-card or discreet corner signature",
+      "safe_area": "Minimum padding equals the height of the ASICS wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#003A8F",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#00A6E2",
+        "#1A1A1A",
+        "#B0B7C3"
+      ],
+      "color_usage_rules": "Blue-forward system communicating trust and performance; accent colors used sparingly to support product visibility"
+    },
+    "typography": {
+      "primary_font": "Clean modern sans-serif with technical clarity",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral for clarity",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Medium/Bold sans-serif",
+        "H2 – Medium sans-serif",
+        "Body – Regular sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured, rational grid",
+      "white_space_ratio": "Moderate to generous",
+      "image_vs_text_balance": "Image-led with clear informational overlays when needed",
+      "cta_placement": "Lower area or end-card",
+      "alignment": "Clean, disciplined alignment favoring clarity and balance"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "focused",
+        "natural",
+        "technical",
+        "calm energy",
+        "movement-driven"
+      ],
+      "preferred_photographers": [
+        "Varies by discipline; consistent performance and running-focused language"
+      ],
+      "camera_feel": "Controlled realism emphasizing form, stride, and biomechanics",
+      "pose_guidelines": "Running and sport-specific movement; efficient posture; moments of flow and concentration",
+      "casting_attitude": "Real athletes and runners; composed, determined, grounded"
+    },
+    "technical": {
+      "lighting": "Natural daylight or soft directional light",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Medium to shallow to isolate athlete while maintaining context",
+      "color_grading": "Natural, cool-balanced tones with accurate material rendering"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Scientific confidence",
+      "Balanced performance",
+      "Mental and physical harmony"
+    ],
+    "preferred_locations": [
+      "Running tracks",
+      "Urban routes",
+      "Natural landscapes",
+      "Minimal studio environments"
+    ],
+    "contexts": [
+      "Training runs",
+      "Pre-race focus",
+      "Recovery and stretching",
+      "Technique refinement"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to mature athletes",
+      "diversity": "High; inclusive and representative",
+      "attitude": "Calm, focused, disciplined"
+    },
+    "product_presentation": {
+      "hero_visibility": "Footwear geometry, cushioning systems, and fit must be clearly readable",
+      "styling_approach": "Sport-correct apparel; minimal styling interference",
+      "avoid": [
+        "Overly dramatic staging",
+        "Fashion-led distortion of performance context",
+        "Visual clutter obscuring biomechanics"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured, rhythmic movement",
+      "transitions": "Clean cuts and slow-motion inserts to highlight mechanics when appropriate"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show natural running mechanics",
+        "Maintain scientific credibility in visuals",
+        "Use clean environments that support analysis of movement"
+      ],
+      "visual_donts": [
+        "Excessive dramatization",
+        "Unrealistic athletic depiction",
+        "Chaotic compositions"
+      ],
+      "copy_dos": [
+        "Use precise, research-aligned language",
+        "Communicate benefits clearly",
+        "Reinforce mind-body connection"
+      ],
+      "copy_donts": [
+        "Hype-driven slogans without substance",
+        "Overly emotional language",
+        "Vague performance claims"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Sound Mind, Sound Body philosophy",
+        "Scientific and biomechanical credibility",
+        "ASICS visual discipline"
+      ],
+      "can_evolve": [
+        "Digital training integrations",
+        "Sustainability storytelling",
+        "Athlete narratives by discipline"
+      ],
+      "test_zone": [
+        "Emerging sport categories",
+        "Mindfulness and recovery initiatives",
+        "Technology-enhanced running experiences"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Light neutrals with blue accents",
+        "Technical displays",
+        "Clean wood or composite surfaces"
+      ],
+      "interactive_elements": [
+        "Gait analysis zones",
+        "Product comparison tools",
+        "Educational science panels"
+      ],
+      "soundscape": "Calm, focused retail ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational and technical online; calm motivational cues on social",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Running motion, athlete routines, calm performance visuals",
+        "Website": "Science-led product pages with clear explanations and fit guidance",
+        "Newsletter": "Training insights, product innovation stories, athlete research highlights"
+      }
+    },
+    "print": {
+      "paper": "Clean commercial stock with neutral finish",
+      "cover_rules": "Athlete-in-motion or product detail with restrained copy and clear ASICS mark"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorted logo proportions",
+      "Low-contrast logo placement",
+      "Decorative effects applied to the ASICS mark"
+    ]
+  }
+}

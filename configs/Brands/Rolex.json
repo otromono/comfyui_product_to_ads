@@ -1,0 +1,172 @@
+{
+  "brand": {
+    "name": "Rolex",
+    "legal_entity": "RoleX SA (watch brand); privately owned by the Hans Wilsdorf Foundation",
+    "founded": {
+      "year": 1905,
+      "founder": [
+        "Hans Wilsdorf"
+      ],
+      "founding_context": "Founded in London as a company specializing in the distribution of timepieces; later evolved into the Rolex brand and manufacture."
+    },
+    "hq": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "official_positioning_statements": [
+      "Quest for excellence in watchmaking with focus on reliability, performance, and durability.",
+      "Perpetual spirit: long-term view, continuous improvement, and contribution to future generations."
+    ],
+    "official_vision_sustainability": "Rolex states it is a responsible and committed manufacturer of sustainable products and takes tangible action to promote sustainability.",
+    "official_mission_sustainability": "Rolex mission as a responsible company is to place high quality standards, innovation, and excellence at the heart of sustainability commitments across decisions and actions, and to continue designing and manufacturing watches of exceptional quality that stand the test of time.",
+    "official_taglines_and_key_lines": [
+      "Reach for the crown",
+      "Perpetual",
+      "Superlative Chronometer Officially Certified"
+    ],
+    "official_sources": [
+      "https://www.rolex.com/about-rolex/history/1905-1919",
+      "https://www.rolex.com/about-rolex/sustainable-development/vision",
+      "https://www.rolex.com/about-rolex/sustainable-development/sustainability-report",
+      "https://www.rolex.com/watchmaking/excellence-in-the-making",
+      "https://www.rolex.com/rolex-family",
+      "https://www.rolex.org/perpetual/built-to-last"
+    ]
+  },
+  "phase_1_1_researched_campaigns": {
+    "selection_criteria": "High-recognition global campaigns, long-running platform lines, and pillar initiatives that repeatedly appear in official brand communications and creative work across categories.",
+    "campaigns": [
+      {
+        "name": "Reach for the crown",
+        "type": "Brand platform line and film/print campaign family",
+        "signal": "Human achievement narrative across sports, arts, exploration; Testimonee centered.",
+        "official_reference": "https://www.rolex.com/rolex-family"
+      },
+      {
+        "name": "Rolex Testimonee and The Rolex Family",
+        "type": "Endorsement system and content hub",
+        "signal": "Selective testimonials, achievement-led casting; cross-discipline credibility.",
+        "official_reference": "https://www.rolex.com/rolex-family"
+      },
+      {
+        "name": "Perpetual Planet Initiative",
+        "type": "Purpose and initiative campaign ecosystem",
+        "signal": "Exploration and planet stewardship; science and conservation support.",
+        "official_reference": "https://www.rolex.com/perpetual-initiatives/perpetual-planet"
+      },
+      {
+        "name": "Perpetual Arts Initiative",
+        "type": "Purpose and initiative campaign ecosystem",
+        "signal": "Long-term support of arts and culture; mentorship and institutions.",
+        "official_reference": "https://www.rolex.com/perpetual-initiatives"
+      },
+      {
+        "name": "Rolex Awards for Enterprise",
+        "type": "Program campaign platform",
+        "signal": "Innovation and impact; entrepreneurial problem-solving.",
+        "official_reference": "https://www.rolex.org/rolex-awards"
+      },
+      {
+        "name": "Rolex Mentor and Protégé Arts Initiative",
+        "type": "Program campaign platform",
+        "signal": "Intergenerational knowledge transfer; craft and excellence.",
+        "official_reference": "https://www.rolex.org/arts/rolex-mentor-protege"
+      },
+      {
+        "name": "Rolex and Rolex World Service",
+        "type": "Brand trust and after-sales promise",
+        "signal": "Longevity, serviceability, precision, certified quality.",
+        "official_reference": "https://newsroom.rolex.com/about-rolex/rolex-world-service"
+      },
+      {
+        "name": "Rolex and major sporting partnerships",
+        "type": "Sponsorship and timekeeping platform used as advertising backdrop",
+        "signal": "Authority via official timekeeper role; high-stakes performance contexts.",
+        "official_reference": "https://www.rolex.com/world-of-rolex"
+      },
+      {
+        "name": "Making history with Rolex",
+        "type": "Historical proof-point storytelling series",
+        "signal": "Archive-driven narratives of records, discovery, and endurance.",
+        "official_reference": "https://www.rolex.org/perpetual/making-history-with-rolex"
+      },
+      {
+        "name": "Perpetual spirit, built to last",
+        "type": "Corporate brand narrative platform",
+        "signal": "Long-term view, durability, contribution to future generations.",
+        "official_reference": "https://www.rolex.org/perpetual/built-to-last"
+      }
+    ]
+  },
+  "visual_corpus_user_images": {
+    "count_received": 8,
+    "shared_characteristics": {
+      "primary_story_engine": "Achievement and defining moments presented as calm, authoritative hero narratives.",
+      "composition_archetypes": [
+        "Hero subject in a real environment with implied motion, wind, effort, or focus; watch present as packshot and on-wrist proof.",
+        "Sport or exploration context with documentary cues; stadium, ocean, airfield, underwater, stage.",
+        "Single product hero on fabric or atmospheric background with headline centered."
+      ],
+      "layout_behavior": {
+        "footer_band": "Frequent deep green or near-black band at the bottom used as brand base; contains watch packshot, model line, and crown-wordmark lockup.",
+        "logo_positioning": "Crown and ROLEX wordmark typically bottom-right; secondary crown sometimes top-center on minimal layouts.",
+        "typography_hierarchy": "One dominant uppercase headline, widely tracked; secondary copy in smaller caps or sentence case; long-form body copy appears on heritage-style executions."
+      },
+      "color_and_light": {
+        "palette": "Neutral cinematic tones with controlled saturation; signature Rolex green as a structural UI color; warm highlights on metals; oceanic blues in exploration variants.",
+        "lighting": "Soft natural light for lifestyle and heritage; dramatic high-contrast practical light for motorsport and night scenes; crisp speculars on watch metal."
+      },
+      "casting_pose_physicality": {
+        "casting": "Recognizable achievers or aspirational archetypes; poised and self-possessed; rarely playful.",
+        "pose_language": "Focused gaze off-camera or into distance; hands engaged with task or self-stabilizing gesture; minimal smiling."
+      },
+      "product_behavior": {
+        "watch_presence": "Always legible, polished packshot; often paired with on-wrist wear to prove authenticity and fit; bracelet and bezel reflections matched to scene mood.",
+        "scale_and_placement": "Packshot large enough to read dial; anchored near bottom-left or bottom-center; never crowded by other objects."
+      }
+    }
+  },
+  "brand_behavior_rules_for_generation": {
+    "narrative_rules": [
+      "Anchor every visual in a credible human or environmental proof-point of excellence, endurance, precision, or mastery.",
+      "Prefer calm confidence over overt hype; tension comes from stakes, not from exaggerated expressions.",
+      "Use long-term, timeless cues; avoid trend-driven props or slang-like copy."
+    ],
+    "visual_rules": {
+      "environment_preferences": [
+        "Coastal rocks and open horizons, early morning or late afternoon light",
+        "Heritage sport venues and grandstands, dusk or night with practical lights",
+        "High-altitude or aviation contexts with minimal clutter",
+        "Underwater exploration scenes with particulate depth and blue-green attenuation",
+        "Black or deep green studio-like atmospherics with fabric or smoke-like textures"
+      ],
+      "camera_and_framing": [
+        "Mid to close framing for human hero, with negative space reserved for headline and logo",
+        "Low-angle or three-quarter perspectives to signal stature and resolve",
+        "Avoid busy wide crowd scenes unless the venue itself is the proof-point",
+        "Maintain a clean product packshot zone with controlled contrast"
+      ],
+      "lighting_and_contrast": [
+        "Soft, directional daylight for elegance; avoid harsh midday overhead shadows in lifestyle",
+        "Night scenes use practical sources and rim separation, with controlled bloom",
+        "Product highlights should be crisp and premium; no plastic-like shine"
+      ],
+      "color_logic": [
+        "Use Rolex green as a base band or accent, not as an all-over tint",
+        "Metals read warm and tactile; blacks retain detail, not crushed",
+        "Skin tones natural and restrained; avoid heavy grading that shifts realism"
+      ],
+      "typography_and_layout": {
+        "headline_style": "Uppercase, generous tracking, centered or left-aligned depending on image negative space; short imperative or declarative lines.",
+        "body_copy_style": "If present, concise and factual, describing pressure, discipline, time, and craft; avoid humor.",
+        "logo_lockup": "Crown above ROLEX wordmark; keep clear space; place bottom-right on band or top-center on minimalist executions."
+      }
+    },
+    "do_not_do": [
+      "Do not use overt futurism, neon aesthetics, or meme-like compositions.",
+      "Do not make the watch secondary or partially obscured; dial and case must be readable in packshot.",
+      "Do not introduce chaotic collage, torn-paper graphics, or loud patterns.",
+      "Do not imply discounting, urgency sales language, or price messaging."
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "brand_info": {
+    "name": "Toyota Motor Corporation citeturn0search4",
+    "tagline": "Let’s Go Places citeturn0search3turn0search7",
+    "category": "Automotive / Mobility citeturn0search2turn0search5",
+    "positioning": "Global automotive and mobility company positioned around reliable, high-quality vehicles and expanding mobility solutions, with a public transition narrative from automotive manufacturer to mobility company. citeturn0search2turn0search5",
+    "vision": "Transform from an automotive company to a mobility company to enable mobility for all, as communicated in global corporate initiatives and sustainability framing. citeturn0search2turn2image11turn0search5",
+    "mission": "Produce happiness for all. citeturn0search1turn0search5",
+    "origin_story": "Founded in Japan and incorporated on August 28, 1937; developed from the Toyoda Automatic Loom Works automobile efforts and the broader Toyoda industrial lineage. citeturn0search4turn0search8"
+  },
+  "brand_values": {
+    "core_values": [
+      "Quality",
+      "Continuous improvement (kaizen)",
+      "Respect for people",
+      "Safety and responsibility",
+      "Inclusivity through mobility"
+    ],
+    "brand_promise": "Dependable mobility that supports everyday life and enables progress, expressed through practical innovation and broad accessibility. citeturn0search2turn0search3",
+    "differentiators": [
+      "Scale and global reach of product portfolio",
+      "Long-term focus on manufacturing excellence and process discipline",
+      "Hybrid leadership and multi-path technology narrative",
+      "Mobility-for-all framing across corporate communications"
+    ],
+    "non_negotiables": [
+      "No distortion of the Toyota emblem or wordmark",
+      "No unsafe driving depictions",
+      "No claims that conflict with official safety and sustainability communications",
+      "No use of counterfeit or misleading product representations"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Broad mass-market adult range (varies by model line and region)",
+      "gender": "All",
+      "income_level": "Mass market to premium mainstream (varies by segment and region)"
+    },
+    "psychographics": {
+      "lifestyle": "Pragmatic, family and commuter-oriented lifestyles; outdoors and activity-oriented subsets depending on model line",
+      "values": [
+        "Reliability",
+        "Safety",
+        "Value retention",
+        "Low ownership anxiety",
+        "Progress and possibility"
+      ],
+      "behavior": "High consideration purchases supported by reputation, dealer experience, and long-term ownership expectations."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Optimistic",
+      "Confident",
+      "Human",
+      "Practical"
+    ],
+    "communication_style": "Clear, forward-looking, invitation-led; balances emotional aspiration with product evidence. citeturn2image2turn0search3",
+    "language_register": "Accessible",
+    "preferred_structures": [
+      "Short motivational lines",
+      "Outcome-focused statements",
+      "Human story plus proof-point structure"
+    ],
+    "avoid": [
+      "Overclaiming",
+      "Technical jargon without benefit framing",
+      "Aggressive superiority language"
+    ],
+    "emotional_temperature": "Warm-neutral to uplifting",
+    "tone_dos": [
+      "Connect mobility to people and community outcomes",
+      "Pair inspiration with tangible features or services when relevant"
+    ],
+    "tone_donts": [
+      "Cynical humor that undermines trust",
+      "Fear-based messaging",
+      "Competitor call-outs"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Toyota emblem (three overlapping ovals) with TOYOTA wordmark in red in many market executions; emblem usage varies by region and touchpoint. citeturn2image1turn2image5",
+      "usage_rules": "Logo remains clean, unobstructed, and placed with clear space; avoid placing over high-frequency textures or critical subject faces.",
+      "lockup_behavior": "Often top-left or top-right for OOH and print; bottom-corner or end-card anchoring for video; consistent red brand presence when used. citeturn2image1turn2image5",
+      "safe_area": "Maintain clear space around emblem/wordmark equal to at least the height of the 'T' in TOYOTA on all sides."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#EB0A1E",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#1A1A1A",
+        "#6B6B6B",
+        "#D9D9D9"
+      ],
+      "color_usage_rules": "Use Toyota red as the primary brand anchor for logo and key brand accents; backgrounds typically neutral, natural, or environment-derived to support realism and trust. citeturn2image1turn2image5"
+    },
+    "typography": {
+      "primary_font": "Clean geometric sans-serif system (regional variations across markets and platforms)",
+      "secondary_font": "Humanist sans-serif for longer copy blocks when needed",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular or Medium"
+      },
+      "spacing": {
+        "letter_spacing": "Slightly open for headlines; neutral for body",
+        "line_height": "1.3–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans-serif",
+        "H2 – Medium sans-serif",
+        "Body – Regular sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular grid optimized for OOH, print, and responsive digital placements",
+      "white_space_ratio": "Moderate to generous depending on placement; emphasis on legibility and brand clarity",
+      "image_vs_text_balance": "Image-led with concise headline or line; end-card carries structured information in video",
+      "cta_placement": "Lower third or end-card; minimal CTAs in premium brand spots, stronger CTAs in retail and event creative",
+      "alignment": "Clean, left-aligned information blocks with consistent margins; occasional centered hero framing for emotional storytelling"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "real-world",
+        "human-centric",
+        "optimistic",
+        "credible",
+        "lifestyle"
+      ],
+      "preferred_photographers": [
+        "Varies by market and agency partners; not fixed as a single signature author"
+      ],
+      "camera_feel": "Cinematic realism with grounded environments; aspirational but believable everyday mobility scenes. citeturn2image2turn0search3",
+      "pose_guidelines": "Natural movement and purposeful actions; people interact with vehicles and environments as functional tools, not as props.",
+      "casting_attitude": "Inclusive casting across ages and abilities in mobility narratives; confident but approachable. citeturn2image2turn0search2"
+    },
+    "technical": {
+      "lighting": "Natural daylight and golden-hour exterior lighting are common; controlled studio lighting for product detail and end-card moments depending on campaign type. citeturn2image5turn2image1",
+      "contrast": "Low to medium for lifestyle warmth; higher contrast for night, performance, or hero product emphasis",
+      "grain": "Low to subtle filmic texture depending on campaign",
+      "depth_of_field": "Moderate; subject and vehicle clarity prioritized while retaining environmental depth",
+      "color_grading": "Naturalistic with warm highlights; Toyota red used as accent anchor when present. citeturn2image5turn2image1"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Trust and credibility",
+      "Optimistic forward motion",
+      "Human possibility and inclusion",
+      "Everyday adventure and discovery"
+    ],
+    "preferred_locations": [
+      "Open roads and scenic overlooks for travel narratives",
+      "Suburban and urban everyday contexts for commuter and family narratives",
+      "Stadium and sport-adjacent contexts for Olympic and Paralympic storytelling"
+    ],
+    "contexts": [
+      "Mobility as enablement (access, inclusion, community) via global 'Start Your Impossible' platform citeturn0search2turn2image11",
+      "Family practicality and character-led humor in long-running retail narratives such as 'Jan' citeturn1search4turn1search1",
+      "Adventure travel framing aligned with the 'Let’s Go Places' line citeturn0search3turn2image5",
+      "Celebratory mass-audience positioning in iconic regional platforms such as 'Oh What a Feeling' citeturn1search11",
+      "Culture and shareability in digital-first executions such as 'Swagger Wagon' citeturn1search6turn1search9"
+    ],
+    "model_casting": {
+      "age_range": "Broad: families, commuters, and athletes depending on campaign",
+      "diversity": "High; inclusive representation including Paralympic narratives in global corporate campaigns. citeturn0search2turn2image7",
+      "attitude": "Approachable confidence; determination and resilience for athlete-led narratives. citeturn0search2turn2image2"
+    },
+    "product_presentation": {
+      "hero_visibility": "Vehicle remains clearly identifiable with readable emblem cues; hero shots frequently include a 3/4 exterior view or road-in-context framing. citeturn2image1turn2image5",
+      "styling_approach": "Functional realism: vehicles appear used in context, clean but not overly stylized; props support purpose (travel gear, family items, sport equipment).",
+      "avoid": [
+        "Unrealistic reflections or paint color shifts",
+        "Excessive visual effects that reduce credibility",
+        "Overly abstract sets that detach from real-world mobility"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Steady forward motion; measured editing; moments of human emotion anchored by purposeful movement. citeturn0search2turn2image2",
+      "transitions": "Clean cuts; occasional match-cuts between people and vehicle capability; end-card lockups for clarity."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Keep the vehicle proportionally accurate and realistic",
+        "Use environments that communicate purpose (commute, travel, family, sport, community)",
+        "Maintain clear brand sign-off and legible logo placement"
+      ],
+      "visual_donts": [
+        "Overly stylized CGI looks that break realism without explicit campaign intent",
+        "Unclear or hidden brand identification",
+        "Unsafe or illegal driving depictions"
+      ],
+      "copy_dos": [
+        "Use short, motivating lines consistent with 'Let’s Go Places' and global mobility narratives citeturn0search3turn0search2",
+        "Support claims with features, proof points, or program context when needed"
+      ],
+      "copy_donts": [
+        "Overpromising beyond official statements",
+        "Dense paragraphs in premium brand placements",
+        "Comparative or derogatory competitor language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Toyota emblem and wordmark integrity",
+        "Trust-first realism and clarity",
+        "Human-centric mobility framing"
+      ],
+      "can_evolve": [
+        "Specific campaign tone from humorous retail to inspirational corporate",
+        "Casting approach by market and model line",
+        "Environmental palette and setting by vehicle segment"
+      ],
+      "test_zone": [
+        "Digital-first storytelling formats",
+        "Community-led narratives and athlete collaborations",
+        "Interactive retail and configurator experiences"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean dealership environments",
+        "Bright showroom lighting",
+        "High-contrast promotional graphics in event periods"
+      ],
+      "interactive_elements": [
+        "Model comparison tools",
+        "Offer-led end-cards",
+        "Dealer-localized overlays"
+      ],
+      "soundscape": "Upbeat, friendly, energetic; clarity of offers in local retail formats"
+    },
+    "digital": {
+      "tone_adjustment": "Short-form social emphasizes human moments and quick proof points; long-form video supports narrative arcs and feature demonstrations.",
+      "content_ratio": {
+        "campaign_vs_product": "Varies by objective; brand and corporate work skews campaign-led while retail skews product and offer-led",
+        "motion_vs_static": "Motion-led for storytelling; static used for OOH, print, and configurator support"
+      },
+      "platform_behavior": {
+        "Instagram": "Lifestyle and community moments with concise lines and strong brand sign-off",
+        "YouTube": "Narrative ads and feature explainers with structured end-cards",
+        "Website": "Model-led clarity: trims, safety, hybrid, and ownership content with high legibility"
+      }
+    },
+    "print": {
+      "paper": "Standard to premium coated stocks depending on market and model segment",
+      "cover_rules": "Hero vehicle or journey-led frame with concise headline; brand sign-off anchored consistently. citeturn2image1turn2image5"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Warped emblem",
+      "Low-contrast red on red placements",
+      "Logo cropped or partially hidden by UI elements"
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "brand_info": {
+    "name": "Balenciaga",
+    "tagline": "",
+    "category": "Fashion",
+    "positioning": "Luxury fashion house combining couture heritage with avant-garde, contemporary ready-to-wear and accessories. citeturn0search1",
+    "vision": "",
+    "mission": "",
+    "origin_story": "Founded by Cristóbal Balenciaga in Spain in 1917; the House established in Paris in 1937 and quickly became renowned for technical perfection, innovative proportions and avant-garde couture. citeturn0search0turn0search1"
+  },
+  "brand_values": {
+    "core_values": [
+      "Couture rigor",
+      "Architectural construction",
+      "Avant-garde innovation",
+      "Cultural provocation"
+    ],
+    "brand_promise": "Radical, concept-driven fashion executed with couture-level precision and distinctive silhouettes.",
+    "differentiators": [
+      "Couture legacy rooted in Cristóbal Balenciaga’s technical innovation and sculptural volumes. citeturn0search1turn0search0",
+      "Contemporary campaigns often use stark, self-aware advertising language and minimal staging (e.g., toile-box set for Winter 23; white-seamless character studies). citeturn1search4turn0search9",
+      "High-recognition special projects/collaborations used as cultural signals (NBA, PUMA, Automobili Lamborghini, PUBG). citeturn2search0turn2search12"
+    ],
+    "non_negotiables": [
+      "Wordmark integrity",
+      "Uncompromised silhouette construction",
+      "High-contrast graphic discipline",
+      "Controlled provocation (never accidental)"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-45",
+      "gender": "All",
+      "income_level": "High / Luxury"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, culture-driven consumers who read fashion as a language of identity, irony, and contemporary art.",
+      "values": [
+        "Status through taste",
+        "Cultural relevance",
+        "Subversion of norms",
+        "Design-led utility"
+      ],
+      "behavior": "Follows runway narratives and special projects; responds to strong silhouettes, iconic accessories, and high-visibility campaigns."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Provocative",
+      "Ironic",
+      "Intellectual",
+      "Minimal"
+    ],
+    "communication_style": "Short, declarative and self-aware; often deliberately anti-advertising in tone.",
+    "language_register": "Minimal / contemporary",
+    "preferred_structures": [
+      "One-line statements",
+      "Deadpan slogans",
+      "Sparse captioning"
+    ],
+    "avoid": [
+      "Sentimental storytelling",
+      "Overly descriptive marketing copy",
+      "Excessive adjectives"
+    ],
+    "emotional_temperature": "Cool",
+    "tone_dos": [
+      "Use restrained language with conceptual bite",
+      "Let imagery carry the narrative",
+      "Prefer deadpan humor or friction"
+    ],
+    "tone_donts": [
+      "Cheerful hype",
+      "Romanticized luxury clichés",
+      "Chatty brand voice"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "BALENCIAGA wordmark",
+      "usage_rules": "Use as a clean wordmark with high legibility; avoid distortion, decorative effects, or placement that compromises readability.",
+      "lockup_behavior": "Centered, top-aligned, or as a minimal corner signature with ample clear space.",
+      "safe_area": "Minimum padding equals the height of the wordmark cap height."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#111111",
+        "#2B2B2B",
+        "#7A7A7A",
+        "#D9D9D9"
+      ],
+      "color_usage_rules": "Favor monochrome and neutral greys; accent color is rare and typically product-led rather than graphic-led."
+    },
+    "typography": {
+      "primary_font": "Modern grotesk sans-serif (all-caps preference)",
+      "secondary_font": "Neutral sans-serif for UI/body",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to neutral",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – All caps sans",
+        "H2 – Sans",
+        "Body – Sans",
+        "Caption – Sans, compact"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple editorial grid; center-weighted compositions common",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Image-led, text minimal",
+      "cta_placement": "Rare; when present, small and neutral",
+      "alignment": "Centered or blunt, utilitarian alignment"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "stark",
+        "deadpan",
+        "documentary-leaning",
+        "minimal studio",
+        "editorial portrait"
+      ],
+      "preferred_photographers": [
+        "Nadav Kander",
+        "Juergen Teller"
+      ],
+      "camera_feel": "Direct, confrontational portraiture; often static and observational, emphasizing silhouette and material truth.",
+      "pose_guidelines": "Controlled stillness; minimal gesture; posture and stance carry attitude.",
+      "casting_attitude": "Distinct personalities; community/insider casting appears alongside high-profile ambassadors."
+    },
+    "technical": {
+      "lighting": "Flat-to-soft studio light or controlled interior light; minimal drama, high clarity.",
+      "contrast": "Medium to high (often monochrome-friendly).",
+      "grain": "Clean digital or subtle texture; avoid heavy stylization.",
+      "depth_of_field": "Moderate; enough clarity for product and silhouette read.",
+      "color_grading": "Neutral to cool; restrained saturation."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Conceptual restraint",
+      "Deadpan attitude",
+      "High-contrast clarity"
+    ],
+    "preferred_locations": [
+      "White seamless studio",
+      "Minimal sets (toile/neutral canvas)",
+      "Controlled interiors (Parisian apartment, atelier-like spaces)"
+    ],
+    "contexts": [
+      "Character studies",
+      "Couture-client tableau",
+      "Community portrait series",
+      "Special-project cultural tie-ins"
+    ],
+    "model_casting": {
+      "age_range": "18–60",
+      "diversity": "Yes",
+      "attitude": "Unsmiling or understated expression; self-possessed presence."
+    },
+    "product_presentation": {
+      "hero_visibility": "Silhouette-first; product is visible but integrated into the figure and stance.",
+      "styling_approach": "Signature hybrid garments, sharp silhouettes, controlled layering; avoid decorative clutter. citeturn0search9",
+      "avoid": [
+        "Overly scenic backdrops",
+        "Busy props",
+        "Obvious luxury tropes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow, observational",
+      "transitions": "Hard cuts or minimal dissolves; editorial pacing"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use high-contrast black/white hierarchy",
+        "Keep sets minimal to emphasize silhouette",
+        "Allow deadpan expressions and stillness",
+        "Let product read through shape and stance"
+      ],
+      "visual_donts": [
+        "Decorative backgrounds",
+        "Overly romantic lighting",
+        "Excessive retouching that warps silhouette",
+        "Playful lifestyle clichés"
+      ],
+      "copy_dos": [
+        "Short, blunt lines",
+        "Deadpan slogans when appropriate",
+        "Minimal captioning"
+      ],
+      "copy_donts": [
+        "Long paragraphs",
+        "Emotive persuasion",
+        "Over-explaining concepts"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Wordmark integrity",
+        "High-contrast graphic discipline",
+        "Silhouette readability",
+        "Concept-first restraint"
+      ],
+      "can_evolve": [
+        "Casting mix (ambassadors vs. community)",
+        "Set typology (studio vs. interiors)",
+        "Special-project partnerships"
+      ],
+      "test_zone": [
+        "Cross-industry collaborations",
+        "Meta-advertising copy devices",
+        "Format experiments (still/motion hybrids)"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Concrete/stone neutrals",
+        "Brushed metal",
+        "Black glass",
+        "Industrial minimal fixtures"
+      ],
+      "interactive_elements": [
+        "Minimal digital signage",
+        "Product-as-object displays",
+        "Sparse editorial screens"
+      ],
+      "soundscape": "Low, controlled, contemporary"
+    },
+    "digital": {
+      "tone_adjustment": "Even more minimal; image-first with sparse captions.",
+      "content_ratio": {
+        "campaign_vs_product": "70:30",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Portrait series, deadpan slogans, minimal sets",
+        "Website": "Full-bleed imagery, minimal navigation, black/white hierarchy",
+        "Newsletter": "Sparse copy, campaign-led visuals"
+      }
+    },
+    "print": {
+      "paper": "Matte or uncoated fine stock",
+      "cover_rules": "Full-bleed portrait or minimal set; small wordmark with clear space"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Wordmark distortion",
+      "Low-contrast placements",
+      "Crowded overlays on faces or key product areas"
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "Mercedes-Benz",
+    "tagline": "The best or nothing.",
+    "category": "Automotive",
+    "positioning": "High-end passenger cars and premium vans positioned as a global benchmark for luxury, safety, comfort, and engineering innovation.",
+    "vision": "Shape the future of mobility through continuous innovation, with a clear commitment to sustainability, integrity, and diversity as guiding principles.",
+    "mission": "Build desirable vehicles and mobility experiences that set standards in technology, safety, and design, delivering premium quality for customers worldwide.",
+    "origin_story": "The Mercedes-Benz brand emerged in 1926 with the creation of Daimler-Benz AG through the merger of Daimler-Motoren-Gesellschaft (DMG) and Benz & Cie., uniting pioneering automotive inventions dating back to 1886."
+  },
+  "brand_values": {
+    "core_values": [
+      "Sustainability",
+      "Integrity",
+      "Diversity",
+      "Innovation",
+      "Quality"
+    ],
+    "brand_promise": "Relentless commitment to premium excellence in design, technology, comfort, and safety.",
+    "differentiators": [
+      "Heritage rooted in the invention of the automobile",
+      "Engineering-led luxury and safety leadership",
+      "Iconic three-pointed star as a symbol of aspiration and mastery"
+    ],
+    "non_negotiables": [
+      "No compromise on quality and safety",
+      "No logo distortion or misuse",
+      "No cluttered, low-end aesthetics"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "30-65",
+      "gender": "All",
+      "income_level": "High / Premium"
+    },
+    "psychographics": {
+      "lifestyle": "Professionals and aspirational achievers who value performance, comfort, design, and technological confidence",
+      "values": [
+        "Status with substance",
+        "Trust and safety",
+        "Progress and innovation"
+      ],
+      "behavior": "Research-driven purchase behavior, expects premium service, attracted to heritage-backed innovation and brand symbolism"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Aspirational",
+      "Authoritative",
+      "Refined"
+    ],
+    "communication_style": "Minimal, declarative, and premium; short statements with strong emotional clarity.",
+    "language_register": "Formal",
+    "preferred_structures": [
+      "Short headline + concise supporting line",
+      "Aspirational statements",
+      "Simple CTA prompts"
+    ],
+    "avoid": [
+      "Overly playful slang",
+      "Aggressive hype",
+      "Excessive technical jargon in headline copy"
+    ],
+    "emotional_temperature": "Cool-confident",
+    "tone_dos": [
+      "Use calm authority",
+      "Let visuals carry emotion",
+      "Keep copy short and iconic"
+    ],
+    "tone_donts": [
+      "Crowded paragraphs",
+      "Discount-driven language",
+      "Over-explaining"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Three-pointed star (standalone) and Mercedes-Benz wordmark lockup",
+      "usage_rules": "Keep high contrast and clear space; place in uncluttered areas; avoid overlaying on complex textures or faces.",
+      "lockup_behavior": "Often top-centered or bottom-centered; wordmark paired with star for signature moments.",
+      "safe_area": "Minimum padding equals at least the star diameter (or the logo height for wordmark lockups)."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#0B1D2E",
+        "#1F3B57",
+        "#7A8087",
+        "#C9CED3"
+      ],
+      "color_usage_rules": "Preference for cool, deep blues and neutral metallics supporting the vehicle finish; gradients are used only as natural skies and atmospheric falloff, not as UI decoration."
+    },
+    "typography": {
+      "primary_font": "Mercedes-Benz Corporate A",
+      "secondary_font": "Helvetica Neue",
+      "weights": {
+        "headlines": "Light to Regular (often all caps)",
+        "body": "Regular",
+        "captions": "Light"
+      },
+      "spacing": {
+        "letter_spacing": "0.06em",
+        "line_height": "1.4"
+      },
+      "hierarchy": [
+        "H1 – All caps, wide tracking",
+        "H2 – Minimal support line",
+        "Body – Small, restrained blocks"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular editorial grid with strong top/bottom bands",
+      "white_space_ratio": "Very generous (large sky/negative space zones)",
+      "image_vs_text_balance": "Image-led",
+      "cta_placement": "Centered or upper-mid in a framed button; or lower third for print",
+      "alignment": "Centered brand signature; text aligned to clean margins"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "cinematic",
+        "aspirational",
+        "premium",
+        "dynamic",
+        "atmospheric"
+      ],
+      "preferred_photographers": [
+        "Brand-led global production roster (varies by market/campaign)"
+      ],
+      "camera_feel": "High-end cinematic advertising stills with dramatic depth, motion energy, and controlled reflections.",
+      "pose_guidelines": "If talent is present: composed, understated, fashion-forward; no exaggerated expressions.",
+      "casting_attitude": "Modern confidence, calm control, aspirational restraint"
+    },
+    "technical": {
+      "lighting": "Naturalistic cinematic light (golden hour, dusk, or controlled studio-like shaping on the car)",
+      "contrast": "Medium to high",
+      "grain": "Low to subtle filmic texture",
+      "depth_of_field": "Moderate; subject separation via distance, haze, or motion",
+      "color_grading": "Cool-to-neutral with deep blues; metallic highlights preserved; skin tones natural when present"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Aspirational dream-state",
+      "Cinematic realism",
+      "Quiet authority"
+    ],
+    "preferred_locations": [
+      "Open roads through nature",
+      "Iconic architecture and modern cityscapes",
+      "Minimalist, expansive landscapes"
+    ],
+    "contexts": [
+      "Motion and journey narratives",
+      "Hero vehicle presence",
+      "Performance and precision moments"
+    ],
+    "model_casting": {
+      "age_range": "25–55",
+      "diversity": "Yes, modern and inclusive casting when talent is used",
+      "attitude": "Composed, confident, understated"
+    },
+    "product_presentation": {
+      "hero_visibility": "Vehicle is the primary hero; always cleanly readable silhouette and badge",
+      "styling_approach": "Realistic reflections, premium surfaces, uncluttered surroundings; emphasize stance and proportions",
+      "avoid": [
+        "Busy retail clutter",
+        "Over-stylized filters that obscure paint/lines",
+        "Distracting props"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Confident and controlled; can be dynamic but never chaotic",
+      "transitions": "Clean cuts, smooth dissolves, and elegant title overlays"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use vast negative space",
+        "Highlight star emblem and grille identity",
+        "Use cinematic atmosphere (haze, dusk, sky gradients)"
+      ],
+      "visual_donts": [
+        "Overcrowded layouts",
+        "Low-contrast logo placements",
+        "Cheap effects that warp body lines"
+      ],
+      "copy_dos": [
+        "Short iconic lines",
+        "Aspirational framing",
+        "Single clear CTA"
+      ],
+      "copy_donts": [
+        "Long paragraphs",
+        "Hard-sell language",
+        "Price-led messaging"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Star emblem integrity",
+        "Premium minimal composition",
+        "Engineering-led trust cues (quality/safety)"
+      ],
+      "can_evolve": [
+        "Campaign color atmospheres",
+        "Location archetypes",
+        "Talent inclusion and styling direction"
+      ],
+      "test_zone": [
+        "Experimental visual metaphors",
+        "Typographic treatments and kinetic blur effects",
+        "Surreal-but-premium compositions that keep car geometry intact"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Brushed metal",
+        "Glass",
+        "Dark stone",
+        "Matte black accents"
+      ],
+      "interactive_elements": [
+        "Large hero screens",
+        "Config and test-drive kiosks",
+        "Quiet product storytelling zones"
+      ],
+      "soundscape": "Low-volume ambient, modern, restrained"
+    },
+    "digital": {
+      "tone_adjustment": "Even more minimal; fast-read headlines; strong hero visuals; short CTAs",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "Hero car frames with minimal copy and strong atmosphere",
+        "Website": "Full-bleed imagery with clear modular sections and high contrast UI",
+        "Newsletter": "Hero image + one headline + one CTA"
+      }
+    },
+    "print": {
+      "paper": "Matte or satin premium stock",
+      "cover_rules": "Large negative space, centered logo signature, restrained headline in upper zone"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Logo stretched or skewed",
+      "Logo placed on busy textures with low contrast",
+      "Logo used as a pattern fill"
+    ]
+  }
+}

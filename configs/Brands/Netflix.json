@@ -1,0 +1,283 @@
+{
+  "brand_info": {
+    "name": "Netflix",
+    "tagline": "One Story Away",
+    "category": "Entertainment / Streaming",
+    "positioning": "A global subscription streaming service that delivers films, series, and entertainment experiences across devices, designed for instant access and personalized discovery.",
+    "vision": "Entertain the world.",
+    "mission": "Entertain the world.",
+    "origin_story": "Founded in 1997 in Scotts Valley, California by Reed Hastings and Marc Randolph, first operating as a DVD-by-mail movie rental business before expanding into streaming in 2007."
+  },
+  "brand_values": {
+    "core_values": [
+      "Storytelling",
+      "Entertainment",
+      "Curiosity",
+      "Global cultural reach",
+      "Innovation",
+      "Choice"
+    ],
+    "brand_promise": "A vast, always-on entertainment library with frictionless access and a strong sense of discovery, powered by originals and global storytelling.",
+    "differentiators": [
+      "Original programming focus",
+      "Global multi-language catalog",
+      "Personalized discovery at scale",
+      "Iconic red-on-black brand signature"
+    ],
+    "non_negotiables": [
+      "Brand red and black signature",
+      "Clear hierarchy and readability",
+      "Content-first storytelling",
+      "Instant-access mindset"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "16-54",
+      "gender": "All",
+      "income_level": "Broad mass market / subscription households"
+    },
+    "psychographics": {
+      "lifestyle": "On-demand entertainment seekers across home and mobile contexts, ranging from casual viewers to deep fandom communities",
+      "values": [
+        "Choice",
+        "Convenience",
+        "Discovery",
+        "Shared moments",
+        "Immersive stories"
+      ],
+      "behavior": "Binge or episodic viewing, frequent genre switching, driven by recommendations, social conversation, and cultural moments."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Direct",
+      "Playful",
+      "Cinematic"
+    ],
+    "communication_style": "Short, punchy statements with cultural immediacy; copy behaves like a trailer card or UI microcopy.",
+    "language_register": "Modern and accessible",
+    "preferred_structures": [
+      "Two-to-seven word headlines",
+      "Dual-contrast phrases",
+      "Short prompts that invite action"
+    ],
+    "avoid": [
+      "Corporate jargon",
+      "Over-explaining",
+      "Sentimental copy overload",
+      "Excessive punctuation"
+    ],
+    "emotional_temperature": "High-impact but controlled",
+    "tone_dos": [
+      "Use active verbs",
+      "Keep copy minimal and bold",
+      "Let the title and imagery do the heavy lifting"
+    ],
+    "tone_donts": [
+      "Long paragraphs",
+      "Hard-sell language",
+      "Generic lifestyle clichés"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Netflix wordmark (arched) and the standalone 'N' monogram used for compact placements",
+      "usage_rules": "Prefer Netflix Red on black; use black or white only when necessary for clarity; keep clear space and never distort, rotate, or add effects.",
+      "lockup_behavior": "Wordmark typically top-centered or top-left in campaigns; 'N' monogram used as a corner bug in UI-led layouts.",
+      "safe_area": "Minimum padding equals at least the width of the 'N' stem around the mark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#E50914",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#B20710",
+        "#221F1F",
+        "#F5F5F1"
+      ],
+      "color_usage_rules": "Black dominates; Netflix Red is the primary accent for brand anchors and key words; white is reserved for legibility and UI-like copy."
+    },
+    "typography": {
+      "primary_font": "Netflix Sans",
+      "secondary_font": "System sans-serif for UI compatibility when needed",
+      "weights": {
+        "headlines": "Bold to Black",
+        "body": "Regular",
+        "captions": "Regular to Medium"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to neutral for impact",
+        "line_height": "Compact for headlines, comfortable for supporting copy"
+      },
+      "hierarchy": [
+        "H1 – Bold all caps or strong title case",
+        "H2 – Medium weight supporting line",
+        "Body – Minimal supporting copy, UI-like"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple poster grid with strong central axis; scalable for OOH, digital, and UI-derived compositions",
+      "white_space_ratio": "High negative space with a single hero focal point",
+      "image_vs_text_balance": "Image-led with typographic headline as the second anchor",
+      "cta_placement": "Lower third or centered button-style when mimicking UI behavior",
+      "alignment": "Centered, high-contrast, with clear top and bottom bands for brand and message"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "cinematic",
+        "high-contrast",
+        "dramatic lighting",
+        "minimal background",
+        "graphic typography"
+      ],
+      "preferred_photographers": [
+        "Cinematic unit photography teams",
+        "Key art and campaign studios",
+        "OOH craft studios"
+      ],
+      "camera_feel": "Trailer-grade stills and key art that read instantly at distance, with strong silhouette and clear emotional cue.",
+      "pose_guidelines": "Emotional clarity over fashion posing; either iconic stillness (portrait) or frozen peak-action (scene moment).",
+      "casting_attitude": "Character-driven presence; expressive but readable; authenticity tied to the story world."
+    },
+    "technical": {
+      "lighting": "High-contrast cinematic key with controlled falloff; occasional spotlight or vignette to isolate the hero",
+      "contrast": "Medium-high to high",
+      "grain": "Minimal to subtle film grain depending on title",
+      "depth_of_field": "Moderate separation; sharp hero with controlled background softness",
+      "color_grading": "Deep blacks with controlled highlights; red accents used for brand linkage or narrative tension"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Bold",
+      "Cinematic",
+      "High-contrast",
+      "Culture-forward"
+    ],
+    "preferred_locations": [
+      "Dark studio voids",
+      "Minimal sets",
+      "Urban night exteriors",
+      "Iconic title-specific environments"
+    ],
+    "contexts": [
+      "Story moments captured as posters",
+      "UI-as-a-visual-language overlays",
+      "Conceptual props that symbolize binge culture"
+    ],
+    "model_casting": {
+      "age_range": "18–55",
+      "diversity": "Global and inclusive across regions and cultures",
+      "attitude": "Character-first, emotionally legible, instantly recognizable"
+    },
+    "product_presentation": {
+      "hero_visibility": "Brand mark is a strong anchor; content imagery is the hero; product experience appears via UI cues when relevant",
+      "styling_approach": "Title-authentic wardrobe and props; minimal extra styling; prioritize recognizability",
+      "avoid": [
+        "Overdesigned backgrounds",
+        "Low-legibility layouts",
+        "Distracting decorative elements"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Trailer logic: quick hook, strong beat, clean end card",
+      "transitions": "Hard cuts, smash cuts, clean fades to black, and title-card typography beats"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use deep blacks and a single dominant accent",
+        "Keep typography bold and minimal",
+        "Anchor the layout with the wordmark or N bug",
+        "Use cinematic lighting and clear silhouettes"
+      ],
+      "visual_donts": [
+        "Pastel palettes",
+        "Busy patterned backgrounds",
+        "Weak contrast",
+        "Overcrowded layouts"
+      ],
+      "copy_dos": [
+        "Use short, punchy lines",
+        "Lean into curiosity and anticipation",
+        "Let the story lead the message"
+      ],
+      "copy_donts": [
+        "Long explanatory copy",
+        "Corporate tone",
+        "Overuse of hashtags"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Netflix Red signature",
+        "Wordmark and/or N monogram integrity",
+        "High-contrast readability",
+        "Content-first storytelling"
+      ],
+      "can_evolve": [
+        "Title-specific color grading",
+        "Campaign concepts and props",
+        "UI-led vs cinematic-led layouts",
+        "Regional localization of language"
+      ],
+      "test_zone": [
+        "Experiential activations",
+        "Interactive OOH",
+        "Playful UI remixes and cultural stunts"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Matte black surfaces",
+        "Red light accents",
+        "Large-format screens",
+        "High-contrast wayfinding"
+      ],
+      "interactive_elements": [
+        "Immersive title zones",
+        "Photo moments",
+        "Trailer pods and sound-isolated viewing corners"
+      ],
+      "soundscape": "Trailer audio beats, theme cues, and controlled ambient low end"
+    },
+    "digital": {
+      "tone_adjustment": "UI-forward and concise; headline-first; motion previews and strong end cards",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "70:30"
+      },
+      "platform_behavior": {
+        "Instagram": "Bold typographic hooks over cinematic frames; short trailer loops; clean end cards",
+        "Website": "Black canvas, minimal UI, clear red highlights, fast path to play",
+        "Newsletter": "Title-led modules, minimal copy, strong thumbnails, clear watch intent"
+      }
+    },
+    "print": {
+      "paper": "Matte or satin stock with rich black reproduction",
+      "cover_rules": "Large title frame or key art, minimal copy, red wordmark as the primary brand anchor"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Altering the red hue",
+      "Adding shadows or glows to the logo",
+      "Placing the mark on low-contrast backgrounds",
+      "Stretching or skewing the wordmark"
+    ]
+  }
+}

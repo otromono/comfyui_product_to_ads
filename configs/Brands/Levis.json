@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Levi's",
+    "tagline": "Live in Levi’s",
+    "category": "Fashion / Denim / Lifestyle",
+    "positioning": "Iconic American apparel brand positioned on authenticity, denim heritage, and timeless self-expression.",
+    "vision": "To be the most iconic and inclusive denim brand in the world, expressing freedom, individuality, and durability.",
+    "mission": "To create quality apparel rooted in denim heritage that empowers people to express their authentic selves.",
+    "origin_story": "Founded in 1853 in San Francisco by Levi Strauss, Levi’s pioneered blue jeans as durable workwear and evolved into a global symbol of youth culture and self-expression."
+  },
+  "brand_values": {
+    "core_values": [
+      "Authenticity",
+      "Individuality",
+      "Durability",
+      "Innovation",
+      "Cultural relevance"
+    ],
+    "brand_promise": "Timeless denim and apparel that stands for authenticity and self-expression.",
+    "differentiators": [
+      "Original denim heritage",
+      "Cultural credibility across generations",
+      "Iconic product silhouettes"
+    ],
+    "non_negotiables": [
+      "Authenticity",
+      "Denim leadership",
+      "Cultural relevance"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Teens to mature adults",
+      "gender": "All",
+      "income_level": "Mass to mid-market"
+    },
+    "psychographics": {
+      "lifestyle": "Culturally diverse individuals who value authenticity, freedom, and everyday wearability",
+      "values": [
+        "Self-expression",
+        "Freedom",
+        "Honesty",
+        "Inclusivity"
+      ],
+      "behavior": "Everyday wear, long-term brand affinity, emotional attachment to denim staples"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Authentic",
+      "Confident",
+      "Inclusive",
+      "Grounded",
+      "Optimistic"
+    ],
+    "communication_style": "Direct, human, and culturally grounded",
+    "language_register": "Simple, accessible, honest",
+    "preferred_structures": [
+      "Short declarative statements",
+      "Human-centered storytelling",
+      "Cultural narratives"
+    ],
+    "avoid": [
+      "Luxury elitism",
+      "Overly technical language",
+      "Trend jargon"
+    ],
+    "emotional_temperature": "Warm-confident",
+    "tone_dos": [
+      "Celebrate individuality",
+      "Highlight heritage",
+      "Use inclusive language"
+    ],
+    "tone_donts": [
+      "Over-polished rhetoric",
+      "Fashion elitism",
+      "Detached corporate tone"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Levi’s Batwing logo",
+      "usage_rules": "Always maintain red color integrity and clear legibility",
+      "lockup_behavior": "Clear, confident placement",
+      "safe_area": "Minimum padding equals the height of the Batwing logo"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#C41230",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#1F3C88",
+        "#F2F2F2"
+      ],
+      "color_usage_rules": "Red as primary brand anchor, supported by denim blues and neutrals"
+    },
+    "typography": {
+      "primary_font": "Bold, utilitarian sans-serif",
+      "secondary_font": "System sans-serif",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold statement",
+        "H2 – Supporting message",
+        "Body – Human-centered copy"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible editorial grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-led with supportive copy",
+      "cta_placement": "Clear but not aggressive",
+      "alignment": "Grounded, balanced layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "authentic",
+        "documentary",
+        "cultural",
+        "raw",
+        "inclusive"
+      ],
+      "preferred_photographers": [
+        "Documentary and lifestyle photographers"
+      ],
+      "camera_feel": "Natural, candid, human",
+      "pose_guidelines": "Relaxed, natural movement, real-life gestures",
+      "casting_attitude": "Real people, diverse, confident in their individuality"
+    },
+    "technical": {
+      "lighting": "Natural daylight or simple practical lighting",
+      "contrast": "Medium",
+      "grain": "Light natural grain acceptable",
+      "depth_of_field": "Medium with contextual backgrounds",
+      "color_grading": "True-to-life with warm undertones"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Authentic",
+      "Human",
+      "Culturally grounded"
+    ],
+    "preferred_locations": [
+      "Urban streets",
+      "Real homes",
+      "Everyday environments"
+    ],
+    "contexts": [
+      "Daily life moments",
+      "Youth culture",
+      "Cross-generational expression"
+    ],
+    "model_casting": {
+      "age_range": "Wide and inclusive",
+      "diversity": "High and authentic",
+      "attitude": "Confident, natural, approachable"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product worn naturally in real contexts",
+      "styling_approach": "Effortless, layered, personal",
+      "avoid": [
+        "High-fashion staging",
+        "Overly polished studio looks",
+        "Artificial posing"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Natural, human rhythm",
+      "transitions": "Simple cuts, documentary flow"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real people",
+        "Highlight denim texture",
+        "Use authentic environments"
+      ],
+      "visual_donts": [
+        "Over-stylized fashion imagery",
+        "Luxury tropes",
+        "Artificial perfection"
+      ],
+      "copy_dos": [
+        "Speak honestly",
+        "Celebrate individuality",
+        "Reference heritage naturally"
+      ],
+      "copy_donts": [
+        "Corporate jargon",
+        "Trend overstatement",
+        "Exclusionary language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Authenticity",
+        "Denim heritage",
+        "Cultural relevance"
+      ],
+      "can_evolve": [
+        "Sustainable denim innovation",
+        "Digital storytelling",
+        "Community-driven campaigns"
+      ],
+      "test_zone": [
+        "New fits and silhouettes",
+        "Cultural collaborations",
+        "Emerging creative voices"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Wood",
+        "Denim textures",
+        "Industrial finishes"
+      ],
+      "interactive_elements": [
+        "Customization stations",
+        "Heritage storytelling"
+      ],
+      "soundscape": "Casual, contemporary"
+    },
+    "digital": {
+      "tone_adjustment": "More conversational on social, informative on owned channels",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Cultural moments, real people",
+        "Website": "Product, heritage, sustainability",
+        "Newsletter": "Stories, drops, community highlights"
+      }
+    },
+    "print": {
+      "paper": "Uncoated or recycled stock",
+      "cover_rules": "Human-centered imagery with bold logo presence"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Recolored Batwing logo",
+      "Low-contrast red usage",
+      "Distorted logo proportions"
+    ]
+  }
+}

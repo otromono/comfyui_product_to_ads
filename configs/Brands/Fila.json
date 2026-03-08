@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "Fila",
+    "tagline": "Power Style",
+    "category": "Sportswear and lifestyle apparel",
+    "positioning": "A heritage sportswear brand positioned at the intersection of athletic performance and fashion-led lifestyle, known for bold branding, tennis and streetwear influence.",
+    "vision": "Celebrate sport-inspired style through bold design and authentic heritage.",
+    "mission": "Create sportswear and lifestyle products that merge performance roots with contemporary fashion expression.",
+    "origin_story": "Founded in 1911 in Biella, Italy, Fila began as a textile company and evolved into a global sportswear brand with strong associations in tennis, athletics, and street culture."
+  },
+  "brand_values": {
+    "core_values": [
+      "Sport heritage",
+      "Bold expression",
+      "Authenticity",
+      "Accessibility",
+      "Style-driven performance"
+    ],
+    "brand_promise": "Deliver distinctive sportswear that blends performance heritage with fashion confidence.",
+    "differentiators": [
+      "Strong visual heritage rooted in tennis and sport culture.",
+      "Iconic logo and color blocking.",
+      "Crossover appeal between sport and streetwear.",
+      "Global recognition with accessible positioning."
+    ],
+    "non_negotiables": [
+      "Logo visibility must remain iconic.",
+      "Sport heritage must be respected.",
+      "Bold graphic language should be preserved.",
+      "Avoid over-technical performance claims."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "15-45",
+      "gender": "All",
+      "income_level": "Mass to mid"
+    },
+    "psychographics": {
+      "lifestyle": "Consumers attracted to sport-inspired fashion, retro aesthetics, and expressive streetwear.",
+      "values": [
+        "Self-expression",
+        "Sport culture",
+        "Nostalgia",
+        "Value"
+      ],
+      "behavior": "Trend-aware, brand-recognizing shoppers influenced by sport, music, and street culture."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Confident",
+      "Sporty",
+      "Expressive",
+      "Energetic"
+    ],
+    "communication_style": "Direct and graphic, with emphasis on attitude, confidence, and sport-inspired lifestyle.",
+    "language_register": "Sport / Lifestyle / Contemporary",
+    "preferred_structures": [
+      "Short punchy headlines",
+      "Attitude-led statements",
+      "Heritage callouts"
+    ],
+    "avoid": [
+      "Overly technical jargon",
+      "Luxury elitism",
+      "Minimalist understatement"
+    ],
+    "emotional_temperature": "High energy confidence",
+    "tone_dos": [
+      "Emphasize confidence and style",
+      "Celebrate heritage moments",
+      "Keep language punchy"
+    ],
+    "tone_donts": [
+      "Over-explaining performance",
+      "Muted or passive language",
+      "Generic fashion slogans"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Fila wordmark logo.",
+      "usage_rules": "High visibility, bold placement; avoid distortion or subtle treatments.",
+      "lockup_behavior": "Logo often integrated as a strong graphic element.",
+      "safe_area": "Minimum padding equal to logo height."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#E60012"
+      ],
+      "secondary_colors": [
+        "#003A8F",
+        "#F2F2F2"
+      ],
+      "color_usage_rules": "Strong color blocking with heritage red, navy, black, and white."
+    },
+    "typography": {
+      "primary_font": "Bold sans-serif",
+      "secondary_font": "Clean sans-serif for supporting text",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.02em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold",
+        "H2 – Medium",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Graphic grid with strong framing",
+      "white_space_ratio": "Medium",
+      "image_vs_text_balance": "Image-led",
+      "cta_placement": "Integrated within graphic layouts",
+      "alignment": "Dynamic but structured"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "sporty",
+        "bold",
+        "graphic",
+        "energetic",
+        "retro-modern"
+      ],
+      "preferred_photographers": [
+        "Sport and lifestyle photographers"
+      ],
+      "camera_feel": "Dynamic framing highlighting movement, stance, and attitude.",
+      "pose_guidelines": "Confident stances, athletic references, relaxed street poses.",
+      "casting_attitude": "Youthful, confident, expressive."
+    },
+    "technical": {
+      "lighting": "Clear daylight or controlled studio lighting.",
+      "contrast": "Medium to high.",
+      "grain": "Minimal.",
+      "depth_of_field": "Moderate clarity on subject.",
+      "color_grading": "Bold, true-to-brand colors."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Sport heritage",
+      "Street confidence",
+      "Bold graphic expression",
+      "Energy and movement"
+    ],
+    "preferred_locations": [
+      "Urban environments",
+      "Sport courts",
+      "Graphic studio backdrops"
+    ],
+    "contexts": [
+      "Lifestyle sportswear",
+      "Retro-inspired drops",
+      "Street and youth culture"
+    ],
+    "model_casting": {
+      "age_range": "15–45",
+      "diversity": "Broad and inclusive",
+      "attitude": "Confident, expressive, energetic"
+    },
+    "product_presentation": {
+      "hero_visibility": "Logo and silhouette clearly visible.",
+      "styling_approach": "Sport-street layering, retro references.",
+      "avoid": [
+        "Understated minimalism",
+        "Overly technical performance framing"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast and energetic.",
+      "transitions": "Bold cuts and graphic motion."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Highlight logo and color blocking",
+        "Show confident body language",
+        "Use sport-inspired settings"
+      ],
+      "visual_donts": [
+        "Muted palettes",
+        "Low-energy compositions"
+      ],
+      "copy_dos": [
+        "Use bold, confident language",
+        "Reference sport heritage",
+        "Keep messaging short"
+      ],
+      "copy_donts": [
+        "Overly refined luxury tone",
+        "Technical overload",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Sport heritage",
+        "Bold logo presence",
+        "Street-sport crossover"
+      ],
+      "can_evolve": [
+        "Collaborations",
+        "Sustainability initiatives",
+        "Digital-first storytelling"
+      ],
+      "test_zone": [
+        "New silhouettes",
+        "Limited editions",
+        "Youth culture partnerships"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Bold graphic merchandising",
+        "Logo-led displays"
+      ],
+      "interactive_elements": [
+        "Sport heritage storytelling",
+        "Drop-focused layouts"
+      ],
+      "soundscape": "Energetic and urban"
+    },
+    "digital": {
+      "tone_adjustment": "Bold and expressive",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Lifestyle, street style, heritage sport visuals",
+        "Website": "Collections, heritage, and drops",
+        "Newsletter": "Launches and collaborations"
+      }
+    },
+    "print": {
+      "paper": "Matte or semi-matte stock",
+      "cover_rules": "Bold imagery with strong logo presence"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorted logo proportions",
+      "Low contrast logo placement",
+      "Overly subtle logo usage"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "brand_info": {
+    "name": "UNIQLO",
+    "tagline": "LifeWear",
+    "category": "Fashion",
+    "positioning": "Global everyday apparel brand focused on simple, high-quality clothing engineered through textiles innovation and designed to make life better (LifeWear).",
+    "vision": "Redefine everyday clothing by continually improving it through thoughtful design and innovation so it better supports people's lives.",
+    "mission": "To create truly great clothing with new and unique value, and to enable people all over the world to experience the joy, happiness and satisfaction of wearing such great clothes; and to enrich people's lives while growing in unity with society.",
+    "origin_story": "Originates from a Yamaguchi, Japan textiles business founded in 1949; the UNIQLO retail brand began with a unisex casual wear store opened in Hiroshima in 1984 and later expanded globally under Fast Retailing."
+  },
+  "brand_values": {
+    "core_values": [
+      "Simplicity",
+      "Quality",
+      "Everyday utility",
+      "Innovation",
+      "Accessibility"
+    ],
+    "brand_promise": "Simple, functional, long-lasting clothing made better through fabric innovation and practical details, designed for everyone.",
+    "differentiators": [
+      "LifeWear concept (clothes designed to make life better)",
+      "Textile and materials innovation (e.g., functional innerwear and lightweight insulation)",
+      "Clean, consistent brand system with strong global retail presence"
+    ],
+    "non_negotiables": [
+      "Functional everyday focus over seasonal trend theatrics",
+      "Product integrity and fit consistency",
+      "Clarity and restraint in communication"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All ages",
+      "gender": "All",
+      "income_level": "Mass market / value-oriented"
+    },
+    "psychographics": {
+      "lifestyle": "People who prioritize comfort, versatility, and dependable basics for work, leisure, travel, and daily life",
+      "values": [
+        "Practicality",
+        "Comfort",
+        "Quality-to-price value",
+        "Simplicity",
+        "Reliability"
+      ],
+      "behavior": "Repeat purchasing of essentials, seasonal replenishment, wardrobe-building through core items and functional layers"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Clear",
+      "Helpful",
+      "Confident",
+      "Modern"
+    ],
+    "communication_style": "Product-led and benefit-led with minimal, pragmatic language",
+    "language_register": "Neutral",
+    "preferred_structures": [
+      "Short declarative statements",
+      "Functional benefit headlines",
+      "Simple lifestyle cues"
+    ],
+    "avoid": [
+      "Luxury exaggeration",
+      "Overly poetic copy",
+      "Aggressive hype"
+    ],
+    "emotional_temperature": "Neutral-calm",
+    "tone_dos": [
+      "Explain utility simply",
+      "Keep language inclusive and universal",
+      "Let product performance and everyday scenes carry the story"
+    ],
+    "tone_donts": [
+      "Overcomplication",
+      "Over-styling the message",
+      "Abstract brand jargon without product meaning"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Red square brandmark with white UNIQLO logotype (Japanese and Latin variants)",
+      "usage_rules": "Used as a clear stamp-like brandmark; never distorted; kept high-contrast and legible",
+      "lockup_behavior": "Often placed as a small corner stamp or clean end-card; consistent spacing around the mark",
+      "safe_area": "Minimum padding equals at least the height of the UNIQLO wordmark within the square"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#000000",
+        "#F2F2F2",
+        "#BDBDBD"
+      ],
+      "color_usage_rules": "High-contrast red-and-white brandmark paired with clean neutrals; seasonal product colors appear as accents rather than brand-wide palette shifts"
+    },
+    "typography": {
+      "primary_font": "Clean modern sans-serif (brand-standard corporate sans-serif)",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0em to slight tracking for clarity",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans-serif",
+        "H2 – Medium sans-serif",
+        "Body – Regular sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Clean modular grid",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Product and people-led with minimal copy",
+      "cta_placement": "Lower area or near product callouts",
+      "alignment": "Straightforward, often centered or left-aligned for clarity"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "everyday",
+        "clean",
+        "bright",
+        "honest",
+        "functional",
+        "global"
+      ],
+      "preferred_photographers": [
+        "Varies by market and season; consistent LifeWear campaign system"
+      ],
+      "camera_feel": "Candid, approachable lifestyle with controlled simplicity",
+      "pose_guidelines": "Natural movement and comfort; relaxed posture; authentic interactions; minimal posing",
+      "casting_attitude": "Inclusive, everyday realism; multi-age and multi-ethnicity; calm confidence"
+    },
+    "technical": {
+      "lighting": "Soft daylight or clean studio light",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Medium to shallow depending on product focus",
+      "color_grading": "Natural, clean whites, accurate fabric color"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Practical optimism",
+      "Everyday clarity",
+      "Quiet confidence"
+    ],
+    "preferred_locations": [
+      "Everyday city streets",
+      "Simple interiors",
+      "Parks and transit environments",
+      "Clean studio backdrops for product-focus"
+    ],
+    "contexts": [
+      "Daily routines",
+      "Weather and layering moments",
+      "Movement and comfort",
+      "Wardrobe essentials storytelling"
+    ],
+    "model_casting": {
+      "age_range": "Kids to seniors",
+      "diversity": "High; representative, inclusive casting",
+      "attitude": "Approachable, calm, natural"
+    },
+    "product_presentation": {
+      "hero_visibility": "Clearly readable product with fit and fabric behavior visible",
+      "styling_approach": "Simple layering, tonal coordination, functional styling",
+      "avoid": [
+        "Over-accessorizing",
+        "Overly theatrical fashion poses",
+        "Busy visual clutter that hides garment details"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Natural, everyday rhythm",
+      "transitions": "Clean cuts, minimal effects; product callouts when needed"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show fabric behavior in motion",
+        "Use clean backgrounds and negative space",
+        "Keep colors accurate and lighting honest"
+      ],
+      "visual_donts": [
+        "Heavy retouching that changes fabric/fit",
+        "Over-stylized luxury tropes",
+        "Chaotic layouts that reduce clarity"
+      ],
+      "copy_dos": [
+        "State functional benefits",
+        "Keep it inclusive and universal",
+        "Use simple LifeWear framing"
+      ],
+      "copy_donts": [
+        "Hyperbole",
+        "Dense paragraphs",
+        "Ambiguous poetic claims without product relevance"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "UNIQLO red square brandmark integrity",
+        "LifeWear functional everyday positioning",
+        "Clarity-first layout discipline"
+      ],
+      "can_evolve": [
+        "Seasonal color accents",
+        "Casting stories by market",
+        "Collaboration-led capsules and styling"
+      ],
+      "test_zone": [
+        "Global collaboration capsules",
+        "Experiential exhibitions and pop-ups",
+        "New functional material stories"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "White and light neutral fixtures",
+        "Light wood accents",
+        "Clean metal",
+        "Bright, organized product walls"
+      ],
+      "interactive_elements": [
+        "Clear product information signage",
+        "Seasonal feature zones",
+        "In-store services vary by market"
+      ],
+      "soundscape": "Neutral, modern retail ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More product-spec and utility-forward online; simple lifestyle cues on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Clean lifestyle sequences and seasonal LifeWear story tiles",
+        "Website": "Product-first pages with clear fit, fabric, and function callouts",
+        "Newsletter": "Feature-led with simple hero visuals and direct utility copy"
+      }
+    },
+    "print": {
+      "paper": "Clean commercial stock",
+      "cover_rules": "Simple hero image with minimal copy and clear brandmark"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Brandmark recolored or low-contrast",
+      "Brandmark stretched/distorted",
+      "Brandmark placed on complex patterns reducing legibility"
+    ]
+  }
+}

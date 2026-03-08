@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "Nutella",
+    "tagline": "Spread the Happy",
+    "category": "Food / Confectionery",
+    "positioning": "Iconic hazelnut cocoa spread positioned as an everyday pleasure that brings joy, warmth, and togetherness to simple moments.",
+    "vision": "To make mornings and everyday moments more joyful by sharing simple pleasures.",
+    "mission": "To offer a unique and recognizable taste experience that brings positivity, sharing, and enjoyment into daily life.",
+    "origin_story": "Created in 1964 in Alba, Italy by Ferrero, Nutella evolved from earlier cocoa-hazelnut recipes and became a global symbol of breakfast rituals and shared enjoyment."
+  },
+  "brand_values": {
+    "core_values": [
+      "Joy",
+      "Togetherness",
+      "Authenticity",
+      "Consistency",
+      "Everyday pleasure"
+    ],
+    "brand_promise": "A moment of happiness made of a unique taste, enjoyed together in everyday rituals.",
+    "differentiators": [
+      "Distinctive and inimitable taste",
+      "Strong emotional association with breakfast and sharing",
+      "Global consistency with local cultural relevance"
+    ],
+    "non_negotiables": [
+      "Taste consistency",
+      "Positive emotional tone",
+      "Family-friendly positioning"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Children to adults",
+      "gender": "All",
+      "income_level": "Mass market"
+    },
+    "psychographics": {
+      "lifestyle": "Families and individuals who value small daily rituals and shared moments",
+      "values": [
+        "Togetherness",
+        "Pleasure",
+        "Comfort",
+        "Optimism"
+      ],
+      "behavior": "Consumed during breakfast or snacks, shared within family contexts, emotionally habitual purchase"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Warm",
+      "Positive",
+      "Friendly",
+      "Optimistic",
+      "Reassuring"
+    ],
+    "communication_style": "Simple, joyful, and emotionally engaging with focus on sharing and everyday happiness",
+    "language_register": "Accessible, family-friendly, uplifting",
+    "preferred_structures": [
+      "Everyday moments",
+      "Sharing narratives",
+      "Simple emotional statements"
+    ],
+    "avoid": [
+      "Functional food claims",
+      "Nutritional superiority rhetoric",
+      "Complex or technical language"
+    ],
+    "emotional_temperature": "Warm-joyful",
+    "tone_dos": [
+      "Celebrate togetherness",
+      "Highlight simple rituals",
+      "Maintain positivity"
+    ],
+    "tone_donts": [
+      "Guilt-driven food messaging",
+      "Overly rational explanations",
+      "Negative or critical tones"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Nutella wordmark with black and red typography",
+      "usage_rules": "Maintain color integrity and proportions; never distort or recolor",
+      "lockup_behavior": "Prominent but friendly placement",
+      "safe_area": "Minimum padding equals the height of the Nutella wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#E30613",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#6B3E26",
+        "#F5E6D3",
+        "#D1D5DB"
+      ],
+      "color_usage_rules": "High-contrast, appetite-stimulating palette anchored in brown, red, and white"
+    },
+    "typography": {
+      "primary_font": "Custom Nutella wordmark typography",
+      "secondary_font": "Clean rounded sans-serif for communication",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Emotional headline",
+        "H2 – Supporting message",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple, centered layouts",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-led with minimal copy",
+      "cta_placement": "Friendly and secondary",
+      "alignment": "Centered, welcoming compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "warm",
+        "inviting",
+        "appetizing",
+        "family-oriented",
+        "natural"
+      ],
+      "preferred_photographers": [
+        "Food and lifestyle photographers"
+      ],
+      "camera_feel": "Close, tactile, and comforting",
+      "pose_guidelines": "Hands spreading, sharing moments, breakfast tables",
+      "casting_attitude": "Natural, happy, relatable"
+    },
+    "technical": {
+      "lighting": "Warm natural light or soft morning light",
+      "contrast": "Medium",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow to medium emphasizing food texture",
+      "color_grading": "Warm tones enhancing appetite and comfort"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Everyday happiness",
+      "Sharing moments",
+      "Morning rituals"
+    ],
+    "preferred_locations": [
+      "Home kitchens",
+      "Breakfast tables",
+      "Warm domestic interiors"
+    ],
+    "contexts": [
+      "Breakfast moments",
+      "Family gatherings",
+      "Simple daily treats"
+    ],
+    "model_casting": {
+      "age_range": "Children to adults",
+      "diversity": "High; inclusive family representation",
+      "attitude": "Joyful, relaxed, genuine"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product clearly visible and central",
+      "styling_approach": "Appetizing, simple, real-life contexts",
+      "avoid": [
+        "Over-stylized gourmet settings",
+        "Cold or clinical food imagery",
+        "Abstract food concepts"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Gentle and joyful",
+      "transitions": "Soft cuts and natural motion"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real sharing moments",
+        "Highlight texture and spreadability",
+        "Use warm domestic settings"
+      ],
+      "visual_donts": [
+        "Luxury food staging",
+        "Isolated product-only visuals without context",
+        "Dark or moody lighting"
+      ],
+      "copy_dos": [
+        "Celebrate joy and togetherness",
+        "Keep language simple",
+        "Reinforce ritual moments"
+      ],
+      "copy_donts": [
+        "Health-driven positioning",
+        "Comparative nutritional claims",
+        "Serious or didactic tone"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Emotional joy-based positioning",
+        "Strong breakfast ritual association",
+        "Iconic taste identity"
+      ],
+      "can_evolve": [
+        "Personalized packaging",
+        "Cultural storytelling adaptations",
+        "Sustainability communication"
+      ],
+      "test_zone": [
+        "Limited editions",
+        "Digital community activations",
+        "Experiential brand moments"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Warm tones",
+        "Wood accents",
+        "Clear product visibility"
+      ],
+      "interactive_elements": [
+        "Recipe inspiration",
+        "Family-oriented displays"
+      ],
+      "soundscape": "Warm, friendly ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More playful and emotional on social; reassuring and informative on owned channels",
+      "content_ratio": {
+        "campaign_vs_product": "65:35",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Breakfast moments, spreads, sharing rituals",
+        "Website": "Brand storytelling, product heritage, recipes",
+        "Newsletter": "Seasonal moments, brand stories, inspiration"
+      }
+    },
+    "print": {
+      "paper": "Bright or warm matte stock",
+      "cover_rules": "Product-forward with joyful human presence"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Recolored wordmark",
+      "Distorted logo proportions",
+      "Low-contrast logo placement"
+    ]
+  }
+}

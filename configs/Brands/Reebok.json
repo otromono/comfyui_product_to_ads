@@ -1,0 +1,274 @@
+{
+  "brand_info": {
+    "name": "Reebok",
+    "tagline": "Life Is Not a Spectator Sport.",
+    "category": "Athletic footwear and apparel",
+    "positioning": "A global athletic brand rooted in fitness culture, positioned around functional performance, training heritage, and everyday athletic lifestyle.",
+    "vision": "To be the best fitness brand in the world.",
+    "mission": "Empower people to be their best selves through movement, training, and fitness-driven innovation.",
+    "origin_story": "Founded in 1958 in Bolton, England by Joe and Jeff Foster as a continuation of J.W. Foster and Sons, Reebok originated from a legacy of performance footwear for athletes and evolved into a global fitness-focused sports brand."
+  },
+  "brand_values": {
+    "core_values": [
+      "Fitness-first mindset",
+      "Authenticity",
+      "Functionality",
+      "Inclusivity",
+      "Courage and self-expression",
+      "Human performance"
+    ],
+    "brand_promise": "Deliver functional, credible products inspired by real training, fitness culture, and everyday movement.",
+    "differentiators": [
+      "Deep heritage in fitness, training, and functional movement rather than sport spectacle.",
+      "Strong cultural roots in aerobics, gym culture, and training communities.",
+      "Clear positioning around training, fitness, and lifestyle crossover rather than competition-first sports.",
+      "Iconic footwear franchises bridging performance and street culture."
+    ],
+    "non_negotiables": [
+      "Maintain fitness-first credibility across products and campaigns.",
+      "Protect Reebok’s training and movement heritage.",
+      "Keep messaging authentic, human, and grounded in real movement.",
+      "Avoid drifting into performance claims not rooted in training reality."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-45",
+      "gender": "All",
+      "income_level": "Mid-range"
+    },
+    "psychographics": {
+      "lifestyle": "Fitness-oriented consumers balancing gym training, wellness, and everyday active lifestyles with a cultural awareness of sport and streetwear.",
+      "values": [
+        "Health and fitness",
+        "Self-expression through movement",
+        "Authenticity",
+        "Function over hype",
+        "Inclusivity"
+      ],
+      "behavior": "Regular training participation, interest in functional footwear and apparel, appreciation for heritage silhouettes and fitness-driven storytelling."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Authentic",
+      "Human",
+      "Empowering",
+      "Straightforward"
+    ],
+    "communication_style": "Direct, motivating, and human-centered, grounded in real fitness and training experiences.",
+    "language_register": "Plain / Motivational / Accessible",
+    "preferred_structures": [
+      "Clear calls to action",
+      "Fitness-driven statements",
+      "Human-centered messaging around effort and progress"
+    ],
+    "avoid": [
+      "Overly technical sports science jargon",
+      "Luxury or elitist language",
+      "Hyper-competitive athlete worship"
+    ],
+    "emotional_temperature": "Energetic but grounded",
+    "tone_dos": [
+      "Celebrate effort and participation",
+      "Use inclusive and motivating language",
+      "Keep claims tied to real training benefits"
+    ],
+    "tone_donts": [
+      "Exaggerated performance promises",
+      "Abstract brand manifestos disconnected from fitness",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Reebok wordmark and Vector logo.",
+      "usage_rules": "Ensure high contrast and clarity; avoid distortion or decorative effects.",
+      "lockup_behavior": "Wordmark or Vector logo used contextually; maintain consistency and clear spacing.",
+      "safe_area": "Minimum padding equals the height of the 'R' in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#CD2B2A",
+        "#7A7A7A"
+      ],
+      "color_usage_rules": "Neutral athletic base with selective accent colors inspired by training heritage and seasonal collections."
+    },
+    "typography": {
+      "primary_font": "Bold modern sans-serif with athletic character",
+      "secondary_font": "Condensed sans-serif for impact headlines",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.02em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Regular/Bold sans",
+        "Body – Regular sans",
+        "Captions – Regular sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Strong modular grid with athletic clarity",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-led with assertive copy blocks",
+      "cta_placement": "Lower third or integrated into compositions",
+      "alignment": "Dynamic but readable compositions reflecting movement"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "fitness-driven",
+        "raw energy",
+        "authentic movement",
+        "inclusive",
+        "urban-gym"
+      ],
+      "preferred_photographers": [
+        "Fitness and training photographers with documentary sensibility",
+        "Lifestyle photographers capturing real movement and sweat",
+        "Studio photographers emphasizing function and durability"
+      ],
+      "camera_feel": "Direct, energetic imagery emphasizing effort, form, and real training environments.",
+      "pose_guidelines": "Functional movement, exertion, and recovery moments; avoid overly posed hero stances.",
+      "casting_attitude": "Everyday athletes and diverse fitness communities; credibility over perfection."
+    },
+    "technical": {
+      "lighting": "Natural or gritty studio lighting reflecting gym environments.",
+      "contrast": "Medium to high.",
+      "grain": "Low to moderate for texture and realism.",
+      "depth_of_field": "Moderate; subject clarity prioritized.",
+      "color_grading": "Natural with slightly desaturated or gritty tones."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Fitness authenticity",
+      "Human strength",
+      "Inclusive energy",
+      "Functional intensity"
+    ],
+    "preferred_locations": [
+      "Gyms and training spaces",
+      "Urban environments",
+      "Functional studio sets"
+    ],
+    "contexts": [
+      "Training and fitness routines",
+      "Everyday athletic effort",
+      "Community-driven movement",
+      "Heritage fitness storytelling"
+    ],
+    "model_casting": {
+      "age_range": "18–45",
+      "diversity": "Broad and inclusive",
+      "attitude": "Focused, determined, approachable"
+    },
+    "product_presentation": {
+      "hero_visibility": "Function, stability, and construction clarity prioritized.",
+      "styling_approach": "Training-first styling with lifestyle crossover.",
+      "avoid": [
+        "Luxury-only framing",
+        "Over-stylized fantasy worlds"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Energetic and rhythmic, aligned with training intensity.",
+      "transitions": "Hard cuts and minimal graphic overlays."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real training and effort",
+        "Highlight functional performance",
+        "Represent diverse bodies and abilities"
+      ],
+      "visual_donts": [
+        "Over-polished imagery",
+        "Unrelatable elite-only portrayals",
+        "Visual clutter"
+      ],
+      "copy_dos": [
+        "Motivate participation",
+        "Use clear and direct language",
+        "Reinforce fitness-first identity"
+      ],
+      "copy_donts": [
+        "Overpromising results",
+        "Luxury positioning language",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Reebok wordmark and Vector logo integrity",
+        "Fitness and training focus",
+        "Authentic, human-centered messaging"
+      ],
+      "can_evolve": [
+        "Cultural collaborations",
+        "Visual execution styles",
+        "Digital-first storytelling"
+      ],
+      "test_zone": [
+        "New fitness communities",
+        "Emerging training formats",
+        "Hybrid sport-lifestyle expressions"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Industrial finishes",
+        "Durable fixtures",
+        "Product-led displays"
+      ],
+      "interactive_elements": [
+        "Training education zones",
+        "Community-driven storytelling modules"
+      ],
+      "soundscape": "High-energy but accessible workout-oriented music"
+    },
+    "digital": {
+      "tone_adjustment": "Motivational, clear, and fitness-driven",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Training content, community features, heritage footwear drops",
+        "Website": "Product function and fitness storytelling",
+        "Newsletter": "Training inspiration and product highlights"
+      }
+    },
+    "print": {
+      "paper": "Standard coated stock",
+      "cover_rules": "Strong human movement imagery; minimal copy"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting the Vector logo",
+      "Placing logo on low-contrast backgrounds",
+      "Over-layering logos on busy training imagery"
+    ]
+  }
+}

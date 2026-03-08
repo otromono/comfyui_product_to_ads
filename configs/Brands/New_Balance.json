@@ -1,0 +1,277 @@
+{
+  "brand_info": {
+    "name": "New Balance",
+    "tagline": "Fearlessly Independent.",
+    "category": "Athletic footwear and apparel",
+    "positioning": "An independent global athletic brand positioned at the intersection of performance, craftsmanship, and culture, balancing technical sports innovation with authentic lifestyle relevance.",
+    "vision": "To be the world’s leading responsible brand by empowering people through sport and craftsmanship.",
+    "mission": "Demonstrate responsible leadership, empower people through sport and craftsmanship, and create positive change in communities worldwide.",
+    "origin_story": "Founded in 1906 in Boston, Massachusetts by William J. Riley as the New Balance Arch Support Company, originally focused on arch supports before evolving into athletic footwear and apparel rooted in fit, function, and performance."
+  },
+  "brand_values": {
+    "core_values": [
+      "Independence",
+      "Craftsmanship",
+      "Performance integrity",
+      "Authenticity",
+      "Community impact",
+      "Responsible leadership"
+    ],
+    "brand_promise": "Deliver performance and style through uncompromising quality, fit, and craftsmanship while remaining true to independent values.",
+    "differentiators": [
+      "Long-standing independence and private ownership enabling long-term brand thinking.",
+      "Strong emphasis on fit, function, and performance credibility across running, training, and lifestyle.",
+      "Made in USA and Made in UK programs highlighting craftsmanship and local manufacturing.",
+      "Cultural relevance through authentic collaborations spanning sport, fashion, and creative communities."
+    ],
+    "non_negotiables": [
+      "Maintain independence and avoid trend-chasing that compromises authenticity.",
+      "Protect performance credibility and functional integrity across all categories.",
+      "Preserve craftsmanship narratives, especially Made in USA and Made in UK.",
+      "Keep brand communication grounded, honest, and human."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-50",
+      "gender": "All",
+      "income_level": "Mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Consumers who value performance, comfort, and authenticity, spanning athletes, creatives, and culturally aware urban audiences.",
+      "values": [
+        "Authenticity",
+        "Quality and durability",
+        "Individuality",
+        "Cultural credibility",
+        "Responsible production"
+      ],
+      "behavior": "Research-driven purchasing, brand loyalty, appreciation for heritage models, interest in collaborations and limited releases."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Grounded",
+      "Independent",
+      "Authentic",
+      "Purpose-driven"
+    ],
+    "communication_style": "Clear, confident, and understated, balancing performance credibility with cultural awareness.",
+    "language_register": "Plain / Purposeful / Contemporary",
+    "preferred_structures": [
+      "Direct statements of belief",
+      "Performance-led claims supported by facts",
+      "Cultural storytelling grounded in real people and communities"
+    ],
+    "avoid": [
+      "Overhyped sports rhetoric",
+      "Luxury elitism",
+      "Trend-chasing slang"
+    ],
+    "emotional_temperature": "Calm confidence",
+    "tone_dos": [
+      "Emphasize independence and long-term thinking",
+      "Keep language honest and grounded",
+      "Highlight real athletes, makers, and communities"
+    ],
+    "tone_donts": [
+      "Shouty marketing language",
+      "Overpromising innovation without proof",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "New Balance wordmark with the 'NB' flying logo.",
+      "usage_rules": "Ensure strong contrast and legibility; avoid distortion or decorative effects.",
+      "lockup_behavior": "Wordmark or NB logo used depending on context; maintain clarity and scale consistency.",
+      "safe_area": "Minimum padding equals the height of the 'N' in the logo."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#C8102E"
+      ],
+      "secondary_colors": [
+        "#6D6E71",
+        "#A7A9AC"
+      ],
+      "color_usage_rules": "Neutral base palette with controlled use of red as a brand accent; campaign palettes may expand but remain grounded."
+    },
+    "typography": {
+      "primary_font": "Modern sans-serif with utilitarian character",
+      "secondary_font": "Condensed sans-serif for headlines and performance emphasis",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.02em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Regular/Bold sans",
+        "Body – Regular sans",
+        "Captions – Regular sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured modular grid with functional alignment",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Balanced between product clarity and storytelling",
+      "cta_placement": "Lower third or bottom alignment",
+      "alignment": "Functional, grounded compositions with clear product focus"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "authentic",
+        "performance-led",
+        "heritage-modern",
+        "community-focused",
+        "functional"
+      ],
+      "preferred_photographers": [
+        "Documentary-style sports and lifestyle photographers",
+        "Editorial photographers with a grounded, human approach",
+        "Studio product photographers emphasizing material and construction"
+      ],
+      "camera_feel": "Honest and tactile imagery balancing performance clarity with cultural realism.",
+      "pose_guidelines": "Natural athletic stances, relaxed confidence, real movement over exaggerated action.",
+      "casting_attitude": "Real athletes, creatives, and diverse communities; credibility over spectacle."
+    },
+    "technical": {
+      "lighting": "Natural or soft studio lighting emphasizing form and materials.",
+      "contrast": "Medium; realistic tonal range.",
+      "grain": "Low to moderate for a tactile feel.",
+      "depth_of_field": "Moderate; clarity prioritized.",
+      "color_grading": "Natural, restrained grading with subtle warmth or coolness depending on context."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Authentic confidence",
+      "Performance integrity",
+      "Cultural credibility",
+      "Timeless functionality"
+    ],
+    "preferred_locations": [
+      "Urban neighborhoods",
+      "Training environments",
+      "Workshops and factories",
+      "Neutral studio settings"
+    ],
+    "contexts": [
+      "Everyday performance",
+      "Training and competition",
+      "Craft and manufacturing stories",
+      "Community and cultural expression"
+    ],
+    "model_casting": {
+      "age_range": "18–50",
+      "diversity": "Broad and authentic representation",
+      "attitude": "Grounded, focused, confident without arrogance"
+    },
+    "product_presentation": {
+      "hero_visibility": "Fit, construction, and silhouette clarity prioritized.",
+      "styling_approach": "Functional styling with lifestyle crossover; avoid over-stylization.",
+      "avoid": [
+        "Fashion-only framing that erodes performance credibility",
+        "Overly polished or artificial scenes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured and purposeful; clarity over speed.",
+      "transitions": "Clean cuts; minimal graphic intervention."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real movement and real people",
+        "Highlight craftsmanship and fit",
+        "Keep compositions functional and honest"
+      ],
+      "visual_donts": [
+        "Overly stylized fantasy worlds",
+        "Excessive visual noise",
+        "Trend-driven gimmicks"
+      ],
+      "copy_dos": [
+        "Speak with conviction and humility",
+        "Support claims with proof",
+        "Reinforce independence and responsibility"
+      ],
+      "copy_donts": [
+        "Hyperbolic language",
+        "Luxury posturing",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "New Balance wordmark and NB logo integrity",
+        "Performance and fit credibility",
+        "Independent brand stance",
+        "Craftsmanship narrative"
+      ],
+      "can_evolve": [
+        "Cultural storytelling formats",
+        "Collaboration aesthetics",
+        "Digital-first campaign expressions"
+      ],
+      "test_zone": [
+        "New performance categories",
+        "Innovative material stories",
+        "Emerging community platforms"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Industrial and natural finishes",
+        "Functional fixtures",
+        "Product-first displays"
+      ],
+      "interactive_elements": [
+        "Fit and gait education zones",
+        "Heritage storytelling installations"
+      ],
+      "soundscape": "Low-key, contemporary music with a utilitarian feel"
+    },
+    "digital": {
+      "tone_adjustment": "Clear, informative, and visually grounded",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Athlete stories, community features, product drops",
+        "Website": "Performance education and product depth",
+        "Newsletter": "Purpose-led storytelling and product highlights"
+      }
+    },
+    "print": {
+      "paper": "Matte or lightly coated stock",
+      "cover_rules": "Strong product or human focus; minimal copy"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting the NB logo",
+      "Placing logo on low-contrast backgrounds",
+      "Overdecorating the logo with effects"
+    ]
+  }
+}

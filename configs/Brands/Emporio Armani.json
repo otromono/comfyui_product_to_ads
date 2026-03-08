@@ -1,0 +1,161 @@
+{
+  "brand_info": {
+    "name": "Emporio Armani",
+    "tagline": "Every Body is Welcome",
+    "category": "Fashion",
+    "positioning": "Accessible luxury for the contemporary urban generation.",
+    "vision": "Democratize elegance while preserving the Armani legacy.",
+    "mission": "Offer refined, wearable fashion for modern life with quality, consistency and understated sophistication.",
+    "origin_story": "Founded by Giorgio Armani in 1981 as a youthful, metropolitan evolution of the Armani brand."
+  },
+
+  "brand_values": {
+    "core_values": ["Elegance", "Simplicity", "Quality", "Inclusivity"],
+    "brand_promise": "A modern, sophisticated wardrobe rooted in Armani's minimal ethos.",
+    "differentiators": ["Urban luxury aesthetic", "Youthful interpretation of Italian style", "Timeless campaigns with iconic photography"],
+    "non_negotiables": ["No vulgarity", "No trend-chasing", "No visual excess"]
+  },
+
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "All",
+      "income_level": "Medium-high / Accessible Luxury"
+    },
+    "psychographics": {
+      "lifestyle": "Urban professionals with refined taste and cultural curiosity",
+      "values": ["Timeless style", "Personal authenticity", "Understated confidence"],
+      "behavior": "Loyal to aesthetic codes, interested in long-term value and emotional identity"
+    }
+  },
+
+  "tone_of_voice": {
+    "personality_traits": ["Refined", "Confident", "Modern"],
+    "communication_style": "Minimal and intentional",
+    "language_register": "Formal",
+    "preferred_structures": ["One-line statements", "Evocative editorial fragments"],
+    "avoid": ["Clickbait", "Aggressiveness", "Colloquialisms"],
+    "emotional_temperature": "Neutral-warm",
+    "tone_dos": ["Suggest rather than declare", "Use visual language without exaggeration"],
+    "tone_donts": ["Shouting headlines", "Forced hype"]
+  },
+
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Eagle icon with 'EMPORIO ARMANI' in Didot serif",
+      "usage_rules": "Always placed subtly, never overlays on faces or prints",
+      "lockup_behavior": "Centered or top aligned with clear space",
+      "safe_area": "Minimum padding equals half the logo height"
+    },
+    "color_system": {
+      "primary_colors": ["#000000", "#FFFFFF"],
+      "secondary_colors": ["#808080", "#C2C2C2"],
+      "color_usage_rules": "No gradients or textures; preference for monochrome compositions"
+    },
+    "typography": {
+      "primary_font": "Didot LT",
+      "secondary_font": "Helvetica Neue",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Light",
+        "captions": "Regular Italic"
+      },
+      "spacing": {
+        "letter_spacing": "0.02em",
+        "line_height": "1.6"
+      },
+      "hierarchy": ["H1 – All caps serif", "H2 – Italic serif or sans-serif", "Body – Light sans-serif"]
+    },
+    "layout_principles": {
+      "grid_system": "12-column",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Image-led",
+      "cta_placement": "Lower right or center",
+      "alignment": "Often centered or editorial-asymmetric"
+    }
+  },
+
+  "photography": {
+    "style": {
+      "keywords": ["editorial", "monochrome", "cinematic", "relaxed"],
+      "preferred_photographers": ["Aldo Fallai", "Serge Guerand"],
+      "camera_feel": "Cinematic stills from imagined urban stories",
+      "pose_guidelines": "Composed yet natural, never over-expressive",
+      "casting_attitude": "Self-aware confidence, diverse but harmonious"
+    },
+    "technical": {
+      "lighting": "Soft natural or sculpted studio",
+      "contrast": "Medium to high",
+      "grain": "Subtle, filmic",
+      "depth_of_field": "Shallow preferred",
+      "color_grading": "Neutral to warm; muted saturation"
+    }
+  },
+
+  "campaign_guidelines": {
+    "visual_tone": ["Quiet power", "Cinematic", "Modern monochrome"],
+    "preferred_locations": ["Milan cityscapes", "Concrete textures", "Sunlight-filtered interiors"],
+    "contexts": ["Urban movement", "Editorial intimacy", "Architectural presence"],
+    "model_casting": {
+      "age_range": "20–40",
+      "diversity": "Yes, subtle and inclusive",
+      "attitude": "Detached poise, emotional presence"
+    },
+    "product_presentation": {
+      "hero_visibility": "Visible but blended into the story",
+      "styling_approach": "Tone-on-tone layering, minimal accessories",
+      "avoid": ["Over-styling", "Busy settings"]
+    },
+    "motion_rules": {
+      "pacing": "Fluid, slowed cinematic rhythm",
+      "transitions": "Soft cuts, light fades"
+    }
+  },
+
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": ["Use of shadows", "Empty space for framing"],
+      "visual_donts": ["Overexposure", "Stock imagery"],
+      "copy_dos": ["Clear statements with visual tone"],
+      "copy_donts": ["Too much text", "Hyperbole"]
+    },
+    "immutability": {
+      "must_remain": ["Logo", "Tone of voice", "Minimalist composition rules"],
+      "can_evolve": ["Model selection", "Color accent use", "Motion direction"],
+      "test_zone": ["Pop-up stores", "Digital shorts"]
+    }
+  },
+
+  "channel_expression": {
+    "retail": {
+      "materials": ["Greige stone", "Smoked glass", "Matte steel"],
+      "interactive_elements": ["Silent campaign LED screens", "Fragrance zones"],
+      "soundscape": "Low-tempo ambient, curated mixes"
+    },
+    "digital": {
+      "tone_adjustment": "Editorial on web, poetic-minimal captions on Instagram",
+      "content_ratio": {
+        "campaign_vs_product": "70:30",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Cinematic portrait sequences with elegant copy",
+        "Website": "Full bleed visuals, clean nav",
+        "Newsletter": "Monochrome, image-led, few words"
+      }
+    },
+    "print": {
+      "paper": "Matte fine stock",
+      "cover_rules": "Full-bleed photography, logo in lower third"
+    }
+  },
+
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": ["Logo on complex patterns", "Low contrast placements"]
+  }
+}

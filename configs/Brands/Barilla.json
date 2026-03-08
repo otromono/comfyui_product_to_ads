@@ -1,0 +1,272 @@
+{
+  "brand_info": {
+    "name": "Barilla",
+    "tagline": "The Joy of Food for a Better Life",
+    "category": "Food / Pasta and Bakery Products",
+    "positioning": "Global food brand rooted in Italian culinary culture, focused on quality ingredients, everyday nourishment, and bringing people together around simple, good food.",
+    "vision": "The Joy of Food for a Better Life.",
+    "mission": "To bring people together through the joy of food, creating products made with care, quality ingredients, and respect for people and the planet.",
+    "origin_story": "Founded in 1877 in Parma, Italy by Pietro Barilla as a small bread and pasta shop, later growing into a global food company synonymous with Italian pasta culture."
+  },
+  "brand_values": {
+    "core_values": [
+      "Quality",
+      "Care",
+      "Tradition",
+      "Trust",
+      "Sustainability",
+      "Family"
+    ],
+    "brand_promise": "High-quality food products made with carefully selected ingredients, designed for everyday meals that nourish body, relationships, and culture.",
+    "differentiators": [
+      "Deep-rooted Italian culinary heritage",
+      "Strong focus on quality control and ingredient transparency",
+      "Global leadership in pasta with consistent taste and cooking performance"
+    ],
+    "non_negotiables": [
+      "Respect for Italian food culture",
+      "Product quality and safety",
+      "Trust built through consistency and transparency"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All ages",
+      "gender": "All",
+      "income_level": "Mass market / quality-focused consumers"
+    },
+    "psychographics": {
+      "lifestyle": "People who value shared meals, family moments, and simple, well-prepared food as part of daily life",
+      "values": [
+        "Togetherness",
+        "Care",
+        "Authenticity",
+        "Well-being",
+        "Balance"
+      ],
+      "behavior": "Regular household purchase, brand loyalty built over time, preference for trusted food brands and consistent quality"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Warm",
+      "Trustworthy",
+      "Inclusive",
+      "Reassuring",
+      "Authentic"
+    ],
+    "communication_style": "Emotional yet grounded, combining warmth and clarity with a focus on everyday life and shared moments",
+    "language_register": "Accessible, human, reassuring",
+    "preferred_structures": [
+      "Short emotional statements",
+      "Everyday storytelling",
+      "Simple benefit explanations"
+    ],
+    "avoid": [
+      "Overly technical food jargon",
+      "Aggressive marketing language",
+      "Elitist culinary tone"
+    ],
+    "emotional_temperature": "Warm-calm",
+    "tone_dos": [
+      "Celebrate togetherness",
+      "Use inclusive language",
+      "Highlight care and quality"
+    ],
+    "tone_donts": [
+      "Overcomplication",
+      "Cold corporate language",
+      "Trend-driven food hype"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Barilla wordmark inside the iconic red oval",
+      "usage_rules": "Always maintain the red oval integrity; never distort or recolor; ensure strong contrast",
+      "lockup_behavior": "Typically centered or placed prominently; often paired with food imagery",
+      "safe_area": "Minimum padding equals the height of the Barilla wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#C8102E",
+        "#003A8F",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#F2C94C",
+        "#6B7280",
+        "#E5E7EB"
+      ],
+      "color_usage_rules": "Red and blue as core brand anchors; warm food tones used to enhance appetite appeal"
+    },
+    "typography": {
+      "primary_font": "Friendly modern serif or humanist sans-serif used in brand systems",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Brand headline style",
+        "H2 – Supporting headline",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple, balanced grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Food-led imagery with supportive copy",
+      "cta_placement": "Lower area or integrated within food scenes",
+      "alignment": "Centered or gently structured layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "warm",
+        "authentic",
+        "appetizing",
+        "everyday",
+        "Italian"
+      ],
+      "preferred_photographers": [
+        "Varies by market; consistent home-style food photography language"
+      ],
+      "camera_feel": "Inviting realism with a human, lived-in feel",
+      "pose_guidelines": "Hands serving, sharing, cooking; natural gestures",
+      "casting_attitude": "Real families and people; relaxed, genuine, inclusive"
+    },
+    "technical": {
+      "lighting": "Warm natural light or soft studio light mimicking daylight",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow to medium focusing on food texture",
+      "color_grading": "Warm, natural tones enhancing freshness and appetite"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Everyday warmth",
+      "Italian conviviality",
+      "Trust and care"
+    ],
+    "preferred_locations": [
+      "Home kitchens",
+      "Dining tables",
+      "Family settings",
+      "Italian-inspired interiors"
+    ],
+    "contexts": [
+      "Cooking together",
+      "Family meals",
+      "Everyday rituals",
+      "Celebrating simple moments"
+    ],
+    "model_casting": {
+      "age_range": "All ages",
+      "diversity": "High; inclusive representation of families and cultures",
+      "attitude": "Warm, relaxed, joyful"
+    },
+    "product_presentation": {
+      "hero_visibility": "Finished dishes and ingredients clearly visible and appetizing",
+      "styling_approach": "Natural food styling; emphasis on freshness and simplicity",
+      "avoid": [
+        "Over-styled gourmet plating",
+        "Cold studio-only food shots",
+        "Artificial food effects"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow to moderate, matching home-life rhythm",
+      "transitions": "Soft cuts and gentle dissolves"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real food moments",
+        "Highlight togetherness",
+        "Use warm and natural lighting"
+      ],
+      "visual_donts": [
+        "Sterile or overly technical visuals",
+        "Luxury fine-dining tropes",
+        "Disconnected food imagery"
+      ],
+      "copy_dos": [
+        "Use inclusive, reassuring language",
+        "Focus on care and quality",
+        "Celebrate everyday life"
+      ],
+      "copy_donts": [
+        "Hard selling",
+        "Complex nutritional jargon",
+        "Short-term trend chasing"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Italian heritage",
+        "Trust and quality perception",
+        "Family and togetherness values"
+      ],
+      "can_evolve": [
+        "Sustainability storytelling",
+        "Health and nutrition education",
+        "Cultural diversity narratives"
+      ],
+      "test_zone": [
+        "Plant-based innovations",
+        "Digital cooking experiences",
+        "New food formats"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Warm neutrals",
+        "Natural textures",
+        "Clear product visibility"
+      ],
+      "interactive_elements": [
+        "Recipe inspiration panels",
+        "Cooking tips and pairing suggestions"
+      ],
+      "soundscape": "Warm, welcoming ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational and recipe-driven online; emotional storytelling on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Food close-ups, family moments, short recipes",
+        "Website": "Recipe hubs, product education, sustainability information",
+        "Newsletter": "Seasonal recipes, brand stories, product highlights"
+      }
+    },
+    "print": {
+      "paper": "Matte or semi-matte stock with warm color reproduction",
+      "cover_rules": "Food hero imagery with clear Barilla logo and minimal copy"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Recolored red oval",
+      "Distorted logo proportions",
+      "Low-contrast logo on busy backgrounds"
+    ]
+  }
+}

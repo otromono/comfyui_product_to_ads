@@ -1,0 +1,267 @@
+{
+  "brand_info": {
+    "name": "Dove",
+    "tagline": "Real Beauty",
+    "category": "Personal Care / Beauty",
+    "positioning": "Personal care brand committed to gentle care and inclusive beauty, focused on real people, real skin, and products designed for everyday nourishment and comfort.",
+    "vision": "A world where beauty is a source of confidence, not anxiety.",
+    "mission": "To help people feel confident in their own skin by offering gentle, effective personal care products and challenging narrow beauty standards.",
+    "origin_story": "Introduced in 1957 in the United States with the Dove Beauty Bar, Dove was created to offer a milder alternative to soap and later evolved into a global brand advocating real beauty and self-esteem."
+  },
+  "brand_values": {
+    "core_values": [
+      "Care",
+      "Gentleness",
+      "Inclusivity",
+      "Authenticity",
+      "Respect"
+    ],
+    "brand_promise": "Gentle, nourishing care that supports healthy skin while celebrating real beauty in all its forms.",
+    "differentiators": [
+      "Strong association with skin care and moisturization",
+      "Long-standing commitment to inclusive beauty representation",
+      "Purpose-driven brand platform linked to self-esteem and confidence"
+    ],
+    "non_negotiables": [
+      "Respect for real bodies and skin",
+      "Gentle product formulation",
+      "Inclusive and responsible communication"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All ages",
+      "gender": "All",
+      "income_level": "Mass market"
+    },
+    "psychographics": {
+      "lifestyle": "People seeking reliable, gentle personal care and positive self-image messaging",
+      "values": [
+        "Self-acceptance",
+        "Care",
+        "Trust",
+        "Well-being"
+      ],
+      "behavior": "Regular everyday-use purchase, strong brand trust, preference for gentle and familiar products"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Caring",
+      "Supportive",
+      "Honest",
+      "Inclusive",
+      "Calm"
+    ],
+    "communication_style": "Warm, empathetic, and reassuring with a focus on self-acceptance and everyday care",
+    "language_register": "Accessible, human, non-judgmental",
+    "preferred_structures": [
+      "Affirmative statements",
+      "Human-centered storytelling",
+      "Simple benefit explanations"
+    ],
+    "avoid": [
+      "Perfection-driven beauty language",
+      "Aggressive transformation claims",
+      "Judgmental tone"
+    ],
+    "emotional_temperature": "Warm-supportive",
+    "tone_dos": [
+      "Promote self-confidence",
+      "Use inclusive language",
+      "Emphasize care over appearance"
+    ],
+    "tone_donts": [
+      "Unrealistic beauty ideals",
+      "Shaming or comparative language",
+      "Overpromising results"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Dove wordmark with iconic dove symbol",
+      "usage_rules": "Maintain clarity and integrity; never distort; ensure gentle contrast",
+      "lockup_behavior": "Centered or gently placed; calm and respectful presence",
+      "safe_area": "Minimum padding equals the height of the Dove wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#0B3C5D",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#E6D8CC",
+        "#F2C94C",
+        "#D1D5DB"
+      ],
+      "color_usage_rules": "Soft, clean palette conveying care, trust, and gentleness"
+    },
+    "typography": {
+      "primary_font": "Soft humanist sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Regular to Medium",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Gentle headline",
+        "H2 – Supporting text",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple, balanced grid",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Human-led imagery with supportive copy",
+      "cta_placement": "Secondary and unobtrusive",
+      "alignment": "Centered or softly aligned layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "real",
+        "natural",
+        "inclusive",
+        "soft",
+        "human"
+      ],
+      "preferred_photographers": [
+        "Documentary-style and lifestyle photographers"
+      ],
+      "camera_feel": "Natural realism with emotional warmth",
+      "pose_guidelines": "Relaxed, everyday poses; natural body language",
+      "casting_attitude": "Real people; confident, comfortable, authentic"
+    },
+    "technical": {
+      "lighting": "Soft natural light or diffused studio light",
+      "contrast": "Low",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow to medium maintaining intimacy",
+      "color_grading": "Natural, warm-neutral tones preserving skin authenticity"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Real beauty",
+      "Human warmth",
+      "Everyday confidence"
+    ],
+    "preferred_locations": [
+      "Everyday environments",
+      "Home interiors",
+      "Neutral studio settings"
+    ],
+    "contexts": [
+      "Daily care routines",
+      "Moments of self-acceptance",
+      "Real-life interactions"
+    ],
+    "model_casting": {
+      "age_range": "All ages",
+      "diversity": "Very high; broad representation of body types, ages, ethnicities",
+      "attitude": "Confident, relaxed, genuine"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product visible but secondary to human presence",
+      "styling_approach": "Natural, unstyled realism",
+      "avoid": [
+        "Heavy retouching",
+        "Highly stylized beauty shoots",
+        "Idealized body imagery"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow and human-paced",
+      "transitions": "Soft cuts and natural motion"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real people and skin",
+        "Maintain authenticity",
+        "Use soft and inclusive visuals"
+      ],
+      "visual_donts": [
+        "Retouched perfection",
+        "Exclusionary beauty standards",
+        "Harsh visual treatments"
+      ],
+      "copy_dos": [
+        "Encourage self-acceptance",
+        "Speak with empathy",
+        "Keep language accessible"
+      ],
+      "copy_donts": [
+        "Comparative beauty claims",
+        "Fear-based messaging",
+        "Shaming narratives"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Real Beauty platform",
+        "Gentle care positioning",
+        "Inclusive representation"
+      ],
+      "can_evolve": [
+        "Expanded sustainability commitments",
+        "Broader gender-neutral narratives",
+        "Educational self-care content"
+      ],
+      "test_zone": [
+        "New personal care categories",
+        "Digital confidence initiatives",
+        "Community storytelling"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean whites",
+        "Soft neutrals",
+        "Clear product labeling"
+      ],
+      "interactive_elements": [
+        "Educational panels on skin care",
+        "Purpose and values storytelling"
+      ],
+      "soundscape": "Calm, neutral ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational on owned channels; emotionally resonant on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Real people stories, skin positivity, inclusive visuals",
+        "Website": "Product education, ingredient transparency, brand purpose",
+        "Newsletter": "Care tips, confidence stories, product updates"
+      }
+    },
+    "print": {
+      "paper": "Matte or soft-touch stock",
+      "cover_rules": "Human-centered imagery with restrained copy and clear Dove logo"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorted dove symbol",
+      "Harsh contrast logo placement",
+      "Decorative logo effects"
+    ]
+  }
+}

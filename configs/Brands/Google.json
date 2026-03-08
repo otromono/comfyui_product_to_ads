@@ -1,0 +1,285 @@
+{
+  "brand_info": {
+    "name": "Google",
+    "tagline": "Organize the world's information and make it universally accessible and useful.",
+    "category": "Technology / Consumer Internet Services",
+    "positioning": "Consumer-facing technology brand focused on helpful, accessible products and services that make information and everyday tasks easier.",
+    "vision": "Organize the world's information and make it universally accessible and useful.",
+    "mission": "Organize the world's information and make it universally accessible and useful.",
+    "origin_story": "Founded in 1998 by Larry Page and Sergey Brin, originating from research at Stanford University and incorporated as Google Inc. in 1998."
+  },
+  "brand_values": {
+    "core_values": [
+      "Helpfulness",
+      "Simplicity",
+      "Accessibility",
+      "Innovation",
+      "User trust"
+    ],
+    "brand_promise": "Make products and services that are simple, useful, and accessible, helping people find information and get things done.",
+    "differentiators": [
+      "Human-centered product design",
+      "Instant access to information",
+      "Ecosystem of integrated tools and services",
+      "Recognizable multicolor identity"
+    ],
+    "non_negotiables": [
+      "Clarity over complexity",
+      "Inclusive accessibility",
+      "No deceptive design",
+      "Respect user trust and privacy expectations"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All",
+      "gender": "All",
+      "income_level": "All"
+    },
+    "psychographics": {
+      "lifestyle": "Broad mainstream users across work, learning, entertainment, travel, and everyday life",
+      "values": [
+        "Convenience",
+        "Reliability",
+        "Curiosity",
+        "Efficiency",
+        "Connectivity"
+      ],
+      "behavior": "Uses digital tools daily; expects fast, intuitive experiences; values trustworthy, helpful guidance and frictionless workflows"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Helpful",
+      "Clear",
+      "Optimistic",
+      "Approachable"
+    ],
+    "communication_style": "Plain-language, user-first, benefit-led",
+    "language_register": "Neutral",
+    "preferred_structures": [
+      "Short helpful statements",
+      "Action-oriented microcopy",
+      "Simple feature-benefit phrasing"
+    ],
+    "avoid": [
+      "Aggressive sales language",
+      "Fear-based messaging",
+      "Overly technical jargon",
+      "Ambiguity"
+    ],
+    "emotional_temperature": "Warm-neutral",
+    "tone_dos": [
+      "Be concise and practical",
+      "Use friendly clarity",
+      "Prioritize user outcomes"
+    ],
+    "tone_donts": [
+      "Hype without utility",
+      "Overpromising",
+      "Dense corporate language"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Google wordmark in Product Sans / Google Sans with multicolor letterforms",
+      "usage_rules": "Use approved logo assets only; maintain clear space; do not distort, recolor, or add effects; avoid placing on busy backgrounds that reduce legibility",
+      "lockup_behavior": "Centered or top-left aligned depending on layout; consistent clear space and optical alignment",
+      "safe_area": "Minimum padding equals the height of the lowercase 'o' in the wordmark (or equivalent proportional clear space when scaled)"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#4285F4",
+        "#DB4437",
+        "#F4B400",
+        "#0F9D58"
+      ],
+      "secondary_colors": [
+        "#FFFFFF",
+        "#202124",
+        "#5F6368",
+        "#F1F3F4"
+      ],
+      "color_usage_rules": "Use brand colors as purposeful accents and signals, not as decorative patterns; prioritize clarity, accessibility, and sufficient contrast; backgrounds typically white or light neutral"
+    },
+    "typography": {
+      "primary_font": "Google Sans",
+      "secondary_font": "Roboto",
+      "weights": {
+        "headlines": "Medium",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0em to 0.01em",
+        "line_height": "1.4 to 1.6"
+      },
+      "hierarchy": [
+        "H1 – Clean sans headline",
+        "H2 – Subhead sans",
+        "Body – Roboto regular",
+        "Captions – Smaller sans with clear contrast"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "8dp-based spacing system; modular responsive grid",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Function-led: UI and product moments balanced with concise copy",
+      "cta_placement": "Contextual and minimal; typically below or adjacent to the primary message",
+      "alignment": "Clean, left-aligned for information; centered for brand moments; consistent rhythm and padding"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "bright",
+        "authentic",
+        "everyday",
+        "inclusive",
+        "clean"
+      ],
+      "preferred_photographers": [
+        "Varies by campaign; prioritize consistent, naturalistic lifestyle photography aligned with accessibility and inclusivity"
+      ],
+      "camera_feel": "Natural, documentary-leaning lifestyle with controlled cleanliness; occasional product-centric, studio-clean imagery for hardware",
+      "pose_guidelines": "Natural gestures, purposeful interaction with devices or services; approachable expressions; minimal over-posed fashion attitude",
+      "casting_attitude": "Broad inclusivity across ages and backgrounds; friendly, relatable, contemporary"
+    },
+    "technical": {
+      "lighting": "Soft natural daylight or bright, diffused studio light; avoid harsh shadows unless used for clarity and separation",
+      "contrast": "Low to medium",
+      "grain": "Clean, minimal",
+      "depth_of_field": "Medium; keep key interactions readable",
+      "color_grading": "Neutral with gentle warmth; true-to-life skin tones; brand colors used as accents in props, UI, or wardrobe"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Helpful",
+      "Modern",
+      "Clean",
+      "Human-centered"
+    ],
+    "preferred_locations": [
+      "Everyday environments (home, commute, workplace, campus)",
+      "Simple studio backdrops for product focus",
+      "Bright, uncluttered spaces"
+    ],
+    "contexts": [
+      "Problem-to-solution moments",
+      "Discovery and learning",
+      "Everyday productivity",
+      "Connection and communication"
+    ],
+    "model_casting": {
+      "age_range": "All",
+      "diversity": "Yes, explicitly inclusive across age, ability, ethnicity, and body types",
+      "attitude": "Approachable, capable, calm confidence"
+    },
+    "product_presentation": {
+      "hero_visibility": "Clear and legible; product or UI is understandable at a glance",
+      "styling_approach": "Simple, contemporary, comfort-forward; wardrobe supports clarity and inclusivity without trend signaling",
+      "avoid": [
+        "Over-stylized fashion narratives",
+        "Busy visual noise that reduces comprehension",
+        "Visuals that imply unsafe or misleading outcomes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Smooth and easy; micro-animations and transitions that feel helpful and calm",
+      "transitions": "Clean cuts; gentle fades; UI-like easing; minimal visual gimmicks"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Prioritize legibility and accessibility",
+        "Use clean whitespace and clear hierarchy",
+        "Use brand colors as functional accents",
+        "Show real use-cases and interactions"
+      ],
+      "visual_donts": [
+        "Decorative misuse of Google colors or patterns",
+        "Cluttered compositions",
+        "Overly dramatic, high-contrast grading that harms readability",
+        "Unapproved logo variations"
+      ],
+      "copy_dos": [
+        "Be helpful and direct",
+        "Use plain language",
+        "Focus on user benefit and clarity"
+      ],
+      "copy_donts": [
+        "Hype-first copy",
+        "Overly technical phrasing",
+        "Fear-based persuasion",
+        "Excessive text density"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Official logo usage rules",
+        "Core brand colors",
+        "Helpful, clear tone",
+        "Accessibility-first design"
+      ],
+      "can_evolve": [
+        "Campaign storytelling contexts",
+        "Photography styling within clarity constraints",
+        "Motion language details per platform"
+      ],
+      "test_zone": [
+        "Experimental product launches",
+        "Interactive demos",
+        "Event experiences",
+        "Seasonal campaigns with controlled brand guardrails"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Light neutral surfaces",
+        "Clean glass and matte finishes",
+        "Warm wood accents",
+        "Minimal hardware displays"
+      ],
+      "interactive_elements": [
+        "Hands-on demos",
+        "Clear signage and wayfinding",
+        "Helpful guidance stations"
+      ],
+      "soundscape": "Calm, modern, low-distraction"
+    },
+    "digital": {
+      "tone_adjustment": "More instructional in help/docs; more inspirational in product launches; always clarity-first",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "Short, clear story arcs with friendly captions; product and people moments",
+        "Website": "Whitespace-led layouts, strong hierarchy, accessible typography, clear CTAs",
+        "Newsletter": "Concise, benefit-led modules; clear links; minimal clutter"
+      }
+    },
+    "print": {
+      "paper": "Uncoated or lightly coated stock with clean reproduction",
+      "cover_rules": "Simple hero image or brand mark; high legibility; minimal copy"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Recoloring the logo",
+      "Adding shadows/gradients/effects to the logo",
+      "Distorting or stretching the wordmark",
+      "Placing the logo on low-contrast or busy backgrounds",
+      "Using Google brand colors as decorative patterns implying affiliation"
+    ]
+  }
+}

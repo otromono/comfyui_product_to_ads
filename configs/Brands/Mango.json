@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Mango",
+    "tagline": "Craft your own story",
+    "category": "Fashion / Apparel",
+    "positioning": "International fashion brand positioned on contemporary style, Mediterranean roots, and accessible modern elegance.",
+    "vision": "To be a global fashion reference by creating inspiring, responsible, and contemporary design.",
+    "mission": "To design, manufacture, and sell garments and accessories that combine quality, contemporary aesthetics, and value, inspiring people to express themselves through fashion.",
+    "origin_story": "Founded in 1984 in Barcelona, Spain by Isak Andic, Mango grew from a Mediterranean fashion vision into a global brand known for modern, urban style."
+  },
+  "brand_values": {
+    "core_values": [
+      "Contemporary design",
+      "Mediterranean culture",
+      "Quality",
+      "Accessibility",
+      "Creativity"
+    ],
+    "brand_promise": "Modern, wearable fashion that balances trend relevance with timeless appeal.",
+    "differentiators": [
+      "Mediterranean-inspired aesthetic",
+      "Strong design-led collections",
+      "Global reach with accessible pricing"
+    ],
+    "non_negotiables": [
+      "Design consistency",
+      "Contemporary relevance",
+      "Wearability"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to adults",
+      "gender": "All",
+      "income_level": "Mid-market"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, culturally aware individuals seeking modern, versatile fashion",
+      "values": [
+        "Style",
+        "Self-expression",
+        "Quality",
+        "Modernity"
+      ],
+      "behavior": "Seasonal wardrobe updates, mix of trend and essentials, brand-loyal but exploratory"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Modern",
+      "Refined",
+      "Confident",
+      "Inspirational",
+      "Approachable"
+    ],
+    "communication_style": "Editorial, aspirational yet grounded, focused on personal expression",
+    "language_register": "Contemporary, accessible, refined",
+    "preferred_structures": [
+      "Editorial statements",
+      "Lifestyle narratives",
+      "Design-led messaging"
+    ],
+    "avoid": [
+      "Overly luxury rhetoric",
+      "Streetwear slang",
+      "Aggressive sales language"
+    ],
+    "emotional_temperature": "Calm-confident",
+    "tone_dos": [
+      "Inspire personal style",
+      "Highlight versatility",
+      "Maintain elegance"
+    ],
+    "tone_donts": [
+      "Overstatement",
+      "Trend exaggeration",
+      "Technical fashion jargon"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Mango wordmark",
+      "usage_rules": "Maintain simplicity and legibility; never distort proportions",
+      "lockup_behavior": "Clean, understated placement",
+      "safe_area": "Minimum padding equals the height of the Mango wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#C7B9A6",
+        "#8B8B8B"
+      ],
+      "color_usage_rules": "Neutral palette allowing garments and textures to lead"
+    },
+    "typography": {
+      "primary_font": "Elegant modern serif or sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Regular to Bold",
+        "body": "Regular",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Editorial headline",
+        "H2 – Supporting style message",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Editorial grid",
+      "white_space_ratio": "Moderate to high",
+      "image_vs_text_balance": "Image-led with minimal copy",
+      "cta_placement": "Subtle and refined",
+      "alignment": "Clean, balanced layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "editorial",
+        "natural",
+        "modern",
+        "Mediterranean",
+        "effortless"
+      ],
+      "preferred_photographers": [
+        "Fashion and editorial photographers"
+      ],
+      "camera_feel": "Natural, lifestyle editorial",
+      "pose_guidelines": "Relaxed, confident poses with natural movement",
+      "casting_attitude": "Authentic, contemporary, understated confidence"
+    },
+    "technical": {
+      "lighting": "Natural daylight or soft studio light",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Medium with natural separation",
+      "color_grading": "Neutral with warm undertones"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Modern elegance",
+      "Everyday sophistication",
+      "Lifestyle authenticity"
+    ],
+    "preferred_locations": [
+      "Urban environments",
+      "Mediterranean-inspired settings",
+      "Minimal interiors"
+    ],
+    "contexts": [
+      "Daily life moments",
+      "Urban movement",
+      "Seasonal transitions"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to adults",
+      "diversity": "High; inclusive but refined",
+      "attitude": "Calm, confident, natural"
+    },
+    "product_presentation": {
+      "hero_visibility": "Outfit-led rather than product-isolated",
+      "styling_approach": "Wearable, layered, realistic",
+      "avoid": [
+        "Overly dramatic styling",
+        "High-fashion theatrics",
+        "Streetwear extremes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Moderate and fluid",
+      "transitions": "Soft cuts, natural movement"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Highlight versatility of outfits",
+        "Use natural settings",
+        "Keep styling modern and wearable"
+      ],
+      "visual_donts": [
+        "Excessive glamour",
+        "Avant-garde fashion narratives",
+        "Overly casual visuals"
+      ],
+      "copy_dos": [
+        "Inspire self-expression",
+        "Use editorial language",
+        "Maintain clarity"
+      ],
+      "copy_donts": [
+        "Aggressive selling",
+        "Luxury elitism",
+        "Fast-fashion clichés"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Contemporary Mediterranean identity",
+        "Wearable elegance",
+        "Accessible fashion positioning"
+      ],
+      "can_evolve": [
+        "Sustainable materials",
+        "Digital-first storytelling",
+        "Personalized styling tools"
+      ],
+      "test_zone": [
+        "Limited capsules",
+        "Creative collaborations",
+        "Experiential retail concepts"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Natural textures",
+        "Neutral tones",
+        "Minimal fixtures"
+      ],
+      "interactive_elements": [
+        "Lookbook displays",
+        "Styling inspiration zones"
+      ],
+      "soundscape": "Calm, contemporary ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More editorial on owned channels; inspirational on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Editorial looks, lifestyle shots",
+        "Website": "Collections, lookbooks, styling guidance",
+        "Newsletter": "Seasonal inspiration, collection highlights"
+      }
+    },
+    "print": {
+      "paper": "Matte, high-quality stock",
+      "cover_rules": "Editorial fashion imagery with subtle branding"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Overdecorated logo usage",
+      "Low-contrast logo placement",
+      "Distorted wordmark"
+    ]
+  }
+}

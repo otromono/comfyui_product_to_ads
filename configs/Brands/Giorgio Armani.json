@@ -1,0 +1,161 @@
+{
+  "brand_info": {
+    "name": "Giorgio Armani",
+    "tagline": "L'eleganza non è farsi notare, ma farsi ricordare.",
+    "category": "Moda di lusso / Alta moda",
+    "positioning": "La massima espressione dell'eleganza classica italiana e della raffinatezza sartoriale nel mondo.",
+    "vision": "Un mondo in cui l'eleganza autentica e sobria e la qualità sartoriale siano valori duraturi al di là delle tendenze passeggere.",
+    "mission": "Offrire collezioni di altissimo livello che incarnano l'eleganza senza tempo e la qualità artigianale italiana, rimanendo fedeli a uno stile sobrio e raffinato.",
+    "origin_story": "Fondato da Giorgio Armani nel 1975, il marchio ha ridefinito la moda con blazer destrutturati e linee pulite. Da Milano alla ribalta internazionale, Armani è diventato sinonimo di lusso discreto, vestendo star di Hollywood e clienti d'élite con raffinatezza classica."
+  },
+
+  "brand_values": {
+    "core_values": ["Eleganza", "Sobrietà", "Qualità", "Artigianalità"],
+    "brand_promise": "Ogni creazione Giorgio Armani offre un'eleganza intramontabile e una qualità impeccabile, incarnando lo stile raffinato e discreto della Maison.",
+    "differentiators": ["Sartorialità italiana impeccabile e attenzione ai dettagli", "Palette neutra iconica (il greige Armani) e design senza tempo oltre le mode", "Prestigio globale come simbolo di eleganza discreta, dal red carpet alla vita quotidiana"],
+    "non_negotiables": ["No volgarità o ostentazione", "No inseguire mode passeggere a scapito della classicità", "No compromessi sulla qualità dei materiali e della manifattura"]
+  },
+
+  "target_audience": {
+    "demographics": {
+      "age_range": "35-60",
+      "gender": "Tutti (uomo e donna)",
+      "income_level": "Alto / Lusso esclusivo"
+    },
+    "psychographics": {
+      "lifestyle": "Professionisti affermati, imprenditori e creativi cosmopoliti che vivono un lusso discreto. Frequentano ambienti esclusivi (eventi culturali, viaggi di classe) mantenendo riservatezza e raffinatezza.",
+      "values": ["Qualità senza compromessi", "Autenticità", "Stile senza tempo"],
+      "behavior": "Clienti fedeli che investono in capi iconici destinati a durare nel tempo anziché seguire mode effimere. Rifuggono l'ostentazione di loghi, preferendo un lusso sobrio e personalizzato con servizio impeccabile."
+    }
+  },
+
+  "tone_of_voice": {
+    "personality_traits": ["Elegante", "Autorevole", "Discreto"],
+    "communication_style": "Sobrio, misurato e ricercato",
+    "language_register": "Formale",
+    "preferred_structures": ["Frasi brevi e aforistiche sull'eleganza", "Testi curati che evidenziano eredità e qualità"],
+    "avoid": ["Toni sensazionalistici o esagerati", "Gergo giovanile o slang", "Approccio troppo confidenziale che sminuisca l'eleganza"],
+    "emotional_temperature": "Sobria e controllata, con calore sottile",
+    "tone_dos": ["Suggerire l'eleganza invece di proclamarla apertamente", "Usare un linguaggio evocativo ma sempre misurato"],
+    "tone_donts": ["Titoli gridati o aggressivi", "Superlativi e hype esagerati"]
+  },
+
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Logotipo 'GIORGIO ARMANI' in font serif classico (es. Didot), nero su bianco o viceversa",
+      "usage_rules": "Presentare il logo in modo discreto su sfondi solidi a contrasto. Mai sovrapporlo a immagini caotiche né alterarne le proporzioni.",
+      "lockup_behavior": "Di norma centrato o allineato in basso con ampio spazio attorno, sempre posizionato con equilibrio visivo",
+      "safe_area": "Lasciare uno spazio libero attorno al logo pari ad almeno metà della sua altezza"
+    },
+    "color_system": {
+      "primary_colors": ["#000000", "#FFFFFF"],
+      "secondary_colors": ["#BABAAE", "#191970"],
+      "color_usage_rules": "Predilezione per palette monocromatiche e toni neutri. Nero e bianco dominanti; greige e blu notte come accenti discreti. Evitare colori accesi o contrasti stridenti per mantenere la sobrietà."
+    },
+    "typography": {
+      "primary_font": "Didot LT Std (serif classico)",
+      "secondary_font": "Helvetica Neue (sans-serif pulito)",
+      "weights": {
+        "headlines": "Grassetto",
+        "body": "Leggero",
+        "captions": "Corsivo"
+      },
+      "spacing": {
+        "letter_spacing": "0.02em",
+        "line_height": "1.6"
+      },
+      "hierarchy": ["H1 – Serif classico tutto maiuscolo", "H2 – Serif corsivo o sans-serif elegante per sottotitoli", "Corpo testo – Sans-serif leggero per testi lunghi"]
+    },
+    "layout_principles": {
+      "grid_system": "12-colonne",
+      "white_space_ratio": "Uso abbondante di spazio bianco",
+      "image_vs_text_balance": "Prevalenza immagini sul testo",
+      "cta_placement": "In basso (centrato o a destra), sempre discreto",
+      "alignment": "Preferibilmente centrato o asimmetrico bilanciato in stile editoriale"
+    }
+  },
+
+  "photography": {
+    "style": {
+      "keywords": ["editoriale", "atemporale", "raffinato", "iconico"],
+      "preferred_photographers": ["Aldo Fallai", "Peter Lindbergh"],
+      "camera_feel": "Scatti dal taglio cinematografico e senza tempo, come fotogrammi di un film d'autore che trasmettono calma ed eleganza.",
+      "pose_guidelines": "Pose composte e naturali, mai forzate o teatrali; posture aggraziate che esprimono sicurezza senza ostentazione.",
+      "casting_attitude": "Fiducia tranquilla e fascino riservato. Diversità di volti ma tutti incarnano portamento elegante e raffinatezza sobria."
+    },
+    "technical": {
+      "lighting": "Illuminazione morbida e diffusa che scolpisce delicatamente i dettagli senza eccessivi contrasti.",
+      "contrast": "Medio, talvolta alto per gli scatti in bianco e nero, mantenendo un equilibrio elegante.",
+      "grain": "Minima, con lieve texture analogica solo se aggiunge calore classico.",
+      "depth_of_field": "Preferibilmente ridotta: soggetto nitido in primo piano e sfondo delicatamente sfocato per concentrare l'attenzione.",
+      "color_grading": "Toni neutri tendenti al freddo con saturazione moderata. Spesso uso di bianco e nero o palette desaturate per un effetto raffinato e senza tempo."
+    }
+  },
+
+  "campaign_guidelines": {
+    "visual_tone": ["Eleganza senza tempo", "Lusso discreto", "Atmosfera sofisticata"],
+    "preferred_locations": ["Palazzi storici e scenari architettonici iconici", "Interni lussuosi e minimalisti (boutique hotel, attici eleganti)", "Ambientazioni naturali tranquille (spiagge deserte al tramonto, giardini raffinati)"],
+    "contexts": ["Ritratti intimi e contemplativi in contesti raffinati", "Momenti quotidiani elevati a gesti di stile (es. prepararsi, viaggiare) con estrema eleganza", "Elementi architettonici utilizzati come sfondo armonico per incorniciare i soggetti"],
+    "model_casting": {
+      "age_range": "30–50",
+      "diversity": "Sì, rappresentanza inclusiva ma coerente allo stile",
+      "attitude": "Portamento grazioso e sicuro, espressività contenuta e raffinata"
+    },
+    "product_presentation": {
+      "hero_visibility": "Ben visibile ma integrato naturalmente nella narrazione dell'immagine, mai piazzato in modo artificiale",
+      "styling_approach": "Stile classico e pulito: abbinamenti tono su tono, silhouette essenziali, pochissimi accessori per lasciare parlare i capi",
+      "avoid": ["Styling eccessivo o troppe stratificazioni", "Ambientazioni affollate o elementi che distraggono dall'abito"]
+    },
+    "motion_rules": {
+      "pacing": "Ritmo lento e fluido, movimenti di camera misurati per cogliere ogni dettaglio con calma",
+      "transitions": "Transizioni morbide (dissolvenze leggere o tagli lenti), nessun effetto vistoso"
+    }
+  },
+
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": ["Illuminazione soffusa con giochi di ombre eleganti", "Composizioni ariose con spazio negativo ben bilanciato"],
+      "visual_donts": ["Illuminazione troppo dura o flash diretto", "Uso di immagini stock o grafiche superflue"],
+      "copy_dos": ["Messaggi chiari e brevi, espressi in tono elevato"],
+      "copy_donts": ["Testi prolissi o ripetitivi", "Slang, volgarità o iperboli fuori luogo"]
+    },
+    "immutability": {
+      "must_remain": ["Uso corretto e invariato del logo (mai alterato o distorto)", "Qualità e artigianalità eccelse come standard imprescindibile", "Stile sobrio ed elegante del brand sempre riconoscibile"],
+      "can_evolve": ["Selezione di nuovi talenti o testimonial contemporanei in linea col brand", "Adozione di nuovi canali digitali e formati (social, video) per raccontare la visione Armani", "Inserimento calibrato di accenti moderni (colori, materiali innovativi) rispettando l'identità"],
+      "test_zone": ["Pop-up store ed eventi temporanei per sperimentare concept innovativi", "Contenuti digitali pilota (mini-film, progetti social creativi) per testare nuovi linguaggi"]
+    }
+  },
+
+  "channel_expression": {
+    "retail": {
+      "materials": ["Pietra e marmo color greige per pavimenti e pareti", "Legno scuro lucido e laccature nere per arredi", "Metalli satinati (ottone/acciaio) e vetro fumé per dettagli"],
+      "interactive_elements": ["Schermi LED che trasmettono sfilate in modo silenzioso", "Angoli fragranze con diffusori discreti e tester eleganti"],
+      "soundscape": "Musica lounge/jazz o classica molto soft in sottofondo, a volume basso, per un'atmosfera calma e raffinata"
+    },
+    "digital": {
+      "tone_adjustment": "Sul sito web tono istituzionale e informativo; su Instagram stile visivo con didascalie brevi ed eleganti; nelle newsletter approccio esclusivo e diretto al cliente, pur restando formale",
+      "content_ratio": {
+        "campaign_vs_product": "80:20",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Immagini iconiche (anche in B/N) con copy minimale ed aforismi sull'eleganza",
+        "Website": "Layout pulito con immagini a tutta pagina e contenuti editoriali su heritage e artigianalità",
+        "Newsletter": "Grafica essenziale con foto di campagna in risalto e testo ridotto al minimo indispensabile"
+      }
+    },
+    "print": {
+      "paper": "Carta opaca di altissima qualità e grammatura elevata, con finitura leggermente testurizzata",
+      "cover_rules": "Fotografia a piena pagina senza margini; logo applicato in basso in modo discreto, senza altri testi sulla copertina"
+    }
+  },
+
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": ["Applicare il logo su sfondi troppo decorati o caotici", "Uso del logo con colori che ne riducono la leggibilità (basso contrasto)", "Distorsione, rotazione o aggiunta di effetti al logo ufficiale"]
+  }
+}

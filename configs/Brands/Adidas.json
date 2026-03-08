@@ -1,0 +1,277 @@
+{
+  "brand_info": {
+    "name": "adidas",
+    "tagline": "Impossible Is Nothing",
+    "category": "Sportswear",
+    "positioning": "A global sports brand creating performance products for athletes and sport-inspired products for sport culture, guided by a purpose-led and sustainability-oriented approach.",
+    "vision": "Through sport, we have the power to change lives.",
+    "mission": "To be the best sports brand in the world.",
+    "origin_story": "Registered on August 18, 1949 by Adolf \"Adi\" Dassler in Herzogenaurach, Germany as the 'Adolf Dassler adidas Sportschuhfabrik', introducing the now-iconic 3-Stripes."
+  },
+  "brand_values": {
+    "core_values": [
+      "Performance",
+      "Creativity",
+      "Credibility",
+      "Inclusivity",
+      "Sustainability"
+    ],
+    "brand_promise": "Enable people to harness the power of sport through innovative, credible products and experiences that connect performance with culture.",
+    "differentiators": [
+      "Iconic 3-Stripes and Trefoil brand codes",
+      "Blend of performance innovation and sport culture influence",
+      "Global athlete and creator ecosystem",
+      "Purpose-led initiatives focused on people and planet"
+    ],
+    "non_negotiables": [
+      "Product credibility in sport",
+      "Respect for athlete performance needs",
+      "Clear brand codes (3-Stripes, Trefoil where relevant)",
+      "Avoid inauthentic sport claims"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "16-45",
+      "gender": "All",
+      "income_level": "Mass premium"
+    },
+    "psychographics": {
+      "lifestyle": "Sport-active individuals and sport-culture participants spanning training, team sports, running, and everyday streetwear",
+      "values": [
+        "Self-improvement",
+        "Belonging through sport",
+        "Creative self-expression",
+        "Authenticity"
+      ],
+      "behavior": "Engages with sport as performance and identity; follows athletes, teams, creators, and drops; expects functional credibility and cultural relevance"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Motivational",
+      "Inclusive",
+      "Creator-minded"
+    ],
+    "communication_style": "Direct, action-oriented, and purpose-led",
+    "language_register": "Modern",
+    "preferred_structures": [
+      "Short imperative lines",
+      "Creator and athlete statements",
+      "Purpose-led declarations"
+    ],
+    "avoid": [
+      "Snark",
+      "Elitism",
+      "Overly technical jargon without benefit",
+      "Exclusionary language"
+    ],
+    "emotional_temperature": "High-energy",
+    "tone_dos": [
+      "Center sport as an enabler of change",
+      "Use empowerment and invitation language",
+      "Keep copy punchy and rhythmic"
+    ],
+    "tone_donts": [
+      "Overpromising performance outcomes",
+      "Aggressive shaming or intimidation",
+      "Overly sentimental storytelling without sport connection"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "3-Bar Performance logo for sport performance; Trefoil logo for Originals heritage",
+      "usage_rules": "High-contrast placements with clear space; avoid distortions; do not place where readability is compromised",
+      "lockup_behavior": "Consistent sizing and alignment; often corner placement or anchored to grid margins",
+      "safe_area": "Minimum padding equals the height of one logo element (bar or Trefoil leaf height), maintaining clear space on all sides"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#1A1A1A",
+        "#F2F2F2"
+      ],
+      "color_usage_rules": "High-contrast foundations with sport-specific accent colors introduced per category or campaign; prioritize clarity and readability over decorative palettes"
+    },
+    "typography": {
+      "primary_font": "adidas proprietary sans-serif system (brand type family used across adidas communications)",
+      "secondary_font": "Neutral sans-serif for UI and long-form readability",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Medium"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to neutral",
+        "line_height": "1.2–1.4 for headlines; 1.5–1.7 for body"
+      },
+      "hierarchy": [
+        "H1 – Bold sans-serif",
+        "H2 – Medium sans-serif",
+        "Body – Regular sans-serif",
+        "Caption – Medium, compact"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular grid with strong edge alignment and clear hierarchy",
+      "white_space_ratio": "Functional, allowing breathing room for logo and product read",
+      "image_vs_text_balance": "Image-led with concise copy overlays or adjacent blocks",
+      "cta_placement": "Lower third or aligned to grid edges; digital CTAs often below primary visual",
+      "alignment": "Clean left or center alignment; consistent baseline and margin logic"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "dynamic",
+        "athletic",
+        "documentary",
+        "high-impact",
+        "street-meets-sport"
+      ],
+      "preferred_photographers": [
+        "Not fixed; varies by campaign and category"
+      ],
+      "camera_feel": "In-the-moment energy with performance credibility and cultural edge",
+      "pose_guidelines": "Movement-first posing; natural athletic tension; training and game-real gestures; confident stance in lifestyle scenes",
+      "casting_attitude": "Athletes and creators portrayed as capable, self-driven, and community-connected"
+    },
+    "technical": {
+      "lighting": "Natural light or dramatic directional light; studio used for product clarity and hero moments",
+      "contrast": "Medium to high",
+      "grain": "Clean digital with occasional filmic texture for heritage or culture narratives",
+      "depth_of_field": "Variable; shallow for portraits and product focus, deeper for action context",
+      "color_grading": "Neutral foundation with category-driven accents; skin tones preserved; blacks stay rich"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Energetic",
+      "Credible sport performance",
+      "Inclusive creator culture",
+      "Purpose-led optimism"
+    ],
+    "preferred_locations": [
+      "Training facilities",
+      "Stadium and court contexts",
+      "Urban streets",
+      "Minimal studios for product focus"
+    ],
+    "contexts": [
+      "Performance action",
+      "Training grind",
+      "Team community moments",
+      "Sport culture lifestyle"
+    ],
+    "model_casting": {
+      "age_range": "Teen to 40s",
+      "diversity": "Broad and explicit inclusion across gender expression, body types, and backgrounds",
+      "attitude": "Determined, resilient, and creative; approachable confidence"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product is readable and functional; in action it remains connected to the athlete story, in lifestyle it remains a clear brand signifier",
+      "styling_approach": "Sport-functional fit for performance; clean street styling for Originals; avoid clutter that hides key product cues",
+      "avoid": [
+        "Unclear product read",
+        "Over-stylized fashion that breaks sport credibility",
+        "Generic stock aesthetics"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast cuts for action; rhythmic pacing for creator narratives; occasional slow-motion emphasis on movement mechanics",
+      "transitions": "Hard cuts, kinetic match cuts, and graphic wipes aligned to beat; minimal ornamental transitions"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real movement",
+        "Use strong silhouettes",
+        "Maintain logo clarity",
+        "Balance sport function and culture cues"
+      ],
+      "visual_donts": [
+        "Low-contrast logos",
+        "Overly staged action that feels fake",
+        "Busy overlays that reduce product readability"
+      ],
+      "copy_dos": [
+        "Use empowering action verbs",
+        "Keep messages concise",
+        "Connect sport to self-expression and community"
+      ],
+      "copy_donts": [
+        "Overly long paragraphs",
+        "Empty hype without proof points",
+        "Exclusionary or elitist language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "3-Stripes brand code integrity",
+        "Sport credibility",
+        "Purpose-led framing when relevant",
+        "Clear product readability"
+      ],
+      "can_evolve": [
+        "Casting mix by culture and region",
+        "Campaign-specific color accents",
+        "Editing rhythm and music style"
+      ],
+      "test_zone": [
+        "Experimental creator collaborations",
+        "Mixed-media visual systems",
+        "Interactive digital storytelling"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Matte black and white fixtures",
+        "Raw concrete",
+        "Metal accents",
+        "Lightbox graphics"
+      ],
+      "interactive_elements": [
+        "Product trial and fit zones",
+        "Sport-category storytelling walls",
+        "Creator collaboration capsules"
+      ],
+      "soundscape": "Up-tempo contemporary playlists aligned to sport categories and local culture"
+    },
+    "digital": {
+      "tone_adjustment": "More direct and product-functional in e-commerce; more cultural and creator-led on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "Athlete and creator-led reels, short motivational copy, product tags",
+        "Website": "Category landing pages with strong visuals, clear benefit copy, and product storytelling modules",
+        "Newsletter": "Drop highlights, campaign chapters, and concise purpose notes"
+      }
+    },
+    "print": {
+      "paper": "Coated or semi-matte stock depending on category; high-contrast reproduction",
+      "cover_rules": "Bold hero imagery with clear logo placement and minimal supporting text"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretched or skewed logo",
+      "Logo placed on low-contrast backgrounds",
+      "Logo cropped or altered",
+      "Trefoil used for performance-only categories where Performance logo is standard"
+    ]
+  }
+}

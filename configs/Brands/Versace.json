@@ -1,0 +1,291 @@
+{
+  "brand_info": {
+    "name": "Versace",
+    "tagline": "A life without inhibition",
+    "category": "Fashion",
+    "positioning": "Italian luxury house defined by bold glamour, sensual confidence, and uncompromising craftsmanship rooted in Mediterranean heritage.",
+    "vision": "To own and wear Versace is to embrace a life without inhibition, without prejudice, accepting of deeply human truths and contradictions, where classicism meets innovative Italian artisanship, strength meets sensuality, and quietude meets volume raised to the max.",
+    "mission": "Create a complete luxury lifestyle through empowering design, iconic codes, and uncompromising quality, expressing a Mediterranean Italian vision that blends classicism with daring innovation.",
+    "origin_story": "Founded in 1978 in Milan by Gianni Versace as a fashion house built on theatrical glamour, Mediterranean references, and couture-level craftsmanship, later evolving into a complete lifestyle brand across ready-to-wear, accessories, and home."
+  },
+  "brand_values": {
+    "core_values": [
+      "Boldness",
+      "Sensuality",
+      "Iconic Italian craft",
+      "Individual expression",
+      "Mediterranean heritage"
+    ],
+    "brand_promise": "High-impact luxury that empowers the wearer through confident glamour, distinctive codes, and impeccable execution.",
+    "differentiators": [
+      "Medusa and Greca codes",
+      "Barocco maximalism and graphic prints",
+      "Sculpted silhouettes and body-conscious confidence",
+      "Campaign imagery that blends power, sex appeal, and cinematic atmosphere"
+    ],
+    "non_negotiables": [
+      "Iconic codes remain recognizable (Medusa, Greca, Barocco)",
+      "High-fashion glamour and confidence",
+      "Premium materials and finishing",
+      "Never generic or anonymous",
+      "No timid minimalism as the dominant visual language"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "20-45",
+      "gender": "All",
+      "income_level": "High / Luxury"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, nightlife-to-resort, culture-forward consumers who treat fashion as identity and presence",
+      "values": [
+        "Confidence",
+        "Status signaling",
+        "Self-expression",
+        "Sensuality",
+        "Craft and heritage"
+      ],
+      "behavior": "Seeks statement pieces, iconic codes, and campaigns that feel aspirational, provocative, and unmistakably branded"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Seductive",
+      "Confident",
+      "Unapologetic",
+      "Iconic"
+    ],
+    "communication_style": "Declarative, high-impact, and image-led, with short emphatic lines and strong brand codes doing most of the work",
+    "language_register": "Confident",
+    "preferred_structures": [
+      "Short declarative sentences",
+      "Imperative mood",
+      "Icon-led naming (Greca, Medusa, Barocco)"
+    ],
+    "avoid": [
+      "Over-explaining",
+      "Apologetic language",
+      "Generic luxury adjectives without code linkage",
+      "Soft, understated minimalism as a primary claim"
+    ],
+    "emotional_temperature": "High",
+    "tone_dos": [
+      "Prioritize power and sensual confidence",
+      "Name signature codes and icons",
+      "Use strong, simple phrasing",
+      "Let visuals carry the drama"
+    ],
+    "tone_donts": [
+      "Excessive copy blocks",
+      "Humble or casual slang",
+      "Neutralizing the brand into generic elegance"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "VERSACE wordmark paired with the Medusa head emblem; Greca border used as a recurring graphic frame",
+      "usage_rules": "Logo is treated as a hero signature: high contrast, clean placement, never distorted; Medusa and Greca elements remain crisp and legible",
+      "lockup_behavior": "Often centered or anchored in the lower third; wordmark can be oversized in campaign layouts",
+      "safe_area": "Minimum clear space equals the height of the 'V' in the wordmark on all sides"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#D4AF37"
+      ],
+      "secondary_colors": [
+        "#0B3D91",
+        "#0E8C8B",
+        "#C0002A",
+        "#F2C94C",
+        "#F5B7C7"
+      ],
+      "color_usage_rules": "High contrast and saturated accents are permitted; gold is used as a premium signature; color blocks and graphic prints are acceptable when tied to iconic codes"
+    },
+    "typography": {
+      "primary_font": "Custom Versace wordmark (uppercase sans-serif logotype)",
+      "secondary_font": "Modern sans-serif for supporting information; all-caps treatments preferred",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight-to-normal for a strong stamp-like feel",
+        "line_height": "1.2–1.4"
+      },
+      "hierarchy": [
+        "H1 – Oversized all caps logotype",
+        "H2 – All caps sans-serif",
+        "Body – Minimal supporting text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Image-dominant layouts with strong central subject placement; asymmetry allowed when the logo anchors the composition",
+      "white_space_ratio": "Low to medium; negative space is used strategically to frame logo or subject",
+      "image_vs_text_balance": "Image-first; typography is sparse and iconic",
+      "cta_placement": "Rare in heritage campaign posters; when present, kept minimal in the lower third",
+      "alignment": "Centered logo lockups are common; dynamic diagonal body poses add tension"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "glamour",
+        "sensual",
+        "cinematic",
+        "high-contrast",
+        "iconic",
+        "Mediterranean",
+        "dramatic"
+      ],
+      "preferred_photographers": [
+        "Steven Meisel",
+        "Richard Avedon",
+        "Bruce Weber"
+      ],
+      "camera_feel": "Aspirational fashion cinema with sculpted bodies, strong presence, and environments that feel like mythic luxury",
+      "pose_guidelines": "Bold, languid, and confident; direct gaze or aloof power; body-led silhouettes, strong lines, and deliberate tension",
+      "casting_attitude": "Star power and archetypes: supermodel energy, athletic sensuality, and commanding individuality"
+    },
+    "technical": {
+      "lighting": "Hard directional light or stylized studio lighting; occasional soft daylight for Mediterranean resort moods",
+      "contrast": "Medium-high to very high",
+      "grain": "Subtle filmic texture or clean high-end sharpness depending on era",
+      "depth_of_field": "Moderate; subject separation through contrast and lighting rather than heavy blur",
+      "color_grading": "From warm gold interiors to saturated jewel tones and deep blues; blacks remain rich and dense"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Glamour",
+      "Sensual power",
+      "Mythic Mediterranean luxury",
+      "High contrast drama"
+    ],
+    "preferred_locations": [
+      "Mediterranean coastlines and pools",
+      "Opulent interiors with warm gold tones",
+      "Nighttime studio or desert-like sets with deep blues",
+      "Architectural tiles, mosaics, and graphic surfaces"
+    ],
+    "contexts": [
+      "Resort seduction",
+      "Night glamour",
+      "Iconic poster-like statements",
+      "Fashion mythology and archetypes"
+    ],
+    "model_casting": {
+      "age_range": "18–40",
+      "diversity": "Yes, high-contrast casting and strong individuality",
+      "attitude": "Commanding, seductive, self-possessed; never timid"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product is integrated into the narrative but remains unmistakable through silhouette, print, and brand codes",
+      "styling_approach": "Statement pieces, bold prints, body-conscious tailoring, iconic accessories and gold hardware",
+      "avoid": [
+        "Overly casual basics without codes",
+        "Muted, anonymous styling",
+        "Cluttered props that dilute the brand stamp"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow, sensual, deliberate",
+      "transitions": "Hard cuts or dramatic fades; poster-like keyframes and iconic hero moments"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use Medusa, Greca, Barocco codes as anchors",
+        "Embrace high contrast and sculptural lighting",
+        "Center the subject with commanding presence",
+        "Use saturated jewel accents and gold signatures"
+      ],
+      "visual_donts": [
+        "Generic minimalism",
+        "Low-energy lifestyle stock aesthetics",
+        "Washed-out blacks",
+        "Overcrowded compositions that hide the product"
+      ],
+      "copy_dos": [
+        "Short iconic statements",
+        "Name signature lines and icons",
+        "Let imagery carry the seduction and power"
+      ],
+      "copy_donts": [
+        "Long explanations",
+        "Soft qualifiers",
+        "Neutral, corporate language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Medusa and Greca codes",
+        "Bold glamorous attitude",
+        "High-end finish and material credibility",
+        "Unmistakable brand stamp"
+      ],
+      "can_evolve": [
+        "Casting archetypes",
+        "Era-specific color palettes",
+        "Set design from resort to nightlife",
+        "Degree of graphic print intensity"
+      ],
+      "test_zone": [
+        "Experimental print scale",
+        "New icon reinterpretations",
+        "Hybrid digital posters and motion key-visuals"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Black lacquer",
+        "Gold metal accents",
+        "Marble and stone",
+        "Greca-pattern details",
+        "Mirrored surfaces"
+      ],
+      "interactive_elements": [
+        "Large-scale campaign visuals as hero walls",
+        "Icon and motif installations",
+        "Bold lighting and reflective set pieces"
+      ],
+      "soundscape": "Upbeat, confident, club-adjacent or cinematic score"
+    },
+    "digital": {
+      "tone_adjustment": "High-impact visuals with minimal copy; icon-led naming; strong contrast for mobile readability",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Poster-like hero frames, saturated color stories, bold casting and direct attitude",
+        "Website": "Full-bleed campaign visuals, strong iconography, clear product hierarchy",
+        "Newsletter": "Hero image first, minimal lines, strong icon or product name focus"
+      }
+    },
+    "print": {
+      "paper": "Premium glossy or high-quality matte depending on campaign era",
+      "cover_rules": "Full-bleed imagery, wordmark in lower third, high contrast and strong signature presence"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Warped or stretched wordmark",
+      "Low-contrast logo on busy prints",
+      "Medusa icon rendered inconsistently",
+      "Greca border mis-proportioned"
+    ]
+  }
+}

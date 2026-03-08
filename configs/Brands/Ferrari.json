@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "Ferrari",
+    "tagline": "We Are The Competition",
+    "category": "Luxury sports cars and motorsport",
+    "positioning": "An ultra-luxury performance brand positioned at the intersection of motorsport heritage, engineering excellence, and emotional design, producing exclusive high-performance sports cars and racing icons.",
+    "vision": "To create the most powerful and iconic sports cars in the world while remaining the ultimate expression of Italian excellence and racing DNA.",
+    "mission": "Design, engineer, and produce the world’s most iconic sports cars and racing machines, delivering unmatched performance, innovation, and emotional connection.",
+    "origin_story": "Founded in 1939 by Enzo Ferrari in Maranello, Italy, Ferrari originated as Auto Avio Costruzioni and evolved into the most prestigious name in motorsport and high-performance automotive design, with Formula 1 at its core."
+  },
+  "brand_values": {
+    "core_values": [
+      "Performance",
+      "Innovation",
+      "Racing heritage",
+      "Exclusivity",
+      "Italian excellence"
+    ],
+    "brand_promise": "Deliver an unparalleled driving experience defined by performance, craftsmanship, and racing DNA.",
+    "differentiators": [
+      "Unbroken Formula 1 heritage and competitive racing culture.",
+      "Engineering-first design philosophy.",
+      "Extreme control over production volumes and exclusivity.",
+      "Strong emotional brand symbolism."
+    ],
+    "non_negotiables": [
+      "Racing DNA must remain central.",
+      "Performance leadership is mandatory.",
+      "Exclusivity and scarcity must be preserved.",
+      "Brand symbolism must never be diluted."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "30-70",
+      "gender": "All",
+      "income_level": "Ultra-high net worth"
+    },
+    "psychographics": {
+      "lifestyle": "Collectors, enthusiasts, and high-performance connoisseurs with deep appreciation for engineering, motorsport, and prestige.",
+      "values": [
+        "Performance supremacy",
+        "Status and legacy",
+        "Technical excellence",
+        "Emotional connection"
+      ],
+      "behavior": "Purchases through allocation and relationship-based access; strong loyalty and repeat ownership."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Authoritative",
+      "Competitive",
+      "Iconic",
+      "Disciplined"
+    ],
+    "communication_style": "Declarative, precise, and performance-led, with restrained emotion and strong symbolism.",
+    "language_register": "Luxury / Motorsport / Technical",
+    "preferred_structures": [
+      "Engineering-led narratives",
+      "Racing heritage statements",
+      "Performance-first descriptions"
+    ],
+    "avoid": [
+      "Casual or playful language",
+      "Over-explanation",
+      "Trend-driven slang"
+    ],
+    "emotional_temperature": "Controlled intensity",
+    "tone_dos": [
+      "Emphasize performance and heritage",
+      "Use precise technical language",
+      "Maintain authority"
+    ],
+    "tone_donts": [
+      "Self-irony",
+      "Mass-market emotional cues",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Prancing Horse shield and Ferrari wordmark.",
+      "usage_rules": "Strict protection of proportions, colors, and clear space.",
+      "lockup_behavior": "Shield and wordmark used according to context; never decorative.",
+      "safe_area": "Defined by official Ferrari brand standards."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FF2800",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#FFFFFF",
+        "#C9A24D"
+      ],
+      "color_usage_rules": "Rosso Corsa as primary emotional anchor, supported by black and restrained metallic accents."
+    },
+    "typography": {
+      "primary_font": "Custom Ferrari corporate type",
+      "secondary_font": "Technical sans-serif for data and specifications",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Strong bold headline",
+        "H2 – Medium",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured and architectural grid",
+      "white_space_ratio": "Medium",
+      "image_vs_text_balance": "Image-dominant",
+      "cta_placement": "Minimal and restrained",
+      "alignment": "Strong, stable compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "performance-driven",
+        "dramatic",
+        "iconic",
+        "precision",
+        "power"
+      ],
+      "preferred_photographers": [
+        "Automotive performance specialists",
+        "Motorsport photographers"
+      ],
+      "camera_feel": "High-impact automotive imagery emphasizing speed, form, and mechanical precision.",
+      "pose_guidelines": "Cars presented as dominant objects; minimal human presence.",
+      "casting_attitude": "Drivers portrayed as focused and disciplined when present."
+    },
+    "technical": {
+      "lighting": "High-contrast controlled lighting.",
+      "contrast": "Medium to high.",
+      "grain": "None to minimal.",
+      "depth_of_field": "Controlled focus emphasizing form and motion.",
+      "color_grading": "Neutral with strong red emphasis."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Performance supremacy",
+      "Racing heritage",
+      "Iconic symbolism",
+      "Controlled power"
+    ],
+    "preferred_locations": [
+      "Racetracks",
+      "Architectural environments",
+      "Controlled studio sets"
+    ],
+    "contexts": [
+      "Product launches",
+      "Motorsport storytelling",
+      "Engineering narratives"
+    ],
+    "model_casting": {
+      "age_range": "30–65",
+      "diversity": "Secondary to expertise and authority",
+      "attitude": "Focused, elite, disciplined"
+    },
+    "product_presentation": {
+      "hero_visibility": "Vehicle form and performance details prioritized.",
+      "styling_approach": "Minimal, technical, and purposeful.",
+      "avoid": [
+        "Lifestyle dilution",
+        "Overcrowded scenes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Dynamic and precise.",
+      "transitions": "Sharp cuts and mechanical rhythm."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Emphasize performance and form",
+        "Use strong iconic compositions",
+        "Maintain brand authority"
+      ],
+      "visual_donts": [
+        "Casual lifestyle framing",
+        "Soft emotional clichés"
+      ],
+      "copy_dos": [
+        "Lead with performance and engineering",
+        "Reference racing heritage",
+        "Be concise and authoritative"
+      ],
+      "copy_donts": [
+        "Hyperbole",
+        "Playful tone",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Racing DNA",
+        "Exclusivity",
+        "Engineering authority"
+      ],
+      "can_evolve": [
+        "Design language",
+        "Sustainability narratives",
+        "Digital experiences"
+      ],
+      "test_zone": [
+        "Electrification storytelling",
+        "Limited special series",
+        "New luxury experiences"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Architectural showrooms",
+        "Premium materials and finishes"
+      ],
+      "interactive_elements": [
+        "Personalization studios",
+        "Heritage storytelling"
+      ],
+      "soundscape": "Controlled and powerful"
+    },
+    "digital": {
+      "tone_adjustment": "Authoritative and performance-led",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Iconic visuals and motorsport moments",
+        "Website": "Product, heritage, and configuration",
+        "Newsletter": "Launches and brand milestones"
+      }
+    },
+    "print": {
+      "paper": "Premium coated or technical stock",
+      "cover_rules": "Hero vehicle imagery with minimal copy"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Color alterations of the shield",
+      "Decorative effects",
+      "Improper proportions"
+    ]
+  }
+}

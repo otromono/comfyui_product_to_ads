@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Calvin Klein",
+    "tagline": "Calvin Klein",
+    "category": "Fashion / Lifestyle",
+    "positioning": "Global fashion and lifestyle brand positioned on minimalism, sensuality, and modern American confidence.",
+    "vision": "To inspire confidence through bold, minimalist design and progressive self-expression.",
+    "mission": "To deliver iconic, modern products that embody simplicity, sensuality, and cultural relevance.",
+    "origin_story": "Founded in 1968 in New York City by Calvin Klein, the brand became globally influential through its minimalist design language and provocative, culturally defining advertising."
+  },
+  "brand_values": {
+    "core_values": [
+      "Minimalism",
+      "Confidence",
+      "Modernity",
+      "Sensuality",
+      "Cultural relevance"
+    ],
+    "brand_promise": "Bold simplicity that empowers confident self-expression.",
+    "differentiators": [
+      "Iconic minimalist aesthetic",
+      "Provocative and culture-shaping campaigns",
+      "Strong American design identity"
+    ],
+    "non_negotiables": [
+      "Minimalist design language",
+      "Strong visual confidence",
+      "Cultural edge"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to adults",
+      "gender": "All",
+      "income_level": "Mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, culturally engaged individuals drawn to modern aesthetics and self-expression",
+      "values": [
+        "Confidence",
+        "Individuality",
+        "Modernity",
+        "Freedom"
+      ],
+      "behavior": "Purchases fashion as identity expression, brand-aware, responsive to iconic imagery"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Confident",
+      "Provocative",
+      "Minimal",
+      "Modern"
+    ],
+    "communication_style": "Direct, stripped-back, and culturally assertive",
+    "language_register": "Minimal, declarative, contemporary",
+    "preferred_structures": [
+      "Short statements",
+      "Identity-led messaging",
+      "Cultural assertions"
+    ],
+    "avoid": [
+      "Decorative language",
+      "Sentimentality",
+      "Over-explanation"
+    ],
+    "emotional_temperature": "Cool-confident",
+    "tone_dos": [
+      "Embrace simplicity",
+      "Project confidence",
+      "Maintain edge"
+    ],
+    "tone_donts": [
+      "Excessive warmth",
+      "Verbose copy",
+      "Traditional luxury rhetoric"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Calvin Klein wordmark",
+      "usage_rules": "Maintain monochrome integrity and spacing; never decorate or distort",
+      "lockup_behavior": "Dominant, clean placement",
+      "safe_area": "Minimum padding equals the height of the Calvin Klein wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#BFBFBF",
+        "#4B4B4B"
+      ],
+      "color_usage_rules": "Strict monochrome system with occasional neutral accents"
+    },
+    "typography": {
+      "primary_font": "Modern grotesk sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Regular to Bold",
+        "body": "Regular",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral to tight",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Identity statement",
+        "H2 – Supporting phrase",
+        "Body – Minimal text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Strict minimal grid",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Image-dominant",
+      "cta_placement": "Minimal or implicit",
+      "alignment": "Centered or strong asymmetry"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "minimal",
+        "sensual",
+        "raw",
+        "confident",
+        "editorial"
+      ],
+      "preferred_photographers": [
+        "Fashion and editorial photographers"
+      ],
+      "camera_feel": "Intimate, confrontational, stripped-back",
+      "pose_guidelines": "Direct gaze, relaxed yet assertive body language",
+      "casting_attitude": "Confident, natural, unapologetic"
+    },
+    "technical": {
+      "lighting": "High-contrast studio or controlled daylight",
+      "contrast": "Medium to high",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow to medium",
+      "color_grading": "Black-and-white or neutral tones"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Minimal sensuality",
+      "Cultural confidence",
+      "Bold simplicity"
+    ],
+    "preferred_locations": [
+      "Studio environments",
+      "Urban interiors",
+      "Stripped architectural spaces"
+    ],
+    "contexts": [
+      "Intimate portraits",
+      "Body-focused fashion imagery",
+      "Identity-driven campaigns"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to adults",
+      "diversity": "High; inclusive with strong individuality",
+      "attitude": "Confident, self-possessed, direct"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product integrated into body-focused imagery",
+      "styling_approach": "Minimal, sensual, real",
+      "avoid": [
+        "Ornate styling",
+        "Narrative-heavy storytelling",
+        "Soft romantic aesthetics"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow and controlled",
+      "transitions": "Hard cuts or minimal fades"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use monochrome palettes",
+        "Emphasize body and form",
+        "Maintain visual confidence"
+      ],
+      "visual_donts": [
+        "Decorative sets",
+        "Busy compositions",
+        "Sentimental imagery"
+      ],
+      "copy_dos": [
+        "Keep language minimal",
+        "Make bold statements",
+        "Project confidence"
+      ],
+      "copy_donts": [
+        "Explanatory copy",
+        "Emotional storytelling",
+        "Verbose messaging"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Minimalist aesthetic",
+        "Sensual confidence",
+        "Cultural provocation"
+      ],
+      "can_evolve": [
+        "Gender-fluid expression",
+        "Digital-first campaigns",
+        "Sustainable product lines"
+      ],
+      "test_zone": [
+        "Experimental casting",
+        "New media formats",
+        "Cultural collaborations"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Concrete",
+        "Glass",
+        "Monochrome finishes"
+      ],
+      "interactive_elements": [
+        "Minimal product displays",
+        "Editorial imagery walls"
+      ],
+      "soundscape": "Minimal, modern ambience"
+    },
+    "digital": {
+      "tone_adjustment": "Highly visual and bold on social; minimal and structured on owned channels",
+      "content_ratio": {
+        "campaign_vs_product": "65:35",
+        "motion_vs_static": "55:45"
+      },
+      "platform_behavior": {
+        "Instagram": "Iconic portraits, body confidence imagery",
+        "Website": "Campaign-led storytelling, minimal UI",
+        "Newsletter": "Visual-led drops and cultural moments"
+      }
+    },
+    "print": {
+      "paper": "Matte, high-contrast stock",
+      "cover_rules": "Iconic monochrome imagery with strong wordmark"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Decorated wordmark",
+      "Low-contrast placement",
+      "Distorted typography"
+    ]
+  }
+}

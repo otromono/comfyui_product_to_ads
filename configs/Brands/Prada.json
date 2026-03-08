@@ -1,0 +1,285 @@
+{
+  "brand_info": {
+    "name": "Prada",
+    "tagline": "",
+    "category": "Luxury Fashion",
+    "positioning": "Intellectual, design-led luxury rooted in Milanese heritage, balancing avant-garde experimentation with rigorous craftsmanship.",
+    "vision": "With a thoughtful and pioneering vision, be a global leader in luxury while sustaining an unconventional dialogue and interpretation of the contemporary for planet, people and culture. citeturn0search1",
+    "mission": "Offer an unconventional dialogue and interpretation of the contemporary through products, experiences and culture, as an expression of a way of doing business for planet, people and culture. citeturn0search1",
+    "origin_story": "Founded in Milan in 1913 by Mario Prada with the opening of the first store in the Galleria Vittorio Emanuele II, initially focused on luxury travel articles and accessories crafted with sophisticated techniques and fine materials. citeturn0search3turn0search8"
+  },
+  "brand_values": {
+    "core_values": [
+      "Cultural dialogue",
+      "Intellectual rigor",
+      "Craftsmanship",
+      "Innovation",
+      "Modern elegance"
+    ],
+    "brand_promise": "A distinct point of view where luxury is defined by ideas, precision and materials, not ornament for its own sake.",
+    "differentiators": [
+      "Concept-driven storytelling",
+      "Tension between classic and subversive",
+      "Graphic iconicity (wordmark and triangle code)",
+      "High fashion with cultural proximity (art, cinema, architecture)"
+    ],
+    "non_negotiables": [
+      "Brand wordmark integrity",
+      "Concept-first art direction",
+      "No generic glamour",
+      "No decorative excess without tension",
+      "No stock-photo sentimentality"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "22-50",
+      "gender": "All",
+      "income_level": "High / Luxury"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, culturally engaged, design-literate individuals who value ideas, art and modernity as status signals.",
+      "values": [
+        "Originality",
+        "Taste as intelligence",
+        "Quality and longevity",
+        "Cultural relevance"
+      ],
+      "behavior": "Invests in statement pieces, follows runway and culture, responds to conceptual campaigns over product-only ads."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Intellectual",
+      "Subversive",
+      "Composed",
+      "Modern"
+    ],
+    "communication_style": "Concise, declarative, often editorial-minimal with room for interpretation.",
+    "language_register": "Formal",
+    "preferred_structures": [
+      "Short headline statements",
+      "Sparse captions",
+      "Concept titles",
+      "Minimal product naming"
+    ],
+    "avoid": [
+      "Over-explaining concepts",
+      "Overly emotional copy",
+      "Discount language",
+      "Pop-culture slang"
+    ],
+    "emotional_temperature": "Cool-neutral with controlled irony",
+    "tone_dos": [
+      "Let imagery carry the thesis",
+      "Use precise nouns and verbs",
+      "Keep copy secondary to art direction"
+    ],
+    "tone_donts": [
+      "Hype adjectives",
+      "Motivational slogans",
+      "Lifestyle clichés"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "PRADA wordmark in a high-contrast serif",
+      "usage_rules": "Logo appears clean and uncompromised, typically black on white or white on color/photography, with clear space and strong legibility.",
+      "lockup_behavior": "Centered or aligned to top/bottom margins; often oversized and treated as a graphic anchor rather than a signature.",
+      "safe_area": "Minimum padding equals at least the cap-height of the wordmark around all sides."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#C8102E",
+        "#1F4ED8",
+        "#7A8F2A",
+        "#F2B6C6",
+        "#6B4A2D"
+      ],
+      "color_usage_rules": "Base system is monochrome; accents are bold, flat or highly saturated (often red, cobalt, acid or pastel) used as conceptual fields or fashion-led color pops."
+    },
+    "typography": {
+      "primary_font": "High-contrast serif (brand-equivalent to a modern Didone)",
+      "secondary_font": "Neutral grotesk sans-serif for supporting information",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0em to 0.02em",
+        "line_height": "1.3 to 1.6"
+      },
+      "hierarchy": [
+        "H1 – Wordmark serif, all caps",
+        "H2 – Serif or neutral sans",
+        "Body – Neutral sans, minimal"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Editorial grid with strong margin behavior",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Image-led with logo acting as a compositional block",
+      "cta_placement": "Rare; when present, small and subordinate",
+      "alignment": "Centered logo with asymmetric image tension; frequent use of large negative areas"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "conceptual",
+        "editorial",
+        "cinematic",
+        "graphic",
+        "slightly surreal",
+        "quietly provocative"
+      ],
+      "preferred_photographers": [
+        "Steven Meisel",
+        "Willy Vanderperre",
+        "David Sims",
+        "Mert & Marcus"
+      ],
+      "camera_feel": "Fashion as scenario: a single frame that implies a story, often with controlled awkwardness or theatrical stillness.",
+      "pose_guidelines": "Unforced but deliberate; poses can be angular, off-balance, or emotionally detached; occasional candid laughter used as contrast.",
+      "casting_attitude": "Distinctive faces, strong individuality; mixed casting that reads intentional and contemporary, not tokenized."
+    },
+    "technical": {
+      "lighting": "High-key studio, clean daylight, or hard directional light with crisp shadows depending on concept",
+      "contrast": "Medium to high",
+      "grain": "Subtle to visible film grain when cinematic",
+      "depth_of_field": "Shallow to medium; background clarity used strategically for context or graphic flatness",
+      "color_grading": "Neutral-to-cool with deliberate accent color; occasional vintage warmth or chromatic boldness"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Intellectual tension",
+      "Graphic clarity",
+      "Modern classicism",
+      "Controlled provocation"
+    ],
+    "preferred_locations": [
+      "Minimal studio cycloramas",
+      "Milanese and European architecture",
+      "Interiors with modernist lines",
+      "Urban streets with clean facades"
+    ],
+    "contexts": [
+      "Tableaux scenes",
+      "Unexpected everyday rituals",
+      "Art-culture adjacency",
+      "Fashion as narrative still"
+    ],
+    "model_casting": {
+      "age_range": "18–45",
+      "diversity": "Yes, curated and concept-aligned",
+      "attitude": "Self-possessed, slightly detached; emotion appears as puncture moments rather than constant warmth"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product is present and readable but integrated into the concept; often one clear hero item per frame.",
+      "styling_approach": "Sharp silhouettes, deliberate contrasts (texture, proportion, era-mixing), accessories used as graphic punctuation.",
+      "avoid": [
+        "Over-styling for trend alone",
+        "Busy backgrounds without conceptual purpose"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Editorial rhythm; moments feel like still photographs extended in time",
+      "transitions": "Hard cuts or clean fades; typographic/title cards used sparingly"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use negative space as a design element",
+        "Embrace conceptual props or scenarios",
+        "Maintain crisp logo legibility",
+        "Use color blocks strategically"
+      ],
+      "visual_donts": [
+        "Generic luxury tropes (champagne, yachts) unless subverted",
+        "Crowded compositions without a thesis",
+        "Over-retouching that removes texture"
+      ],
+      "copy_dos": [
+        "Keep copy sparse and precise",
+        "Name the concept when useful",
+        "Let product naming stay factual"
+      ],
+      "copy_donts": [
+        "Long paragraphs",
+        "Claims-heavy persuasion",
+        "Price or discount language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "PRADA wordmark integrity",
+        "Concept-driven art direction",
+        "Editorial restraint in copy",
+        "Craft and material realism"
+      ],
+      "can_evolve": [
+        "Casting mix",
+        "Color accent palette",
+        "Degree of surrealism",
+        "Setting (studio vs location)"
+      ],
+      "test_zone": [
+        "Experimental typography scale",
+        "Art-collaboration formats",
+        "Narrative multi-image sequences"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Polished stone",
+        "Steel",
+        "Glass",
+        "High-contrast black-and-white finishes",
+        "Saturated accent surfaces"
+      ],
+      "interactive_elements": [
+        "Large-scale campaign imagery",
+        "Art-installation moments",
+        "Minimal product information cues"
+      ],
+      "soundscape": "Sparse, modern, curated ambience"
+    },
+    "digital": {
+      "tone_adjustment": "Image-first with minimal captions; concept naming and collection identifiers; focus on cultural dialogue.",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Graphic first frames, tight crops, bold logo moments, occasional behind-the-scenes culture cues",
+        "Website": "Editorial navigation, high-impact hero visuals, restrained UI",
+        "Newsletter": "Minimal text, strong hero image, clear product/category pathways"
+      }
+    },
+    "print": {
+      "paper": "Matte or semi-matte fine stock",
+      "cover_rules": "Full-bleed or strong negative space; PRADA wordmark as a dominant typographic element"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Wordmark distorted or stretched",
+      "Low-contrast placements that reduce legibility",
+      "Crowding the wordmark with other typography"
+    ]
+  }
+}

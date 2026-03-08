@@ -1,0 +1,271 @@
+{
+  "brand_info": {
+    "name": "Clinique",
+    "tagline": "Allergy Tested. 100% Fragrance Free.",
+    "category": "Skincare and cosmetics",
+    "positioning": "A dermatologist-developed beauty brand positioned at the intersection of clinical efficacy, safety, and simple routines, focused on healthy skin rather than decorative beauty.",
+    "vision": "To create great skin for everyone through safe, effective, dermatologist-guided skincare.",
+    "mission": "Deliver clinically tested, fragrance-free skincare and makeup solutions that support healthy skin across all types and concerns.",
+    "origin_story": "Founded in 1968 in New York by Estée Lauder Companies in collaboration with dermatologist Dr. Norman Orentreich and editor Carol Phillips, Clinique pioneered the concept of dermatologist-developed, allergy-tested skincare."
+  },
+  "brand_values": {
+    "core_values": [
+      "Clinical safety",
+      "Dermatological science",
+      "Simplicity and clarity",
+      "Inclusivity of skin types",
+      "Trust and transparency"
+    ],
+    "brand_promise": "Provide safe, effective, and simple skincare solutions backed by dermatological science.",
+    "differentiators": [
+      "Dermatologist-developed formulations tested for safety and tolerance.",
+      "Strict fragrance-free and allergy-tested standards.",
+      "Clear, system-based skincare routines such as the 3-Step Skin Care System.",
+      "Long-standing credibility within department store skincare."
+    ],
+    "non_negotiables": [
+      "No fragrance and strict allergy-testing standards must be preserved.",
+      "Clinical credibility must remain central to all communication.",
+      "Claims must be evidence-based and compliant.",
+      "Avoid beauty hype disconnected from skin health."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-65",
+      "gender": "All",
+      "income_level": "Mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Consumers seeking reliable, dermatologist-backed skincare with minimal risk and clear routines.",
+      "values": [
+        "Skin health",
+        "Safety and trust",
+        "Simplicity",
+        "Long-term results",
+        "Science-backed beauty"
+      ],
+      "behavior": "Routine-based skincare use, loyalty to trusted brands, preference for clear ingredient and benefit communication."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Clinical",
+      "Reassuring",
+      "Clear",
+      "Responsible",
+      "Expert"
+    ],
+    "communication_style": "Educational, calm, and authoritative, translating dermatological science into accessible language.",
+    "language_register": "Clinical / Informative / Accessible",
+    "preferred_structures": [
+      "Problem-solution explanations",
+      "Routine-based guidance",
+      "Evidence-supported benefit statements"
+    ],
+    "avoid": [
+      "Overly emotional beauty language",
+      "Luxury excess rhetoric",
+      "Unsubstantiated miracle claims"
+    ],
+    "emotional_temperature": "Calm trust",
+    "tone_dos": [
+      "Prioritize clarity and reassurance",
+      "Explain benefits through skin health",
+      "Maintain professional medical-adjacent tone"
+    ],
+    "tone_donts": [
+      "Sensationalism",
+      "Fear-based skin messaging",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Clinique wordmark.",
+      "usage_rules": "Use clean, high-contrast placement; avoid decorative effects or distortion.",
+      "lockup_behavior": "Wordmark used consistently; minimal co-branding unless required.",
+      "safe_area": "Minimum padding equals the height of the 'C' in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#E6E6E6",
+        "#C7E3E0"
+      ],
+      "color_usage_rules": "Minimal, clinical palette with restrained use of brand pastels; emphasis on cleanliness and clarity."
+    },
+    "typography": {
+      "primary_font": "Clean modern sans-serif",
+      "secondary_font": "Supporting sans-serif for instructional clarity",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.02em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Regular/Bold sans",
+        "Body – Regular sans",
+        "Captions – Regular sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured, clinical grid",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Balanced with emphasis on clarity",
+      "cta_placement": "Lower third or end of layout",
+      "alignment": "Orderly, stable, and precise compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "clean",
+        "clinical",
+        "trustworthy",
+        "natural skin",
+        "minimal"
+      ],
+      "preferred_photographers": [
+        "Beauty photographers with clean, editorial style",
+        "Studio photographers emphasizing texture and skin realism",
+        "Lifestyle photographers for subtle, everyday skin moments"
+      ],
+      "camera_feel": "Bright, clean imagery emphasizing real skin texture and health.",
+      "pose_guidelines": "Natural expressions, relaxed confidence, minimal posing.",
+      "casting_attitude": "Diverse skin tones, ages, and concerns represented authentically."
+    },
+    "technical": {
+      "lighting": "Soft, even studio lighting minimizing harsh shadows.",
+      "contrast": "Low to medium.",
+      "grain": "Low.",
+      "depth_of_field": "Moderate; skin clarity prioritized.",
+      "color_grading": "Neutral, true-to-skin grading."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Clinical confidence",
+      "Clean simplicity",
+      "Skin-first credibility",
+      "Inclusive calm"
+    ],
+    "preferred_locations": [
+      "Minimal studio environments",
+      "Clean lifestyle interiors"
+    ],
+    "contexts": [
+      "Daily skincare routines",
+      "Skin concern education",
+      "Dermatologist-guided solutions"
+    ],
+    "model_casting": {
+      "age_range": "18–65",
+      "diversity": "Broad and inclusive across skin types and tones",
+      "attitude": "Calm, confident, natural"
+    },
+    "product_presentation": {
+      "hero_visibility": "Packaging and texture clarity prioritized.",
+      "styling_approach": "Minimal, clinical, distraction-free.",
+      "avoid": [
+        "Overly glamorous beauty tropes",
+        "Heavy retouching that alters skin reality"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow, reassuring, instructional.",
+      "transitions": "Clean fades and simple cuts."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real skin and real results",
+        "Maintain clinical clarity",
+        "Use inclusive representation"
+      ],
+      "visual_donts": [
+        "Excessive retouching",
+        "Visual clutter",
+        "Over-stylized beauty imagery"
+      ],
+      "copy_dos": [
+        "Educate clearly",
+        "Support claims with facts",
+        "Reinforce dermatologist authority"
+      ],
+      "copy_donts": [
+        "Miracle language",
+        "Fear-based skin messaging",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Clinique wordmark integrity",
+        "Fragrance-free and allergy-tested positioning",
+        "Clinical, dermatologist-developed credibility"
+      ],
+      "can_evolve": [
+        "Visual execution styles",
+        "Digital education formats",
+        "Sustainability communication"
+      ],
+      "test_zone": [
+        "Advanced skin science technologies",
+        "Personalized skincare tools",
+        "Expanded inclusive shade ranges"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean counters",
+        "Clinical testers",
+        "Educational signage"
+      ],
+      "interactive_elements": [
+        "Skin analysis tools",
+        "Routine-building consultations"
+      ],
+      "soundscape": "Quiet and neutral"
+    },
+    "digital": {
+      "tone_adjustment": "Educational, calm, and reassuring",
+      "content_ratio": {
+        "campaign_vs_product": "45:55",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Skin education, product highlights, inclusive casting",
+        "Website": "Routine guidance, ingredient transparency",
+        "Newsletter": "Educational skincare content and product updates"
+      }
+    },
+    "print": {
+      "paper": "Matte or lightly coated stock",
+      "cover_rules": "Minimal layouts with clear product and skin focus"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting the Clinique wordmark",
+      "Placing logo on low-contrast backgrounds",
+      "Decorative treatments that undermine clinical tone"
+    ]
+  }
+}

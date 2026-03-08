@@ -1,0 +1,278 @@
+{
+  "brand_info": {
+    "name": "BMW",
+    "tagline": "Sheer Driving Pleasure",
+    "category": "Premium automotive and mobility",
+    "positioning": "Premium performance-led mobility brand combining driving dynamics, progressive design, and advanced technology.",
+    "vision": "Combine top-flight mobility with innovative technologies to contribute to a more sustainable world.",
+    "mission": "Deliver premium mobility solutions that unite driving pleasure, design quality, and technological progress across products and services.",
+    "origin_story": "Foundation date recognized as 7 March 1916, rooted in Munich, Bavaria, with early aerospace engineering heritage that evolved into motorcycles and automobiles."
+  },
+  "brand_values": {
+    "core_values": [
+      "Driving pleasure",
+      "Engineering excellence",
+      "Progress",
+      "Responsibility"
+    ],
+    "brand_promise": "Dynamic, premium mobility that feels precise, confident, and emotionally engaging.",
+    "differentiators": [
+      "Performance and handling DNA",
+      "Driver-centric product philosophy",
+      "Progressive design with premium fit and finish",
+      "Innovation spanning electrification, digital services, and efficiency technologies"
+    ],
+    "non_negotiables": [
+      "Clear premium cues",
+      "Authentic performance credibility",
+      "Technical precision",
+      "No gimmicky or cartoonish visual language"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "28-55",
+      "gender": "All",
+      "income_level": "High / Premium"
+    },
+    "psychographics": {
+      "lifestyle": "Urban and suburban professionals who value performance, design, and technology, and who see mobility as both utility and personal expression",
+      "values": [
+        "Control and confidence",
+        "Quality and craft",
+        "Progressive technology",
+        "Driving enjoyment"
+      ],
+      "behavior": "Research-driven buyers, brand loyalists, early adopters for new powertrains and digital features, active in premium lifestyle culture"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Precise",
+      "Progressive",
+      "Premium"
+    ],
+    "communication_style": "Direct, performance-led, and design-aware with restrained emotional uplift tied to joy of driving",
+    "language_register": "Modern formal",
+    "preferred_structures": [
+      "Short declarative lines",
+      "Benefit-led statements",
+      "Engineering-backed claims framed as experience"
+    ],
+    "avoid": [
+      "Overly playful slang",
+      "Excessive hype",
+      "Overly technical jargon without experience translation"
+    ],
+    "emotional_temperature": "Cool-confident with controlled excitement",
+    "tone_dos": [
+      "Anchor to driving experience",
+      "Use premium restraint",
+      "Let imagery carry aspiration"
+    ],
+    "tone_donts": [
+      "Shouting typography",
+      "Cheap sales language",
+      "Overpromising futurism"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "BMW roundel (blue and white) with BMW wordmark",
+      "usage_rules": "Use the roundel as a premium signature mark with generous clear space; avoid placing over complex texture or low-contrast areas; never distort, recolor, or add effects",
+      "lockup_behavior": "Roundel positioned with strict alignment to grid; typically corner placement or centered end-frame in motion",
+      "safe_area": "Minimum padding equals the roundel radius on all sides"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#0066B1",
+        "#009ADA"
+      ],
+      "secondary_colors": [
+        "#C0C0C0",
+        "#1A1A1A",
+        "#E6E6E6"
+      ],
+      "color_usage_rules": "High-contrast premium neutrals dominate; BMW blues appear as controlled accents in branding and UI moments rather than full-scene washes"
+    },
+    "typography": {
+      "primary_font": "BMW Type (brand type family)",
+      "secondary_font": "Modern neutral sans-serif fallback for digital interfaces",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Medium"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to neutral",
+        "line_height": "1.3–1.6"
+      },
+      "hierarchy": [
+        "H1 – strong sans headline",
+        "H2 – supporting sans line",
+        "Body – clean sans",
+        "Captions – compact sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular grid with strong alignment and generous margins",
+      "white_space_ratio": "Controlled to generous, especially in end-frames and print key-visuals",
+      "image_vs_text_balance": "Image-led, text used sparingly as performance or concept anchor",
+      "cta_placement": "Lower corners or end-frame centered, minimal",
+      "alignment": "Geometric, precise, and consistent across formats"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "precision",
+        "dynamic",
+        "clean",
+        "premium",
+        "technical elegance"
+      ],
+      "preferred_photographers": [
+        "Brand-led commercial automotive photographers (campaign-dependent)"
+      ],
+      "camera_feel": "High-end automotive advertising with controlled motion cues and a premium, engineered finish",
+      "pose_guidelines": "Vehicles staged with purposeful stance; if talent appears, posture is composed, confident, and functional to the mobility moment",
+      "casting_attitude": "Premium modern, confident, understated; focus remains on vehicle experience and design"
+    },
+    "technical": {
+      "lighting": "Sculpted studio or natural light with crisp edge definition; night scenes use controlled highlights and reflective surfaces",
+      "contrast": "Medium to high with clean blacks and controlled highlights",
+      "grain": "Minimal to subtle, modern clean finish",
+      "depth_of_field": "Moderate; selective focus used to emphasize design lines, headlight signatures, and brand details",
+      "color_grading": "Neutral-cool with metallic clarity; accents in BMW blue and warm practical lights where narrative requires"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Driving pleasure",
+      "Progressive premium",
+      "Technical clarity",
+      "Controlled emotion"
+    ],
+    "preferred_locations": [
+      "Modern city architecture",
+      "Open roads with strong horizons",
+      "Clean industrial or alpine environments",
+      "Minimal premium studio spaces"
+    ],
+    "contexts": [
+      "Performance demonstration",
+      "Design-led hero shots",
+      "Technology and innovation narratives",
+      "Sustainability and electrification progress"
+    ],
+    "model_casting": {
+      "age_range": "25–55",
+      "diversity": "Yes, contemporary and global",
+      "attitude": "Calm confidence, intelligent presence, no theatrical acting"
+    },
+    "product_presentation": {
+      "hero_visibility": "Vehicle remains primary hero; brand signatures and design details are highlighted with intent",
+      "styling_approach": "Clean, premium, minimal distraction; environment supports lines, stance, and light behavior on surfaces",
+      "avoid": [
+        "Busy cluttered backgrounds",
+        "Over-stylized filters",
+        "Toy-like exaggeration"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Controlled acceleration cues, smooth camera movement, confident rhythm",
+      "transitions": "Clean cuts, elegant match cuts on form lines, minimal effects"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Emphasize stance and proportions",
+        "Use clean reflections to reveal form",
+        "Show purposeful motion or implied motion",
+        "Keep brand marks crisp and unobtrusive"
+      ],
+      "visual_donts": [
+        "Distort proportions",
+        "Overly saturated look",
+        "Chaotic composition",
+        "Heavy gimmick VFX"
+      ],
+      "copy_dos": [
+        "Tie claims to experience",
+        "Keep language precise and premium",
+        "Use short, memorable lines"
+      ],
+      "copy_donts": [
+        "Discount-led messaging",
+        "Overly emotional melodrama",
+        "Dense technical specs dumps"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "BMW roundel integrity",
+        "Premium restraint",
+        "Performance and driving-pleasure core",
+        "Technical clarity in visuals"
+      ],
+      "can_evolve": [
+        "Electrification narratives",
+        "Digital-first layouts",
+        "Casting and cultural contexts"
+      ],
+      "test_zone": [
+        "Experiential content series",
+        "Short-film storytelling",
+        "Interactive OOH and AR experiences"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Glass",
+        "Brushed metal",
+        "Matte black surfaces",
+        "Light grey stone or concrete"
+      ],
+      "interactive_elements": [
+        "Vehicle configurators",
+        "Digital spec and feature walls",
+        "Immersive lighting that reveals surface form"
+      ],
+      "soundscape": "Modern minimal ambient with subtle mechanical and electric cues"
+    },
+    "digital": {
+      "tone_adjustment": "More product and feature clarity, still premium and restrained",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "Hero form, detail reels, controlled motion, minimal copy overlays",
+        "Website": "Config-driven journeys, clean UI, strong imagery, technical benefits translated into experience",
+        "Newsletter": "High-impact hero visuals, concise feature highlights, clear CTA"
+      }
+    },
+    "print": {
+      "paper": "Premium coated or matte stock depending on series, always high-fidelity reproduction",
+      "cover_rules": "Full-bleed hero vehicle, minimal headline, roundel as precise signature"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Roundel recolored or stylized",
+      "Roundel placed on low contrast background",
+      "Distortion, stretch, or added effects to logo"
+    ]
+  }
+}

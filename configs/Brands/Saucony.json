@@ -1,0 +1,274 @@
+{
+  "brand_info": {
+    "name": "Saucony",
+    "tagline": "Run For Good.",
+    "category": "Performance running footwear and apparel",
+    "positioning": "A heritage performance running brand focused on authentic running culture, technical innovation, and the emotional connection between runners and the act of running.",
+    "vision": "To be the most authentic running brand in the world.",
+    "mission": "Inspire and serve runners through innovation, craftsmanship, and a deep respect for the running community.",
+    "origin_story": "Founded in 1898 in Kutztown, Pennsylvania, Saucony began along Saucony Creek and has evolved into one of the oldest running-specific brands, rooted in craftsmanship, fit, and performance innovation."
+  },
+  "brand_values": {
+    "core_values": [
+      "Authenticity in running",
+      "Technical innovation",
+      "Craftsmanship",
+      "Community and inclusivity",
+      "Responsibility and purpose"
+    ],
+    "brand_promise": "Deliver reliable, innovative running products that respect the runner, the craft, and the planet.",
+    "differentiators": [
+      "One of the longest-standing brands dedicated exclusively to running.",
+      "Strong balance between performance technology and classic design language.",
+      "Deep emotional storytelling around the runner’s journey rather than podium results.",
+      "Commitment to sustainability and responsible innovation under the 'Run For Good' platform."
+    ],
+    "non_negotiables": [
+      "Stay authentic to running culture and runner-first thinking.",
+      "Protect technical credibility across road and trail categories.",
+      "Keep communication honest, humble, and human.",
+      "Avoid trend-driven dilution outside core running."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-55",
+      "gender": "All",
+      "income_level": "Mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Dedicated runners ranging from casual joggers to competitive athletes who value feel, fit, and consistency over hype.",
+      "values": [
+        "Personal progress",
+        "Consistency and discipline",
+        "Craft and quality",
+        "Community belonging",
+        "Purpose-driven brands"
+      ],
+      "behavior": "Regular training routines, loyalty to trusted models, interest in shoe rotation, appreciation for thoughtful storytelling."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Humble",
+      "Passionate",
+      "Thoughtful",
+      "Authentic",
+      "Purpose-driven"
+    ],
+    "communication_style": "Runner-to-runner, reflective and encouraging, blending technical clarity with emotional resonance.",
+    "language_register": "Plain / Reflective / Performance-led",
+    "preferred_structures": [
+      "Runner-centric reflections",
+      "Benefit statements grounded in experience",
+      "Purpose-led messaging"
+    ],
+    "avoid": [
+      "Aggressive competitive bravado",
+      "Overly flashy hype language",
+      "Elitist athletic narratives"
+    ],
+    "emotional_temperature": "Calm inspiration",
+    "tone_dos": [
+      "Honor the runner’s journey",
+      "Speak with humility and confidence",
+      "Balance performance facts with feeling"
+    ],
+    "tone_donts": [
+      "Overstated claims",
+      "Shaming performance language",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Saucony wordmark with wave symbol.",
+      "usage_rules": "Maintain clarity and contrast; avoid distortion or excessive effects.",
+      "lockup_behavior": "Wordmark and wave used together or separately depending on context; ensure recognizability.",
+      "safe_area": "Minimum padding equals the height of the 'S' in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#1C4ED8"
+      ],
+      "secondary_colors": [
+        "#6B7280",
+        "#E5E7EB"
+      ],
+      "color_usage_rules": "Clean performance palette with restrained use of accent color; seasonal palettes remain grounded."
+    },
+    "typography": {
+      "primary_font": "Modern sans-serif with classic athletic tone",
+      "secondary_font": "Bold sans-serif for emphasis and campaign lines",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.02em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Regular/Bold sans",
+        "Body – Regular sans",
+        "Captions – Regular sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured but flexible grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-led with reflective copy support",
+      "cta_placement": "Lower third or subtly integrated",
+      "alignment": "Balanced, calm compositions emphasizing continuity"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "authentic running",
+        "endurance-focused",
+        "human scale",
+        "quiet confidence",
+        "community-driven"
+      ],
+      "preferred_photographers": [
+        "Running-focused documentary photographers",
+        "Lifestyle photographers capturing real training moments",
+        "Studio product photographers emphasizing form and durability"
+      ],
+      "camera_feel": "Honest, intimate imagery capturing rhythm, effort, and reflection.",
+      "pose_guidelines": "Natural running strides, recovery moments, quiet determination.",
+      "casting_attitude": "Real runners of diverse backgrounds and abilities."
+    },
+    "technical": {
+      "lighting": "Natural daylight or soft overcast conditions; clean studio lighting for product.",
+      "contrast": "Medium.",
+      "grain": "Low to moderate.",
+      "depth_of_field": "Moderate; focus on runner and product clarity.",
+      "color_grading": "Natural, slightly muted tones for realism."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Thoughtful endurance",
+      "Authentic emotion",
+      "Runner-first credibility",
+      "Purpose-led optimism"
+    ],
+    "preferred_locations": [
+      "Everyday running routes",
+      "Urban neighborhoods",
+      "Parks and trails"
+    ],
+    "contexts": [
+      "Daily training rituals",
+      "Personal milestones",
+      "Community runs",
+      "Environmental responsibility narratives"
+    ],
+    "model_casting": {
+      "age_range": "18–55",
+      "diversity": "Broad and authentic",
+      "attitude": "Focused, reflective, quietly confident"
+    },
+    "product_presentation": {
+      "hero_visibility": "Ride, fit, and durability cues clearly visible.",
+      "styling_approach": "Performance-first with understated lifestyle crossover.",
+      "avoid": [
+        "Overly aggressive race-only storytelling",
+        "Fashion-forward styling that obscures function"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured and rhythmic, aligned with steady running cadence.",
+      "transitions": "Smooth, natural cuts."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real runners in real contexts",
+        "Highlight consistency and durability",
+        "Balance performance with emotion"
+      ],
+      "visual_donts": [
+        "Over-polished fantasy visuals",
+        "Exclusionary elite-only narratives",
+        "Visual gimmicks"
+      ],
+      "copy_dos": [
+        "Speak runner-to-runner",
+        "Honor progress over perfection",
+        "Reinforce purpose and responsibility"
+      ],
+      "copy_donts": [
+        "Hype-driven claims",
+        "Shaming language",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Saucony wordmark and wave integrity",
+        "Running-first positioning",
+        "Authentic, purpose-led tone"
+      ],
+      "can_evolve": [
+        "Visual storytelling approaches",
+        "Sustainability narratives",
+        "Digital community formats"
+      ],
+      "test_zone": [
+        "New cushioning and ride technologies",
+        "Expanded trail and hybrid categories",
+        "Innovative materials and sustainability solutions"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean athletic fixtures",
+        "Natural textures",
+        "Product-focused displays"
+      ],
+      "interactive_elements": [
+        "Fit and gait education",
+        "Sustainability storytelling touchpoints"
+      ],
+      "soundscape": "Calm, rhythmic, and motivational"
+    },
+    "digital": {
+      "tone_adjustment": "Reflective, informative, and runner-centric",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Runner stories, community highlights, thoughtful product moments",
+        "Website": "Product education, sustainability, and training guidance",
+        "Newsletter": "Purpose-driven stories and product updates"
+      }
+    },
+    "print": {
+      "paper": "Matte or lightly coated stock",
+      "cover_rules": "Human-scale running imagery with restrained copy"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting the wave symbol",
+      "Placing logo on low-contrast backgrounds",
+      "Overcrowding the logo with messaging"
+    ]
+  }
+}

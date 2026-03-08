@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Hermès",
+    "tagline": "Hermès, contemporary artisan since 1837",
+    "category": "Luxury fashion and lifestyle maison",
+    "positioning": "An independent, family-owned French house at the pinnacle of discreet luxury, defined by exceptional craftsmanship, timeless design, and poetic creativity across leather goods, silk, ready-to-wear, jewelry, and home.",
+    "vision": "To keep craftsmanship alive and forward-looking, creating timeless and durable objects that transcend trends through a spirit of freedom, invention, and cultural curiosity.",
+    "mission": "To design and craft timeless, durable objects and experiences, safeguarding and passing on exceptional savoir-faire while combining artisanal excellence with creativity, innovation, and responsible practice.",
+    "origin_story": "Founded in Paris in 1837 by Thierry Hermès as a harness and saddlery workshop serving an elite clientele, the house evolved from equestrian equipment into a global luxury maison while remaining rooted in handcraft, material mastery, and a distinctive blend of heritage and playful imagination."
+  },
+  "brand_values": {
+    "core_values": [
+      "Craftsmanship",
+      "Freedom of creation",
+      "Timelessness",
+      "Responsible excellence",
+      "Discreet luxury"
+    ],
+    "brand_promise": "Every Hermès creation delivers enduring quality, tactile pleasure, and quiet distinction, expressing the house’s artisanal mastery and poetic spirit without compromise.",
+    "differentiators": [
+      "Uncompromising artisanal know-how and material mastery across métiers",
+      "Iconic codes and recognizable details expressed with restraint rather than loud branding",
+      "A poetic, playful, and inventive creative culture that elevates everyday objects into lasting companions"
+    ],
+    "non_negotiables": [
+      "No shortcuts on materials, construction, or finishing",
+      "No overt discounting or price-led messaging that diminishes craft value",
+      "No visual or verbal loudness that replaces subtlety, wit, and refinement"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "30-65",
+      "gender": "All genders",
+      "income_level": "High to ultra-high"
+    },
+    "psychographics": {
+      "lifestyle": "Culturally fluent global clients who value rarity, provenance, and the pleasure of well-made objects. They travel, collect, and invest in pieces that become personal signatures, preferring quality and service over hype.",
+      "values": [
+        "Savoir-faire and provenance",
+        "Longevity over trends",
+        "Tasteful discretion",
+        "Sensory material pleasure"
+      ],
+      "behavior": "Selective and loyal buyers who appreciate craftsmanship and limited availability, often building wardrobes and object collections over time. They seek pieces that feel personal and enduring, with minimal overt logos and maximum tactile quality."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Poetic",
+      "Witty",
+      "Refined",
+      "Confident",
+      "Discreet"
+    ],
+    "communication_style": "Minimal, precise, and evocative, with lightness and quiet intelligence",
+    "language_register": "Elevated but approachable",
+    "preferred_structures": [
+      "Short, memorable lines that suggest a story",
+      "Craft-led statements grounded in materials and making",
+      "Playful titles and campaign phrases that feel like modern fables"
+    ],
+    "avoid": [
+      "Hard-sell copy and promotional urgency",
+      "Excessive superlatives and hype language",
+      "Over-explanation that kills mystery"
+    ],
+    "emotional_temperature": "Warm, airy, and imaginative, with controlled elegance",
+    "tone_dos": [
+      "Let craft and imagination speak through suggestion and metaphor",
+      "Keep copy sparse, leaving space for the image to carry the narrative"
+    ],
+    "tone_donts": [
+      "Aggressive CTAs, shouting typography, or price/discount cues",
+      "Overly technical jargon that feels industrial rather than artisanal"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "HERMÈS PARIS wordmark with the house emblem (horse-drawn carriage and groom) used as the primary signature",
+      "usage_rules": "Use the logo as a refined signature with generous breathing room. Maintain high contrast and avoid overlaying on busy, high-detail areas. Never distort, rotate, recolor with gradients, or apply effects.",
+      "lockup_behavior": "Typically centered or slightly offset near the top or bottom, scaled modestly relative to the composition to preserve elegance and narrative focus",
+      "safe_area": "Keep clear space around the logo equal to at least the emblem height on all sides"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FF4F00",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#000000",
+        "#F2E8D8",
+        "#B7C7D3"
+      ],
+      "color_usage_rules": "Hermès orange is the key accent, used sparingly to create instant recognition. Base fields are clean whites and warm neutrals, with black for typography and occasional airy pastels in backgrounds. Avoid loud multicolor palettes unless controlled as a poetic, editorial gesture."
+    },
+    "typography": {
+      "primary_font": "Hermès house wordmark (custom serif) for the logo signature",
+      "secondary_font": "Elegant serif or clean sans-serif for supporting copy (light to regular weights, high legibility)",
+      "weights": {
+        "headlines": "Regular to medium",
+        "body": "Light to regular",
+        "captions": "Light or italic when editorial"
+      },
+      "spacing": {
+        "letter_spacing": "0.06em",
+        "line_height": "1.4"
+      },
+      "hierarchy": [
+        "H1 – Sparse headline or campaign phrase with generous tracking",
+        "H2 – Secondary line aligned to the logo rhythm",
+        "Body – Minimal supporting copy, never dense"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Single-image poster layout with strong negative space and a clear signature zone for logo and headline",
+      "white_space_ratio": "High use of negative space to emphasize mystery and craft",
+      "image_vs_text_balance": "Image-dominant, text as a discreet signature",
+      "cta_placement": "If present, small and secondary, aligned near the logo zone with minimal hierarchy",
+      "alignment": "Centered or gently asymmetrical, always balanced and airy"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "poetic",
+        "surreal",
+        "lighthearted",
+        "editorial",
+        "craft-forward",
+        "iconic"
+      ],
+      "preferred_photographers": [
+        "House-commissioned auteur photographers",
+        "Illustration and still-life artists for product narratives"
+      ],
+      "camera_feel": "Cinematic, airy frames that read like a modern fable, mixing real locations with playful, surreal scale and unexpected juxtapositions",
+      "pose_guidelines": "Natural, elegant gestures with a sense of movement and breeze. Bodies feel relaxed yet composed, often captured mid-action to suggest freedom and story",
+      "casting_attitude": "Confident, curious, and serene. Faces and bodies carry quiet presence rather than performance, with styling that feels effortless and elevated"
+    },
+    "technical": {
+      "lighting": "Naturalistic, soft daylight or diffused studio light, often with gentle bloom and controlled highlights",
+      "contrast": "Moderate, with clean separation and a premium, refined roll-off in highlights",
+      "grain": "Very subtle, sometimes a fine film-like texture to add warmth and tactility",
+      "depth_of_field": "Variable: shallow for intimate product emphasis, deeper for storytelling tableaux where environment and object coexist",
+      "color_grading": "Clean and luminous with restrained saturation, using Hermès orange as the dominant accent and keeping skin tones and neutrals natural"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Poetic realism",
+      "Playful sophistication",
+      "Dreamlike storytelling",
+      "Discreet luxury"
+    ],
+    "preferred_locations": [
+      "Airy coastal or island landscapes with open skies",
+      "Snowfields, deserts, and wide natural horizons used as minimalist stages",
+      "Architectural settings with quiet elegance and strong geometry"
+    ],
+    "contexts": [
+      "Surreal narrative scenes where objects feel like characters",
+      "Lifestyle moments elevated into gentle fantasy",
+      "Product-as-hero compositions that integrate craft details into the story world"
+    ],
+    "model_casting": {
+      "age_range": "20–45",
+      "diversity": "Yes, inclusive casting aligned with elegance and presence",
+      "attitude": "Light, self-possessed, and calm, with subtle curiosity and ease"
+    },
+    "product_presentation": {
+      "hero_visibility": "Always clear and readable, integrated into the scene as the story anchor rather than a pasted-in packshot",
+      "styling_approach": "Understated styling that lets material, color, and construction speak. Accessories and props are carefully curated and never cluttered.",
+      "avoid": [
+        "Overcrowded sets, noisy backgrounds, and trend-chasing aesthetics",
+        "Heavy retouching that removes natural texture and material truth"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "If animated, movements are slow, floaty, and graceful, like wind, fabric, and gentle camera drift",
+      "transitions": "Soft cuts or dissolves, no aggressive effects, maintaining a dreamy continuity"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use Hermès orange as a decisive, minimal accent",
+        "Build compositions around negative space, wit, and material tactility",
+        "Create gentle surrealism with real-world photographic credibility"
+      ],
+      "visual_donts": [
+        "Do not use loud graphic overlays or cluttered layouts",
+        "Do not over-brand or dominate the image with large logos",
+        "Do not rely on generic luxury tropes without a narrative twist"
+      ],
+      "copy_dos": [
+        "Keep copy sparse, elegant, and suggestive",
+        "Use short campaign phrases that feel like a fable title"
+      ],
+      "copy_donts": [
+        "Avoid sales language, urgency, and discount framing",
+        "Avoid long paragraphs and explanatory copy"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Integrity of the Hermès signature and emblem usage",
+        "Craft-first truth in materials, finishing, and construction detail",
+        "Poetic restraint: elegance with wit, never loudness"
+      ],
+      "can_evolve": [
+        "Casting and cultural references while staying refined",
+        "Digital formats and motion language as long as they remain airy and crafted",
+        "Narrative concepts that reinterpret heritage with contemporary imagination"
+      ],
+      "test_zone": [
+        "Experimental capsules and artistic collaborations",
+        "Pop-ups and immersive experiences that extend the fable world",
+        "Digital-first storytelling prototypes with controlled brand signatures"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Warm woods, leather, stone, and artisanal surfaces with impeccable finishing",
+        "Brass or bronze accents with understated shine",
+        "Textiles and leathers showcased as tactile objects, not mere decor"
+      ],
+      "interactive_elements": [
+        "Quiet storytelling windows and displays with crafted props",
+        "Selective digital touchpoints that never overpower products",
+        "Personal service rituals emphasizing provenance and craft"
+      ],
+      "soundscape": "Soft ambient soundscapes, classical or contemporary minimal music at low volume, preserving intimacy"
+    },
+    "digital": {
+      "tone_adjustment": "Website and e-commerce remain clean, craft-led, and editorial; social channels amplify the playful fable tone with minimal captions; newsletters stay concise, curated, and premium.",
+      "content_ratio": {
+        "campaign_vs_product": "70:30",
+        "motion_vs_static": "35:65"
+      },
+      "platform_behavior": {
+        "Instagram": "Poetic hero images, short captions, strong negative space, signature logo placement",
+        "Website": "Editorial storytelling with craft details, clean layout, and controlled use of orange accents",
+        "Newsletter": "Minimal design, one hero image, short copy blocks, clear but discreet navigation"
+      }
+    },
+    "print": {
+      "paper": "Premium uncoated or lightly textured stocks that enhance tactility and color depth, with excellent reproduction of orange and neutrals",
+      "cover_rules": "Full-bleed image with generous breathing room; logo and headline placed as a refined signature, never crowded"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or warping the wordmark or emblem",
+      "Placing the logo over busy, high-frequency textures that reduce legibility",
+      "Using gradients, shadows, or novelty effects on the logo"
+    ]
+  }
+}

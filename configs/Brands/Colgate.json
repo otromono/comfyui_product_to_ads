@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Colgate",
+    "tagline": "Smile with Confidence",
+    "category": "Oral Care / Personal Care",
+    "positioning": "Global oral care brand positioned on daily prevention, oral health expertise, and trust, supporting confident smiles for the whole family.",
+    "vision": "To give people everywhere the confidence to smile by improving oral health worldwide.",
+    "mission": "To deliver effective, science-backed oral care solutions that promote healthy teeth and gums as part of everyday routines.",
+    "origin_story": "Founded in 1806 in New York by William Colgate as a soap and starch business, Colgate evolved into a global leader in oral care through continuous scientific innovation and trust-building."
+  },
+  "brand_values": {
+    "core_values": [
+      "Trust",
+      "Care",
+      "Prevention",
+      "Science",
+      "Accessibility"
+    ],
+    "brand_promise": "Effective oral care that helps protect smiles every day through trusted science.",
+    "differentiators": [
+      "Strong dental and scientific credibility",
+      "Global leadership in oral care categories",
+      "Everyday preventive focus"
+    ],
+    "non_negotiables": [
+      "Clinical credibility",
+      "Clear health benefits",
+      "Family-safe positioning"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Children to adults",
+      "gender": "All",
+      "income_level": "Mass market"
+    },
+    "psychographics": {
+      "lifestyle": "People who prioritize hygiene, prevention, and family health routines",
+      "values": [
+        "Health",
+        "Confidence",
+        "Reliability",
+        "Care"
+      ],
+      "behavior": "Daily usage, strong brand loyalty, preference for dentist-recommended products"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Reassuring",
+      "Professional",
+      "Caring",
+      "Clear",
+      "Trustworthy"
+    ],
+    "communication_style": "Clear, confident, and supportive with a balance of science and everyday language",
+    "language_register": "Accessible, professional, reassuring",
+    "preferred_structures": [
+      "Benefit-led explanations",
+      "Prevention messaging",
+      "Dentist-backed statements"
+    ],
+    "avoid": [
+      "Fear-based health language",
+      "Overly technical jargon",
+      "Playful or ironic tones"
+    ],
+    "emotional_temperature": "Calm-trustworthy",
+    "tone_dos": [
+      "Build confidence through science",
+      "Emphasize prevention",
+      "Maintain clarity"
+    ],
+    "tone_donts": [
+      "Overpromising results",
+      "Emotional exaggeration",
+      "Lifestyle-only storytelling"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Colgate wordmark in red",
+      "usage_rules": "Maintain color integrity and proportions; never distort or recolor",
+      "lockup_behavior": "Clear and central placement",
+      "safe_area": "Minimum padding equals the height of the Colgate wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#E30613",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#1F6AE1",
+        "#E5E7EB"
+      ],
+      "color_usage_rules": "High-contrast red and white palette signaling cleanliness and trust"
+    },
+    "typography": {
+      "primary_font": "Clean humanist sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Health-led headline",
+        "H2 – Supporting benefit",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Clear, structured grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Balanced between people and product",
+      "cta_placement": "Clear and reassuring",
+      "alignment": "Structured and centered layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "clean",
+        "bright",
+        "healthy",
+        "trustworthy",
+        "family-oriented"
+      ],
+      "preferred_photographers": [
+        "Lifestyle and healthcare photographers"
+      ],
+      "camera_feel": "Bright, clean realism",
+      "pose_guidelines": "Natural smiles, everyday hygiene moments",
+      "casting_attitude": "Confident, healthy, relatable"
+    },
+    "technical": {
+      "lighting": "Bright natural or clean studio light",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow to medium maintaining clarity",
+      "color_grading": "Clean, neutral tones with emphasis on white and red"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Healthy confidence",
+      "Everyday prevention",
+      "Clean clarity"
+    ],
+    "preferred_locations": [
+      "Bathrooms",
+      "Clean interiors",
+      "Neutral studio settings"
+    ],
+    "contexts": [
+      "Daily brushing routines",
+      "Family hygiene moments",
+      "Dental care education"
+    ],
+    "model_casting": {
+      "age_range": "Children to adults",
+      "diversity": "High; inclusive family representation",
+      "attitude": "Confident, fresh, genuine"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product clearly visible and recognizable",
+      "styling_approach": "Clean, clinical yet approachable",
+      "avoid": [
+        "Messy or cluttered environments",
+        "Dark or moody lighting",
+        "Abstract conceptual visuals"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Moderate and reassuring",
+      "transitions": "Clean cuts and smooth fades"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show clean, healthy smiles",
+        "Use bright and clean settings",
+        "Reinforce hygiene cues"
+      ],
+      "visual_donts": [
+        "Lifestyle imagery without health context",
+        "Overly playful aesthetics",
+        "Visual ambiguity"
+      ],
+      "copy_dos": [
+        "Focus on prevention and care",
+        "Use clear benefits",
+        "Maintain scientific credibility"
+      ],
+      "copy_donts": [
+        "Fear-driven health messaging",
+        "Unsubstantiated claims",
+        "Overly emotional tone"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Oral health authority",
+        "Prevention-first messaging",
+        "Trust-led brand tone"
+      ],
+      "can_evolve": [
+        "Sustainability initiatives",
+        "Advanced oral health technology",
+        "Digital education platforms"
+      ],
+      "test_zone": [
+        "Personalized oral care",
+        "Connected dental solutions",
+        "Expanded wellness partnerships"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean whites",
+        "Red accents",
+        "Clear product shelves"
+      ],
+      "interactive_elements": [
+        "Dental education displays",
+        "Benefit comparison charts"
+      ],
+      "soundscape": "Neutral, clean retail ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational on owned channels; reassuring on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Smiles, routines, oral care tips",
+        "Website": "Product science, dental education, prevention guides",
+        "Newsletter": "Oral health tips, product updates, family care"
+      }
+    },
+    "print": {
+      "paper": "Clean matte or semi-gloss stock",
+      "cover_rules": "Smile-led visuals with clear Colgate branding"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Recolored wordmark",
+      "Low-contrast logo placement",
+      "Distorted logo proportions"
+    ]
+  }
+}

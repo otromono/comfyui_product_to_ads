@@ -1,0 +1,270 @@
+{
+  "brand_info": {
+    "name": "Ermenegildo Zegna",
+    "tagline": "Responsibility. Beautiful. Human.",
+    "category": "Luxury menswear and lifestyle",
+    "positioning": "A luxury Italian menswear brand positioned around refined craftsmanship, modern tailoring, and responsible luxury rooted in textile excellence.",
+    "vision": "To redefine modern luxury through responsibility, craftsmanship, and human-centric design.",
+    "mission": "Create exceptional menswear and lifestyle products by combining Italian craftsmanship, innovation, and responsible practices.",
+    "origin_story": "Founded in 1910 in Trivero, Italy by Ermenegildo Zegna as a wool mill, the brand evolved into a global luxury house rooted in textile mastery and vertical integration."
+  },
+  "brand_values": {
+    "core_values": [
+      "Craftsmanship",
+      "Responsibility",
+      "Innovation",
+      "Humanism",
+      "Italian heritage"
+    ],
+    "brand_promise": "Deliver refined, responsible luxury grounded in exceptional materials and timeless design.",
+    "differentiators": [
+      "Vertical integration from raw material to finished garment.",
+      "Deep expertise in luxury textiles.",
+      "Strong commitment to sustainability and traceability.",
+      "Modern reinterpretation of classic menswear."
+    ],
+    "non_negotiables": [
+      "Respect for materials and craftsmanship.",
+      "Consistent luxury quality standards.",
+      "Responsible sourcing and production.",
+      "Avoid overt trend-driven excess."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "30-65",
+      "gender": "Male",
+      "income_level": "High to ultra-high"
+    },
+    "psychographics": {
+      "lifestyle": "Affluent individuals valuing discretion, quality, and timeless elegance over logos and trends.",
+      "values": [
+        "Quality over quantity",
+        "Heritage",
+        "Responsible consumption",
+        "Understated luxury"
+      ],
+      "behavior": "Long-term wardrobe building, appreciation for tailoring, loyalty to trusted luxury houses."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Refined",
+      "Human",
+      "Confident",
+      "Measured",
+      "Responsible"
+    ],
+    "communication_style": "Elegant, calm, and thoughtful, emphasizing substance over spectacle.",
+    "language_register": "Luxury / Editorial / Reflective",
+    "preferred_structures": [
+      "Material-led storytelling",
+      "Human-centric narratives",
+      "Subtle brand affirmations"
+    ],
+    "avoid": [
+      "Flashy luxury rhetoric",
+      "Overt status signaling",
+      "Aggressive sales language"
+    ],
+    "emotional_temperature": "Quiet confidence",
+    "tone_dos": [
+      "Highlight craftsmanship and materials",
+      "Emphasize responsibility",
+      "Maintain restraint"
+    ],
+    "tone_donts": [
+      "Overstatement",
+      "Trend-chasing language",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Ermenegildo Zegna wordmark.",
+      "usage_rules": "Use with restraint and high contrast; avoid decorative effects.",
+      "lockup_behavior": "Wordmark used alone or subtly integrated within layouts.",
+      "safe_area": "Minimum padding equals the height of the 'E' in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#1C1C1C",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#B2A68B",
+        "#6F6F6F"
+      ],
+      "color_usage_rules": "Neutral, material-inspired palette with restrained seasonal accents."
+    },
+    "typography": {
+      "primary_font": "Elegant serif or refined sans-serif",
+      "secondary_font": "Minimal sans-serif for functional text",
+      "weights": {
+        "headlines": "Regular to Medium",
+        "body": "Regular",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "+0.02em",
+        "line_height": "1.5–1.7"
+      },
+      "hierarchy": [
+        "H1 – Elegant serif/sans",
+        "H2 – Regular",
+        "Body – Regular",
+        "Captions – Light"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Editorial grid with generous margins",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Image-led with minimal copy",
+      "cta_placement": "Discrete, secondary",
+      "alignment": "Balanced, architectural compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "understated luxury",
+        "natural elegance",
+        "human scale",
+        "material focus",
+        "quiet modernity"
+      ],
+      "preferred_photographers": [
+        "Fashion editorial photographers with cinematic restraint",
+        "Portrait photographers emphasizing texture and character"
+      ],
+      "camera_feel": "Cinematic yet intimate imagery with emphasis on fabric and form.",
+      "pose_guidelines": "Relaxed tailoring poses, natural posture, minimal direction.",
+      "casting_attitude": "Mature, confident individuals with natural presence."
+    },
+    "technical": {
+      "lighting": "Natural or softly shaped light.",
+      "contrast": "Low to medium.",
+      "grain": "Subtle.",
+      "depth_of_field": "Moderate; texture clarity prioritized.",
+      "color_grading": "Warm neutrals with organic tones."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Responsible luxury",
+      "Human elegance",
+      "Modern heritage",
+      "Quiet authority"
+    ],
+    "preferred_locations": [
+      "Natural landscapes",
+      "Architectural modern spaces",
+      "Italian-inspired environments"
+    ],
+    "contexts": [
+      "Everyday luxury moments",
+      "Craft and material storytelling",
+      "Human connection narratives"
+    ],
+    "model_casting": {
+      "age_range": "30–65",
+      "diversity": "Selective and authentic",
+      "attitude": "Calm, assured, introspective"
+    },
+    "product_presentation": {
+      "hero_visibility": "Material quality and tailoring emphasized over logos.",
+      "styling_approach": "Timeless, modern tailoring.",
+      "avoid": [
+        "Logo-centric visuals",
+        "Overly styled fashion theatrics"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow and deliberate.",
+      "transitions": "Cinematic fades and natural cuts."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Emphasize materials and craft",
+        "Use human-centered storytelling",
+        "Maintain restraint"
+      ],
+      "visual_donts": [
+        "Visual excess",
+        "Trend-driven styling",
+        "Over-branding"
+      ],
+      "copy_dos": [
+        "Be thoughtful and precise",
+        "Highlight responsibility",
+        "Focus on long-term value"
+      ],
+      "copy_donts": [
+        "Sales-driven urgency",
+        "Luxury clichés",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Zegna craftsmanship heritage",
+        "Responsible luxury positioning",
+        "Understated aesthetic"
+      ],
+      "can_evolve": [
+        "Silhouettes and materials",
+        "Digital storytelling formats",
+        "Sustainability innovation"
+      ],
+      "test_zone": [
+        "New textile technologies",
+        "Expanded lifestyle categories",
+        "Advanced traceability systems"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Natural woods",
+        "Stone and textile textures",
+        "Minimal fixtures"
+      ],
+      "interactive_elements": [
+        "Material education",
+        "Craft storytelling"
+      ],
+      "soundscape": "Soft and ambient"
+    },
+    "digital": {
+      "tone_adjustment": "Editorial and refined",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Editorial imagery and material stories",
+        "Website": "Craft, responsibility, and collections",
+        "Newsletter": "Thought leadership and brand philosophy"
+      }
+    },
+    "print": {
+      "paper": "Premium uncoated or textured stock",
+      "cover_rules": "Minimal typography with strong imagery"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Over-sizing the wordmark",
+      "Applying decorative effects",
+      "Crowding with other logos"
+    ]
+  }
+}

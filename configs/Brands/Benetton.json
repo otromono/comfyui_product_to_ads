@@ -1,0 +1,271 @@
+{
+  "brand_info": {
+    "name": "United Colors of Benetton",
+    "tagline": "United Colors of Benetton",
+    "category": "Fashion and lifestyle apparel",
+    "positioning": "A global fashion brand positioned around colorful essentials, accessible style, and values-led communication, combining everyday wardrobe pieces with a heritage of social-impact messaging.",
+    "vision": "Promote a more open and connected world through a brand language built on color, inclusivity, and cultural dialogue.",
+    "mission": "Design and distribute accessible apparel and essentials with a distinctive color-led identity, expressed through inclusive, culturally relevant communication.",
+    "origin_story": "Founded in 1965 in Ponzano Veneto (Treviso), Italy, by Luciano Benetton and his siblings, the brand grew from knitwear and color experimentation into an international fashion group known for bold communication and global retail expansion."
+  },
+  "brand_values": {
+    "core_values": [
+      "Inclusivity",
+      "Color as identity",
+      "Cultural openness",
+      "Social consciousness",
+      "Accessibility"
+    ],
+    "brand_promise": "Deliver everyday fashion defined by color, comfort, and an inclusive worldview.",
+    "differentiators": [
+      "Iconic heritage of provocative, socially oriented campaigns.",
+      "Color-first product identity anchored in knitwear and essentials.",
+      "Global accessibility through wide distribution and broad price positioning.",
+      "Brand storytelling that foregrounds people and cultural themes."
+    ],
+    "non_negotiables": [
+      "Color-led identity must remain recognizable.",
+      "Inclusive representation must be consistent.",
+      "Communication must feel culturally aware and human.",
+      "Avoid drifting into elitist luxury codes."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "16-55",
+      "gender": "All",
+      "income_level": "Mass to mid"
+    },
+    "psychographics": {
+      "lifestyle": "People looking for versatile everyday apparel with a recognizable identity, attracted to brands that communicate inclusivity and cultural relevance.",
+      "values": [
+        "Practicality",
+        "Self-expression through color",
+        "Diversity and inclusion",
+        "Fair value"
+      ],
+      "behavior": "Shops seasonally and for essentials; responds to clear styling, approachable pricing, and brand-led cultural moments."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Inclusive",
+      "Direct",
+      "Human",
+      "Contemporary"
+    ],
+    "communication_style": "Clear and confident language with people-first framing, mixing everyday accessibility with a history of social and cultural statements.",
+    "language_register": "Accessible / Cultural / Contemporary",
+    "preferred_structures": [
+      "People-first statements",
+      "Short declarative claims",
+      "Value-led campaign headlines"
+    ],
+    "avoid": [
+      "Luxury elitism",
+      "Overly technical fashion jargon",
+      "Cliché motivational slogans"
+    ],
+    "emotional_temperature": "Confident openness",
+    "tone_dos": [
+      "Use inclusive, human language",
+      "Keep statements concise and direct",
+      "Let visuals carry the strongest message"
+    ],
+    "tone_donts": [
+      "Over-explaining social themes",
+      "Irony that undermines sincerity",
+      "Trend-chasing slang"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "United Colors of Benetton wordmark in a green rectangular block.",
+      "usage_rules": "Use as a strong brand signature with clean edges and high legibility; avoid effects, gradients, or distortion.",
+      "lockup_behavior": "Logo block typically placed as a compact corner signature; never competes with the hero subject.",
+      "safe_area": "Minimum padding equal to the height of the logo block."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#00853E",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#000000",
+        "#F2F2F2"
+      ],
+      "color_usage_rules": "Benetton green anchors brand recognition; product color variety carries seasonal expression while layouts remain clean and high-contrast."
+    },
+    "typography": {
+      "primary_font": "Clean modern sans-serif",
+      "secondary_font": "Functional sans-serif for product and retail information",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.01em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Medium",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple editorial grid with strong framing",
+      "white_space_ratio": "Medium to high",
+      "image_vs_text_balance": "Image-led with concise copy",
+      "cta_placement": "Discrete, often near the logo block or lower third",
+      "alignment": "Centered or clean asymmetric compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "people-first",
+        "colorful",
+        "direct",
+        "authentic",
+        "graphic"
+      ],
+      "preferred_photographers": [
+        "Documentary-style fashion photographers",
+        "Studio portrait photographers with minimal staging"
+      ],
+      "camera_feel": "Human-centered portraits and group scenes with strong graphic clarity and color-driven styling.",
+      "pose_guidelines": "Natural stance, straightforward gazes, minimal theatrical posing; group proximity to convey community.",
+      "casting_attitude": "Inclusive, diverse, relatable; emphasis on real presence over aspirational distance."
+    },
+    "technical": {
+      "lighting": "Clean studio light or natural daylight with even exposure.",
+      "contrast": "Medium, with crisp edges and readable color.",
+      "grain": "Minimal.",
+      "depth_of_field": "Moderate, keeping faces and garments clear.",
+      "color_grading": "True-to-life with vivid but controlled color."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Inclusive community",
+      "Color as expression",
+      "Cultural relevance",
+      "Direct human presence"
+    ],
+    "preferred_locations": [
+      "Clean studio backdrops",
+      "Urban everyday environments",
+      "Minimal architectural settings"
+    ],
+    "contexts": [
+      "Seasonal color drops",
+      "Essentials and knitwear stories",
+      "People-led cultural statements"
+    ],
+    "model_casting": {
+      "age_range": "16–55",
+      "diversity": "Very broad and intentionally inclusive",
+      "attitude": "Confident, open, unforced"
+    },
+    "product_presentation": {
+      "hero_visibility": "Garments shown as wearable essentials with color clarity and fit readability.",
+      "styling_approach": "Simple layering, clean silhouettes, color-blocking, minimal accessories.",
+      "avoid": [
+        "Overly luxurious styling cues",
+        "Excessive props",
+        "Over-retouching that removes realism"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Natural and human.",
+      "transitions": "Clean cuts, portrait-to-portrait rhythm, group-to-individual progression."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Prioritize people and presence",
+        "Let color lead the composition",
+        "Keep layouts clean with a strong logo signature"
+      ],
+      "visual_donts": [
+        "Over-stylized luxury fantasy",
+        "Cluttered art direction",
+        "Muted palettes that dilute the color identity"
+      ],
+      "copy_dos": [
+        "Use direct, inclusive language",
+        "Keep statements short and memorable",
+        "Align copy with cultural relevance"
+      ],
+      "copy_donts": [
+        "Overly complex narratives",
+        "Preachy messaging",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Color-led identity",
+        "Inclusive representation",
+        "People-first visual focus"
+      ],
+      "can_evolve": [
+        "Sustainability storytelling",
+        "Digital-first campaign formats",
+        "Collaborations and capsules"
+      ],
+      "test_zone": [
+        "New retail experiences",
+        "Community-led initiatives",
+        "Experimental campaign art direction"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Color-led merchandising",
+        "Clear product segmentation by palette",
+        "Simple signage with strong brand block"
+      ],
+      "interactive_elements": [
+        "Styling guidance by color and layering",
+        "Community and capsule highlights"
+      ],
+      "soundscape": "Upbeat and contemporary"
+    },
+    "digital": {
+      "tone_adjustment": "Direct, inclusive, and people-first",
+      "content_ratio": {
+        "campaign_vs_product": "45:55",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Portraits, group scenes, color stories, cultural moments",
+        "Website": "Color-led navigation, essentials focus, clean product storytelling",
+        "Newsletter": "Seasonal drops, color themes, capsule announcements"
+      }
+    },
+    "print": {
+      "paper": "Matte stock with strong color reproduction",
+      "cover_rules": "People-led imagery with restrained text and clear logo block"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Applying gradients or effects to the green logo block",
+      "Distorting the logo proportions",
+      "Placing the logo on low-contrast backgrounds"
+    ]
+  }
+}

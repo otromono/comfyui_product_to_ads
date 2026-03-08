@@ -1,0 +1,267 @@
+{
+  "brand_info": {
+    "name": "NIVEA",
+    "tagline": "Care Beyond Skin",
+    "category": "Personal Care / Skincare",
+    "positioning": "Global personal care brand centered on trusted, gentle, and effective skincare for the whole family, rooted in dermatological expertise and everyday care.",
+    "vision": "To be the most trusted skincare brand in the world by caring for skin and people across generations.",
+    "mission": "To provide high-quality, dermatologically tested skincare products that support healthy skin and everyday well-being.",
+    "origin_story": "Founded in 1911 in Germany by Beiersdorf with the launch of NIVEA Creme, one of the first stable water-in-oil emulsions, establishing NIVEA as a pioneer in modern skincare."
+  },
+  "brand_values": {
+    "core_values": [
+      "Care",
+      "Trust",
+      "Quality",
+      "Reliability",
+      "Togetherness"
+    ],
+    "brand_promise": "Reliable, gentle skincare that protects and nourishes skin at every stage of life.",
+    "differentiators": [
+      "Over a century of skincare expertise",
+      "Strong dermatological credibility and testing",
+      "Broad product portfolio trusted by families worldwide"
+    ],
+    "non_negotiables": [
+      "Product safety and skin compatibility",
+      "Trust and consistency across markets",
+      "Accessible care for everyday use"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All ages",
+      "gender": "All",
+      "income_level": "Mass market"
+    },
+    "psychographics": {
+      "lifestyle": "People seeking dependable skincare solutions for daily routines and family use",
+      "values": [
+        "Trust",
+        "Care",
+        "Security",
+        "Well-being"
+      ],
+      "behavior": "Long-term brand loyalty, routine repurchase, preference for familiar and proven skincare products"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Caring",
+      "Reassuring",
+      "Trustworthy",
+      "Calm",
+      "Inclusive"
+    ],
+    "communication_style": "Warm and reassuring with clear, benefit-led explanations grounded in care and science",
+    "language_register": "Accessible, friendly, dependable",
+    "preferred_structures": [
+      "Reassurance-led statements",
+      "Everyday care explanations",
+      "Family-oriented messaging"
+    ],
+    "avoid": [
+      "Overly clinical language",
+      "Aggressive beauty claims",
+      "Trend-driven jargon"
+    ],
+    "emotional_temperature": "Calm-supportive",
+    "tone_dos": [
+      "Emphasize protection and nourishment",
+      "Build trust through clarity",
+      "Speak to everyday needs"
+    ],
+    "tone_donts": [
+      "Fear-based skin messaging",
+      "Overpromising results",
+      "Fashion-led beauty rhetoric"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "NIVEA wordmark in white on blue circular background",
+      "usage_rules": "Maintain strong contrast and clarity; never distort or recolor the blue circle",
+      "lockup_behavior": "Centered or clearly anchored; stable and recognizable placement",
+      "safe_area": "Minimum padding equals the radius of the blue circle"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#0032A0",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#A7C7E7",
+        "#DCE6F2",
+        "#E5E7EB"
+      ],
+      "color_usage_rules": "Blue-dominant palette signaling trust, cleanliness, and care"
+    },
+    "typography": {
+      "primary_font": "Clean humanist sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Clear headline",
+        "H2 – Supporting copy",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple, stable grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Balanced between people and product",
+      "cta_placement": "Clear but unobtrusive",
+      "alignment": "Centered and structured layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "clean",
+        "natural",
+        "trustworthy",
+        "everyday",
+        "family-oriented"
+      ],
+      "preferred_photographers": [
+        "Lifestyle and skincare photographers"
+      ],
+      "camera_feel": "Bright, friendly realism",
+      "pose_guidelines": "Natural interactions; gentle touch; everyday gestures",
+      "casting_attitude": "Approachable, confident, caring"
+    },
+    "technical": {
+      "lighting": "Soft natural light or bright diffused studio light",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow to medium maintaining clarity",
+      "color_grading": "Clean, neutral tones with healthy skin rendering"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Everyday care",
+      "Trust and protection",
+      "Family warmth"
+    ],
+    "preferred_locations": [
+      "Home environments",
+      "Bathrooms",
+      "Neutral studio settings"
+    ],
+    "contexts": [
+      "Daily skincare routines",
+      "Family moments",
+      "Care rituals"
+    ],
+    "model_casting": {
+      "age_range": "All ages",
+      "diversity": "High; inclusive and family-representative",
+      "attitude": "Relaxed, secure, genuine"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product clearly visible and recognizable",
+      "styling_approach": "Clean, functional, approachable",
+      "avoid": [
+        "Overly glamorous beauty sets",
+        "Abstract conceptual visuals",
+        "Harsh lighting"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Moderate and reassuring",
+      "transitions": "Clean cuts and gentle fades"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show everyday care scenarios",
+        "Maintain cleanliness and clarity",
+        "Use blue as trust anchor"
+      ],
+      "visual_donts": [
+        "Edgy fashion aesthetics",
+        "Over-stylized beauty imagery",
+        "Visual noise"
+      ],
+      "copy_dos": [
+        "Reassure and inform",
+        "Highlight protection and care",
+        "Maintain consistency"
+      ],
+      "copy_donts": [
+        "Alarmist skin messaging",
+        "Trend-heavy language",
+        "Unsubstantiated claims"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Trust-led positioning",
+        "Blue-and-white visual identity",
+        "Everyday family care focus"
+      ],
+      "can_evolve": [
+        "Sustainability initiatives",
+        "Expanded dermatological education",
+        "Inclusive modern family narratives"
+      ],
+      "test_zone": [
+        "New skincare formats",
+        "Digital care services",
+        "Personalization tools"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean whites",
+        "Blue accents",
+        "Clear shelving"
+      ],
+      "interactive_elements": [
+        "Skin care education panels",
+        "Routine guidance"
+      ],
+      "soundscape": "Neutral, calm ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational on owned channels; warm and reassuring on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Family care moments, skincare tips, clean visuals",
+        "Website": "Product education, dermatological expertise, routines",
+        "Newsletter": "Care tips, product updates, brand trust stories"
+      }
+    },
+    "print": {
+      "paper": "Clean matte or semi-gloss stock",
+      "cover_rules": "Product-forward visuals with supportive human presence"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Recolored blue circle",
+      "Low-contrast logo placement",
+      "Decorative effects on logo"
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "brand_info": {
+    "name": "H&M",
+    "tagline": "Fashion and quality at the best price in a sustainable way. citeturn0search0turn0search9turn0search3",
+    "category": "Fashion",
+    "positioning": "A fashion brand dedicated to liberating fashion for the many, making fashion accessible through its business idea: fashion and quality at the best price in a sustainable way. citeturn4search11turn0search0",
+    "vision": "Liberate fashion for the many. citeturn4search2turn4search18",
+    "mission": "Inspire people to express themselves by offering a wide assortment of fashion with great value for money and great experiences in a sustainable way. citeturn4search2turn4search4",
+    "origin_story": "Founded in Sweden in 1947 when Erling Persson opened a womenswear store called “Hennes” in Västerås; the brand later evolved into H&M. citeturn0search1turn0search9turn0search4"
+  },
+  "brand_values": {
+    "core_values": [
+      "We are one team",
+      "We believe in people",
+      "We are entrepreneurs",
+      "We make constant improvement",
+      "We are cost-conscious",
+      "We are straightforward and open-minded",
+      "We keep it simple"
+    ],
+    "brand_promise": "Deliver fashion and quality at the best price in a sustainable way. citeturn0search0turn0search3turn0search9",
+    "differentiators": [
+      "Democratised fashion for a broad customer base through accessible price points and wide assortment. citeturn4search2turn4search11",
+      "Strong culture of values (the “H&M spirit”) applied globally to how the company acts and works. citeturn4search3turn4search1",
+      "High-recognition collaboration and culture-led campaigns (designer partnerships and celebrity-led moments) to bring fashion excitement to mass audiences. citeturn1news35turn1search1"
+    ],
+    "non_negotiables": [
+      "Do not compromise on the core business idea: fashion and quality at the best price in a sustainable way. citeturn0search0turn0search3",
+      "Uphold the H&M Group values (teamwork, belief in people, simplicity, constant improvement). citeturn4search3turn4search1",
+      "Keep branding clear and legible; ensure strong readability and high-contrast placements for wordmark. (Derived from consistent campaign/logo behavior across major campaigns identified in Phase 1.1.) citeturn2image4turn1search16turn3search1"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "16-45",
+      "gender": "All",
+      "income_level": "Mass market / Value-seeking"
+    },
+    "psychographics": {
+      "lifestyle": "Style-curious shoppers who want trend-right looks, seasonal updates, and wardrobe essentials at accessible prices",
+      "values": [
+        "Self-expression",
+        "Value for money",
+        "Variety and choice",
+        "Accessibility"
+      ],
+      "behavior": "High frequency browsing, seasonal buying, collaboration-drop interest, mixing basics with statement pieces"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Accessible",
+      "Optimistic",
+      "Style-led",
+      "Inclusive",
+      "Contemporary"
+    ],
+    "communication_style": "Direct, energizing, and customer-first with a focus on self-expression and accessibility",
+    "language_register": "Contemporary / Plain",
+    "preferred_structures": [
+      "Short benefit-led lines",
+      "Simple value statements",
+      "Campaign taglines tied to season or collaboration"
+    ],
+    "avoid": [
+      "Overly technical fashion jargon",
+      "Elitist language",
+      "Overly abstract luxury metaphors"
+    ],
+    "emotional_temperature": "Bright-neutral",
+    "tone_dos": [
+      "Emphasize self-expression and inclusivity",
+      "Keep copy clear and readable",
+      "Use confident, upbeat phrasing without overpromising"
+    ],
+    "tone_donts": [
+      "Moralizing language",
+      "Fear-based urgency",
+      "Dense text blocks"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "H&M wordmark in bold, hand-drawn brush-script style (typically red).",
+      "usage_rules": "Use the wordmark as a strong identifier with clear space; avoid clutter and avoid placing over complex textures that reduce legibility.",
+      "lockup_behavior": "Often top-corner or centered placement depending on campaign; maintain consistent scale and clean negative space around the mark.",
+      "safe_area": "Minimum padding equals the height of the “H” stroke around the logo."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#E50010",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#F2F2F2",
+        "#BDBDBD"
+      ],
+      "color_usage_rules": "Red is the signature brand identifier; campaigns may use seasonal palettes, but the logo should remain high-contrast and immediately readable."
+    },
+    "typography": {
+      "primary_font": "Clean neo-grotesk sans-serif (brand/system UI style)",
+      "secondary_font": "Modern sans-serif for product/category details; bold weights for headlines",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.02em",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Regular/Bold sans",
+        "Body – Regular sans",
+        "Captions – Regular sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible modular grid (digital-first)",
+      "white_space_ratio": "Moderate to generous depending on campaign type (collab/editorial vs product-led)",
+      "image_vs_text_balance": "Image-led with minimal copy in hero placements; more copy in ecommerce/product contexts",
+      "cta_placement": "Lower third or bottom-right in digital placements; minimal CTAs in brand campaigns",
+      "alignment": "Centered hero subjects with logo anchoring; occasional dynamic diagonal compositions in collab campaigns"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "contemporary",
+        "high-energy",
+        "street-to-studio",
+        "inclusive casting",
+        "culture-led"
+      ],
+      "preferred_photographers": [
+        "Alasdair McLellan (example: David Beckham Bodywear campaign). citeturn2image0",
+        "Steven Meisel (example: H&M x Moschino campaign imagery credited widely). citeturn2image5",
+        "Campaign-specific photographers for designer collaborations (e.g., ERDEM x H&M campaign credits). citeturn2image4"
+      ],
+      "camera_feel": "Polished commercial fashion imagery that shifts between clean studio minimalism and narrative lifestyle/editorial setups (especially for collaborations and holidays). citeturn1search16turn2image4turn2image2",
+      "pose_guidelines": "Confident, approachable poses; strong body language; group compositions that signal community and inclusivity in collaboration campaigns. citeturn2image2turn2image5",
+      "casting_attitude": "Mix of celebrities and high-fashion models; diversity and breadth to reflect ‘for the many’. citeturn1news35turn4search11"
+    },
+    "technical": {
+      "lighting": "Varies by campaign: crisp studio light for product clarity; cinematic or festive lighting for seasonal storytelling. citeturn1search16turn2image0turn2image5",
+      "contrast": "Medium to high; black-and-white used strategically for iconic, timeless bodywear/editorial campaigns. citeturn2image0turn2image6",
+      "grain": "Low to subtle; clean digital look is common in commercial executions",
+      "depth_of_field": "Moderate; shallow DOF for portrait/editorial moments, deeper focus for group and environment storytelling",
+      "color_grading": "Clean, modern grading; seasonal warmth for holiday; strong saturation and metallic accents in designer collabs. citeturn1search16turn2image2turn2image5"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Accessible style excitement",
+      "Contemporary energy",
+      "Inclusive modernity",
+      "Campaign-specific storytelling"
+    ],
+    "preferred_locations": [
+      "Urban streets and interiors",
+      "Clean studio environments",
+      "Event-like sets for collaborations",
+      "Festive staged worlds for holiday campaigns. citeturn1search16turn2image5"
+    ],
+    "contexts": [
+      "Everyday self-expression",
+      "Seasonal celebration",
+      "Designer-collaboration spectacle",
+      "Sustainability/closed-loop messaging when relevant. citeturn1search17turn0search11"
+    ],
+    "model_casting": {
+      "age_range": "16–45",
+      "diversity": "Broad representation aligned with ‘for the many’. citeturn4search11turn4search2",
+      "attitude": "Approachable confidence; playful energy in holiday; assertive glamour in designer collaborations. citeturn1search16turn2image2"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product is clear and wearable; in collaboration campaigns, statement pieces and branding are foregrounded; in lifestyle campaigns, product integrates into the moment.",
+      "styling_approach": "Mix of accessible basics and trend statements; strong styling shift for designer collaborations (ornate, logo-forward, high-drama silhouettes). citeturn2image2turn2image5turn2image4",
+      "avoid": [
+        "Unrealistic couture-only framing that conflicts with accessibility",
+        "Overly niche subcultural codes that reduce mass appeal"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Energetic but readable; quick cuts for fashion excitement; slower cinematic beats for editorial/bodywear; musical storytelling for holiday. citeturn1search16turn1search3",
+      "transitions": "Clean cuts; occasional stylized transitions for holiday/fantasy setups"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use the logo as a bold signature anchor",
+        "Prioritize outfit readability and styling clarity",
+        "Use inclusive casting and contemporary settings",
+        "Allow campaign worlds to shift seasonally while keeping brand accessibility consistent"
+      ],
+      "visual_donts": [
+        "Overly complex layouts that reduce legibility",
+        "Muted logo treatment that loses brand recognition",
+        "Excessive luxury-coding that contradicts mass accessibility"
+      ],
+      "copy_dos": [
+        "Keep benefit-led language",
+        "Use inclusive, self-expression framing",
+        "Reinforce the business idea when necessary (value, quality, sustainability). citeturn0search0turn4search2"
+      ],
+      "copy_donts": [
+        "Long paragraphs",
+        "Overpromising sustainability claims without substantiation",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "H&M wordmark presence and legibility",
+        "Accessibility and ‘for the many’ purpose",
+        "Business idea framing (best price, quality, sustainability). citeturn4search2turn0search0"
+      ],
+      "can_evolve": [
+        "Seasonal color palettes",
+        "Campaign narrative worlds",
+        "Celebrity and designer partnerships"
+      ],
+      "test_zone": [
+        "New creative technologies and storytelling formats (including experimentation with AI) while staying style-led and human-centric. citeturn1search6turn4search15"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Neutral fixtures",
+        "Bright lighting",
+        "Flexible merchandising to support fast seasonal refresh"
+      ],
+      "interactive_elements": [
+        "Digital screens for campaign loops",
+        "Collaboration launch merchandising zones",
+        "Clear category navigation"
+      ],
+      "soundscape": "Upbeat contemporary pop/electronic playlists (store-appropriate)"
+    },
+    "digital": {
+      "tone_adjustment": "Short, clear copy and strong visuals; campaign video loops and shoppable category-first navigation",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Fast-paced seasonal drops, collaboration hype, inclusive casting moments",
+        "Website": "Product-led browsing with campaign hero modules",
+        "Newsletter": "Short headlines, clear category CTAs, hero visuals"
+      }
+    },
+    "print": {
+      "paper": "Standard coated stock for mass distribution; premium finishes for collaboration lookbooks when produced",
+      "cover_rules": "Strong hero image; logo top/center with high contrast; minimal text"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Low-contrast red logo on warm red backgrounds",
+      "Logo over highly patterned garments without a contrast buffer",
+      "Over-scaling the logo so it competes with the product silhouette"
+    ]
+  }
+}

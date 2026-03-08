@@ -1,0 +1,271 @@
+{
+  "brand_info": {
+    "name": "Mizuno",
+    "tagline": "Reach Beyond",
+    "category": "Sportswear / Performance Footwear and Equipment",
+    "positioning": "Performance sports brand rooted in Japanese craftsmanship and engineering, focused on biomechanics-driven innovation across running, team sports, and equipment.",
+    "vision": "To contribute to society through the advancement of sporting goods and the promotion of sports.",
+    "mission": "To develop high-quality sports products through craftsmanship, innovation, and science, enabling athletes to reach beyond their limits.",
+    "origin_story": "Founded in 1906 in Osaka, Japan by Rihachi Mizuno and Rizo Mizuno as a sporting goods shop, later evolving into a global performance brand known for technical footwear, apparel, and equipment."
+  },
+  "brand_values": {
+    "core_values": [
+      "Craftsmanship",
+      "Integrity",
+      "Innovation",
+      "Performance",
+      "Respect",
+      "Continuous improvement"
+    ],
+    "brand_promise": "Precision-engineered sports products that balance performance, durability, and comfort through disciplined Japanese craftsmanship.",
+    "differentiators": [
+      "Japanese manufacturing philosophy and attention to detail",
+      "Biomechanics-driven product development and Wave technology",
+      "Credibility across multiple sports including running, baseball, volleyball, and golf"
+    ],
+    "non_negotiables": [
+      "Technical authenticity and product honesty",
+      "Durability and long-term performance",
+      "Respect for athlete movement and biomechanics"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to mature athletes",
+      "gender": "All",
+      "income_level": "Mass premium / performance consumer"
+    },
+    "psychographics": {
+      "lifestyle": "Athletes who value discipline, technique, and long-term progression through consistent training",
+      "values": [
+        "Precision",
+        "Consistency",
+        "Reliability",
+        "Craft quality",
+        "Performance improvement"
+      ],
+      "behavior": "Chooses products based on fit, feel, and proven technology; shows loyalty to trusted franchises; values expert recommendations"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Disciplined",
+      "Respectful",
+      "Confident",
+      "Technical",
+      "Understated"
+    ],
+    "communication_style": "Fact-based and performance-led with calm confidence and minimal exaggeration",
+    "language_register": "Professional, precise, restrained",
+    "preferred_structures": [
+      "Clear performance statements",
+      "Technology explanations",
+      "Athlete validation cues"
+    ],
+    "avoid": [
+      "Overhyped slogans",
+      "Aggressive bravado",
+      "Fashion-first language"
+    ],
+    "emotional_temperature": "Calm-determined",
+    "tone_dos": [
+      "Emphasize precision and consistency",
+      "Explain technology clearly",
+      "Maintain credibility and restraint"
+    ],
+    "tone_donts": [
+      "Exaggerated claims",
+      "Emotional excess",
+      "Trend-driven copy detached from performance"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Mizuno RunBird symbol paired with Mizuno wordmark",
+      "usage_rules": "Maintain clarity and proportion; never distort or decorate; ensure strong contrast",
+      "lockup_behavior": "Often used as an end-card or discreet corner mark; balanced and disciplined placement",
+      "safe_area": "Minimum padding equals the height of the Mizuno wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#003A8F",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#000000",
+        "#6B7280",
+        "#A7B1C2"
+      ],
+      "color_usage_rules": "Cool, technical palette communicating trust and precision; accent colors appear mainly on product"
+    },
+    "typography": {
+      "primary_font": "Modern sans-serif with technical clarity",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Medium/Bold sans-serif",
+        "H2 – Medium sans-serif",
+        "Body – Regular sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured, disciplined grid",
+      "white_space_ratio": "Moderate to generous",
+      "image_vs_text_balance": "Image-led with restrained informational overlays",
+      "cta_placement": "Lower area or end-card",
+      "alignment": "Clean, precise alignment"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "precise",
+        "technical",
+        "focused",
+        "clean",
+        "movement-driven"
+      ],
+      "preferred_photographers": [
+        "Varies by sport; consistent performance-oriented visual language"
+      ],
+      "camera_feel": "Controlled realism emphasizing technique and form",
+      "pose_guidelines": "Sport-specific movement; efficient posture; moments of control and power",
+      "casting_attitude": "Serious athletes; composed, disciplined, credible"
+    },
+    "technical": {
+      "lighting": "Natural daylight or clean directional studio light",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Medium to shallow to isolate athlete and product",
+      "color_grading": "Neutral, cool-balanced tones with accurate material rendering"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Technical confidence",
+      "Disciplined performance",
+      "Respect for movement"
+    ],
+    "preferred_locations": [
+      "Training facilities",
+      "Sports venues",
+      "Minimal studio environments",
+      "Natural outdoor settings when sport-relevant"
+    ],
+    "contexts": [
+      "Training sessions",
+      "Skill execution",
+      "Preparation and repetition",
+      "Competition moments"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to mature athletes",
+      "diversity": "High; representative across sports",
+      "attitude": "Focused, controlled, determined"
+    },
+    "product_presentation": {
+      "hero_visibility": "Key technologies, fit, and material behavior must be clearly readable",
+      "styling_approach": "Sport-correct apparel and equipment usage",
+      "avoid": [
+        "Over-stylized fashion posing",
+        "Irrelevant lifestyle scenes",
+        "Visual clutter obscuring technique"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured and purposeful",
+      "transitions": "Clean cuts with occasional slow motion to highlight mechanics"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show correct technique and biomechanics",
+        "Use clean, controlled compositions",
+        "Highlight technology in context"
+      ],
+      "visual_donts": [
+        "Chaotic action without clarity",
+        "Over-dramatization",
+        "Unrealistic athletic depiction"
+      ],
+      "copy_dos": [
+        "Use precise, credible language",
+        "Communicate performance benefits clearly",
+        "Respect athlete intelligence"
+      ],
+      "copy_donts": [
+        "Hype-driven messaging",
+        "Vague inspiration",
+        "Unsubstantiated performance claims"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Japanese craftsmanship ethos",
+        "Biomechanics-driven innovation",
+        "Understated performance confidence"
+      ],
+      "can_evolve": [
+        "Sport-specific storytelling",
+        "Sustainability initiatives",
+        "Digital performance tools"
+      ],
+      "test_zone": [
+        "New sport categories",
+        "Urban performance crossover",
+        "Advanced material experimentation"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean neutrals",
+        "Technical displays",
+        "Light metal and composite surfaces"
+      ],
+      "interactive_elements": [
+        "Product technology education zones",
+        "Fit and gait explanation tools"
+      ],
+      "soundscape": "Calm, focused ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More technical and educational online; restrained motivational cues on social",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Technique-focused action, athlete details, clean compositions",
+        "Website": "Technology-led product pages with clear explanations and fit guidance",
+        "Newsletter": "Product innovation updates, athlete insights, sport-specific education"
+      }
+    },
+    "print": {
+      "paper": "Clean commercial stock with neutral finish",
+      "cover_rules": "Athlete or product detail with minimal copy and disciplined layout"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorted RunBird symbol",
+      "Low-contrast logo placement",
+      "Decorative effects applied to the logo"
+    ]
+  }
+}

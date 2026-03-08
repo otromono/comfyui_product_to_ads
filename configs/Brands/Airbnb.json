@@ -1,0 +1,269 @@
+{
+  "brand_info": {
+    "name": "Airbnb",
+    "tagline": "Belong Anywhere",
+    "category": "Travel and hospitality platform",
+    "positioning": "A global travel platform positioned around belonging, human connection, and authentic local experiences, enabling people to stay anywhere and feel at home.",
+    "vision": "Create a world where anyone can belong anywhere.",
+    "mission": "Connect people with unique places to stay and experiences around the world, fostering trust, community, and meaningful travel.",
+    "origin_story": "Founded in 2008 in San Francisco by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk, Airbnb began as a way to rent air mattresses to travelers and evolved into a global community-driven hospitality platform."
+  },
+  "brand_values": {
+    "core_values": [
+      "Belonging",
+      "Community",
+      "Trust",
+      "Inclusivity",
+      "Human connection"
+    ],
+    "brand_promise": "Enable people to feel at home anywhere in the world through trusted, human-centered travel experiences.",
+    "differentiators": [
+      "Peer-to-peer hosting model centered on real homes and hosts.",
+      "Strong focus on community, trust, and shared responsibility.",
+      "Distinctive design-led brand system.",
+      "Experiences that go beyond traditional accommodation."
+    ],
+    "non_negotiables": [
+      "Trust and safety for guests and hosts.",
+      "Inclusive and respectful representation.",
+      "Human-centered storytelling.",
+      "Avoid transactional, hotel-like communication."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-65",
+      "gender": "All",
+      "income_level": "Broad, mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Travelers seeking authentic, local, and flexible ways to explore destinations.",
+      "values": [
+        "Connection",
+        "Cultural discovery",
+        "Flexibility",
+        "Personal experiences"
+      ],
+      "behavior": "Plans trips around experiences and neighborhoods; values reviews, trust signals, and personalization."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Warm",
+      "Human",
+      "Inclusive",
+      "Optimistic",
+      "Trustworthy"
+    ],
+    "communication_style": "Friendly, conversational, and human, emphasizing stories and shared experiences.",
+    "language_register": "Accessible / Human / Inspirational",
+    "preferred_structures": [
+      "Story-led narratives",
+      "Community-focused messaging",
+      "Experience-first descriptions"
+    ],
+    "avoid": [
+      "Corporate or cold language",
+      "Transactional travel jargon",
+      "Exclusionary messaging"
+    ],
+    "emotional_temperature": "Warm optimism",
+    "tone_dos": [
+      "Highlight human stories",
+      "Encourage exploration and openness",
+      "Reinforce trust and belonging"
+    ],
+    "tone_donts": [
+      "Hard selling",
+      "Fear-based messaging",
+      "Overly technical explanations"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Airbnb Bélo symbol and wordmark.",
+      "usage_rules": "Maintain generous clear space and legibility; avoid distortion or decoration.",
+      "lockup_behavior": "Symbol and wordmark used together or separately depending on context.",
+      "safe_area": "Minimum padding equals the height of the Bélo symbol."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FF5A5F",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#484848",
+        "#F7F7F7"
+      ],
+      "color_usage_rules": "Warm, welcoming palette with Airbnb Coral as the emotional anchor."
+    },
+    "typography": {
+      "primary_font": "Rounded modern sans-serif",
+      "secondary_font": "Supporting sans-serif for UI clarity",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.01em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Friendly bold sans",
+        "H2 – Medium",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible modular grid",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Image-led with supportive copy",
+      "cta_placement": "Contextual and conversational",
+      "alignment": "Organic, human-centered compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "authentic",
+        "human",
+        "welcoming",
+        "real moments",
+        "local"
+      ],
+      "preferred_photographers": [
+        "Lifestyle and documentary photographers",
+        "Travel photographers focusing on people and place"
+      ],
+      "camera_feel": "Natural, candid imagery capturing lived-in spaces and real interactions.",
+      "pose_guidelines": "Unposed moments, genuine interactions, natural movement.",
+      "casting_attitude": "Inclusive, diverse, and relatable individuals."
+    },
+    "technical": {
+      "lighting": "Natural or ambient light.",
+      "contrast": "Low to medium.",
+      "grain": "Minimal, natural.",
+      "depth_of_field": "Moderate with contextual focus.",
+      "color_grading": "Warm, natural tones."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Belonging",
+      "Human connection",
+      "Discovery",
+      "Warm authenticity"
+    ],
+    "preferred_locations": [
+      "Real homes",
+      "Neighborhood streets",
+      "Local environments"
+    ],
+    "contexts": [
+      "Travel moments",
+      "Hosting stories",
+      "Community experiences"
+    ],
+    "model_casting": {
+      "age_range": "18–65",
+      "diversity": "Broad and representative",
+      "attitude": "Open, relaxed, and genuine"
+    },
+    "product_presentation": {
+      "hero_visibility": "People and places prioritized over platform UI.",
+      "styling_approach": "Natural, lived-in, and approachable.",
+      "avoid": [
+        "Overly staged hotel aesthetics",
+        "Artificial luxury cues"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Natural and flowing.",
+      "transitions": "Soft cuts and organic motion."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real people and homes",
+        "Capture authentic moments",
+        "Celebrate diversity and inclusion"
+      ],
+      "visual_donts": [
+        "Stock-looking imagery",
+        "Over-polished environments",
+        "Generic travel clichés"
+      ],
+      "copy_dos": [
+        "Use human language",
+        "Tell community stories",
+        "Reinforce trust"
+      ],
+      "copy_donts": [
+        "Sales-heavy language",
+        "Fear-based travel messaging",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Belong Anywhere philosophy",
+        "Community-driven positioning",
+        "Human-centered storytelling"
+      ],
+      "can_evolve": [
+        "Product features and experiences",
+        "Digital interfaces",
+        "Sustainability initiatives"
+      ],
+      "test_zone": [
+        "New experience formats",
+        "Longer stays and living products",
+        "Community-led travel models"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Experiential pop-ups",
+        "Community-led installations"
+      ],
+      "interactive_elements": [
+        "Host and traveler stories",
+        "Local discovery touchpoints"
+      ],
+      "soundscape": "Warm and ambient"
+    },
+    "digital": {
+      "tone_adjustment": "Friendly and human",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Travel stories and human moments",
+        "Website": "Discovery, booking, and trust-building",
+        "Newsletter": "Inspiration, destinations, and community updates"
+      }
+    },
+    "print": {
+      "paper": "Matte or lightly textured stock",
+      "cover_rules": "People-first imagery with minimal copy"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting the Bélo symbol",
+      "Low-contrast logo placement",
+      "Overcrowding with other marks"
+    ]
+  }
+}

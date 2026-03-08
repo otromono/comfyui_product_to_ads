@@ -1,0 +1,72 @@
+{
+  "brand_info": {
+    "name": "Brand Name",
+    "tagline": "Brand tagline or motto",
+    "positioning": "Brief description of brand positioning in the market",
+    "category": "Fashion / Beauty / Tech / Lifestyle / etc."
+  },
+
+  "visual_identity": {
+    "primary_colors": ["#000000", "#FFFFFF"],
+    "secondary_colors": ["#808080"],
+    "typography_style": "Clean sans-serif / Classic serif / Modern editorial",
+    "photography_references": {
+      "preferred_photographers": ["Photographer Name 1", "Photographer Name 2"],
+      "style_keywords": ["natural light", "editorial", "minimal", "intimate"]
+    },
+    "visual_codes": {
+      "contrast_level": "low / medium / high",
+      "grain_preference": "none / subtle / analog",
+      "color_grading": "neutral / warm / cool / filmic"
+    }
+  },
+
+  "tone_of_voice": {
+    "personality": ["elegant", "confident", "contemporary"],
+    "communication_style": "Minimal and refined / Bold and expressive / Warm and approachable",
+    "language_register": "formal / semi-formal / casual",
+    "avoid": ["aggressive language", "excessive superlatives", "trend-chasing terms"]
+  },
+
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "All / Male / Female",
+      "income_level": "Medium-high / High / Luxury"
+    },
+    "psychographics": {
+      "lifestyle": "Urban professionals who value quality and understated elegance",
+      "values": ["quality", "authenticity", "timelessness"],
+      "behavior": "Research-driven, brand-loyal, quality over quantity"
+    }
+  },
+
+  "brand_values": {
+    "core_values": ["Quality", "Craftsmanship", "Innovation"],
+    "brand_promise": "What the brand consistently delivers to customers",
+    "differentiators": ["Unique material sourcing", "Italian craftsmanship", "Sustainable practices"]
+  },
+
+  "campaign_guidelines": {
+    "preferred_locations": ["Milan", "Mediterranean coast", "Modern architecture"],
+    "preferred_contexts": ["Urban lifestyle", "Travel", "Everyday luxury"],
+    "model_casting": {
+      "age_range": "25-40",
+      "attitude": "Confident, natural, not overly posed",
+      "diversity": "Inclusive representation"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product always clearly visible but naturally integrated",
+      "styling_approach": "Minimal, let product speak",
+      "avoid": ["Overcrowded compositions", "Excessive props", "Distracting backgrounds"]
+    }
+  },
+
+  "compliance_rules": {
+    "no_pricing_in_awareness": true,
+    "no_discount_messaging": true,
+    "no_competitor_mentions": true,
+    "no_medical_claims": true,
+    "logo_usage": "Subtle, institutional placement"
+  }
+}

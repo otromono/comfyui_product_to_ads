@@ -1,0 +1,171 @@
+{
+  "brand_info": {
+    "name": "EA7 Emporio Armani",
+    "tagline": "Promoting the sport identity of the brand",
+    "category": "Sportswear / athletic apparel",
+    "positioning": "Technical sportswear with strong sport identity combined with Armani design DNA",
+    "vision": "Promote sport values through performance-driven design with Italian style",
+    "mission": "Deliver technical and performance-oriented sportswear while maintaining refined Armani aesthetics",
+    "origin_story": "EA7 was introduced in 2004 by Giorgio Armani as a sports-focused extension of Emporio Armani, with the number 7 symbolizing performance and sport values"
+  },
+  "brand_values": {
+    "core_values": [
+      "Technicality",
+      "Discipline",
+      "Performance",
+      "Team spirit",
+      "Style"
+    ],
+    "brand_promise": "High-performance sportswear with refined design and visible brand authority",
+    "differentiators": [
+      "Armani design applied to sport",
+      "Strong EA7 logo as graphic element",
+      "Blend of training, lifestyle, and performance contexts"
+    ],
+    "non_negotiables": [
+      "Sport identity",
+      "Technical credibility",
+      "Clean and controlled aesthetics",
+      "High logo legibility"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-40",
+      "gender": "All",
+      "income_level": "Mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, active, performance-oriented",
+      "values": [
+        "Discipline",
+        "Confidence",
+        "Functionality"
+      ],
+      "behavior": "Chooses visible branded technical apparel suitable for training and everyday wear"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Disciplined",
+      "Energetic"
+    ],
+    "communication_style": "Minimal and assertive",
+    "language_register": "Neutral-formal",
+    "preferred_structures": [
+      "Short statements",
+      "Brand-led headlines"
+    ],
+    "avoid": [
+      "Hype language",
+      "Slang"
+    ],
+    "emotional_temperature": "Cool and controlled"
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "EA7 Emporio Armani logotype",
+      "usage_rules": "High contrast, never distorted, used as hero element",
+      "lockup_behavior": "Centered or top-centered",
+      "safe_area": "Clear space around logo equal to logo height"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#0B1A2B",
+        "#3C6FA6",
+        "#39FF6A",
+        "#FF3B8D"
+      ],
+      "color_usage_rules": "Monochrome base with selective energetic accents"
+    },
+    "typography": {
+      "primary_font": "Custom EA7 geometric sans-serif",
+      "secondary_font": "Modern neutral sans-serif",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "hierarchy": [
+        "Brand mark",
+        "Secondary utility text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Centered composition with strong negative space",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Image dominant",
+      "cta_placement": "Minimal and secondary"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Sport-tech",
+        "Editorial athletic",
+        "Clean",
+        "High-contrast"
+      ],
+      "camera_feel": "Crisp studio and dynamic outdoor sport imagery",
+      "pose_guidelines": "Athletic tension, readiness, controlled motion",
+      "casting_attitude": "Focused, confident, physically credible"
+    },
+    "technical": {
+      "lighting": "Sculpted studio and natural outdoor light",
+      "contrast": "Medium-high",
+      "grain": "Low",
+      "color_grading": "Cool, slightly desaturated with neon accents"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Performance",
+      "Confidence",
+      "Control"
+    ],
+    "preferred_locations": [
+      "Studio gradients",
+      "Urban outdoor spaces",
+      "Alpine environments"
+    ],
+    "model_casting": {
+      "age_range": "18-40",
+      "diversity": "Inclusive",
+      "attitude": "Athletic and composed"
+    },
+    "product_presentation": {
+      "hero_visibility": "Logo and garment function clearly visible",
+      "styling_approach": "Technical silhouettes and streamlined fits"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Minimal backgrounds",
+        "High logo contrast",
+        "Athletic posture"
+      ],
+      "visual_donts": [
+        "Warm vintage tones",
+        "Cluttered scenes"
+      ],
+      "copy_dos": [
+        "Short, confident statements"
+      ],
+      "copy_donts": [
+        "Long descriptive copy"
+      ]
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true
+  }
+}

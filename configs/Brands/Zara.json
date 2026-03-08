@@ -1,0 +1,289 @@
+{
+  "brand_info": {
+    "name": "Zara",
+    "tagline": "Style has no boundaries. citeturn0search5",
+    "category": "Fashion",
+    "positioning": "Global fashion retailer delivering on-trend design at attractive prices with a fast, customer-driven product cycle and an integrated store and online experience. citeturn3search7turn3search2",
+    "vision": "Create quality fashion for all while advancing toward a circular model and net-zero emissions. citeturn3search0",
+    "mission": "Offer contemporary fashion and design at attractive prices, informed by continuous customer feedback and rapid design execution. citeturn3search7turn3search2",
+    "origin_story": "Founded by Amancio Ortega with the opening of the first Zara store in A Coruña, Spain, in 1975, marking the shift from maker to retailer. citeturn0search0turn0news39"
+  },
+  "brand_values": {
+    "core_values": [
+      "Customer-centric speed",
+      "Design accessibility",
+      "Contemporary culture",
+      "Operational discipline",
+      "Sustainability transition"
+    ],
+    "brand_promise": "Newness and relevance delivered quickly, with an editorial fashion sensibility at accessible price points.",
+    "differentiators": [
+      "Fast, feedback-driven design loop",
+      "Editorial-grade campaign imagery and casting",
+      "Strong omnichannel integration",
+      "Sub-lines that test premium or functional narratives (e.g., SRPLS, Origins)"
+    ],
+    "non_negotiables": [
+      "Product-first clarity",
+      "High-fashion editorial credibility",
+      "Consistent black-and-white brand codes",
+      "No overt nostalgia or kitsch"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-45",
+      "gender": "All",
+      "income_level": "Mass market to upper mass (accessible fashion)"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, trend-aware, digitally fluent customers seeking frequent wardrobe refreshes and contemporary styling.",
+      "values": [
+        "Self-expression",
+        "Practicality",
+        "Value-for-style",
+        "Fashion credibility"
+      ],
+      "behavior": "High visit frequency, impulse-friendly purchase patterns, mix-and-match basics with directional pieces, strong mobile and in-store omnichannel usage."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Modern",
+      "Editorial",
+      "Confident",
+      "Unsentimental",
+      "Cultural"
+    ],
+    "communication_style": "Minimal, declarative, and category-led; communicates through image hierarchy more than copy.",
+    "language_register": "Neutral, international English; short functional statements.",
+    "preferred_structures": [
+      "Collection naming + short descriptor",
+      "Sparse product storytelling",
+      "Editorial fragments tied to a line or capsule"
+    ],
+    "avoid": [
+      "Overly emotive copy",
+      "Humor or sarcasm",
+      "Heritage romanticism",
+      "Over-explaining sustainability"
+    ],
+    "emotional_temperature": "Cool-neutral",
+    "tone_dos": [
+      "Let visuals do the persuasion",
+      "Use concise collection framing",
+      "Keep copy secondary to imagery"
+    ],
+    "tone_donts": [
+      "Hype language",
+      "Excessive calls-to-action",
+      "Long narratives"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "ZARA wordmark in a high-contrast serif logotype, typically black on white.",
+      "usage_rules": "Keep the wordmark clean, flat, and high contrast; prioritize legibility; never distort, outline, texture-fill, or apply effects.",
+      "lockup_behavior": "Centered or top-aligned in editorial layouts with generous clear space; used as a signature rather than a graphic element.",
+      "safe_area": "Minimum padding equals at least the height of the letter 'Z' around the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#F2F2F2",
+        "#BDBDBD",
+        "#2B2B2B"
+      ],
+      "color_usage_rules": "Default to monochrome brand framing; allow image-led color; avoid branded gradients; keep UI elements neutral."
+    },
+    "typography": {
+      "primary_font": "High-contrast serif for brand signature; modern grotesk sans-serif for UI and functional text.",
+      "secondary_font": "Neutral sans-serif for product data and navigation.",
+      "weights": {
+        "headlines": "Regular to Bold",
+        "body": "Regular",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight for wordmark, normal for UI",
+        "line_height": "1.4-1.7"
+      },
+      "hierarchy": [
+        "Brand wordmark",
+        "Collection name",
+        "Functional UI labels",
+        "Product descriptors"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular editorial grid with strong alignment; e-commerce grids optimized for rapid scanning.",
+      "white_space_ratio": "High, with intentional negative space in campaign contexts.",
+      "image_vs_text_balance": "Image-led with restrained text; product pages prioritize imagery first, then details.",
+      "cta_placement": "Discrete, utility-driven (lower area or sidebar in digital).",
+      "alignment": "Centered or clean edge-aligned; avoids decorative asymmetry."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "high-fashion editorial",
+        "studio minimalism",
+        "sharp casting",
+        "graphic composition",
+        "cool restraint"
+      ],
+      "preferred_photographers": [
+        "Steven Meisel",
+        "Craig McDean",
+        "Nadine Ijewere"
+      ],
+      "camera_feel": "Fashion magazine campaign language: decisive framing, strong subject presence, minimal set distraction.",
+      "pose_guidelines": "Controlled and intentional; confident stillness; limited gestural exaggeration; occasional dynamic walking or turn for line movement.",
+      "casting_attitude": "Contemporary, diverse, model-forward casting with a composed, self-possessed gaze."
+    },
+    "technical": {
+      "lighting": "Clean studio light or controlled daylight; sculpted but not cinematic-noir.",
+      "contrast": "Medium to high, with crisp tonal separation.",
+      "grain": "Very subtle to none; when present, fine film-like texture.",
+      "depth_of_field": "Moderate; sharp subject priority with clean background falloff.",
+      "color_grading": "Neutral to cool; restrained saturation; frequent monochrome or near-monochrome edits."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Editorial authority",
+      "Modern restraint",
+      "Model-first",
+      "Graphic clarity"
+    ],
+    "preferred_locations": [
+      "Seamless studios",
+      "Minimal interiors",
+      "Urban exteriors with clean architecture",
+      "Neutral backdrops"
+    ],
+    "contexts": [
+      "Woman Autumn Winter 2019 campaign (Steven Meisel, Fabien Baron). citeturn2search11",
+      "Spring 2019 campaign (Steven Meisel). citeturn1search10",
+      "Studio Fall Winter 2023-24 campaign (Steven Meisel). citeturn1search7",
+      "Studio Spring 2024 campaign 'Rêveries' (Steven Meisel, Fabien Baron). citeturn1search3",
+      "SRPLS AW18 launch campaign (Craig McDean, Karl Templer). citeturn2search8turn2search4",
+      "SRPLS S/S 2023 campaign. citeturn1image5",
+      "SRPLS Collection 11 2023 campaign (Craig McDean). citeturn1image0",
+      "Zara Origins ad campaign and editorial. citeturn1search12turn1search4",
+      "Join Life sustainability initiative. citeturn0search13turn1image4",
+      "Zara Pre-Owned launch and expansion. citeturn1search1turn1search2",
+      "Zara Beauty Spring 2021 campaign. citeturn2search16turn2search0"
+    ],
+    "model_casting": {
+      "age_range": "16-45",
+      "diversity": "High, international, with a casting-first aesthetic strategy.",
+      "attitude": "Composed confidence; direct gaze; emotionally cool, editorial presence."
+    },
+    "product_presentation": {
+      "hero_visibility": "Garment silhouette and styling readability prioritized; product is the narrative vehicle.",
+      "styling_approach": "Directional basics and strong outerwear; tonal layering; occasional statement proportion; accessories minimal unless capsule-specific.",
+      "avoid": [
+        "Busy props",
+        "Literal storytelling sets",
+        "Over-branded patterns as the only hook"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Short, editorial clips; minimal camera movement; emphasis on pose shifts and garment movement.",
+      "transitions": "Hard cuts or clean fades; avoids playful motion graphics."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use decisive casting and clean backgrounds",
+        "Prioritize silhouette readability",
+        "Maintain black/white brand framing",
+        "Use editorial negative space"
+      ],
+      "visual_donts": [
+        "Over-designed sets",
+        "Heavy filters",
+        "Over-saturated palettes as a brand layer",
+        "Cartoonish styling"
+      ],
+      "copy_dos": [
+        "Keep copy minimal and functional",
+        "Use collection names and concise descriptors"
+      ],
+      "copy_donts": [
+        "Long explanations",
+        "Sentimental storytelling",
+        "Aggressive promotional language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "ZARA wordmark integrity",
+        "Editorial-first imagery discipline",
+        "Neutral brand UI palette",
+        "Casting-led fashion communication"
+      ],
+      "can_evolve": [
+        "Sub-line aesthetics (SRPLS, Origins, Athleticz)",
+        "Sustainability communication depth (Join Life)",
+        "Circularity service storytelling (Pre-Owned)",
+        "Use of AI-assisted imagery under consent frameworks"
+      ],
+      "test_zone": [
+        "New service formats (Pre-Owned)",
+        "Limited capsule storytelling",
+        "Experiential retail additions"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Light stone",
+        "Concrete",
+        "Stainless steel",
+        "Glass",
+        "White walls with black typographic wayfinding"
+      ],
+      "interactive_elements": [
+        "Large digital screens with campaign loops",
+        "Integrated omnichannel pickup and returns",
+        "Minimal product presentation fixtures"
+      ],
+      "soundscape": "Low-key contemporary playlists, restrained volume."
+    },
+    "digital": {
+      "tone_adjustment": "Ultra-functional UI with editorial campaign moments; minimal copy and strong grid discipline.",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "35:65"
+      },
+      "platform_behavior": {
+        "Instagram": "Campaign-first image sequences, sparse captions, strong casting. citeturn2search11",
+        "Website": "Grid-led navigation, large imagery, minimal UI chrome.",
+        "Newsletter": "Short subject lines, hero image, minimal text."
+      }
+    },
+    "print": {
+      "paper": "Coated or matte premium stock depending on market; minimalist layouts.",
+      "cover_rules": "Full-bleed or high-negative-space layouts with the ZARA wordmark as a quiet signature."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or condensing the wordmark",
+      "Low-contrast placements on busy imagery",
+      "Applying shadows, outlines, gradients, or textures to the wordmark"
+    ]
+  }
+}

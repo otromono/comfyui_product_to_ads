@@ -1,0 +1,272 @@
+{
+  "brand_info": {
+    "name": "Salomon",
+    "tagline": "Tomorrow Is Yours",
+    "category": "Outdoor / Performance Sportswear and Equipment",
+    "positioning": "Mountain sports brand focused on trail running, hiking, winter sports, and outdoor performance, combining technical innovation with a deep connection to nature and terrain.",
+    "vision": "To unleash the best in people through mountain sports.",
+    "mission": "To create innovative gear that enables people to play, progress, and connect with nature through mountain sports.",
+    "origin_story": "Founded in 1947 in Annecy, in the French Alps, by François Salomon as a ski-edge workshop, later evolving into a global brand specializing in mountain sports equipment, footwear, and apparel."
+  },
+  "brand_values": {
+    "core_values": [
+      "Mountain culture",
+      "Innovation",
+      "Authenticity",
+      "Freedom",
+      "Performance",
+      "Progression"
+    ],
+    "brand_promise": "Technically advanced gear designed to perform in real mountain conditions and enable confidence, speed, and freedom across terrain.",
+    "differentiators": [
+      "Deep-rooted Alpine heritage and mountain credibility",
+      "Strong leadership in trail running and mountain sports",
+      "Design driven by real-world terrain testing and athlete feedback"
+    ],
+    "non_negotiables": [
+      "Mountain authenticity and terrain relevance",
+      "Technical performance over lifestyle aesthetics",
+      "Gear must function in demanding outdoor conditions"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to mature athletes",
+      "gender": "All",
+      "income_level": "Mass premium / performance outdoor consumer"
+    },
+    "psychographics": {
+      "lifestyle": "People who seek outdoor challenges, value self-reliance, and pursue performance and exploration in natural environments",
+      "values": [
+        "Freedom",
+        "Nature connection",
+        "Endurance",
+        "Exploration",
+        "Technical trust"
+      ],
+      "behavior": "Chooses equipment based on terrain and conditions, follows trail and outdoor athletes, invests in trusted gear franchises, values durability and performance"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Adventurous",
+      "Confident",
+      "Grounded",
+      "Progressive",
+      "Authentic"
+    ],
+    "communication_style": "Terrain-driven and experience-led with confident, concise language rooted in exploration and performance",
+    "language_register": "Outdoor-performance focused, direct",
+    "preferred_structures": [
+      "Exploration statements",
+      "Performance-driven headlines",
+      "Terrain and condition callouts"
+    ],
+    "avoid": [
+      "Urban lifestyle clichés",
+      "Overly polished luxury tone",
+      "Abstract motivation disconnected from nature"
+    ],
+    "emotional_temperature": "Energized-calm",
+    "tone_dos": [
+      "Anchor stories in real terrain",
+      "Highlight freedom of movement and progression",
+      "Maintain authenticity and clarity"
+    ],
+    "tone_donts": [
+      "Over-romanticizing without performance proof",
+      "Over-urbanizing mountain narratives",
+      "Generic adventure slogans"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Salomon wordmark with signature mountain-inspired logotype",
+      "usage_rules": "Maintain clarity and contrast; never distort; ensure legibility over complex outdoor backgrounds",
+      "lockup_behavior": "Typically used as an end-card or subtle corner mark; restrained and confident placement",
+      "safe_area": "Minimum padding equals the height of the Salomon wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#2E2E2E",
+        "#5C6F7B",
+        "#A3B18A"
+      ],
+      "color_usage_rules": "Neutral base supporting natural environments; terrain-inspired accents used to complement outdoor scenes"
+    },
+    "typography": {
+      "primary_font": "Modern sans-serif with technical, outdoor character",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral for readability",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans-serif",
+        "H2 – Medium sans-serif",
+        "Body – Regular sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible grid adapting to landscape imagery",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-led with restrained text overlays",
+      "cta_placement": "Lower area or end-card",
+      "alignment": "Clean alignment that respects natural composition of landscapes"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "terrain-driven",
+        "natural light",
+        "raw",
+        "expansive",
+        "athlete-in-nature"
+      ],
+      "preferred_photographers": [
+        "Varies by discipline; consistent mountain and trail-focused visual language"
+      ],
+      "camera_feel": "Immersive outdoor realism emphasizing scale, terrain, and movement",
+      "pose_guidelines": "Athletes in motion across trails, slopes, and ridgelines; purposeful movement; balance and flow",
+      "casting_attitude": "Outdoor athletes and explorers; confident, focused, connected to environment"
+    },
+    "technical": {
+      "lighting": "Natural daylight; golden hour and overcast conditions favored",
+      "contrast": "Medium",
+      "grain": "Low to moderate depending on environment",
+      "depth_of_field": "Medium to deep to preserve landscape context",
+      "color_grading": "Natural, slightly muted tones reflecting real outdoor conditions"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Freedom through movement",
+      "Terrain mastery",
+      "Progression and exploration"
+    ],
+    "preferred_locations": [
+      "Mountain trails",
+      "Alpine ridges",
+      "Forests",
+      "Snowfields",
+      "Remote outdoor environments"
+    ],
+    "contexts": [
+      "Trail running",
+      "Hiking ascents",
+      "Backcountry exploration",
+      "Winter mountain sports"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to mature athletes",
+      "diversity": "High; inclusive outdoor representation",
+      "attitude": "Focused, confident, adventurous"
+    },
+    "product_presentation": {
+      "hero_visibility": "Footwear traction, stability systems, and apparel protection must be readable in motion",
+      "styling_approach": "Sport-correct layering adapted to conditions",
+      "avoid": [
+        "Urban fashion styling",
+        "Studio-only depictions for mountain products",
+        "Overly staged adventure scenes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Rhythmic movement aligned with terrain",
+      "transitions": "Natural cuts; occasional slow-motion to emphasize terrain interaction"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show athletes interacting with real terrain",
+        "Maintain environmental realism",
+        "Highlight product performance in context"
+      ],
+      "visual_donts": [
+        "Artificial studio look for mountain gear",
+        "Urban backdrops for trail products",
+        "Overly dramatic visual effects"
+      ],
+      "copy_dos": [
+        "Reference terrain and conditions",
+        "Communicate freedom and progression",
+        "Keep language grounded and credible"
+      ],
+      "copy_donts": [
+        "Generic adventure hype",
+        "Luxury or fashion-first language",
+        "Abstract claims without outdoor context"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Mountain sports DNA",
+        "Technical outdoor credibility",
+        "Connection between athlete, product, and terrain"
+      ],
+      "can_evolve": [
+        "Urban crossover collections",
+        "Sustainability narratives",
+        "Community-driven trail culture stories"
+      ],
+      "test_zone": [
+        "Hybrid lifestyle-performance expressions",
+        "Digital outdoor experiences",
+        "New terrain and sport categories"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Dark neutrals",
+        "Natural textures",
+        "Metal and technical fixtures"
+      ],
+      "interactive_elements": [
+        "Terrain and product education zones",
+        "Trail and use-case segmentation"
+      ],
+      "soundscape": "Subtle, natural ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational and terrain-specific online; inspirational outdoor storytelling on social",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Trail motion, mountain landscapes, athlete journeys",
+        "Website": "Terrain- and use-case-driven product pages with technical explanations",
+        "Newsletter": "New gear drops, trail stories, athlete insights"
+      }
+    },
+    "print": {
+      "paper": "Matte or natural-finish stock",
+      "cover_rules": "Landscape-led visuals with minimal copy and clear Salomon mark"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Low-contrast logo on terrain",
+      "Distorted wordmark",
+      "Overcrowded logo placement"
+    ]
+  }
+}

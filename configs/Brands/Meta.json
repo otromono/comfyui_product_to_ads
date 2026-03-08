@@ -1,0 +1,172 @@
+{
+  "brand_canonical_facts": {
+    "brand_name": "Meta",
+    "legal_entity_name": "Meta Platforms, Inc.",
+    "founded_year": 2004,
+    "founded_context": "Founded in 2004 (as Facebook) in Cambridge, Massachusetts, originally built to connect people through an online social network; later reorganized and rebranded the parent company as Meta to unify its apps and technologies under a new company brand (announced at Connect 2021).",
+    "declared_positioning": "A social technology company focused on building the future of human connection and the technology that makes it possible, spanning apps, AI, and mixed reality (AR/VR).",
+    "official_mission": "To build the future of human connection and the technology that makes it possible.",
+    "official_vision": "To bring the metaverse to life and help people connect, find communities and grow businesses.",
+    "tagline_or_slogan": "A social technology company.",
+    "canonical_sources": [
+      {
+        "type": "official_about_page",
+        "title": "Company Information, Culture, and Principles | About Meta",
+        "url": "https://www.meta.com/about/company-info/"
+      },
+      {
+        "type": "official_press_release",
+        "title": "The Facebook Company Is Now Meta (Connect 2021)",
+        "url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/"
+      },
+      {
+        "type": "official_investor_relations",
+        "title": "Meta Investor Relations – Resources (company overview/misssion line)",
+        "url": "https://investor.atmeta.com/resources/default.aspx"
+      },
+      {
+        "type": "official_policy_pdf",
+        "title": "Corporate Human Rights Policy (About Meta)",
+        "url": "https://about.fb.com/wp-content/uploads/2021/03/Facebooks-Corporate-Human-Rights-Policy.pdf"
+      }
+    ]
+  },
+  "phase_1_1_campaign_research": {
+    "methodology": {
+      "channels": [
+        "Google Images (verification layer)",
+        "Pinterest (verification layer)",
+        "Official brand/agency case studies, press releases, award entries, and campaign pages (primary layer)"
+      ],
+      "selection_rule": "Prefer official brand pages, official social posts, and reputable industry award/case-study pages that explicitly name and show the campaign; use image-search platforms only to cross-check visual consistency and asset authenticity."
+    },
+    "selected_campaigns_min_10": [
+      {
+        "campaign_id": "META_CAMP_0001",
+        "campaign_name": "Introducing Meta (Connect 2021 brand launch)",
+        "year": 2021,
+        "campaign_type": "Corporate rebrand / brand system launch",
+        "primary_reference_url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/",
+        "verification_url": "https://shortyawards.com/14th/meta-brand-launch"
+      },
+      {
+        "campaign_id": "META_CAMP_0002",
+        "campaign_name": "Meta – Amani",
+        "year": 2022,
+        "campaign_type": "Metaverse storytelling film",
+        "primary_reference_url": "https://droga5.com/work/meta-amani/",
+        "verification_url": "https://www.meta.com/metaverse/"
+      },
+      {
+        "campaign_id": "META_CAMP_0003",
+        "campaign_name": "Meta – Fishing with Dad",
+        "year": 2022,
+        "campaign_type": "Metaverse storytelling film",
+        "primary_reference_url": "https://shortyawards.com/15th/fishing-with-dad",
+        "verification_url": "https://www.meta.com/metaverse/"
+      },
+      {
+        "campaign_id": "META_CAMP_0004",
+        "campaign_name": "Meta – The Tiger & The Buffalo",
+        "year": 2021,
+        "campaign_type": "Metaverse storytelling film",
+        "primary_reference_url": "https://lbbonline.com/news/raving-jungle-animals-transport-you-into-the-metaverse-in-meta-campaign",
+        "verification_url": "https://www.meta.com/metaverse/"
+      },
+      {
+        "campaign_id": "META_CAMP_0005",
+        "campaign_name": "Meta Quest – Defy Reality (Oculus Quest)",
+        "year": 2019,
+        "campaign_type": "Product platform campaign (VR headset ecosystem)",
+        "primary_reference_url": "https://www.ispot.tv/ad/omPI/oculus-vr-defy-reality",
+        "verification_url": "https://www.ispot.tv/ad/o8Ui/oculus-quest-defy-reality-enter-worlds"
+      },
+      {
+        "campaign_id": "META_CAMP_0006",
+        "campaign_name": "Ray-Ban Meta smart glasses – Super Bowl spot (Hemsworth/Pratt/Kris Jenner)",
+        "year": 2025,
+        "campaign_type": "Product launch / mass-reach brand moment",
+        "primary_reference_url": "https://people.com/chris-hemsworth-exclusive-chris-pratt-kris-jenner-super-bowl-ad-8785839",
+        "verification_url": "https://www.engadget.com/the-ray-ban-meta-smart-glasses-new-ai-powers-are-impressive-and-worrying-181036772.html"
+      },
+      {
+        "campaign_id": "META_CAMP_0007",
+        "campaign_name": "Ray-Ban Meta smart glasses – 'Live in the moment' sponsor campaign",
+        "year": 2025,
+        "campaign_type": "Always-on brand messaging / sponsorship",
+        "primary_reference_url": "https://www.marketingbrew.com/issues/good-better-best",
+        "verification_url": "https://www.theverge.com/2024/10/3/24261238/meta-ray-ban-update-reminders-voice-messages"
+      },
+      {
+        "campaign_id": "META_CAMP_0008",
+        "campaign_name": "Meta Quest – Mixed Reality positioning (Meta.com/metaverse gateway)",
+        "year": 2021,
+        "campaign_type": "Category education / ecosystem positioning",
+        "primary_reference_url": "https://www.meta.com/metaverse/",
+        "verification_url": "https://www.meta.com/metaverse/?srsltid=AfmBOopA-SgEn4wfH_nxlsQEbhlkdhLJYW3IiZrgpuEILhvTEEU1C-AA"
+      },
+      {
+        "campaign_id": "META_CAMP_0009",
+        "campaign_name": "Meta AI smart glasses feature messaging ('Hey Meta…')",
+        "year": 2024,
+        "campaign_type": "Feature-forward product storytelling",
+        "primary_reference_url": "https://www.engadget.com/the-ray-ban-meta-smart-glasses-new-ai-powers-are-impressive-and-worrying-181036772.html",
+        "verification_url": "https://www.theverge.com/2024/10/3/24261238/meta-ray-ban-update-reminders-voice-messages"
+      },
+      {
+        "campaign_id": "META_CAMP_0010",
+        "campaign_name": "Meta brand platform recognition (Meta Brand Launch awards entry)",
+        "year": 2021,
+        "campaign_type": "Brand launch case study / awards visibility",
+        "primary_reference_url": "https://shortyawards.com/14th/meta-brand-launch",
+        "verification_url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/"
+      }
+    ]
+  },
+  "brand_behavior_inference_ready_for_template_mapping": {
+    "usage_note": "This section is structured as a neutral, pipeline-ready behavior model that can be mapped into your provided Brand Behavior JSON template without changing your template keys.",
+    "visual_system_hypotheses_from_official_and_campaign_assets": {
+      "core_visual_dna": [
+        "Future-facing human connection narrative anchored in everyday moments",
+        "Tech optimism communicated via approachable, warm storytelling rather than cold futurism",
+        "Metaverse and mixed reality framed as an extension of real life (bridging physical and digital presence)"
+      ],
+      "photography_and_cinematography": {
+        "dominant_style": "Narrative lifestyle realism with premium commercial finish; occasional surreal/metaphorical inserts for metaverse transition beats",
+        "camera_language": "Human-scale perspectives; conversational framing; clear subject readability; controlled depth; restrained lens effects",
+        "motion_language": "Soft, natural movement; experiential POV inserts when demonstrating immersion or capture"
+      },
+      "color_contrast_light": {
+        "palette_tendency": "Balanced neutrals with selective saturated accents tied to product UI/brand gradients; warm skin tone priority",
+        "contrast_behavior": "Medium contrast with clean highlight management; modern digital crispness; minimal heavy grain",
+        "lighting_behavior": "Soft daylight or gently shaped practicals; high legibility; emphasis on comfort and clarity"
+      },
+      "layout_and_typography_behavior": {
+        "composition_rules": [
+          "High subject legibility, generous negative space in corporate contexts",
+          "Brand marks/locks appear with restrained scale and clean margins",
+          "Preference for clean, modern, system-driven UI typography in product-forward assets"
+        ],
+        "logo_subject_relationship": "Brand identity is typically secondary to the human moment or product utility; logo supports rather than dominates",
+        "cta_behavior": "Direct, action-oriented CTAs in product moments; minimalistic when corporate narrative leads"
+      },
+      "casting_pose_physicality": {
+        "casting_rules": [
+          "Everyday credibility and contemporary diversity",
+          "Emphasis on authentic expressions, practical actions (sharing, exploring, learning, capturing)"
+        ],
+        "pose_energy": "Natural, candid, task-driven; low performative posing unless celebrity-led broadcast moment"
+      },
+      "brand_energy_attitude": {
+        "energy_level": "Calm confidence with future-oriented curiosity",
+        "attitude_keywords": [
+          "approachable",
+          "optimistic",
+          "useful",
+          "human-centered",
+          "innovative"
+        ]
+      }
+    }
+  }
+}

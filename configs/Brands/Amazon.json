@@ -1,0 +1,269 @@
+{
+  "brand_info": {
+    "name": "Amazon.com, Inc.",
+    "tagline": "Work hard. Have fun. Make history.",
+    "category": "Retail + Technology",
+    "positioning": "Customer-obsessed, convenience-led retail and technology ecosystem spanning e-commerce, digital services, and cloud infrastructure.",
+    "vision": "Strive to be Earth’s most customer-centric company, Earth’s best employer, and Earth’s safest place to work. citeturn0search1",
+    "mission": "Be Earth’s most customer-centric company, Earth’s best employer, and Earth’s safest place to work. citeturn0search1",
+    "origin_story": "Founded in 1994 by Jeff Bezos in the Seattle-area (Bellevue, Washington) and initially launched as an online bookstore, later expanding into a broad selection of products and services. citeturn1search0turn1search1 fileciteturn0file0"
+  },
+  "brand_values": {
+    "core_values": [
+      "Customer obsession",
+      "Operational excellence",
+      "Long-term thinking",
+      "Invention"
+    ],
+    "brand_promise": "Make customers’ lives better and easier every day through selection, convenience, and reliable fulfillment.",
+    "differentiators": [
+      "Scale of selection and marketplace breadth",
+      "Fast delivery and fulfillment infrastructure",
+      "Integrated ecosystem (Prime, devices, digital content, AWS)"
+    ],
+    "non_negotiables": [
+      "Customer obsession over competitor focus",
+      "High bar for speed, reliability, and operational execution",
+      "Clarity and usefulness over decorative messaging"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-65+",
+      "gender": "All",
+      "income_level": "Mass market across income tiers"
+    },
+    "psychographics": {
+      "lifestyle": "Time-constrained consumers and households optimizing for convenience, value, and dependable delivery; digitally native shoppers and subscribers",
+      "values": [
+        "Convenience",
+        "Trust",
+        "Speed",
+        "Breadth of choice"
+      ],
+      "behavior": "High-frequency browsing and purchase behavior; subscription-driven usage patterns (Prime) and repeat purchasing"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Helpful",
+      "Efficient",
+      "Confident",
+      "Plainspoken"
+    ],
+    "communication_style": "Direct, benefit-led, action-oriented",
+    "language_register": "Neutral / accessible",
+    "preferred_structures": [
+      "Clear value proposition",
+      "Short functional headlines",
+      "Feature-to-benefit phrasing"
+    ],
+    "avoid": [
+      "Overly poetic copy",
+      "Ambiguous promises",
+      "Luxury-coded elitism"
+    ],
+    "emotional_temperature": "Neutral-bright",
+    "tone_dos": [
+      "Lead with customer benefit",
+      "Use everyday language",
+      "Keep claims concrete and verifiable"
+    ],
+    "tone_donts": [
+      "Hype without proof",
+      "Overcomplex sentences",
+      "Abstract brand manifesto language in performance contexts"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "amazon wordmark with the curved arrow/smile",
+      "usage_rules": "High-contrast placements; keep clear space; avoid cluttered backgrounds that reduce legibility; do not distort or recolor in ways that reduce recognizability.",
+      "lockup_behavior": "Top-left or bottom-left in performance placements; centered on brand moments; maintains consistent clear space",
+      "safe_area": "Minimum padding equals at least the height of the lowercase 'a' around the logo"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#FF9900"
+      ],
+      "secondary_colors": [
+        "#232F3E",
+        "#146EB4",
+        "#F2F2F2"
+      ],
+      "color_usage_rules": "White-first UI surfaces with black typography; orange accent for calls-to-action and highlights; deep navy/blue used in ecosystem sub-brands and UI contexts."
+    },
+    "typography": {
+      "primary_font": "Clean sans-serif system typography (brand-aligned, UI-first)",
+      "secondary_font": "Sans-serif with heavier weights for CTA emphasis",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Normal",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold sans-serif",
+        "H2 – Medium sans-serif",
+        "Body – Regular sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular responsive grid (UI-inspired)",
+      "white_space_ratio": "Moderate to generous in brand moments; denser in retail-performance layouts",
+      "image_vs_text_balance": "Benefit-led, product/service-led; text supports quick scanning",
+      "cta_placement": "Prominent and consistent; near primary message (often right side or lower area depending on format)",
+      "alignment": "Functional alignment (left-aligned copy blocks; centered hero for brand spots)"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "bright",
+        "friendly",
+        "everyday",
+        "product-forward",
+        "human utility"
+      ],
+      "preferred_photographers": [
+        "Brand-agnostic commercial photography (utility-first)"
+      ],
+      "camera_feel": "Clean, contemporary, approachable; clarity over moodiness",
+      "pose_guidelines": "Natural, task-based actions; real-life usage moments; expressions read as practical and optimistic",
+      "casting_attitude": "Inclusive, everyday relatability; diverse representation reflecting broad customer base"
+    },
+    "technical": {
+      "lighting": "High-key or evenly lit; minimal harsh shadows; product clarity prioritized",
+      "contrast": "Low to medium",
+      "grain": "Minimal (clean digital)",
+      "depth_of_field": "Moderate; subject and product legible",
+      "color_grading": "Neutral with slightly warm highlights; brand orange used as accent rather than global grade"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Utility-led optimism",
+      "Convenience and speed",
+      "Everyday delight"
+    ],
+    "preferred_locations": [
+      "Homes",
+      "Urban everyday contexts",
+      "Work-from-home and lifestyle environments",
+      "Simple studio or seamless for product clarity"
+    ],
+    "contexts": [
+      "Delivery moments",
+      "Subscription benefits (Prime)",
+      "Entertainment and streaming",
+      "Shopping discovery"
+    ],
+    "model_casting": {
+      "age_range": "18–65+",
+      "diversity": "Yes, broad and representative",
+      "attitude": "Approachable, capable, in-action"
+    },
+    "product_presentation": {
+      "hero_visibility": "High; product/service benefit must be immediately clear",
+      "styling_approach": "Everyday wardrobe; minimal distraction; focus on use case",
+      "avoid": [
+        "Overly stylized editorial fashion cues",
+        "Low legibility environments",
+        "Overcrowded compositions"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Brisk, efficient storytelling; quick comprehension",
+      "transitions": "Clean cuts; UI-like overlays; simple wipes or fades when needed"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Prioritize clarity and legibility",
+        "Use orange accents sparingly for CTAs",
+        "Show real use cases and benefits"
+      ],
+      "visual_donts": [
+        "Overly dark/murky grading",
+        "Excessive decorative design that hides information",
+        "Logo over faces or key product details"
+      ],
+      "copy_dos": [
+        "State benefits clearly",
+        "Use short, scannable lines",
+        "Keep claims specific"
+      ],
+      "copy_donts": [
+        "Vague superlatives",
+        "Dense paragraphs",
+        "Fashion-editorial ambiguity in performance creative"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Customer-obsessed benefit framing",
+        "Brand recognizability (wordmark + smile)",
+        "High legibility layouts"
+      ],
+      "can_evolve": [
+        "Casting nuance by region",
+        "Seasonal color accents",
+        "Storytelling formats across channels"
+      ],
+      "test_zone": [
+        "Cinematic brand films for Prime/Devices",
+        "Creator-led social formats",
+        "Interactive shoppable video experiences"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean UI surfaces",
+        "Card-based modular layouts",
+        "Iconography and trust signals (ratings, shipping badges)"
+      ],
+      "interactive_elements": [
+        "Personalized recommendations",
+        "Badges for delivery speed and Prime eligibility",
+        "Carousel modules and deal callouts"
+      ],
+      "soundscape": "Neutral; functional; short confirmation tones in apps/devices"
+    },
+    "digital": {
+      "tone_adjustment": "Performance-first on retail surfaces; warmer and more narrative for Prime Video/Amazon Originals and brand films",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "Short-form benefit stories, creator-style demos, quick product highlights",
+        "Website": "High-utility browsing and purchase flows; trust and speed signals above the fold",
+        "Newsletter": "Deal-forward with clear categories; short headlines; prominent CTAs"
+      }
+    },
+    "print": {
+      "paper": "Not primary; when used, clean uncoated or semi-matte stock",
+      "cover_rules": "High legibility headline + clear hero visual; minimal text clutter"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Low-contrast logo placements on busy photography",
+      "Distorted smile/arrow geometry",
+      "Logo cropped without safe area"
+    ]
+  }
+}

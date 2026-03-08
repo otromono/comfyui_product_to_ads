@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "Automobili Lamborghini",
+    "tagline": "Driving Humans Beyond",
+    "category": "Luxury super sports cars",
+    "positioning": "An ultra-luxury super sports car brand defined by extreme design, cutting-edge performance, and bold Italian character, positioned as an icon of uncompromising emotion and visual power.",
+    "vision": "To shape the future of super sports cars through revolutionary design, advanced technology, and unmistakable emotional impact.",
+    "mission": "Create the most daring and technologically advanced super sports cars, delivering extreme performance and a visceral driving experience.",
+    "origin_story": "Founded in 1963 by Ferruccio Lamborghini in Sant’Agata Bolognese, Italy, Automobili Lamborghini was born from the ambition to challenge established sports car conventions with radical design and engineering."
+  },
+  "brand_values": {
+    "core_values": [
+      "Extreme performance",
+      "Bold innovation",
+      "Design audacity",
+      "Exclusivity",
+      "Italian craftsmanship"
+    ],
+    "brand_promise": "Deliver an uncompromising super sports car experience defined by power, design, and emotional intensity.",
+    "differentiators": [
+      "Radical, instantly recognizable design language.",
+      "Naturally aspirated and high-performance powertrains as brand signatures.",
+      "Strong mythological and bull-inspired symbolism.",
+      "Extreme scarcity and personalization."
+    ],
+    "non_negotiables": [
+      "Design must be radical and unmistakable.",
+      "Performance must feel extreme and emotional.",
+      "Brand attitude must remain bold and non-conformist.",
+      "Exclusivity must be preserved."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "30-65",
+      "gender": "All",
+      "income_level": "Ultra-high net worth"
+    },
+    "psychographics": {
+      "lifestyle": "Collectors and high-net-worth individuals drawn to extreme aesthetics, power, and status symbolism.",
+      "values": [
+        "Visual impact",
+        "Power and dominance",
+        "Exclusivity",
+        "Personal expression"
+      ],
+      "behavior": "Purchases driven by emotional desire, personalization, and brand symbolism; strong collector culture."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Provocative",
+      "Confident",
+      "Extreme",
+      "Iconic"
+    ],
+    "communication_style": "Declarative, dramatic, and emotionally charged, celebrating power, speed, and design without restraint.",
+    "language_register": "Luxury / Performance / Emotional",
+    "preferred_structures": [
+      "Emotion-first statements",
+      "Design and power narratives",
+      "Short, impactful declarations"
+    ],
+    "avoid": [
+      "Neutral or understated language",
+      "Excessive technical explanation",
+      "Soft emotional tones"
+    ],
+    "emotional_temperature": "High intensity",
+    "tone_dos": [
+      "Celebrate boldness and power",
+      "Use striking, confident language",
+      "Emphasize emotional impact"
+    ],
+    "tone_donts": [
+      "Humility",
+      "Irony",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Lamborghini raging bull shield and wordmark.",
+      "usage_rules": "Strict adherence to proportions, colors, and clear space.",
+      "lockup_behavior": "Shield and wordmark used with authority; never decorative.",
+      "safe_area": "Defined by official Lamborghini brand standards."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFD100"
+      ],
+      "secondary_colors": [
+        "#FFFFFF",
+        "#6E6E6E"
+      ],
+      "color_usage_rules": "Black and yellow as dominant identity anchors, supported by aggressive contrasts."
+    },
+    "typography": {
+      "primary_font": "Sharp, geometric corporate sans-serif",
+      "secondary_font": "Technical sans-serif for specifications",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Bold, aggressive headline",
+        "H2 – Medium",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Sharp, angular grid",
+      "white_space_ratio": "Low to medium",
+      "image_vs_text_balance": "Image-dominant",
+      "cta_placement": "Minimal and assertive",
+      "alignment": "Dynamic, aggressive compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "aggressive",
+        "dramatic",
+        "high-contrast",
+        "iconic",
+        "powerful"
+      ],
+      "preferred_photographers": [
+        "Automotive performance specialists",
+        "Conceptual automotive photographers"
+      ],
+      "camera_feel": "High-impact imagery emphasizing sharp lines, low angles, and visual dominance.",
+      "pose_guidelines": "Cars shot low, wide, and aggressive; humans secondary or absent.",
+      "casting_attitude": "Drivers portrayed as assertive and dominant when present."
+    },
+    "technical": {
+      "lighting": "Hard, directional lighting with strong highlights.",
+      "contrast": "High.",
+      "grain": "Minimal.",
+      "depth_of_field": "Controlled, emphasizing form and stance.",
+      "color_grading": "High-contrast with deep blacks and saturated accents."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Extreme power",
+      "Radical design",
+      "Emotional intensity",
+      "Iconic aggression"
+    ],
+    "preferred_locations": [
+      "Controlled architectural environments",
+      "Futuristic landscapes",
+      "Track and performance settings"
+    ],
+    "contexts": [
+      "Model launches",
+      "Design and performance storytelling",
+      "Limited editions"
+    ],
+    "model_casting": {
+      "age_range": "30–60",
+      "diversity": "Secondary to attitude and authority",
+      "attitude": "Dominant, confident, extreme"
+    },
+    "product_presentation": {
+      "hero_visibility": "Vehicle stance, design lines, and presence prioritized.",
+      "styling_approach": "Minimal, aggressive, and sculptural.",
+      "avoid": [
+        "Soft lifestyle framing",
+        "Casual environments"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Explosive and fast.",
+      "transitions": "Sharp cuts and impactful reveals."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use aggressive angles and contrasts",
+        "Emphasize dominance and power",
+        "Maintain bold visual identity"
+      ],
+      "visual_donts": [
+        "Understated or neutral framing",
+        "Soft lighting"
+      ],
+      "copy_dos": [
+        "Lead with emotion and design",
+        "Use short, powerful statements",
+        "Celebrate extremity"
+      ],
+      "copy_donts": [
+        "Explanatory long-form copy",
+        "Humble or restrained language",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Radical design language",
+        "Emotional intensity",
+        "Bold brand attitude"
+      ],
+      "can_evolve": [
+        "Electrification narratives",
+        "Digital and immersive experiences",
+        "Sustainability storytelling"
+      ],
+      "test_zone": [
+        "Hybrid and electric super sports cars",
+        "New experiential formats",
+        "Limited conceptual series"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "High-contrast architectural showrooms",
+        "Industrial luxury materials"
+      ],
+      "interactive_elements": [
+        "Advanced configurators",
+        "Design and performance experiences"
+      ],
+      "soundscape": "Powerful and dramatic"
+    },
+    "digital": {
+      "tone_adjustment": "Bold and emotionally charged",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "55:45"
+      },
+      "platform_behavior": {
+        "Instagram": "High-impact visuals and launches",
+        "Website": "Product immersion and configuration",
+        "Newsletter": "Launch announcements and exclusives"
+      }
+    },
+    "print": {
+      "paper": "Premium coated or high-contrast stock",
+      "cover_rules": "Full-bleed vehicle imagery with minimal text"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Color changes to the bull shield",
+      "Decorative effects",
+      "Improper proportions"
+    ]
+  }
+}

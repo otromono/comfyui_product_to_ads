@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "IKEA",
+    "tagline": "The Wonderful Everyday",
+    "category": "Home Furnishings / Lifestyle",
+    "positioning": "Global home furnishing brand focused on affordable, functional, and well-designed products that improve everyday life for many people.",
+    "vision": "To create a better everyday life for the many people.",
+    "mission": "To offer a wide range of well-designed, functional home furnishing products at prices so low that as many people as possible can afford them.",
+    "origin_story": "Founded in 1943 in Småland, Sweden by Ingvar Kamprad, IKEA began as a mail-order business and evolved into a global home furnishing brand known for flat-pack design, democratic design principles, and Scandinavian simplicity."
+  },
+  "brand_values": {
+    "core_values": [
+      "Togetherness",
+      "Cost-consciousness",
+      "Simplicity",
+      "Renew and improve",
+      "Caring for people and planet"
+    ],
+    "brand_promise": "Well-designed, functional, and affordable home solutions that support everyday living.",
+    "differentiators": [
+      "Democratic design balancing form, function, quality, sustainability, and low price",
+      "Scandinavian design heritage",
+      "Flat-pack innovation enabling accessibility and efficiency"
+    ],
+    "non_negotiables": [
+      "Affordability without sacrificing function",
+      "Design with purpose",
+      "Sustainability as an integrated principle"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to families",
+      "gender": "All",
+      "income_level": "Mass market"
+    },
+    "psychographics": {
+      "lifestyle": "People seeking practical, affordable, and adaptable solutions for everyday home life",
+      "values": [
+        "Practicality",
+        "Value",
+        "Self-expression",
+        "Sustainability",
+        "Everyday comfort"
+      ],
+      "behavior": "Mixes and adapts products over time, values DIY and personalization, shops with long-term household needs in mind"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Friendly",
+      "Optimistic",
+      "Practical",
+      "Inclusive",
+      "Down-to-earth"
+    ],
+    "communication_style": "Clear, positive, and approachable with a focus on everyday problem-solving",
+    "language_register": "Simple, human, encouraging",
+    "preferred_structures": [
+      "Problem–solution framing",
+      "Everyday scenarios",
+      "Clear functional benefits"
+    ],
+    "avoid": [
+      "Luxury rhetoric",
+      "Overly technical jargon",
+      "Abstract design language"
+    ],
+    "emotional_temperature": "Warm-optimistic",
+    "tone_dos": [
+      "Empower everyday life",
+      "Encourage creativity at home",
+      "Be clear and helpful"
+    ],
+    "tone_donts": [
+      "Elitist design language",
+      "Overpromising perfection",
+      "Complex explanations"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "IKEA wordmark in blue within yellow oval",
+      "usage_rules": "Maintain color integrity and proportions; never distort or recolor",
+      "lockup_behavior": "Prominently placed; clear and confident",
+      "safe_area": "Minimum padding equals the height of the IKEA wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#0058A3",
+        "#FBD914"
+      ],
+      "secondary_colors": [
+        "#FFFFFF",
+        "#E5E7EB",
+        "#111827"
+      ],
+      "color_usage_rules": "Blue and yellow as strong brand anchors; neutral tones supporting interiors"
+    },
+    "typography": {
+      "primary_font": "Clean, functional sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold headline",
+        "H2 – Supporting headline",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Clear modular grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-led with clear functional copy",
+      "cta_placement": "Clear and practical",
+      "alignment": "Structured and straightforward layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "everyday",
+        "practical",
+        "bright",
+        "real life",
+        "home-focused"
+      ],
+      "preferred_photographers": [
+        "Lifestyle and interior photographers"
+      ],
+      "camera_feel": "Bright, functional realism",
+      "pose_guidelines": "Natural everyday activities at home",
+      "casting_attitude": "Real people and families; relaxed and authentic"
+    },
+    "technical": {
+      "lighting": "Bright natural light or evenly lit interiors",
+      "contrast": "Low to medium",
+      "grain": "Minimal",
+      "depth_of_field": "Medium keeping environments readable",
+      "color_grading": "Natural, clean tones reflecting real interiors"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Everyday optimism",
+      "Practical creativity",
+      "Inclusive living"
+    ],
+    "preferred_locations": [
+      "Realistic home interiors",
+      "Apartments",
+      "Everyday living spaces"
+    ],
+    "contexts": [
+      "Daily routines",
+      "Small-space solutions",
+      "Family and shared living"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to families",
+      "diversity": "High; inclusive and representative",
+      "attitude": "Positive, relaxed, relatable"
+    },
+    "product_presentation": {
+      "hero_visibility": "Products shown in real use contexts",
+      "styling_approach": "Lived-in, practical, approachable",
+      "avoid": [
+        "Overly styled luxury interiors",
+        "Abstract design-only presentations",
+        "Unrealistic spaces"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Moderate and everyday-paced",
+      "transitions": "Clean cuts and functional motion"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real homes and use cases",
+        "Highlight functionality",
+        "Celebrate everyday life"
+      ],
+      "visual_donts": [
+        "Luxury staging",
+        "Untouchable design imagery",
+        "Visual complexity without purpose"
+      ],
+      "copy_dos": [
+        "Be helpful and clear",
+        "Focus on solutions",
+        "Encourage personalization"
+      ],
+      "copy_donts": [
+        "Overcomplication",
+        "Luxury or exclusivity claims",
+        "Vague design statements"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Democratic design principles",
+        "Affordability focus",
+        "Scandinavian simplicity"
+      ],
+      "can_evolve": [
+        "Circular economy initiatives",
+        "Digital planning tools",
+        "Urban living solutions"
+      ],
+      "test_zone": [
+        "Smart home integration",
+        "Subscription services",
+        "New sustainable materials"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Wood",
+        "Neutral surfaces",
+        "Clear signage"
+      ],
+      "interactive_elements": [
+        "Room setups",
+        "Planning and design tools"
+      ],
+      "soundscape": "Neutral, active retail ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More instructional on owned channels; inspirational but practical on social",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Home inspiration, small-space ideas, everyday solutions",
+        "Website": "Planning tools, product education, inspiration galleries",
+        "Newsletter": "Home tips, product launches, sustainability updates"
+      }
+    },
+    "print": {
+      "paper": "Matte stock with high readability",
+      "cover_rules": "Interior scenes with clear IKEA branding and functional messaging"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Recolored logo",
+      "Distorted oval",
+      "Low-contrast logo placement"
+    ]
+  }
+}

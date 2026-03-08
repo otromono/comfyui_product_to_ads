@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Fendi",
+    "tagline": "Fendi Roma",
+    "category": "Luxury Fashion / Accessories",
+    "positioning": "Italian luxury fashion house positioned on Roman heritage, bold elegance, and innovative craftsmanship blending tradition with contemporary expression.",
+    "vision": "To represent the future of luxury through creative audacity, craftsmanship, and Roman cultural heritage.",
+    "mission": "To create luxury fashion and accessories that combine exceptional craftsmanship, bold creativity, and continuous innovation.",
+    "origin_story": "Founded in 1925 in Rome by Adele and Edoardo Fendi as a fur and leather workshop, Fendi evolved into a global luxury icon rooted in Roman heritage and creative experimentation."
+  },
+  "brand_values": {
+    "core_values": [
+      "Craftsmanship",
+      "Bold creativity",
+      "Roman heritage",
+      "Innovation",
+      "Luxury excellence"
+    ],
+    "brand_promise": "Luxury defined by bold elegance, exceptional craftsmanship, and creative innovation.",
+    "differentiators": [
+      "Roman cultural identity",
+      "Iconic fur and leather craftsmanship",
+      "Experimental yet refined luxury language"
+    ],
+    "non_negotiables": [
+      "Craft excellence",
+      "Creative boldness",
+      "Luxury positioning"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to mature adults",
+      "gender": "All",
+      "income_level": "Luxury / High-net-worth"
+    },
+    "psychographics": {
+      "lifestyle": "Culturally sophisticated individuals drawn to bold luxury and strong brand identity",
+      "values": [
+        "Exclusivity",
+        "Creativity",
+        "Heritage",
+        "Status"
+      ],
+      "behavior": "Selects luxury as cultural statement, values craftsmanship and brand heritage"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Sophisticated",
+      "Confident",
+      "Expressive",
+      "Authoritative"
+    ],
+    "communication_style": "Editorial, confident, and culturally assertive with a strong luxury presence",
+    "language_register": "High-fashion, refined, assertive",
+    "preferred_structures": [
+      "Editorial statements",
+      "Cultural narratives",
+      "Design-led declarations"
+    ],
+    "avoid": [
+      "Casual language",
+      "Minimalist understatement",
+      "Overly explanatory copy"
+    ],
+    "emotional_temperature": "Bold-confident",
+    "tone_dos": [
+      "Celebrate craftsmanship",
+      "Assert creative authority",
+      "Highlight Roman heritage"
+    ],
+    "tone_donts": [
+      "Neutral commercial tone",
+      "Fast-fashion language",
+      "Over-simplification"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Fendi wordmark and FF logo",
+      "usage_rules": "Maintain integrity of FF monogram and wordmark; never distort or recolor",
+      "lockup_behavior": "Strong, iconic placement",
+      "safe_area": "Minimum padding equals the height of the Fendi wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#C6A15B"
+      ],
+      "secondary_colors": [
+        "#FFFFFF",
+        "#6B4F2C"
+      ],
+      "color_usage_rules": "Luxury palette with black, gold tones, and rich neutrals"
+    },
+    "typography": {
+      "primary_font": "Luxury modern serif or sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Brand authority statement",
+        "H2 – Creative support line",
+        "Body – Minimal descriptive text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Editorial luxury grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-dominant",
+      "cta_placement": "Subtle and secondary",
+      "alignment": "Strong, architectural layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "bold",
+        "luxury",
+        "editorial",
+        "architectural",
+        "expressive"
+      ],
+      "preferred_photographers": [
+        "High-fashion editorial photographers"
+      ],
+      "camera_feel": "Strong presence, sculptural framing",
+      "pose_guidelines": "Confident poses, expressive gestures, strong silhouettes",
+      "casting_attitude": "Powerful, expressive, high-fashion"
+    },
+    "technical": {
+      "lighting": "Controlled studio or dramatic natural light",
+      "contrast": "Medium to high",
+      "grain": "Minimal",
+      "depth_of_field": "Medium emphasizing form and texture",
+      "color_grading": "Rich contrast with warm luxury tones"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Bold luxury",
+      "Creative authority",
+      "Roman grandeur"
+    ],
+    "preferred_locations": [
+      "Roman architecture",
+      "Luxury interiors",
+      "Architectural studio sets"
+    ],
+    "contexts": [
+      "Editorial fashion narratives",
+      "Heritage-meets-modern scenarios",
+      "Art-driven campaigns"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to mature adults",
+      "diversity": "Selective, fashion-forward diversity",
+      "attitude": "Confident, expressive, commanding"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product as sculptural statement",
+      "styling_approach": "Bold, luxurious, expressive",
+      "avoid": [
+        "Minimalist restraint",
+        "Casual lifestyle imagery",
+        "Understated commercial setups"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured but powerful",
+      "transitions": "Architectural cuts, strong motion"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Emphasize craftsmanship and texture",
+        "Use bold compositions",
+        "Highlight Roman heritage"
+      ],
+      "visual_donts": [
+        "Overly minimal aesthetics",
+        "Casual fashion contexts",
+        "Generic luxury tropes"
+      ],
+      "copy_dos": [
+        "Assert brand authority",
+        "Celebrate creativity",
+        "Reference heritage subtly"
+      ],
+      "copy_donts": [
+        "Didactic explanations",
+        "Mass-market tone",
+        "Trend-chasing language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Roman luxury identity",
+        "Craftsmanship focus",
+        "Bold creative language"
+      ],
+      "can_evolve": [
+        "Digital craftsmanship storytelling",
+        "Contemporary artistic collaborations",
+        "Sustainable luxury innovation"
+      ],
+      "test_zone": [
+        "Experimental materials",
+        "New luxury formats",
+        "Cross-disciplinary art projects"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Marble",
+        "Brass accents",
+        "Dark luxury finishes"
+      ],
+      "interactive_elements": [
+        "Craftsmanship showcases",
+        "Icon product storytelling"
+      ],
+      "soundscape": "Elegant, powerful ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More expressive and bold on social; authoritative on owned channels",
+      "content_ratio": {
+        "campaign_vs_product": "65:35",
+        "motion_vs_static": "55:45"
+      },
+      "platform_behavior": {
+        "Instagram": "Editorial campaigns, bold fashion statements",
+        "Website": "Heritage, collections, craftsmanship",
+        "Newsletter": "Creative direction, collection launches"
+      }
+    },
+    "print": {
+      "paper": "High-quality matte or textured stock",
+      "cover_rules": "Bold editorial imagery with strong branding"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorted FF logo",
+      "Low-contrast logo placement",
+      "Decorative logo alterations"
+    ]
+  }
+}

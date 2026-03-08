@@ -1,0 +1,275 @@
+{
+  "brand_info": {
+    "name": "Pepsi",
+    "tagline": "Thirsty for More",
+    "category": "Beverage",
+    "positioning": "The unapologetic choice for the culturally connected, positioning itself as a bold challenger brand that celebrates the 'excitement of now'.",
+    "vision": "To be the global leader in convenient foods and beverages by winning with PepsiCo Positive (pep+).",
+    "mission": "Create more smiles with every sip and every bite.",
+    "origin_story": "Created in 1893 by pharmacist Caleb Bradham in New Bern, North Carolina, originally as 'Brad's Drink' before being renamed Pepsi-Cola in 1898."
+  },
+  "brand_values": {
+    "core_values": [
+      "Energy",
+      "Optimism",
+      "Ambition",
+      "Confidence",
+      "Inclusivity"
+    ],
+    "brand_promise": "To deliver moments of unapologetic enjoyment and refreshment.",
+    "differentiators": [
+      "Challenger mindset",
+      "Deep integration with pop culture and music",
+      "Bold, electric visual identity",
+      "Focus on Zero Sugar as a primary brand pillar"
+    ],
+    "non_negotiables": [
+      "The Pepsi Globe",
+      "The signature Blue/Red/White color palette",
+      "Authentic refreshment cues (condensation/fizz)"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "15-45",
+      "gender": "All (skewed slightly male in core beverage segment)",
+      "income_level": "Average to high (students, professionals, and young families)"
+    },
+    "psychographics": {
+      "lifestyle": "Active, socially connected, and culturally savvy.",
+      "values": [
+        "Authenticity",
+        "Socialization",
+        "Cultural relevance",
+        "Excitement"
+      ],
+      "behavior": "Early adopters of trends, frequent social media users, and seekers of 'the next big thing'."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Dynamic",
+      "Confident",
+      "Knowing",
+      "Unconventional"
+    ],
+    "communication_style": "Conversational, relatable, and highly promotional with a focus on 'the now'.",
+    "language_register": "Informal/Modern",
+    "preferred_structures": [
+      "Short, punchy sentences",
+      "Spoken interjections (Hey, Oh, Yeah)",
+      "Active verbs",
+      "Cultural slang/references"
+    ],
+    "avoid": [
+      "Corporate jargon",
+      "Overly formal language",
+      "Nostalgia-only messaging",
+      "Passive voice"
+    ],
+    "emotional_temperature": "High/Energetic",
+    "tone_dos": [
+      "Be bold",
+      "Stay current",
+      "Invite participation",
+      "Show confidence"
+    ],
+    "tone_donts": [
+      "Don't be preachy",
+      "Don't sound dated",
+      "Don't be overly sentimental",
+      "Don't be quiet"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "The 2023 Pepsi Globe with integrated wordmark.",
+      "usage_rules": "The globe and wordmark unite; wordmark is 10% thicker than previous versions.",
+      "lockup_behavior": "Flexible for physical and digital spaces; wordmark is centered within or beside the globe depending on application.",
+      "safe_area": "Defined by the width of the 'e' in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Electric Blue",
+        "Black (Zero Sugar)",
+        "White",
+        "Red"
+      ],
+      "secondary_colors": [
+        "Brushed Blue",
+        "Silver"
+      ],
+      "color_usage_rules": "Electric Blue and Black must dominate to provide a contemporary, high-contrast edge."
+    },
+    "typography": {
+      "primary_font": "Pepsi Custom Typeface",
+      "secondary_font": "Sofia Pro",
+      "weights": {
+        "headlines": "Bold/Extra Bold",
+        "body": "Regular",
+        "captions": "Medium"
+      },
+      "spacing": {
+        "letter_spacing": "Tight/Modern",
+        "line_height": "Compact"
+      },
+      "hierarchy": [
+        "Bold Headlines",
+        "Sub-headers in secondary color",
+        "Clean sans-serif body text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Dynamic/Asymmetric",
+      "white_space_ratio": "Moderate (prioritizes 'Big Bold Blue' backgrounds over empty white space)",
+      "image_vs_text_balance": "Image-led with integrated typography",
+      "cta_placement": "High visibility, often integrated into the 'Pulse' graphic",
+      "alignment": "Centered or dynamic diagonal"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Authentic",
+        "Engaging",
+        "Vibrant",
+        "Kinetic"
+      ],
+      "preferred_photographers": [
+        "Carioca Studio",
+        "Fashion/Lifestyle specialists"
+      ],
+      "camera_feel": "Dynamic, close-up, high-energy",
+      "pose_guidelines": "Unposed, mid-action, candid, joyful",
+      "casting_attitude": "Unapologetic, diverse, culturally 'in-the-know'"
+    },
+    "technical": {
+      "lighting": "Dramatic, high-contrast, often with 'glow' highlights",
+      "contrast": "High",
+      "grain": "Horizontal (when applied to backgrounds)",
+      "depth_of_field": "Shallow (to hero the product)",
+      "color_grading": "Saturated, leaning into 'Electric Blue' tones"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Bigger",
+      "Bolder",
+      "Current",
+      "Pulsating"
+    ],
+    "preferred_locations": [
+      "Urban settings",
+      "Music festivals",
+      "Sports arenas",
+      "Social gatherings"
+    ],
+    "contexts": [
+      "Food pairings",
+      "Celebrity endorsements",
+      "Pop culture moments",
+      "Digital-first activations"
+    ],
+    "model_casting": {
+      "age_range": "18-35",
+      "diversity": "High (global representation)",
+      "attitude": "Confident and energetic"
+    },
+    "product_presentation": {
+      "hero_visibility": "Maximum; product is often the source of light or motion",
+      "styling_approach": "Chilled with natural condensation; 'Classic' or 'Chilled' styles",
+      "avoid": [
+        "Artificial-looking condensation",
+        "Static/boring placements",
+        "Cluttered backgrounds"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast, rhythmic",
+      "transitions": "The 'Pulse' ripple effect"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use the 'Pulse' graphic",
+        "Hero the can silhouette",
+        "Maintain 'Big Bold Blue' impression"
+      ],
+      "visual_donts": [
+        "Don't stretch the logo",
+        "Don't use the old 'wave' logo",
+        "Don't invert the gradient spectrum"
+      ],
+      "copy_dos": [
+        "Use 'Hey', 'Yeah', 'Oh'",
+        "Focus on 'The Now'",
+        "Mention food pairings"
+      ],
+      "copy_donts": [
+        "Don't use jargon",
+        "Don't mention competitors directly",
+        "Don't be overly sentimental"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "The Globe",
+        "Blue/Red/White palette",
+        "Challenger spirit"
+      ],
+      "can_evolve": [
+        "Typography styles",
+        "Digital interaction patterns",
+        "Partnership categories"
+      ],
+      "test_zone": [
+        "AI-generated content",
+        "Metaverse activations",
+        "Sustainable packaging aesthetics"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Glossy finishes",
+        "LED-lit displays",
+        "Recycled PET"
+      ],
+      "interactive_elements": [
+        "QR codes for digital rewards",
+        "Motion-sensor displays"
+      ],
+      "soundscape": "Pop, Fizz, Clink, Upbeat Music"
+    },
+    "digital": {
+      "tone_adjustment": "Highly conversational and interactive",
+      "content_ratio": {
+        "campaign_vs_product": "60/40",
+        "motion_vs_static": "70/30"
+      },
+      "platform_behavior": {
+        "Instagram": "High-energy reels, influencer collaborations, vibrant photography.",
+        "Website": "Clean, bold, focused on brand story and sustainability (pep+).",
+        "Newsletter": "Promotional, sweepstakes-heavy, short and punchy."
+      }
+    },
+    "print": {
+      "paper": "High-gloss, premium weight",
+      "cover_rules": "Full-bleed 'Big Bold Blue' or 'Pulse' graphics"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Scaling globe smaller than 0.25 inches",
+      "Changing grain orientation",
+      "Inverting gradient colors"
+    ]
+  }
+}

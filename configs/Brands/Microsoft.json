@@ -1,0 +1,283 @@
+{
+  "brand_info": {
+    "name": "Microsoft",
+    "tagline": "to empower every person and every organization on the planet to achieve more",
+    "category": "Technology",
+    "positioning": "A global technology platform company delivering cloud, productivity, devices, and developer tools that enable people and organizations to create, build, and operate securely at scale.",
+    "vision": "We empower the world",
+    "mission": "to empower every person and every organization on the planet to achieve more",
+    "origin_story": "Founded on April 4, 1975 by Bill Gates and Paul Allen in Albuquerque, New Mexico, originally focused on software for early personal computers and expanding into operating systems, productivity, cloud, and developer platforms."
+  },
+  "brand_values": {
+    "core_values": [
+      "Innovation",
+      "Empowerment",
+      "Trust",
+      "Inclusivity"
+    ],
+    "brand_promise": "Practical optimism: technology that expands human capability and turns ideas into real outcomes.",
+    "differentiators": [
+      "End-to-end ecosystem across cloud, productivity, and developer tools",
+      "Human-centered design systems (Fluent) emphasizing clarity and accessibility",
+      "Enterprise-grade trust posture with security as a core priority"
+    ],
+    "non_negotiables": [
+      "Clarity over complexity",
+      "Accessibility and inclusivity",
+      "No deceptive claims or misleading product representation"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-65",
+      "gender": "All",
+      "income_level": "Mass market to enterprise decision-makers"
+    },
+    "psychographics": {
+      "lifestyle": "Knowledge workers, creators, developers, students, and business leaders balancing productivity, creativity, and collaboration",
+      "values": [
+        "Progress",
+        "Efficiency",
+        "Creativity",
+        "Reliability"
+      ],
+      "behavior": "Adopts tools that reduce friction and enable collaboration; expects familiar, intuitive experiences across devices and contexts"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Optimistic",
+      "Clear",
+      "Human",
+      "Confident"
+    ],
+    "communication_style": "Direct, benefit-led, and possibility-driven; short statements that invite action",
+    "language_register": "Neutral-professional",
+    "preferred_structures": [
+      "Two- to five-word headlines",
+      "Simple declarative sentences",
+      "Verb-first calls to action"
+    ],
+    "avoid": [
+      "Overpromising",
+      "Jargon-heavy copy",
+      "Aggressive sales language"
+    ],
+    "emotional_temperature": "Bright-neutral",
+    "tone_dos": [
+      "Use inclusive language",
+      "Lead with outcomes and empowerment",
+      "Keep copy succinct with generous breathing room"
+    ],
+    "tone_donts": [
+      "Fear-based messaging",
+      "Dense paragraphs",
+      "Overly poetic or abstract language without a clear benefit"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Microsoft four-square symbol with Microsoft wordmark (Segoe-based)",
+      "usage_rules": "Logo must be clear, legible, and separated from other elements with consistent clear space; avoid distortion, effects, or low-contrast placement.",
+      "lockup_behavior": "Typically top-left or bottom-left for campaign materials; can be used as a small, stable anchor away from the main headline.",
+      "safe_area": "Minimum clear space equal to the height of the capital “M” in the logotype (or equivalent symbol-height rule for lockups)."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#F25022",
+        "#7FBA00",
+        "#00A4EF",
+        "#FFB900",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#6E56CF",
+        "#FF6A3D",
+        "#F3C6B7",
+        "#1B3BFF",
+        "#E6E6E6",
+        "#8A8A8A"
+      ],
+      "color_usage_rules": "Use bold Microsoft core colors as accents and anchors; pair with expansive neutrals and soft gradients to create warmth and approachability; keep contrast high for readability."
+    },
+    "typography": {
+      "primary_font": "Segoe UI / Segoe Pro",
+      "secondary_font": "Segoe UI (system-aligned variants) / Helvetica Neue (fallback)",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Semilight"
+      },
+      "spacing": {
+        "letter_spacing": "0 to 0.01em",
+        "line_height": "1.2–1.4"
+      },
+      "hierarchy": [
+        "H1 – Large bold sans",
+        "H2 – Medium bold/regular sans",
+        "Body – Regular sans",
+        "Caption – Semilight sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular grid with strong alignment; common use of center-weighted headline blocks and asymmetric negative space",
+      "white_space_ratio": "Very generous",
+      "image_vs_text_balance": "Text-led or balanced; large statement text with a single strong visual anchor",
+      "cta_placement": "Top-right small URL/CTA or bottom corner near brand mark; never competes with the headline",
+      "alignment": "Left-aligned or centered headlines; brand lockup stays consistent and understated"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "optimistic",
+        "human-centered",
+        "conceptual-real",
+        "clean",
+        "dynamic"
+      ],
+      "preferred_photographers": [
+        "N/A"
+      ],
+      "camera_feel": "Everyday life made iconic through simple composition, crisp focus, and a single conceptual twist (split worlds, overlays, or shape masks).",
+      "pose_guidelines": "Natural movement and purposeful gestures; confident but approachable expressions; activity-driven posture over posed glamour.",
+      "casting_attitude": "Inclusive, contemporary, and relatable; diverse representation presented as normal and unforced."
+    },
+    "technical": {
+      "lighting": "Bright natural daylight or soft studio; clean highlights with controlled shadows",
+      "contrast": "Medium",
+      "grain": "Minimal to none",
+      "depth_of_field": "Moderate; background simplified but readable",
+      "color_grading": "Neutral with warm lifts; frequent use of brand-tinted gradients and color fields"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Possibility-driven",
+      "Clean and modern",
+      "Human plus abstract shape-language",
+      "Confident minimalism"
+    ],
+    "preferred_locations": [
+      "Modern interiors",
+      "Transit and urban infrastructure",
+      "Simple outdoor landscapes with big skies",
+      "Workspaces and everyday environments"
+    ],
+    "contexts": [
+      "Creation and building",
+      "Work-life fluidity",
+      "Learning and discovery",
+      "Advertising/marketing enablement",
+      "Mixed reality and imagination bridging"
+    ],
+    "model_casting": {
+      "age_range": "18–55",
+      "diversity": "Yes, clearly visible and central",
+      "attitude": "Focused, curious, energetic; optimism without exaggeration"
+    },
+    "product_presentation": {
+      "hero_visibility": "Brand and message lead; product appears as contextual enabler rather than the sole hero",
+      "styling_approach": "Contemporary, functional, and context-true; minimal styling that supports relatability",
+      "avoid": [
+        "Over-stylized fashion shoots",
+        "Visual clutter",
+        "Overly technical product callouts in primary headlines"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Smooth, efficient transitions; short beats that feel modern and frictionless",
+      "transitions": "Soft wipes, gradient fades, and shape-based reveals aligned with Fluent motion principles"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use large typographic statements",
+        "Maintain strong negative space",
+        "Use soft gradients and shape masks as brand signifiers",
+        "Use inclusive human moments grounded in real environments"
+      ],
+      "visual_donts": [
+        "Crowded layouts",
+        "Low-contrast type",
+        "Overly complex textures behind headlines",
+        "Heavy visual effects that reduce clarity"
+      ],
+      "copy_dos": [
+        "Short, confident benefit-led copy",
+        "Outcome-first language",
+        "Simple verbs that imply progress (build, create, imagine, connect)"
+      ],
+      "copy_donts": [
+        "Hype-driven superlatives",
+        "Long paragraphs",
+        "Ambiguous metaphors without a clear takeaway"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Microsoft logo integrity",
+        "Clarity and accessibility of typography",
+        "Human-centered optimism",
+        "High readability and clean hierarchy"
+      ],
+      "can_evolve": [
+        "Gradient palettes and accent colors",
+        "Use of conceptual overlays and shape language",
+        "Casting scenarios and environments"
+      ],
+      "test_zone": [
+        "Experimental mixed-reality metaphors",
+        "Large-scale outdoor typography statements",
+        "Abstract brand shape systems for sub-brands like Microsoft Advertising"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Matte aluminum",
+        "Glass",
+        "Light neutrals",
+        "Soft gradient illumination"
+      ],
+      "interactive_elements": [
+        "Large-format screens with minimal UI",
+        "Hands-on demo zones",
+        "Quiet wayfinding with clear typography"
+      ],
+      "soundscape": "Low-key, modern ambient"
+    },
+    "digital": {
+      "tone_adjustment": "More utility-forward and instructive on web; more punchy and headline-driven on social",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "50:50"
+      },
+      "platform_behavior": {
+        "Instagram": "Bold statements over clean gradients; human moments with a single concept device",
+        "Website": "High-clarity hierarchy, accessible contrast, generous whitespace",
+        "Newsletter": "Short headlines, clear sections, strong CTA hierarchy"
+      }
+    },
+    "print": {
+      "paper": "Uncoated or matte stock with high color fidelity for gradients",
+      "cover_rules": "Large headline, minimal supporting copy, logo anchored with ample clear space"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorted symbol proportions",
+      "Drop shadow or bevel on logo",
+      "Placing logo on low-contrast gradient areas",
+      "Using the logo inline within sentences"
+    ]
+  }
+}

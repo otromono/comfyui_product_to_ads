@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "Tommy Hilfiger",
+    "tagline": "Classic American Cool",
+    "category": "Fashion and lifestyle apparel",
+    "positioning": "A global lifestyle brand rooted in classic American style, combining preppy heritage with modern pop culture and inclusive, youthful energy.",
+    "vision": "Inspire people around the world to express themselves through modern American style.",
+    "mission": "Create premium lifestyle apparel and accessories that fuse classic American heritage with contemporary culture.",
+    "origin_story": "Founded in 1985 by Tommy Hilfiger in New York, the brand emerged as a reinterpretation of classic American preppy style infused with pop culture, music, and youth influence."
+  },
+  "brand_values": {
+    "core_values": [
+      "American heritage",
+      "Optimism",
+      "Inclusivity",
+      "Modernity",
+      "Accessibility"
+    ],
+    "brand_promise": "Deliver modern American style that feels confident, inclusive, and timeless.",
+    "differentiators": [
+      "Iconic red, white, and blue flag logo.",
+      "Strong association with music, youth culture, and pop icons.",
+      "Balance of classic prep and contemporary street influence.",
+      "Global lifestyle positioning."
+    ],
+    "non_negotiables": [
+      "American heritage must remain central.",
+      "Flag logo integrity must be preserved.",
+      "Tone must stay optimistic and inclusive.",
+      "Avoid drifting into luxury exclusivity."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-45",
+      "gender": "All",
+      "income_level": "Mid"
+    },
+    "psychographics": {
+      "lifestyle": "Consumers attracted to classic yet modern style, influenced by music, pop culture, and inclusive brand narratives.",
+      "values": [
+        "Self-expression",
+        "Optimism",
+        "Cultural relevance",
+        "Approachable premium"
+      ],
+      "behavior": "Brand-aware shoppers responsive to collaborations, seasonal collections, and lifestyle storytelling."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Optimistic",
+      "Confident",
+      "Inclusive",
+      "Youthful",
+      "Iconic"
+    ],
+    "communication_style": "Positive and expressive, blending heritage cues with contemporary cultural language.",
+    "language_register": "Lifestyle / Contemporary / Aspirational",
+    "preferred_structures": [
+      "Aspirational statements",
+      "Culture-driven headlines",
+      "Heritage-modern contrasts"
+    ],
+    "avoid": [
+      "Cynicism",
+      "Overly technical fashion language",
+      "Luxury elitism"
+    ],
+    "emotional_temperature": "Upbeat confidence",
+    "tone_dos": [
+      "Celebrate diversity and optimism",
+      "Highlight heritage with modern relevance",
+      "Use clear, positive language"
+    ],
+    "tone_donts": [
+      "Detached minimalism",
+      "Overly serious tone",
+      "Exclusive or cold messaging"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Tommy Hilfiger flag logo.",
+      "usage_rules": "Maintain flag proportions and colors; avoid distortion or decorative effects.",
+      "lockup_behavior": "Logo used as a central or supporting graphic element.",
+      "safe_area": "Minimum padding equal to the height of the flag."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#C8102E",
+        "#FFFFFF",
+        "#00205B"
+      ],
+      "secondary_colors": [
+        "#E5E5E5",
+        "#000000"
+      ],
+      "color_usage_rules": "Red, white, and blue anchor brand recognition; neutrals support seasonal expression."
+    },
+    "typography": {
+      "primary_font": "Clean modern sans-serif",
+      "secondary_font": "Classic sans-serif for heritage cues",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.01em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Bold",
+        "H2 – Medium",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Clean editorial grid",
+      "white_space_ratio": "Medium to high",
+      "image_vs_text_balance": "Image-led lifestyle focus",
+      "cta_placement": "Lower third or adjacent to logo",
+      "alignment": "Clean and balanced"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "optimistic",
+        "lifestyle",
+        "clean",
+        "youthful",
+        "iconic"
+      ],
+      "preferred_photographers": [
+        "Fashion and lifestyle photographers"
+      ],
+      "camera_feel": "Bright, aspirational lifestyle imagery with a polished but approachable feel.",
+      "pose_guidelines": "Relaxed confidence, natural movement, group energy.",
+      "casting_attitude": "Inclusive, diverse, confident."
+    },
+    "technical": {
+      "lighting": "Bright daylight or soft studio light.",
+      "contrast": "Medium.",
+      "grain": "Minimal.",
+      "depth_of_field": "Moderate.",
+      "color_grading": "Fresh, vibrant, true-to-brand."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Modern American lifestyle",
+      "Optimism and confidence",
+      "Cultural relevance",
+      "Inclusive energy"
+    ],
+    "preferred_locations": [
+      "Urban environments",
+      "American-inspired settings",
+      "Clean lifestyle studios"
+    ],
+    "contexts": [
+      "Seasonal collections",
+      "Collaborations",
+      "Music and culture-led stories"
+    ],
+    "model_casting": {
+      "age_range": "18–45",
+      "diversity": "Very broad and inclusive",
+      "attitude": "Confident, upbeat, expressive"
+    },
+    "product_presentation": {
+      "hero_visibility": "Outfits clearly readable with logo details visible.",
+      "styling_approach": "Preppy-modern layering, casual confidence.",
+      "avoid": [
+        "Overly formal luxury cues",
+        "Dark, moody minimalism"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Energetic and smooth.",
+      "transitions": "Clean cuts with lifestyle rhythm."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show inclusive group dynamics",
+        "Highlight American heritage cues",
+        "Use bright, optimistic compositions"
+      ],
+      "visual_donts": [
+        "Muted pessimistic tones",
+        "Overly abstract visuals"
+      ],
+      "copy_dos": [
+        "Use positive, inclusive language",
+        "Celebrate culture and diversity",
+        "Reference heritage with modern framing"
+      ],
+      "copy_donts": [
+        "Cold minimalism",
+        "Overly complex narratives",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "American heritage",
+        "Flag logo identity",
+        "Optimistic tone"
+      ],
+      "can_evolve": [
+        "Sustainability initiatives",
+        "Digital experiences",
+        "Collaborative capsules"
+      ],
+      "test_zone": [
+        "New cultural partnerships",
+        "Metaverse and digital fashion",
+        "Next-gen retail formats"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Lifestyle merchandising",
+        "Flag-led brand zones"
+      ],
+      "interactive_elements": [
+        "Campaign storytelling",
+        "Collaboration highlights"
+      ],
+      "soundscape": "Upbeat contemporary"
+    },
+    "digital": {
+      "tone_adjustment": "Optimistic and lifestyle-driven",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Lifestyle imagery, collaborations, culture",
+        "Website": "Collections, heritage, brand stories",
+        "Newsletter": "Drops, collaborations, seasonal edits"
+      }
+    },
+    "print": {
+      "paper": "Semi-matte lifestyle stock",
+      "cover_rules": "Iconic imagery with clear logo presence"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Altering flag colors",
+      "Distorting logo proportions",
+      "Placing logo on low-contrast backgrounds"
+    ]
+  }
+}

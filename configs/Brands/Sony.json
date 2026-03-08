@@ -1,0 +1,284 @@
+{
+  "brand_official_facts": {
+    "brand_name": "Sony",
+    "legal_entity_reference": "Sony Group Corporation",
+    "founded_year": 1946,
+    "founded_context": "Founded in Tokyo, Japan as Tokyo Tsushin Kogyo K.K. (Tokyo Telecommunications Engineering Corporation) by Masaru Ibuka and Akio Morita in the post war period; later adopted the name Sony in 1958.",
+    "official_purpose": "Fill the world with emotion, through the power of creativity and technology.",
+    "official_values": [
+      "Dreams & Curiosity",
+      "Diversity",
+      "Integrity & Sincerity",
+      "Sustainability"
+    ],
+    "official_long_term_vision_label": "Creative Entertainment Vision",
+    "brand_message_or_global_tagline": "make.believe",
+    "other_historic_slogans_or_lines": [
+      "like.no.other",
+      "It’s a Sony",
+      "Go Create",
+      "BE MOVED"
+    ],
+    "core_brand_concept_keywords": [
+      "Kando (emotion)",
+      "creativity",
+      "technology",
+      "entertainment",
+      "innovation",
+      "human experience"
+    ]
+  },
+  "visual_behavior_summary": {
+    "one_sentence_behavior": "Concept led, idea first advertising that turns technology into a human feeling using bold visual metaphors, clean layouts, and high craft photography.",
+    "dominant_axes": {
+      "rational_vs_emotional": "Emotional",
+      "minimal_vs_expressive": "Hybrid (minimal layout with expressive concept)",
+      "futuristic_vs_nostalgic": "Hybrid (future facing tech with nostalgic pop culture codes)",
+      "luxury_vs_mass": "Premium mass (aspirational, but accessible)"
+    }
+  },
+  "creative_strategy_rules": {
+    "primary_job_to_be_done": "Translate complex technology into an instantly graspable human benefit and feeling.",
+    "preferred_story_mechanics": [
+      "visual metaphor that embodies a feature",
+      "single surprising twist or juxtaposition",
+      "sensory emphasis (sound, color, touch, immersion)",
+      "everyday scenario elevated by product capability",
+      "culture and music adjacency without explicit endorsements"
+    ],
+    "avoid": [
+      "busy multi message layouts",
+      "generic stock photography",
+      "overly literal demonstrations unless used as a single hero scene",
+      "humor that undermines product credibility",
+      "visual clutter that competes with the Sony wordmark"
+    ]
+  },
+  "photography_and_image_language": {
+    "signature_looks": [
+      "high craft studio portraiture with controlled gradients",
+      "cinematic outdoor scenes with stylized color casts",
+      "macro close ups with tactile realism (skin, eyes, surfaces)",
+      "surreal but photoreal installations (large scale props, impossible moments, in camera feel)"
+    ],
+    "lighting_rules": {
+      "preferred": [
+        "soft directional key light with smooth falloff",
+        "clean rim separation on product edges",
+        "subtle specular highlights on tech materials",
+        "controlled contrast with deep blacks available when concept requires"
+      ],
+      "night_or_moody": [
+        "single motivated source",
+        "cool tonal base with selective warm accents",
+        "intentional shadow as composition"
+      ],
+      "avoid": [
+        "flat on camera flash",
+        "over processed HDR look",
+        "random mixed color temperatures"
+      ]
+    },
+    "color_behavior": {
+      "base_palette": [
+        "neutral grayscale",
+        "cool blue teal",
+        "deep black"
+      ],
+      "accent_logic": [
+        "one strong accent color per execution (often green, cyan, magenta, or electric blue)",
+        "accent is used to signal technology or brand energy, not decoration"
+      ],
+      "contrast_behavior": "Moderate to high, with large flat color fields or dark negative space to support the concept and logo."
+    },
+    "texture_and_material_focus": [
+      "precise surface rendering on products",
+      "skin and fabric realism when talent is present",
+      "clean transitions and gradients in backgrounds",
+      "no visible compression artifacts or banding in hero gradients"
+    ]
+  },
+  "layout_and_graphic_system": {
+    "composition_principles": [
+      "single dominant hero image that carries the idea",
+      "use of negative space as a premium signal",
+      "headline and product callouts kept secondary to the visual idea",
+      "clear hierarchy: Sony wordmark, then concept line, then product and legal"
+    ],
+    "logo_rules": {
+      "logo_type": "Sony wordmark",
+      "typical_positions": [
+        "top left",
+        "top right",
+        "center over portrait when minimal",
+        "bottom band when information heavy"
+      ],
+      "clear_space_behavior": "Generous clear space, never crowded by copy or product.",
+      "color_usage": [
+        "white on dark",
+        "black on light",
+        "rarely colored"
+      ],
+      "interaction_with_imagery": [
+        "logo often sits in negative space or soft gradient",
+        "logo can overlap talent only when contrast and readability are perfect"
+      ]
+    },
+    "typography_behavior": {
+      "headline_style": [
+        "short, declarative lines",
+        "often sentence case or all caps depending on era",
+        "sometimes uses dot separated constructions for taglines"
+      ],
+      "copy_density": "Ranges from minimal (one line) to information heavy (legacy print) but always structured in clean blocks.",
+      "graphic_motifs": [
+        "thin rules and understated dividers",
+        "simple iconography when needed",
+        "occasional modular color tabs for feature lists"
+      ]
+    },
+    "product_packshot_behavior": {
+      "when_used": "Often as a small inset or secondary element for clarity, especially in print.",
+      "styling": [
+        "clean background",
+        "accurate product colors",
+        "sharp edges",
+        "no dramatic perspective distortion"
+      ]
+    }
+  },
+  "casting_pose_and_body_language": {
+    "casting_archetypes": [
+      "cool contemporary model presence",
+      "everyday professional in pressure scenario",
+      "youth culture and creator types",
+      "stylized anonymous subjects used as canvases for concept"
+    ],
+    "pose_language": [
+      "calm, controlled, self possessed",
+      "absorbed in experience (listening, watching, playing)",
+      "graphic silhouette poses for readability",
+      "intimacy via close cropping (eyes, profile, hands)"
+    ],
+    "facial_expression_range": [
+      "neutral to focused",
+      "subtle intensity",
+      "sensory engagement rather than overt smiling"
+    ],
+    "wardrobe_behavior": [
+      "minimal and graphic silhouettes",
+      "monochrome or muted apparel that does not compete with product",
+      "occasional provocative fashion codes used as metaphor, not as sexuality first"
+    ]
+  },
+  "tone_of_voice": {
+    "verbal_tone": [
+      "confident",
+      "clever",
+      "minimal",
+      "emotionally charged",
+      "technology fluent but not technical jargon heavy"
+    ],
+    "copy_patterns": [
+      "imperatives and challenges (how far can you go)",
+      "sensory verbs (touch, listen, feel, see)",
+      "short conceptual tags that frame the visual metaphor"
+    ],
+    "avoid": [
+      "excessive superlatives without proof",
+      "competitor comparisons",
+      "slang that dates quickly unless intentionally youth coded"
+    ]
+  },
+  "implicit_brand_rules_from_user_images": {
+    "recurring_visual_devices": [
+      "close crop on a single human feature (eye, profile) to represent perception and immersion",
+      "product as an extension of the body (headphones integrated, handheld as tactile object)",
+      "graphic background fields (solid color or smooth gradient) supporting a single object",
+      "surreal object substitution (earphones as a hand gesture, afro as a product halo)"
+    ],
+    "era_blending": [
+      "legacy print layouts with dense copy coexist with modern minimal executions",
+      "consistent emphasis on concept clarity across eras"
+    ],
+    "brand_presence": [
+      "Sony wordmark is always visible",
+      "sub brands appear when relevant (VAIO, PlayStation, Sony Ericsson) but Sony remains the anchor"
+    ]
+  },
+  "autonomous_campaign_research_dataset": {
+    "campaigns_min_10": [
+      {
+        "campaign_name": "Sony Group Brand Message: make.believe",
+        "year_or_period": "2009 onward",
+        "why_recognizable": "Unified global brand message connecting Sony products and entertainment under creativity and technology."
+      },
+      {
+        "campaign_name": "Sony BRAVIA: Colour like no other (Balls)",
+        "year_or_period": "2005",
+        "why_recognizable": "Iconic high craft visual spectacle used to communicate color performance."
+      },
+      {
+        "campaign_name": "Sony BRAVIA: Paint",
+        "year_or_period": "2006",
+        "why_recognizable": "Explosive color metaphor extending the Bravia color narrative."
+      },
+      {
+        "campaign_name": "Sony BRAVIA: Play-Doh",
+        "year_or_period": "2007",
+        "why_recognizable": "Stop motion color world reinforcing vividness and imagination."
+      },
+      {
+        "campaign_name": "Sony BRAVIA: Gorilla",
+        "year_or_period": "2007",
+        "why_recognizable": "Surreal character led film that made the brand feel culturally bold."
+      },
+      {
+        "campaign_name": "PlayStation: Double Life",
+        "year_or_period": "1999",
+        "why_recognizable": "Emotional identity driven campaign about the inner life of players."
+      },
+      {
+        "campaign_name": "PlayStation 2: (sleepless nights) and early PS2 print era",
+        "year_or_period": "2000 to 2002",
+        "why_recognizable": "Intimate, uncanny close ups and minimal typographic systems."
+      },
+      {
+        "campaign_name": "PS Vita: Touch both sides",
+        "year_or_period": "2011 to 2012",
+        "why_recognizable": "Provocative metaphor communicating dual touch surfaces."
+      },
+      {
+        "campaign_name": "Sony Ericsson Walkman: youth music identity posters",
+        "year_or_period": "mid 2000s",
+        "why_recognizable": "Simple bold color fields with music coded visual metaphors."
+      },
+      {
+        "campaign_name": "Sony Storage: business productivity print",
+        "year_or_period": "1990s",
+        "why_recognizable": "Problem solution narrative with a single exaggerated prop and clear copy hierarchy."
+      }
+    ]
+  },
+  "operational_prompt_ready_rules": {
+    "must_keep": [
+      "single dominant concept per asset",
+      "Sony wordmark placed with generous clear space",
+      "high craft lighting and clean gradients",
+      "one accent color logic when using bold backgrounds",
+      "product fidelity: no distortion of product shape, labels, or key design cues"
+    ],
+    "can_vary": [
+      "degree of surrealism (from subtle metaphor to full installation)",
+      "environment (studio, urban, nature) if it supports human experience",
+      "cropping (macro detail to wide scene) provided hierarchy stays clear",
+      "copy length (minimal tagline to structured print block) depending on channel"
+    ],
+    "hard_bans": [
+      "multiple competing hero subjects",
+      "noisy patterned backgrounds unless the pattern is the concept itself",
+      "logo placed over complex texture without contrast control",
+      "cheap looking CGI or plastic skin rendering"
+    ]
+  }
+}

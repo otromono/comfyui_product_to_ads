@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Maybelline New York",
+    "tagline": "Maybe she's born with it. Maybe it's Maybelline.",
+    "category": "Beauty / Cosmetics",
+    "positioning": "Global mass-market cosmetics brand positioned on trend-driven makeup, urban energy, and accessible professional beauty inspired by New York City.",
+    "vision": "To empower self-expression and confidence through accessible, trend-forward makeup for everyone.",
+    "mission": "To deliver innovative, high-performance makeup inspired by fashion and New York energy, making professional beauty accessible worldwide.",
+    "origin_story": "Founded in 1915 in Chicago by T.L. Williams and later rooted in New York, Maybelline became a global beauty icon by translating runway and street trends into accessible cosmetics."
+  },
+  "brand_values": {
+    "core_values": [
+      "Self-expression",
+      "Confidence",
+      "Inclusivity",
+      "Trend leadership",
+      "Accessibility"
+    ],
+    "brand_promise": "On-trend, high-performance makeup that empowers confidence and individuality.",
+    "differentiators": [
+      "Strong fashion and runway alignment",
+      "New York-inspired urban identity",
+      "Fast adoption of beauty trends at mass scale"
+    ],
+    "non_negotiables": [
+      "Trend relevance",
+      "Inclusive representation",
+      "Performance credibility"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Teens to adults",
+      "gender": "All",
+      "income_level": "Mass market"
+    },
+    "psychographics": {
+      "lifestyle": "Urban, socially active individuals interested in beauty trends and self-expression",
+      "values": [
+        "Confidence",
+        "Creativity",
+        "Individuality",
+        "Style"
+      ],
+      "behavior": "Frequent product trial, trend-driven purchases, strong engagement on social platforms"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Confident",
+      "Energetic",
+      "Empowering",
+      "Trend-savvy"
+    ],
+    "communication_style": "Direct, empowering, and trend-forward with a strong fashion influence",
+    "language_register": "Accessible, bold, and contemporary",
+    "preferred_structures": [
+      "Empowerment statements",
+      "Trend-led claims",
+      "Performance highlights"
+    ],
+    "avoid": [
+      "Clinical or medical tone",
+      "Luxury exclusivity language",
+      "Subdued or conservative messaging"
+    ],
+    "emotional_temperature": "High-energy confident",
+    "tone_dos": [
+      "Encourage experimentation",
+      "Celebrate individuality",
+      "Lead with confidence"
+    ],
+    "tone_donts": [
+      "Restrictive beauty standards",
+      "Overly technical explanations",
+      "Muted emotional delivery"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Maybelline New York wordmark",
+      "usage_rules": "Maintain contrast and legibility; never distort proportions",
+      "lockup_behavior": "Strong, confident placement",
+      "safe_area": "Minimum padding equals the height of the Maybelline wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#1F2937",
+        "#E5E7EB"
+      ],
+      "color_usage_rules": "High-contrast black and white system allowing product color to dominate"
+    },
+    "typography": {
+      "primary_font": "Bold modern sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral to tight",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Empowerment headline",
+        "H2 – Trend or product claim",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible editorial grid",
+      "white_space_ratio": "Moderate",
+      "image_vs_text_balance": "Image-led with assertive typography",
+      "cta_placement": "Direct and bold",
+      "alignment": "Dynamic, fashion-led layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "bold",
+        "urban",
+        "fashion-forward",
+        "high-contrast",
+        "confident"
+      ],
+      "preferred_photographers": [
+        "Fashion and beauty photographers"
+      ],
+      "camera_feel": "Editorial, runway-inspired",
+      "pose_guidelines": "Strong gazes, expressive faces, confident body language",
+      "casting_attitude": "Diverse, bold, unapologetic"
+    },
+    "technical": {
+      "lighting": "High-contrast studio or dramatic daylight",
+      "contrast": "Medium to high",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow emphasizing makeup details",
+      "color_grading": "Neutral base with strong product color saturation"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Urban confidence",
+      "Trend authority",
+      "Self-expression"
+    ],
+    "preferred_locations": [
+      "Studio sets",
+      "Urban backdrops",
+      "Runway-inspired environments"
+    ],
+    "contexts": [
+      "Makeup application",
+      "Editorial portraits",
+      "Trend showcases"
+    ],
+    "model_casting": {
+      "age_range": "Teens to adults",
+      "diversity": "Very high; inclusive across ethnicity, gender, and style",
+      "attitude": "Confident, expressive, fearless"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product clearly featured with visible performance results",
+      "styling_approach": "Bold, graphic, fashion-led",
+      "avoid": [
+        "Soft natural-only beauty",
+        "Understated luxury cues",
+        "Clinical demonstrations"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast and energetic",
+      "transitions": "Sharp cuts, rhythmic edits"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show bold makeup looks",
+        "Highlight individuality",
+        "Use high-contrast visuals"
+      ],
+      "visual_donts": [
+        "Uniform beauty standards",
+        "Muted or pastel-only palettes",
+        "Passive expressions"
+      ],
+      "copy_dos": [
+        "Empower the audience",
+        "Lead with confidence",
+        "Celebrate trends"
+      ],
+      "copy_donts": [
+        "Prescriptive beauty rules",
+        "Overly scientific claims",
+        "Conservative language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Trend-forward positioning",
+        "New York-inspired attitude",
+        "Accessible beauty"
+      ],
+      "can_evolve": [
+        "Digital-first launches",
+        "Creator collaborations",
+        "Sustainable formulations"
+      ],
+      "test_zone": [
+        "AR makeup try-ons",
+        "Community-driven trend creation",
+        "Limited edition drops"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Black fixtures",
+        "Bright lighting",
+        "High-contrast signage"
+      ],
+      "interactive_elements": [
+        "Tester stations",
+        "Trend-led displays"
+      ],
+      "soundscape": "Energetic, modern retail ambience"
+    },
+    "digital": {
+      "tone_adjustment": "Highly energetic and trend-driven on social; informative on owned channels",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "65:35"
+      },
+      "platform_behavior": {
+        "Instagram": "Bold looks, creators, trends",
+        "Website": "Product benefits, trend stories, tutorials",
+        "Newsletter": "Launches, trends, exclusive drops"
+      }
+    },
+    "print": {
+      "paper": "High-contrast matte or semi-gloss stock",
+      "cover_rules": "Strong beauty portraits with assertive typography"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Low-contrast logo placement",
+      "Distorted wordmark",
+      "Overdecorated logo usage"
+    ]
+  }
+}

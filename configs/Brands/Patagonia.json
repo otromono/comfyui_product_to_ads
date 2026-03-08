@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "Patagonia",
+    "tagline": "We're in Business to Save Our Home Planet",
+    "category": "Outdoor apparel and equipment",
+    "positioning": "An outdoor brand positioned around environmental responsibility, durable performance products, and ethical business practices.",
+    "vision": "A world where businesses act to protect and restore the natural environment.",
+    "mission": "Build the best product, cause no unnecessary harm, and use business to inspire and implement solutions to the environmental crisis.",
+    "origin_story": "Founded in 1973 by Yvon Chouinard in California, Patagonia began as a climbing equipment company and evolved into a global outdoor brand centered on environmental activism."
+  },
+  "brand_values": {
+    "core_values": [
+      "Environmental responsibility",
+      "Product durability",
+      "Transparency",
+      "Activism",
+      "Integrity"
+    ],
+    "brand_promise": "Create long-lasting outdoor products while actively protecting the planet.",
+    "differentiators": [
+      "Environmental activism embedded in business model.",
+      "Durability-first product philosophy.",
+      "Radical transparency in supply chain.",
+      "Repair, reuse, and circular economy focus."
+    ],
+    "non_negotiables": [
+      "Environmental mission must be explicit.",
+      "Authentic activism over marketing.",
+      "Durability over fast fashion.",
+      "Honest and factual communication."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "20-60",
+      "gender": "All",
+      "income_level": "Mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Outdoor-oriented individuals committed to environmental protection and responsible consumption.",
+      "values": [
+        "Sustainability",
+        "Adventure",
+        "Ethics",
+        "Longevity"
+      ],
+      "behavior": "Purpose-driven consumers who value durability, repairability, and brand ethics."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Honest",
+      "Activist",
+      "Grounded",
+      "Responsible",
+      "Purpose-driven"
+    ],
+    "communication_style": "Direct, factual, and mission-led, prioritizing truth over persuasion.",
+    "language_register": "Informative / Activist / Outdoor",
+    "preferred_structures": [
+      "Clear statements",
+      "Cause-and-effect explanations",
+      "Call-to-action rooted in responsibility"
+    ],
+    "avoid": [
+      "Greenwashing",
+      "Over-polished marketing language",
+      "Empty lifestyle slogans"
+    ],
+    "emotional_temperature": "Calm conviction",
+    "tone_dos": [
+      "Be transparent and factual",
+      "Highlight environmental impact",
+      "Encourage responsibility"
+    ],
+    "tone_donts": [
+      "Exaggeration",
+      "Luxury framing",
+      "Trend-driven language"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Patagonia wordmark with mountain silhouette.",
+      "usage_rules": "Logo used clearly and honestly without decorative effects.",
+      "lockup_behavior": "Logo acts as a stamp of responsibility rather than ornament.",
+      "safe_area": "Minimum padding equal to logo height."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#5A7D5A"
+      ],
+      "secondary_colors": [
+        "#2F4F4F",
+        "#A0522D"
+      ],
+      "color_usage_rules": "Natural, earth-derived tones with restrained saturation."
+    },
+    "typography": {
+      "primary_font": "Functional sans-serif",
+      "secondary_font": "Utility sans-serif",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.01em",
+        "line_height": "1.5–1.7"
+      },
+      "hierarchy": [
+        "H1 – Bold",
+        "H2 – Medium",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Functional grid",
+      "white_space_ratio": "Medium",
+      "image_vs_text_balance": "Image-supported by informative text",
+      "cta_placement": "Secondary to message",
+      "alignment": "Straightforward and practical"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "authentic",
+        "natural",
+        "documentary",
+        "outdoor",
+        "purpose-driven"
+      ],
+      "preferred_photographers": [
+        "Outdoor and documentary photographers"
+      ],
+      "camera_feel": "Real environments, unpolished moments, human scale.",
+      "pose_guidelines": "Functional movement, genuine activity, non-posed.",
+      "casting_attitude": "Real people, diverse ages, practical appearance."
+    },
+    "technical": {
+      "lighting": "Natural light preferred.",
+      "contrast": "Low to medium.",
+      "grain": "Natural grain acceptable.",
+      "depth_of_field": "Naturalistic.",
+      "color_grading": "True-to-life, minimally processed."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Environmental responsibility",
+      "Authentic outdoor use",
+      "Activism",
+      "Longevity"
+    ],
+    "preferred_locations": [
+      "Natural landscapes",
+      "Remote outdoor environments",
+      "Real work and adventure settings"
+    ],
+    "contexts": [
+      "Environmental campaigns",
+      "Product durability stories",
+      "Repair and reuse narratives"
+    ],
+    "model_casting": {
+      "age_range": "20–60",
+      "diversity": "High",
+      "attitude": "Practical, committed, authentic"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product shown in real use conditions.",
+      "styling_approach": "Functional layering, purpose-first.",
+      "avoid": [
+        "Fashion-only styling",
+        "Artificial studio glamour"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow and deliberate.",
+      "transitions": "Documentary-style continuity."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real environmental context",
+        "Depict genuine use cases",
+        "Highlight repair and longevity"
+      ],
+      "visual_donts": [
+        "Over-stylized imagery",
+        "Artificial perfection"
+      ],
+      "copy_dos": [
+        "Be factual and transparent",
+        "State environmental impact clearly",
+        "Encourage responsible action"
+      ],
+      "copy_donts": [
+        "Marketing exaggeration",
+        "Luxury positioning",
+        "Empty slogans"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Environmental mission",
+        "Product durability",
+        "Activist stance"
+      ],
+      "can_evolve": [
+        "Materials innovation",
+        "Circular economy models",
+        "Digital education initiatives"
+      ],
+      "test_zone": [
+        "New repair programs",
+        "Community activism formats",
+        "Regenerative business models"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Recycled fixtures",
+        "Informational signage"
+      ],
+      "interactive_elements": [
+        "Repair education",
+        "Environmental storytelling"
+      ],
+      "soundscape": "Natural and minimal"
+    },
+    "digital": {
+      "tone_adjustment": "Informative and mission-first",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Environmental stories, real use cases",
+        "Website": "Activism, product details, transparency",
+        "Newsletter": "Education, calls to action"
+      }
+    },
+    "print": {
+      "paper": "Recycled or uncoated stock",
+      "cover_rules": "Real-world imagery with minimal branding"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Decorative logo effects",
+      "Overly prominent branding",
+      "Inauthentic contexts"
+    ]
+  }
+}

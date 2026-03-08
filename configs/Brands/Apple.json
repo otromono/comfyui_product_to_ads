@@ -1,0 +1,273 @@
+{
+  "brand_info": {
+    "name": "Apple",
+    "tagline": "Think different",
+    "category": "Technology / Lifestyle",
+    "positioning": "Premium, design-led consumer technology and services brand built around a tightly integrated hardware-software-services ecosystem.",
+    "vision": "Leave the world better than we found it.",
+    "mission": "Bring the best user experience to customers through innovative hardware, software, and services.",
+    "origin_story": "Founded on April 1, 1976 in Los Altos, California by Steve Jobs, Steve Wozniak, and Ronald Wayne; incorporated as Apple Computer, Inc. on January 3, 1977."
+  },
+  "brand_values": {
+    "core_values": [
+      "Innovation",
+      "Privacy",
+      "Accessibility",
+      "Sustainability",
+      "Craftsmanship"
+    ],
+    "brand_promise": "Human-centered technology that feels simple, seamless, and trustworthy.",
+    "differentiators": [
+      "End-to-end integration (hardware, OS, services)",
+      "Iconic industrial design and UX focus",
+      "Strong privacy and security positioning",
+      "High-quality retail and support experience"
+    ],
+    "non_negotiables": [
+      "No clutter",
+      "No gimmicky hype",
+      "No confusing UI or messaging",
+      "No low-quality visuals or materials depiction"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-65",
+      "gender": "All",
+      "income_level": "Medium-high to high"
+    },
+    "psychographics": {
+      "lifestyle": "Design-aware, productivity and creativity-oriented users who value reliability, ease-of-use, and ecosystem continuity.",
+      "values": [
+        "Simplicity",
+        "Quality",
+        "Privacy",
+        "Aspirational but practical utility"
+      ],
+      "behavior": "Prefers cohesive product ecosystems; loyal to brand experience across devices, services, and retail."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Clear",
+      "Confident",
+      "Human",
+      "Precise"
+    ],
+    "communication_style": "Minimal, benefit-led, and product-truthful",
+    "language_register": "Neutral-formal",
+    "preferred_structures": [
+      "Short declarative sentences",
+      "Feature-to-benefit phrasing",
+      "Concrete verbs"
+    ],
+    "avoid": [
+      "Overpromising",
+      "Dense jargon",
+      "Aggressive sales language",
+      "Excessive exclamation"
+    ],
+    "emotional_temperature": "Cool-neutral with warm optimism",
+    "tone_dos": [
+      "Lead with the user outcome",
+      "Use plain language",
+      "Maintain calm authority"
+    ],
+    "tone_donts": [
+      "Sensationalism",
+      "Comparative put-downs",
+      "Overly casual slang"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Apple logo (solid monochrome mark)",
+      "usage_rules": "Use on clean, uncluttered backgrounds; do not rotate, animate, or apply transparency; do not place on visually cluttered or patterned backgrounds; do not alter the mark.",
+      "lockup_behavior": "Minimal, centered or corner placement with generous clear space; avoid competing marks near the logo.",
+      "safe_area": "Minimum clear space equals at least the height of the logo body on all sides; allow more space whenever possible."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#F5F5F7",
+        "#1D1D1F",
+        "#6E6E73"
+      ],
+      "color_usage_rules": "Prefer white or near-white fields with high contrast typography; use restrained accent color only when tied to product UI or feature emphasis; avoid busy multi-color palettes."
+    },
+    "typography": {
+      "primary_font": "San Francisco (SF Pro)",
+      "secondary_font": "New York (NY) for editorial accents where appropriate",
+      "weights": {
+        "headlines": "Semibold/Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight-to-neutral",
+        "line_height": "Comfortable, readability-first"
+      },
+      "hierarchy": [
+        "H1 – Large, minimal headline",
+        "H2 – Supporting benefit line",
+        "Body – Short explanatory copy",
+        "Captions – Microcopy labels"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Strict modular grid with generous margins",
+      "white_space_ratio": "Very generous",
+      "image_vs_text_balance": "Image-led with restrained copy",
+      "cta_placement": "Subtle, typically below headline or near product; never visually dominant",
+      "alignment": "Centered or clean left alignment with consistent rhythm"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "minimal",
+        "high-clarity",
+        "product-first",
+        "human-scale",
+        "precise"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Clean, modern, high-resolution clarity with controlled perspective",
+      "pose_guidelines": "Natural, functional gestures; confident but unforced; hands often interacting with product",
+      "casting_attitude": "Inclusive, authentic, calm competence"
+    },
+    "technical": {
+      "lighting": "Soft, controlled studio or natural light; crisp specular control on materials",
+      "contrast": "Medium, tuned for legibility and material truth",
+      "grain": "None to minimal",
+      "depth_of_field": "Controlled; product details remain readable",
+      "color_grading": "Neutral, accurate product color; restrained saturation"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Clarity",
+      "Calm confidence",
+      "Human-centered utility"
+    ],
+    "preferred_locations": [
+      "Clean studio (white, light gray, or black backgrounds)",
+      "Modern minimal interiors",
+      "Everyday real-world environments with low visual noise"
+    ],
+    "contexts": [
+      "Product demonstration",
+      "Lifestyle utility moments",
+      "Craft and detail close-ups"
+    ],
+    "model_casting": {
+      "age_range": "18–65",
+      "diversity": "Yes, broad and representative",
+      "attitude": "Focused, present, approachable"
+    },
+    "product_presentation": {
+      "hero_visibility": "Primary subject; front-and-center or clearly featured",
+      "styling_approach": "Functional, minimal, modern wardrobe; avoid distracting patterns",
+      "avoid": [
+        "Cluttered sets",
+        "Over-stylized props",
+        "Unrealistic reflections or materials"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Smooth, restrained, purpose-driven",
+      "transitions": "Clean cuts; minimal effects"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use generous negative space",
+        "Keep backgrounds uncluttered",
+        "Maintain high legibility for type",
+        "Show product truthfully with accurate materials and color"
+      ],
+      "visual_donts": [
+        "Busy compositions",
+        "Patterned backdrops behind logo",
+        "Overprocessed HDR or heavy filters",
+        "Visual noise that competes with product"
+      ],
+      "copy_dos": [
+        "Be concise and benefit-led",
+        "Use precise feature language",
+        "Keep hierarchy simple"
+      ],
+      "copy_donts": [
+        "Long paragraphs",
+        "Salesy urgency",
+        "Ambiguous claims"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Logo integrity and clear space",
+        "Minimal composition logic",
+        "Typography clarity",
+        "Product color/material truth"
+      ],
+      "can_evolve": [
+        "Casting and scenarios",
+        "Accent colors tied to product UI",
+        "Motion language within restraint"
+      ],
+      "test_zone": [
+        "New device categories storytelling",
+        "Spatial/immersive visual languages",
+        "Retail experiential formats"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Light wood",
+        "Glass",
+        "Aluminum",
+        "Stone"
+      ],
+      "interactive_elements": [
+        "Hands-on product tables",
+        "Genius/Support bar",
+        "Large-format product and feature displays"
+      ],
+      "soundscape": "Low to moderate ambient, calm"
+    },
+    "digital": {
+      "tone_adjustment": "Ultra-clear, minimal layouts; short sections with scannable hierarchy",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "High-clarity product and lifestyle moments, minimal copy",
+        "Website": "Full-bleed hero sections with large headlines and generous white space",
+        "Newsletter": "Minimal, product-forward, clear hierarchy"
+      }
+    },
+    "print": {
+      "paper": "Matte or satin premium stock",
+      "cover_rules": "Single dominant visual, minimal headline, generous margins"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Logo on cluttered/patterned backgrounds",
+      "Rotated/animated/transparent logo",
+      "Insufficient clear space around logo"
+    ]
+  }
+}

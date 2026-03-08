@@ -1,0 +1,268 @@
+{
+  "brand_info": {
+    "name": "rhode",
+    "tagline": "Skin first. Makeup second.",
+    "category": "Beauty / Skincare",
+    "positioning": "Modern skincare brand focused on barrier-friendly, minimalist formulas designed for everyday use and healthy-looking skin.",
+    "vision": "To make effective, intentional skincare essential and accessible for everyday life.",
+    "mission": "To create thoughtfully formulated skincare that prioritizes skin health, simplicity, and long-term comfort.",
+    "origin_story": "Founded in 2022 by Hailey Bieber in the United States, rhode was created to reflect a minimalist, skin-first philosophy focused on daily essentials rather than excess."
+  },
+  "brand_values": {
+    "core_values": [
+      "Simplicity",
+      "Skin health",
+      "Intentionality",
+      "Transparency",
+      "Modern minimalism"
+    ],
+    "brand_promise": "Essential skincare products designed to support the skin barrier and deliver visible, comfortable results without overcomplication.",
+    "differentiators": [
+      "Barrier-focused formulations",
+      "Minimal product ecosystem built around daily essentials",
+      "Strong founder-led identity aligned with modern beauty culture"
+    ],
+    "non_negotiables": [
+      "Skin-first philosophy",
+      "Ingredient integrity and formula purpose",
+      "Minimal, intentional product range"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Young adults to adults",
+      "gender": "All",
+      "income_level": "Mass premium / contemporary beauty consumer"
+    },
+    "psychographics": {
+      "lifestyle": "People who value simple routines, healthy skin, and understated beauty",
+      "values": [
+        "Balance",
+        "Care",
+        "Authenticity",
+        "Comfort",
+        "Consistency"
+      ],
+      "behavior": "Prefers streamlined skincare routines, trusts founder-led brands, prioritizes texture, feel, and daily usability"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Calm",
+      "Modern",
+      "Reassuring",
+      "Minimal",
+      "Confident"
+    ],
+    "communication_style": "Clear, soft-spoken, and intentional with a focus on skin comfort and everyday use",
+    "language_register": "Accessible, contemporary, understated",
+    "preferred_structures": [
+      "Simple benefit statements",
+      "Routine-based explanations",
+      "Skin-first messaging"
+    ],
+    "avoid": [
+      "Clinical over-technical language",
+      "Aggressive beauty claims",
+      "Overly glamorous rhetoric"
+    ],
+    "emotional_temperature": "Soft-confident",
+    "tone_dos": [
+      "Emphasize ease and comfort",
+      "Highlight skin barrier care",
+      "Maintain clarity and restraint"
+    ],
+    "tone_donts": [
+      "Overpromising results",
+      "Trend-driven hype",
+      "Complex multi-step narratives"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Lowercase rhode wordmark",
+      "usage_rules": "Maintain simplicity and spacing; never distort or decorate; use neutral backgrounds",
+      "lockup_behavior": "Centered or subtly placed; restrained and balanced",
+      "safe_area": "Minimum padding equals the height of the rhode wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#E6D8CC",
+        "#F7F4F1",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#B8AFA6",
+        "#FFFFFF"
+      ],
+      "color_usage_rules": "Soft neutrals forming a calm, skin-like palette with high restraint"
+    },
+    "typography": {
+      "primary_font": "Modern minimalist sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Regular to Medium",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Slightly open",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Minimal headline",
+        "H2 – Supporting headline",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple, centered grid",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Image-led with minimal copy",
+      "cta_placement": "Subtle and secondary",
+      "alignment": "Centered, calm compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "clean",
+        "soft",
+        "intimate",
+        "skin-focused",
+        "minimal"
+      ],
+      "preferred_photographers": [
+        "Consistent editorial-style beauty photographers"
+      ],
+      "camera_feel": "Close, tactile, and natural",
+      "pose_guidelines": "Relaxed poses; focus on skin texture, touch, and natural gestures",
+      "casting_attitude": "Calm, confident, effortless"
+    },
+    "technical": {
+      "lighting": "Soft natural light or diffused studio daylight",
+      "contrast": "Low",
+      "grain": "Minimal",
+      "depth_of_field": "Shallow to medium emphasizing skin",
+      "color_grading": "Warm-neutral tones preserving natural skin color"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Understated beauty",
+      "Skin intimacy",
+      "Modern calm"
+    ],
+    "preferred_locations": [
+      "Minimal studios",
+      "Clean interiors",
+      "Natural light environments"
+    ],
+    "contexts": [
+      "Skincare routines",
+      "Application moments",
+      "Quiet daily rituals"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to adults",
+      "diversity": "High; inclusive and contemporary",
+      "attitude": "Relaxed, confident, natural"
+    },
+    "product_presentation": {
+      "hero_visibility": "Texture, packaging, and application clearly visible",
+      "styling_approach": "Minimal props; skin-first framing",
+      "avoid": [
+        "Over-styled sets",
+        "High-gloss glamour aesthetics",
+        "Busy compositions"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow and gentle",
+      "transitions": "Soft cuts and subtle motion"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Highlight real skin texture",
+        "Use neutral palettes",
+        "Keep compositions simple"
+      ],
+      "visual_donts": [
+        "Heavy retouching",
+        "Excessive makeup looks",
+        "Visual clutter"
+      ],
+      "copy_dos": [
+        "Speak calmly and clearly",
+        "Focus on skin comfort and function",
+        "Maintain simplicity"
+      ],
+      "copy_donts": [
+        "Hyperbolic claims",
+        "Trend-heavy beauty language",
+        "Complex routines"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Skin-first philosophy",
+        "Minimal product ecosystem",
+        "Modern understated tone"
+      ],
+      "can_evolve": [
+        "Expanded skincare categories",
+        "Educational skin content",
+        "Sustainability initiatives"
+      ],
+      "test_zone": [
+        "Adjacent makeup hybrids",
+        "New textures and formats",
+        "Community-driven storytelling"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Soft neutrals",
+        "Minimal fixtures",
+        "Clean surfaces"
+      ],
+      "interactive_elements": [
+        "Texture testers",
+        "Routine education"
+      ],
+      "soundscape": "Quiet, calm ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational on website; intimate and visual on social",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Skin close-ups, routines, soft editorial visuals",
+        "Website": "Routine-led product pages with clear benefits",
+        "Newsletter": "Routine tips, product education, brand updates"
+      }
+    },
+    "print": {
+      "paper": "Soft-touch matte stock",
+      "cover_rules": "Minimal layouts with product or skin focus"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Decorative logo effects",
+      "High-contrast busy backgrounds",
+      "Distorted wordmark"
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "brand_info": {
+    "name": "Nike",
+    "tagline": "Just Do It",
+    "category": "Athletic footwear, apparel, and lifestyle",
+    "positioning": "Athlete-led performance innovation and sport-inspired lifestyle products for the athlete in everyone.",
+    "vision": "Do everything possible to expand human potential.",
+    "mission": "To bring inspiration and innovation to every athlete* in the world. *If you have a body, you are an athlete.",
+    "origin_story": "Founded on January 25, 1964 by Bill Bowerman and Phil Knight as Blue Ribbon Sports; the company became Nike, Inc. in 1971, named after the Greek goddess of victory."
+  },
+  "brand_values": {
+    "core_values": [
+      "Innovation",
+      "Athlete focus",
+      "Performance",
+      "Inclusion",
+      "Sustainability"
+    ],
+    "brand_promise": "Innovative product and storytelling that enables performance, confidence, and progress through sport.",
+    "differentiators": [
+      "Athlete-informed design and testing",
+      "Category-defining innovation platforms (cushioning, materials, digital)",
+      "Iconic brand codes (Swoosh, Just Do It) with culture-scale storytelling"
+    ],
+    "non_negotiables": [
+      "Swoosh integrity and clear space",
+      "Athlete-first performance credibility",
+      "High-energy, decisive brand voice",
+      "No off-brand irony or self-parody"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "15-45",
+      "gender": "All",
+      "income_level": "Mass premium"
+    },
+    "psychographics": {
+      "lifestyle": "Active, sport-adjacent, and culture-driven consumers who value progress, self-improvement, and expressive style.",
+      "values": [
+        "Personal achievement",
+        "Confidence through action",
+        "Community and belonging",
+        "Innovation and authenticity"
+      ],
+      "behavior": "Engages with sport, training, and street culture; responds to athlete proof, clear benefits, and emotionally charged motivation."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Bold",
+      "Motivational",
+      "Direct",
+      "Confident"
+    ],
+    "communication_style": "Short, imperative, action-oriented statements supported by athlete proof and clear benefits.",
+    "language_register": "Conversational-direct",
+    "preferred_structures": [
+      "Imperatives",
+      "Short punchlines",
+      "Minimal copy paired with strong visuals"
+    ],
+    "avoid": [
+      "Over-explaining",
+      "Corporate jargon",
+      "Passive language",
+      "Irony that undermines performance credibility"
+    ],
+    "emotional_temperature": "High-energy",
+    "tone_dos": [
+      "Lead with action verbs",
+      "Use inclusive athlete framing",
+      "Keep copy minimal and decisive"
+    ],
+    "tone_donts": [
+      "Long paragraphs",
+      "Soft qualifiers",
+      "Excessive claims without visual or athlete context"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Swoosh with NIKE wordmark (as applicable by asset system)",
+      "usage_rules": "High contrast, clean placement, and consistent clear space; never distort, add effects, or integrate into patterns.",
+      "lockup_behavior": "Corner placement or centered end-frame lockup depending on channel; maintain consistent scale relative to format.",
+      "safe_area": "Minimum padding equals at least the height of the Swoosh around the mark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#D70010",
+        "#6B7280",
+        "#111827"
+      ],
+      "color_usage_rules": "Prefer stark black/white; use limited accent colors for energy or category codes; avoid decorative gradients unless part of campaign art direction."
+    },
+    "typography": {
+      "primary_font": "Bold condensed sans-serif (Nike platform typography family equivalents per channel)",
+      "secondary_font": "Neutral sans-serif for body and UI",
+      "weights": {
+        "headlines": "Extra Bold",
+        "body": "Regular",
+        "captions": "Medium"
+      },
+      "spacing": {
+        "letter_spacing": "Tight",
+        "line_height": "1.1–1.3 for headlines; 1.4–1.6 for body"
+      },
+      "hierarchy": [
+        "H1 – Bold condensed uppercase",
+        "H2 – Bold or medium sans-serif",
+        "Body – Neutral sans-serif",
+        "CTA – Bold sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Simple modular grid; strong alignment to edges and safe areas",
+      "white_space_ratio": "Controlled to minimal, strategic negative space for impact and legibility",
+      "image_vs_text_balance": "Image-led with minimal copy",
+      "cta_placement": "Lower third or corner, aligned to grid; keep CTA concise",
+      "alignment": "High discipline; strong left or right alignment, with occasional centered hero layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "high energy",
+        "kinetic",
+        "athlete proof",
+        "modern",
+        "graphic"
+      ],
+      "preferred_photographers": [
+        "Campaign-dependent, sport and culture specialists"
+      ],
+      "camera_feel": "Dynamic, close-to-action perspective with decisive framing and strong subject presence.",
+      "pose_guidelines": "Athletic intent, tension, and purpose; movement captured at peak moment or pre-action focus.",
+      "casting_attitude": "Competitive, focused, self-possessed; inclusive casting across sports, body types, and abilities."
+    },
+    "technical": {
+      "lighting": "High-contrast studio or directional natural light; night sport lighting when relevant",
+      "contrast": "Medium to high",
+      "grain": "Clean digital or subtle texture, campaign-dependent",
+      "depth_of_field": "Shallow to medium; subject separation prioritized",
+      "color_grading": "Neutral base with controlled saturation; black-and-white used for iconic impact"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Action-forward",
+      "Athlete-first",
+      "Decisive",
+      "Inclusive intensity"
+    ],
+    "preferred_locations": [
+      "Training facilities",
+      "Stadiums and courts",
+      "Urban streetscapes",
+      "Minimal studio sets"
+    ],
+    "contexts": [
+      "Training grind",
+      "Competitive moments",
+      "Everyday athlete lifestyle",
+      "Community and team energy"
+    ],
+    "model_casting": {
+      "age_range": "16–45",
+      "diversity": "Yes, explicit and broad across sport, culture, and ability",
+      "attitude": "Driven focus, resilience, and momentum"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product clearly legible in use or close-up; benefits implied through action and detail.",
+      "styling_approach": "Sport-functional, performance credible, minimal accessories; street styling when lifestyle-led.",
+      "avoid": [
+        "Overly ornamental styling",
+        "Luxury-coded excess unrelated to sport",
+        "Cluttered backgrounds that reduce product clarity"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast cuts with rhythmic build; occasional slow-motion for peak moments",
+      "transitions": "Hard cuts, whip transitions, typography punches, and end-frame lockups"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show real effort and motion",
+        "Use tight crops on faces, hands, and product detail",
+        "Maintain strong contrast and clean brand marks"
+      ],
+      "visual_donts": [
+        "Overly posed fashion-without-sport intent",
+        "Soft, low-energy compositions",
+        "Decorative overlays that compete with the Swoosh"
+      ],
+      "copy_dos": [
+        "Use imperatives and short lines",
+        "Keep copy minimal and benefit-led",
+        "Let the visual carry the message"
+      ],
+      "copy_donts": [
+        "Long explanatory copy",
+        "Generic motivational clichés without specificity",
+        "Over-qualifying statements"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Swoosh integrity",
+        "Just Do It voice principles",
+        "Athlete-first credibility",
+        "High-impact visual hierarchy"
+      ],
+      "can_evolve": [
+        "Casting mix by market",
+        "Styling between performance and lifestyle",
+        "Color accents by campaign"
+      ],
+      "test_zone": [
+        "Experimental typography animation",
+        "Mixed media and collage",
+        "Interactive digital formats and personalization"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Matte black/white finishes",
+        "Industrial metals",
+        "Sport-court textures",
+        "LED lighting elements"
+      ],
+      "interactive_elements": [
+        "Product trial zones",
+        "Athlete storytelling screens",
+        "Performance testing and fitting guidance"
+      ],
+      "soundscape": "Up-tempo sport-forward playlists with rhythmic energy"
+    },
+    "digital": {
+      "tone_adjustment": "More concise and punchy on social; slightly more explanatory on product pages.",
+      "content_ratio": {
+        "campaign_vs_product": "60:40",
+        "motion_vs_static": "70:30"
+      },
+      "platform_behavior": {
+        "Instagram": "Short-form kinetic edits, bold typography moments, athlete close-ups",
+        "Website": "Benefit-led product storytelling with strong visuals and clean UI",
+        "Newsletter": "Direct headlines, strong hero image, minimal sections"
+      }
+    },
+    "print": {
+      "paper": "Coated or uncoated stock depending on category; high-contrast reproduction prioritized",
+      "cover_rules": "Full-bleed hero with minimal copy; Swoosh lockup placed with disciplined clear space"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorted Swoosh",
+      "Swoosh used as a pattern fill",
+      "Low-contrast placements",
+      "Drop shadows or glow effects on the mark"
+    ]
+  }
+}

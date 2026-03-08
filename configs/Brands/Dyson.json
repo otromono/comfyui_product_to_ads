@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Dyson",
+    "tagline": "Solve Problems. Think Differently.",
+    "category": "Consumer technology and home appliances",
+    "positioning": "A premium technology brand positioned around engineering-led innovation, functional design, and problem-solving performance across home, beauty, and environmental products.",
+    "vision": "To continuously challenge convention through engineering and technology to solve everyday problems better.",
+    "mission": "Design and engineer radically better technologies that improve daily life through performance, efficiency, and innovation.",
+    "origin_story": "Founded in 1991 by James Dyson in the United Kingdom, Dyson was built on the invention of the bagless vacuum cleaner, establishing a culture of relentless engineering, prototyping, and problem-solving."
+  },
+  "brand_values": {
+    "core_values": [
+      "Engineering excellence",
+      "Innovation",
+      "Function-led design",
+      "Performance",
+      "Problem solving"
+    ],
+    "brand_promise": "Deliver demonstrably better performance through engineering-led innovation.",
+    "differentiators": [
+      "Engineering-first culture with strong R&D investment.",
+      "Visible technology and transparent product architecture.",
+      "Proprietary motors, airflow, and filtration systems.",
+      "Consistent focus on performance validation."
+    ],
+    "non_negotiables": [
+      "Function must drive design.",
+      "Performance claims must be provable.",
+      "Engineering integrity must be visible.",
+      "Innovation must solve real problems."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-65",
+      "gender": "All",
+      "income_level": "Mid to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Consumers who value technology, efficiency, and design that demonstrably improves everyday tasks.",
+      "values": [
+        "Performance",
+        "Innovation",
+        "Quality",
+        "Rational decision-making"
+      ],
+      "behavior": "Research-driven purchase behavior, willingness to pay for superior performance and durability."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Rational",
+      "Confident",
+      "Innovative",
+      "Precise",
+      "Objective"
+    ],
+    "communication_style": "Clear, factual, and engineering-led, emphasizing how and why products work.",
+    "language_register": "Technical / Informative / Accessible",
+    "preferred_structures": [
+      "Problem-solution explanations",
+      "Performance demonstrations",
+      "Engineering breakdowns"
+    ],
+    "avoid": [
+      "Emotional exaggeration",
+      "Lifestyle clichés",
+      "Vague benefit claims"
+    ],
+    "emotional_temperature": "Controlled confidence",
+    "tone_dos": [
+      "Explain the engineering",
+      "Demonstrate performance",
+      "Use clear cause-effect logic"
+    ],
+    "tone_donts": [
+      "Overly emotional language",
+      "Unsubstantiated claims",
+      "Competitor name comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Dyson wordmark.",
+      "usage_rules": "Maintain clarity and neutrality; avoid decorative treatments.",
+      "lockup_behavior": "Wordmark used independently or alongside product visuals.",
+      "safe_area": "Minimum clear space equal to the height of the lowercase letters."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#E5E5E5",
+        "#666666"
+      ],
+      "color_usage_rules": "Neutral palette allowing products and technology accents to stand out."
+    },
+    "typography": {
+      "primary_font": "Modern geometric sans-serif",
+      "secondary_font": "Functional sans-serif for specifications",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "0 to +0.01em",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Medium/Bold",
+        "H2 – Regular",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Strict modular grid",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Product and information balanced",
+      "cta_placement": "Functional and minimal",
+      "alignment": "Precise and orderly compositions"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "technical",
+        "clean",
+        "demonstrative",
+        "precise",
+        "modern"
+      ],
+      "preferred_photographers": [
+        "Product and technology specialists"
+      ],
+      "camera_feel": "Clinical clarity emphasizing materials, airflow, and mechanical components.",
+      "pose_guidelines": "Products centered; human presence functional when shown.",
+      "casting_attitude": "Neutral and practical."
+    },
+    "technical": {
+      "lighting": "Bright, controlled studio lighting.",
+      "contrast": "Low to medium.",
+      "grain": "None.",
+      "depth_of_field": "High clarity across the product.",
+      "color_grading": "Neutral and accurate."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Engineering clarity",
+      "Performance proof",
+      "Innovation focus",
+      "Functional beauty"
+    ],
+    "preferred_locations": [
+      "Studio environments",
+      "Controlled domestic settings"
+    ],
+    "contexts": [
+      "Product demonstrations",
+      "Technology explanations",
+      "Problem-solution storytelling"
+    ],
+    "model_casting": {
+      "age_range": "25–65",
+      "diversity": "Broad and realistic",
+      "attitude": "Focused and practical"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product function and components prioritized.",
+      "styling_approach": "Minimal, technical, and transparent.",
+      "avoid": [
+        "Over-styled lifestyle imagery",
+        "Decorative props"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured and explanatory.",
+      "transitions": "Clean cuts and technical animations."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show how the product works",
+        "Highlight engineering details",
+        "Maintain clean compositions"
+      ],
+      "visual_donts": [
+        "Abstract visuals without explanation",
+        "Lifestyle-first framing"
+      ],
+      "copy_dos": [
+        "Be factual and precise",
+        "Explain benefits through function",
+        "Support claims with data"
+      ],
+      "copy_donts": [
+        "Hyperbole",
+        "Vague promises",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Engineering-led positioning",
+        "Performance proof",
+        "Problem-solving mindset"
+      ],
+      "can_evolve": [
+        "Sustainability engineering",
+        "Beauty and personal care expansion",
+        "Connected products"
+      ],
+      "test_zone": [
+        "New materials",
+        "Environmental technologies",
+        "Digital service layers"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Demonstration stations",
+        "Transparent product displays"
+      ],
+      "interactive_elements": [
+        "Live product demos",
+        "Engineering explanations"
+      ],
+      "soundscape": "Neutral and technical"
+    },
+    "digital": {
+      "tone_adjustment": "Informative and rational",
+      "content_ratio": {
+        "campaign_vs_product": "35:65",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Product demos and technology highlights",
+        "Website": "Engineering deep dives and comparisons",
+        "Newsletter": "Product launches and innovation updates"
+      }
+    },
+    "print": {
+      "paper": "Matte or semi-matte technical stock",
+      "cover_rules": "Product-focused imagery with explanatory headlines"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Decorative logo effects",
+      "Low-legibility placement",
+      "Distorted proportions"
+    ]
+  }
+}

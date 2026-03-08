@@ -1,0 +1,266 @@
+{
+  "brand_info": {
+    "name": "Kartell",
+    "tagline": "The Culture of Plastics",
+    "category": "Design Furniture / Lifestyle",
+    "positioning": "Italian design brand at the intersection of industrial innovation, contemporary aesthetics, and lifestyle, known for transforming plastic into iconic high-design objects.",
+    "vision": "To lead contemporary design by continuously innovating materials, technologies, and forms while making design accessible and culturally relevant.",
+    "mission": "To create iconic, functional, and innovative design objects through industrial processes, advanced materials, and collaborations with leading designers.",
+    "origin_story": "Founded in 1949 in Noviglio, Italy by Giulio Castelli, Kartell pioneered the use of plastic in furniture and design, becoming a symbol of Italian industrial creativity and innovation."
+  },
+  "brand_values": {
+    "core_values": [
+      "Innovation",
+      "Industrial culture",
+      "Italian design heritage",
+      "Experimentation",
+      "Accessibility of design"
+    ],
+    "brand_promise": "Iconic contemporary design objects that combine technological innovation, aesthetic research, and everyday usability.",
+    "differentiators": [
+      "Pioneering use of plastic and advanced polymers",
+      "Strong collaborations with world-class designers",
+      "Distinctive balance between industry and creativity"
+    ],
+    "non_negotiables": [
+      "Material innovation",
+      "Design authorship",
+      "Industrial production excellence"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Adults",
+      "gender": "All",
+      "income_level": "Upper-middle to premium"
+    },
+    "psychographics": {
+      "lifestyle": "Design-conscious individuals who value contemporary aesthetics, innovation, and cultural relevance",
+      "values": [
+        "Design culture",
+        "Originality",
+        "Modern living",
+        "Quality"
+      ],
+      "behavior": "Invests in iconic design pieces, appreciates designer names, mixes functionality with expressive interiors"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Cultured",
+      "Innovative",
+      "Confident",
+      "Contemporary",
+      "Refined"
+    ],
+    "communication_style": "Clear, confident, and design-driven with emphasis on innovation and authorship",
+    "language_register": "Contemporary, design-literate, accessible but authoritative",
+    "preferred_structures": [
+      "Design concept explanation",
+      "Material and process storytelling",
+      "Designer-led narratives"
+    ],
+    "avoid": [
+      "Luxury elitism",
+      "Overly technical industrial jargon",
+      "Decorative-only rhetoric"
+    ],
+    "emotional_temperature": "Confident-intellectual",
+    "tone_dos": [
+      "Highlight innovation and design thinking",
+      "Credit designers and processes",
+      "Maintain clarity and elegance"
+    ],
+    "tone_donts": [
+      "Over-romanticizing craftsmanship",
+      "Trend-only language",
+      "Excessive emotional storytelling"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Kartell wordmark",
+      "usage_rules": "Maintain clarity and proportional integrity; never distort or decorate",
+      "lockup_behavior": "Discrete but authoritative placement",
+      "safe_area": "Minimum padding equals the height of the Kartell wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#E5E7EB",
+        "#9CA3AF"
+      ],
+      "color_usage_rules": "Neutral base supporting bold product colors and transparent materials"
+    },
+    "typography": {
+      "primary_font": "Modern geometric sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Medium to Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Neutral to slightly open",
+        "line_height": "1.4–1.6"
+      },
+      "hierarchy": [
+        "H1 – Design-led headline",
+        "H2 – Supporting explanation",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Structured editorial grid",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Product-led imagery with restrained copy",
+      "cta_placement": "Minimal and secondary",
+      "alignment": "Precise, gallery-like layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "editorial",
+        "architectural",
+        "clean",
+        "design-focused",
+        "contemporary"
+      ],
+      "preferred_photographers": [
+        "Design and architectural photographers"
+      ],
+      "camera_feel": "Controlled, sharp, and precise",
+      "pose_guidelines": "Objects staged as protagonists; minimal human presence when included",
+      "casting_attitude": "If present, human figures are secondary and neutral"
+    },
+    "technical": {
+      "lighting": "Controlled studio lighting or architectural daylight",
+      "contrast": "Medium",
+      "grain": "None to minimal",
+      "depth_of_field": "Medium to deep emphasizing form",
+      "color_grading": "Neutral, accurate color rendering highlighting materials"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Contemporary design culture",
+      "Material innovation",
+      "Architectural clarity"
+    ],
+    "preferred_locations": [
+      "Minimal interiors",
+      "Architectural spaces",
+      "Neutral studio environments"
+    ],
+    "contexts": [
+      "Design showcases",
+      "Living spaces",
+      "Exhibitions and installations"
+    ],
+    "model_casting": {
+      "age_range": "Adults",
+      "diversity": "Moderate; secondary to product",
+      "attitude": "Neutral, composed"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product as central protagonist",
+      "styling_approach": "Minimal, precise, design-led",
+      "avoid": [
+        "Cluttered interiors",
+        "Lifestyle noise",
+        "Over-decorated environments"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Measured and deliberate",
+      "transitions": "Clean cuts, slow reveals"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Emphasize form and material",
+        "Use neutral architectural settings",
+        "Let products dominate the frame"
+      ],
+      "visual_donts": [
+        "Decorative excess",
+        "Lifestyle clichés",
+        "Visual storytelling unrelated to design"
+      ],
+      "copy_dos": [
+        "Reference design thinking",
+        "Highlight innovation and authorship",
+        "Maintain clarity and restraint"
+      ],
+      "copy_donts": [
+        "Luxury hype language",
+        "Overly emotional narratives",
+        "Trend-only messaging"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Industrial innovation focus",
+        "Italian design identity",
+        "Plastic as cultural material"
+      ],
+      "can_evolve": [
+        "Sustainability-driven materials",
+        "New production technologies",
+        "Expanded architectural collaborations"
+      ],
+      "test_zone": [
+        "Bio-based plastics",
+        "Digital design experiences",
+        "Limited experimental collections"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Neutral surfaces",
+        "Architectural fixtures",
+        "Controlled lighting"
+      ],
+      "interactive_elements": [
+        "Material showcases",
+        "Design storytelling panels"
+      ],
+      "soundscape": "Quiet, gallery-like ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More educational and design-focused on owned channels; editorial on social",
+      "content_ratio": {
+        "campaign_vs_product": "50:50",
+        "motion_vs_static": "40:60"
+      },
+      "platform_behavior": {
+        "Instagram": "Editorial product shots, installations, design culture",
+        "Website": "Product detail, designer credits, material innovation",
+        "Newsletter": "Design launches, collaborations, cultural projects"
+      }
+    },
+    "print": {
+      "paper": "High-quality matte or semi-matte stock",
+      "cover_rules": "Product-centric layouts with minimal typography"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Decorated wordmark",
+      "Distorted proportions",
+      "Low-contrast logo placement"
+    ]
+  }
+}

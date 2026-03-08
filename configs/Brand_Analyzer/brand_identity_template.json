@@ -1,0 +1,161 @@
+{
+  "brand_info": {
+    "name": "",
+    "tagline": "",
+    "category": "",
+    "positioning": "",
+    "vision": "",
+    "mission": "",
+    "origin_story": ""
+  },
+
+  "brand_values": {
+    "core_values": [],
+    "brand_promise": "",
+    "differentiators": [],
+    "non_negotiables": []
+  },
+
+  "target_audience": {
+    "demographics": {
+      "age_range": "",
+      "gender": "",
+      "income_level": ""
+    },
+    "psychographics": {
+      "lifestyle": "",
+      "values": [],
+      "behavior": ""
+    }
+  },
+
+  "tone_of_voice": {
+    "personality_traits": [],
+    "communication_style": "",
+    "language_register": "",
+    "preferred_structures": [],
+    "avoid": [],
+    "emotional_temperature": "",
+    "tone_dos": [],
+    "tone_donts": []
+  },
+
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "",
+      "usage_rules": "",
+      "lockup_behavior": "",
+      "safe_area": ""
+    },
+    "color_system": {
+      "primary_colors": [],
+      "secondary_colors": [],
+      "color_usage_rules": ""
+    },
+    "typography": {
+      "primary_font": "",
+      "secondary_font": "",
+      "weights": {
+        "headlines": "",
+        "body": "",
+        "captions": ""
+      },
+      "spacing": {
+        "letter_spacing": "",
+        "line_height": ""
+      },
+      "hierarchy": []
+    },
+    "layout_principles": {
+      "grid_system": "",
+      "white_space_ratio": "",
+      "image_vs_text_balance": "",
+      "cta_placement": "",
+      "alignment": ""
+    }
+  },
+
+  "photography": {
+    "style": {
+      "keywords": [],
+      "preferred_photographers": [],
+      "camera_feel": "",
+      "pose_guidelines": "",
+      "casting_attitude": ""
+    },
+    "technical": {
+      "lighting": "",
+      "contrast": "",
+      "grain": "",
+      "depth_of_field": "",
+      "color_grading": ""
+    }
+  },
+
+  "campaign_guidelines": {
+    "visual_tone": [],
+    "preferred_locations": [],
+    "contexts": [],
+    "model_casting": {
+      "age_range": "",
+      "diversity": "",
+      "attitude": ""
+    },
+    "product_presentation": {
+      "hero_visibility": "",
+      "styling_approach": "",
+      "avoid": []
+    },
+    "motion_rules": {
+      "pacing": "",
+      "transitions": ""
+    }
+  },
+
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [],
+      "visual_donts": [],
+      "copy_dos": [],
+      "copy_donts": []
+    },
+    "immutability": {
+      "must_remain": [],
+      "can_evolve": [],
+      "test_zone": []
+    }
+  },
+
+  "channel_expression": {
+    "retail": {
+      "materials": [],
+      "interactive_elements": [],
+      "soundscape": ""
+    },
+    "digital": {
+      "tone_adjustment": "",
+      "content_ratio": {
+        "campaign_vs_product": "",
+        "motion_vs_static": ""
+      },
+      "platform_behavior": {
+        "Instagram": "",
+        "Website": "",
+        "Newsletter": ""
+      }
+    },
+    "print": {
+      "paper": "",
+      "cover_rules": ""
+    }
+  },
+
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": []
+  }
+}

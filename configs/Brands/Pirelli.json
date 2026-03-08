@@ -1,0 +1,267 @@
+{
+  "brand_info": {
+    "name": "Pirelli",
+    "tagline": "Power is Nothing Without Control",
+    "category": "Automotive / Tires / High-Performance Mobility",
+    "positioning": "Premium global tire manufacturer positioned at the intersection of high performance, safety, motorsport heritage, and cutting-edge technology.",
+    "vision": "To be the global reference for high-value tire technology, performance, and innovation.",
+    "mission": "To develop premium tire solutions that deliver performance, safety, and control through advanced materials, motorsport expertise, and technological innovation.",
+    "origin_story": "Founded in 1872 in Milan, Italy by Giovanni Battista Pirelli, the company evolved from rubber manufacturing into a global leader in high-performance and motorsport-driven tire technology."
+  },
+  "brand_values": {
+    "core_values": [
+      "Performance",
+      "Control",
+      "Innovation",
+      "Safety",
+      "Italian excellence"
+    ],
+    "brand_promise": "Maximum performance and safety through precise control and advanced tire technology.",
+    "differentiators": [
+      "Strong motorsport heritage including Formula 1",
+      "Advanced R&D and material science",
+      "Premium positioning focused on high-end vehicles"
+    ],
+    "non_negotiables": [
+      "Performance credibility",
+      "Technological leadership",
+      "Motorsport-derived innovation"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Adults",
+      "gender": "All",
+      "income_level": "Premium to high-end"
+    },
+    "psychographics": {
+      "lifestyle": "Drivers who value performance, safety, and technological excellence",
+      "values": [
+        "Precision",
+        "Control",
+        "Performance",
+        "Innovation"
+      ],
+      "behavior": "Chooses tires as a performance component, trusts OEM and motorsport validation, values premium engineering"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Technical",
+      "Authoritative",
+      "Innovative",
+      "Performance-driven"
+    ],
+    "communication_style": "Precise, assertive, and performance-focused with clear technical authority",
+    "language_register": "Professional, technical, and aspirational",
+    "preferred_structures": [
+      "Performance-driven statements",
+      "Technology-led explanations",
+      "Motorsport validation narratives"
+    ],
+    "avoid": [
+      "Casual or playful language",
+      "Generic automotive clichés",
+      "Over-simplification of performance"
+    ],
+    "emotional_temperature": "Controlled-intense",
+    "tone_dos": [
+      "Emphasize control and performance",
+      "Reference motorsport credibility",
+      "Maintain technical clarity"
+    ],
+    "tone_donts": [
+      "Overpromising without data",
+      "Emotional-only storytelling",
+      "Lifestyle-only automotive language"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Pirelli extended wordmark",
+      "usage_rules": "Maintain extended P form and proportions; never compress or distort",
+      "lockup_behavior": "Bold and authoritative placement",
+      "safe_area": "Minimum padding equals the height of the Pirelli wordmark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#FFD400",
+        "#E30613",
+        "#000000"
+      ],
+      "secondary_colors": [
+        "#FFFFFF",
+        "#1F2937"
+      ],
+      "color_usage_rules": "High-contrast performance palette anchored in yellow, red, and black"
+    },
+    "typography": {
+      "primary_font": "Condensed high-impact sans-serif",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to neutral",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Performance headline",
+        "H2 – Technical support",
+        "Body – Regular text"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Strong modular grid",
+      "white_space_ratio": "Low to moderate",
+      "image_vs_text_balance": "Image-led with assertive copy",
+      "cta_placement": "Direct and clear",
+      "alignment": "Bold, dynamic layouts"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "dynamic",
+        "high-performance",
+        "technical",
+        "dramatic",
+        "precision-driven"
+      ],
+      "preferred_photographers": [
+        "Automotive and motorsport photographers"
+      ],
+      "camera_feel": "High-speed, sharp, and controlled",
+      "pose_guidelines": "Vehicles in motion; tires under stress; performance moments",
+      "casting_attitude": "Drivers and vehicles presented with authority and focus"
+    },
+    "technical": {
+      "lighting": "High-contrast lighting or dramatic daylight",
+      "contrast": "Medium to high",
+      "grain": "Minimal",
+      "depth_of_field": "Medium emphasizing motion and detail",
+      "color_grading": "High-contrast, neutral-to-cool tones with strong blacks"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Performance intensity",
+      "Technical mastery",
+      "Motorsport authority"
+    ],
+    "preferred_locations": [
+      "Race tracks",
+      "Mountain roads",
+      "Controlled test environments"
+    ],
+    "contexts": [
+      "High-speed driving",
+      "Motorsport scenarios",
+      "Extreme performance conditions"
+    ],
+    "model_casting": {
+      "age_range": "Adults",
+      "diversity": "Secondary to performance focus",
+      "attitude": "Focused, controlled, professional"
+    },
+    "product_presentation": {
+      "hero_visibility": "Tire as a performance-critical component",
+      "styling_approach": "Technical, precise, performance-led",
+      "avoid": [
+        "Lifestyle-only automotive imagery",
+        "Static product shots without context",
+        "Soft or playful aesthetics"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast and controlled",
+      "transitions": "Sharp cuts, dynamic motion"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show tires under real performance stress",
+        "Highlight control and grip",
+        "Use motorsport credibility"
+      ],
+      "visual_donts": [
+        "Generic car imagery",
+        "Decorative visuals without performance context",
+        "Soft lifestyle staging"
+      ],
+      "copy_dos": [
+        "Speak with authority",
+        "Reference technology and data",
+        "Reinforce control narrative"
+      ],
+      "copy_donts": [
+        "Emotional-only messaging",
+        "Unsubstantiated claims",
+        "Over-simplified benefits"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Performance and control positioning",
+        "Motorsport credibility",
+        "Premium engineering focus"
+      ],
+      "can_evolve": [
+        "Electric mobility solutions",
+        "Sustainable material innovation",
+        "Digital tire intelligence"
+      ],
+      "test_zone": [
+        "Connected tire technology",
+        "Advanced simulation tools",
+        "New mobility partnerships"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Industrial materials",
+        "Dark finishes",
+        "Technical displays"
+      ],
+      "interactive_elements": [
+        "Performance data visualizations",
+        "Motorsport storytelling"
+      ],
+      "soundscape": "Technical, performance-oriented ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More technical on owned channels; dramatic and aspirational on social",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "60:40"
+      },
+      "platform_behavior": {
+        "Instagram": "Motorsport moments, performance visuals",
+        "Website": "Technical specs, innovation stories, OEM partnerships",
+        "Newsletter": "Technology updates, motorsport insights"
+      }
+    },
+    "print": {
+      "paper": "High-contrast matte or semi-gloss stock",
+      "cover_rules": "Bold performance visuals with strong Pirelli branding"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Compressed wordmark",
+      "Altered extended P",
+      "Low-contrast logo placement"
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "brand_info": {
+    "name": "On",
+    "tagline": "Dream On.",
+    "category": "Premium sportswear and performance footwear",
+    "positioning": "Swiss-engineered performance sportswear brand positioned at the premium end of the market, combining technical innovation, distinctive design, and a culture of movement.",
+    "vision": "Dream On.",
+    "mission": "Ignite the human spirit through movement.",
+    "origin_story": "Founded in 2010 in Zürich, Switzerland by Olivier Bernhard, David Allemann, and Caspar Coppetti with the goal of revolutionizing the sensation of running through a new cushioning concept that led to CloudTec."
+  },
+  "brand_values": {
+    "core_values": [
+      "Human movement as a positive force",
+      "Performance innovation",
+      "Swiss engineering and precision",
+      "Design-led functionality",
+      "Community and togetherness in movement",
+      "Progress and responsibility"
+    ],
+    "brand_promise": "A distinct running and movement experience built on technical innovation and Swiss engineering, expressed through modern design and premium feel.",
+    "differentiators": [
+      "Signature CloudTec cushioning language and technology platform expressed as 'Run on clouds'.",
+      "A premium, design-forward performance brand that bridges sport, lifestyle, and fashion through collaborations and cultural storytelling.",
+      "Recognizable campaign platforms and collaborations that expand the meaning of movement beyond competition, including Dream On, Soft Wins, Zone Dreamers, LOEWE x On, THE ROGER, Cyclon, CleanCloud, LightSpray, and Cloudsurfer launch stories."
+    ],
+    "non_negotiables": [
+      "Do not compromise technical credibility: performance innovation must remain central.",
+      "Maintain premium, Swiss-engineered perception through precision in design, materials, and communication.",
+      "Keep brand language optimistic and movement-led: campaigns must connect movement to human spirit, confidence, and community.",
+      "Protect icon assets: On wordmark, CloudTec sole language, and clean industrial design cues must remain legible and consistent."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-45",
+      "gender": "All",
+      "income_level": "Premium / Affluent value for performance"
+    },
+    "psychographics": {
+      "lifestyle": "Performance-driven and design-aware consumers who move across running, training, tennis, and everyday active lifestyles, and appreciate premium product storytelling.",
+      "values": [
+        "Self-improvement through movement",
+        "Design and craft",
+        "Innovation",
+        "Community",
+        "Premium quality"
+      ],
+      "behavior": "Research-led purchasing, technology curiosity, interest in collaborations and limited drops, preference for clean silhouettes and versatile performance pieces."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Optimistic",
+      "Premium",
+      "Confident",
+      "Human",
+      "Precise",
+      "Forward-looking"
+    ],
+    "communication_style": "Short, uplifting, movement-led statements supported by simple, confident product truths and a Swiss-engineering undercurrent.",
+    "language_register": "Modern / Minimal / Premium",
+    "preferred_structures": [
+      "Brief manifesto lines",
+      "One clear idea per sentence",
+      "Campaign platform headline plus a single supporting claim",
+      "Technology explained in plain terms"
+    ],
+    "avoid": [
+      "Aggressive win-at-all-costs sports rhetoric",
+      "Overly technical jargon without human meaning",
+      "Discount-led language as the primary hook"
+    ],
+    "emotional_temperature": "Calm-high confidence",
+    "tone_dos": [
+      "Anchor narratives in movement, community, and human potential",
+      "Keep wording clean and direct",
+      "Let product innovation feel tangible and credible",
+      "Use aspirational lines that invite participation"
+    ],
+    "tone_donts": [
+      "Shouty hype copy",
+      "Long paragraphs",
+      "Moralizing or guilt-driven sustainability messaging",
+      "Competitor references"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "On wordmark, typically black or white depending on contrast needs.",
+      "usage_rules": "Use high-contrast placement on calm backgrounds; keep the mark crisp and unwarped; avoid placing over busy textures without a contrast buffer.",
+      "lockup_behavior": "Often minimal and functional: top corner or bottom corner anchoring; secondary lockups may appear in collaboration contexts while keeping On legible.",
+      "safe_area": "Minimum padding equals the height of the 'O' around the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#F2F2F2"
+      ],
+      "secondary_colors": [
+        "#CFCFCF",
+        "#8A8A8A"
+      ],
+      "color_usage_rules": "Neutral technical palette as default; collaboration and campaign worlds may introduce accent color, but overall feel remains clean, premium, and controlled."
+    },
+    "typography": {
+      "primary_font": "Modern sans-serif with a technical, editorial feel",
+      "secondary_font": "Condensed or bold sans for short headlines and campaign tags when needed",
+      "weights": {
+        "headlines": "Bold",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "+0.01em to +0.04em",
+        "line_height": "1.3–1.5"
+      },
+      "hierarchy": [
+        "H1 – Bold sans",
+        "H2 – Regular/Bold sans",
+        "Body – Regular sans",
+        "Captions – Regular sans"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Minimal modular grid with strong margins and clean alignment",
+      "white_space_ratio": "Generous",
+      "image_vs_text_balance": "Image-led with sparse copy; technology pages add structured microcopy",
+      "cta_placement": "Lower third or bottom edge; clear and minimal",
+      "alignment": "Centered hero subjects or clean off-center compositions; product silhouettes remain unobstructed"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "premium performance",
+        "clean modernism",
+        "Swiss precision",
+        "cinematic community",
+        "design-forward sport"
+      ],
+      "preferred_photographers": [
+        "Campaign-specific directors and photographers in a cinematic-commercial style for Dream On and Zone Dreamers.",
+        "Fashion-collaboration photographers with crisp editorial execution for LOEWE x On.",
+        "Performance product photographers with clean studio lighting for technology and footwear storytelling."
+      ],
+      "camera_feel": "Modern and premium with crisp clarity, restrained styling, and occasional cinematic narrative moments that emphasize togetherness and confidence.",
+      "pose_guidelines": "Natural athletic movement, relaxed confidence, and togetherness in group scenes; avoid strained intensity poses as the default tone.",
+      "casting_attitude": "Performance athletes plus culturally relevant talent; inclusive, modern, and confident without arrogance."
+    },
+    "technical": {
+      "lighting": "Clean studio lighting for product and technology clarity; soft daylight or controlled cinematic lighting for narrative campaigns.",
+      "contrast": "Medium; clean blacks and whites with precise tonal control.",
+      "grain": "Low to subtle; premium digital finish.",
+      "depth_of_field": "Moderate; shallow DOF for portrait and narrative beats, deeper focus for product and tech explainers.",
+      "color_grading": "Neutral modern grading with controlled highlights; collaboration campaigns may introduce curated accents while keeping the base palette clean."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Premium optimism",
+      "Calm confidence",
+      "Technical clarity",
+      "Community-first movement storytelling"
+    ],
+    "preferred_locations": [
+      "Minimal studio sets for product and technology",
+      "Urban movement environments with clean architecture",
+      "Natural landscapes tied to alpine or outdoor heritage",
+      "Cinematic sets for platform campaigns and collaborations"
+    ],
+    "contexts": [
+      "Movement as a daily ritual and human unlock",
+      "Balanced performance and recovery mindset",
+      "Premium product innovation and material storytelling",
+      "Fashion-crossover moments through collaboration"
+    ],
+    "model_casting": {
+      "age_range": "18–45",
+      "diversity": "Broad representation across sport and culture",
+      "attitude": "Focused, warm, and confident; collective energy when in groups; individual calm when solo"
+    },
+    "product_presentation": {
+      "hero_visibility": "Technology and silhouette clarity are prioritized; footwear must read instantly through sole language and clean profile.",
+      "styling_approach": "Technical minimalism as baseline; fashion elevation in collaborations; always keep functionality believable.",
+      "avoid": [
+        "Overcrowded styling that hides product silhouette",
+        "Messy backgrounds that reduce premium perception",
+        "Overly aggressive sports tropes as the only story"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Controlled energy; smooth movement beats; readable product moments; cinematic pacing in platform campaigns.",
+      "transitions": "Clean cuts and minimal graphic overlays; occasional film-trailer language for cinematic campaigns."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Keep layouts clean with generous whitespace and crisp alignment",
+        "Prioritize technology and silhouette legibility",
+        "Use calm, premium lighting and controlled palettes",
+        "Show movement as confidence and connection, not only intensity"
+      ],
+      "visual_donts": [
+        "Cluttered compositions that dilute premium feel",
+        "Low-contrast logo placements",
+        "Overly loud graphics that fight the product",
+        "Generic sports grit aesthetics as the default"
+      ],
+      "copy_dos": [
+        "Use short, uplifting lines tied to movement and human spirit",
+        "Explain innovation in simple, credible terms",
+        "Keep collaboration naming precise and clear"
+      ],
+      "copy_donts": [
+        "Discount-first messaging",
+        "Long explanatory paragraphs",
+        "Competitor comparisons",
+        "Overpromising sustainability claims without specifics"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "On wordmark presence and legibility",
+        "Premium, Swiss-engineered perception",
+        "Technology-forward narrative anchored in CloudTec and innovation language",
+        "Optimistic movement platform language consistent with Dream On"
+      ],
+      "can_evolve": [
+        "Campaign narrative worlds",
+        "Collaboration aesthetics and seasonal accents",
+        "Casting and cultural storytelling formats"
+      ],
+      "test_zone": [
+        "Experimental film-language campaigns and new storytelling formats",
+        "Advanced material and manufacturing stories as creative drivers",
+        "New movement communities beyond running while preserving performance credibility"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Clean architectural fixtures",
+        "Neutral premium finishes",
+        "Technology-led display zones",
+        "Minimal signage with strong product focus"
+      ],
+      "interactive_elements": [
+        "Product try-on and gait or movement education moments",
+        "Campaign screens with calm, premium video loops",
+        "Collaboration modules with curated storytelling"
+      ],
+      "soundscape": "Modern, calm-upbeat electronic and indie-pop with a premium retail feel"
+    },
+    "digital": {
+      "tone_adjustment": "Minimal, clear copy with strong visuals and structured technology storytelling",
+      "content_ratio": {
+        "campaign_vs_product": "45:55",
+        "motion_vs_static": "45:55"
+      },
+      "platform_behavior": {
+        "Instagram": "Campaign platforms, collaboration drops, athlete and community movement moments, premium product close-ups",
+        "Website": "Technology explainers, product-first navigation, campaign modules that remain clean and readable",
+        "Newsletter": "Short headlines, curated product stories, collaboration announcements"
+      }
+    },
+    "print": {
+      "paper": "Premium coated or uncoated stock with minimal layouts",
+      "cover_rules": "Strong hero image; minimal headline; logo anchored with high contrast and generous margins"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Low-contrast wordmark on mid-grey backgrounds without a buffer",
+      "Stretching or condensing the wordmark",
+      "Placing the logo over busy shoe textures without contrast control",
+      "Over-layering with graphics that reduce product silhouette clarity"
+    ]
+  }
+}

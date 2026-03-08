@@ -1,0 +1,284 @@
+{
+  "brand_info": {
+    "name": "Under Armour",
+    "tagline": "Under Armour Makes Athletes Better",
+    "category": "Sportswear / Performance Apparel",
+    "positioning": "Performance-driven sportswear and footwear brand focused on innovation, training culture, and functional solutions designed to improve athletic performance.",
+    "vision": "To inspire you with performance solutions you never knew you needed and can’t imagine living without.",
+    "mission": "To make athletes better.",
+    "origin_story": "Founded in 1996 by Kevin Plank, who started the company with moisture-wicking performance apparel designed to solve the problem of sweat-soaked cotton shirts in training and competition."
+  },
+  "brand_values": {
+    "core_values": [
+      "Performance",
+      "Innovation",
+      "Grit",
+      "Discipline",
+      "Team",
+      "Authenticity"
+    ],
+    "brand_promise": "Relentless performance gear and footwear engineered to help athletes train harder, recover smarter, and compete better.",
+    "differentiators": [
+      "Performance-first product engineering (materials, fit, sweat management, temperature regulation)",
+      "Training culture and athlete mindset as core brand narrative",
+      "Bold, high-energy creative rooted in sport, effort, and measurable improvement"
+    ],
+    "non_negotiables": [
+      "Athlete-first credibility and performance truth",
+      "Functional product integrity and technical authenticity",
+      "Intensity and drive without fake hype"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Teens to adults",
+      "gender": "All",
+      "income_level": "Mass premium / performance consumer"
+    },
+    "psychographics": {
+      "lifestyle": "Training-centric people who value performance, discipline, sport identity, and functional gear for gym, field, court, and outdoor activities",
+      "values": [
+        "Self-improvement",
+        "Work ethic",
+        "Performance results",
+        "Durability",
+        "Technical credibility"
+      ],
+      "behavior": "Buys for training and sport use cases, prefers proven performance features, follows athletes/teams, repeats purchases of core training items and footwear franchises"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Driven",
+      "Direct",
+      "Confident",
+      "Challenging",
+      "Motivational"
+    ],
+    "communication_style": "Action-led and performance-claim-driven with training language, short imperative lines, and athlete mindset cues",
+    "language_register": "Sport-forward, assertive",
+    "preferred_structures": [
+      "Imperatives and challenge lines",
+      "Short punchy headlines",
+      "Performance feature callouts",
+      "Athlete quotes as proof points"
+    ],
+    "avoid": [
+      "Soft luxury language",
+      "Overly cute humor",
+      "Abstract lifestyle poetry without performance anchors"
+    ],
+    "emotional_temperature": "High-intensity",
+    "tone_dos": [
+      "Lead with effort and results",
+      "Use training culture vocabulary",
+      "Back claims with product features or athlete proof",
+      "Keep the message bold and concise"
+    ],
+    "tone_donts": [
+      "Vague inspiration without action",
+      "Overpromising beyond product truth",
+      "Over-describing fashion trends over function"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Interlocking UA monogram (Under Armour logo) typically rendered in black or white for high contrast",
+      "usage_rules": "Keep the monogram crisp and high-contrast; never distort; avoid cluttered placement that reduces legibility",
+      "lockup_behavior": "Often used as a strong end-card stamp or a small corner marker; can be paired with bold type in clean lockups",
+      "safe_area": "Minimum padding equals at least the width of one monogram stroke around the mark"
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#C8102E",
+        "#1A1A1A",
+        "#7A7A7A"
+      ],
+      "color_usage_rules": "High-contrast black and white system as default; red used as an energy accent; sport-specific color pops may appear as product accents while brand base remains monochrome-forward"
+    },
+    "typography": {
+      "primary_font": "Bold modern sans-serif (athletic, condensed-to-standard proportions depending on campaign system)",
+      "secondary_font": "System sans-serif for digital UI",
+      "weights": {
+        "headlines": "Bold to ExtraBold",
+        "body": "Regular to Medium",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Slightly tight for impact in headlines; neutral for body readability",
+        "line_height": "1.2–1.35 for headlines; 1.4–1.6 for body"
+      },
+      "hierarchy": [
+        "H1 – Bold/impact sans-serif",
+        "H2 – Medium/Bold sans-serif",
+        "Body – Regular sans-serif"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Strong grid with athletic poster logic and clear hierarchy",
+      "white_space_ratio": "Medium (purposeful negative space used for impact and clarity)",
+      "image_vs_text_balance": "Image-led with bold headline overlays or clean end-cards; product feature callouts when needed",
+      "cta_placement": "Lower third or end-card; clean and direct",
+      "alignment": "Often left-aligned or centered for strength; consistent baseline alignment for type blocks"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "performance",
+        "intense",
+        "kinetic",
+        "gritty",
+        "focused",
+        "athlete-first"
+      ],
+      "preferred_photographers": [
+        "Varies by sport and market; consistent performance advertising language across global campaigns"
+      ],
+      "camera_feel": "High-energy sport realism with controlled dramatization and strong subject emphasis",
+      "pose_guidelines": "Training and competition actions; exertion visible; athletic posture; purposeful stance; moments of effort and focus",
+      "casting_attitude": "Athletes and sport-credible talent; competitive mindset; confidence without glamour posing"
+    },
+    "technical": {
+      "lighting": "High-contrast studio or dramatic directional light; stadium/gym practicals; strong rim or edge separation when appropriate",
+      "contrast": "Medium to high",
+      "grain": "Low to moderate depending on grit level of the campaign",
+      "depth_of_field": "Shallow to medium to isolate athlete and product while preserving environment cues",
+      "color_grading": "Punchy blacks, clean highlights, controlled saturation; red accents and sport colors kept vivid but contained"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Relentless pursuit",
+      "Training culture intensity",
+      "Competitive confidence",
+      "Earned performance"
+    ],
+    "preferred_locations": [
+      "Gyms and training facilities",
+      "Stadium tunnels and arenas",
+      "Outdoor training grounds",
+      "Industrial or minimal studio setups",
+      "Sport-specific environments (court/field/track)"
+    ],
+    "contexts": [
+      "Workouts and drills",
+      "Pre-game focus",
+      "Recovery and preparation",
+      "Skill repetition",
+      "Team and individual grind narratives"
+    ],
+    "model_casting": {
+      "age_range": "Teens to adult athletes",
+      "diversity": "High; representative casting across sports and communities",
+      "attitude": "Focused, determined, competitive"
+    },
+    "product_presentation": {
+      "hero_visibility": "Product features and fit must read clearly in motion and close-up details",
+      "styling_approach": "Performance gear worn correctly for the sport; minimal styling noise; sport-appropriate accessories only",
+      "avoid": [
+        "Fashion-only styling that breaks sport credibility",
+        "Overly polished lifestyle scenes that remove training context",
+        "Crowded backgrounds that hide product and athlete form"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Fast, punchy cuts with moments of slow emphasis on impact points (landing, strike, lift, sprint)",
+      "transitions": "Hard cuts, match cuts, minimal gimmicks; occasional kinetic typography or graphic wipes when aligned to campaign system"
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show effort and athletic mechanics",
+        "Use high-contrast lighting with clear subject separation",
+        "Feature product performance details in action",
+        "Maintain sport credibility in environment and styling"
+      ],
+      "visual_donts": [
+        "Over-glamor retouching",
+        "Unmotivated fashion poses",
+        "Soft lifestyle mood that removes performance tension",
+        "Busy compositions that weaken focus"
+      ],
+      "copy_dos": [
+        "Use challenge language and action verbs",
+        "Keep claims grounded in performance features",
+        "Let athletes and training moments act as proof",
+        "Stay concise and punchy"
+      ],
+      "copy_donts": [
+        "Flowery lifestyle copy",
+        "Unclear benefit statements",
+        "Overlong paragraphs",
+        "Claims that cannot be supported by product performance"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Under Armour performance-first mission",
+        "UA monogram integrity and legibility",
+        "Training culture intensity and athlete credibility"
+      ],
+      "can_evolve": [
+        "Sport-specific creative systems",
+        "Seasonal color accents tied to product lines",
+        "Athlete storytelling formats and collaborations"
+      ],
+      "test_zone": [
+        "New sport franchises and grassroots programs",
+        "Digital training/community formats",
+        "Collaboration capsules that still retain performance DNA"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Dark neutrals with high-contrast signage",
+        "Black metal and concrete cues",
+        "Sport utility fixtures",
+        "Bold wall graphics and athlete imagery"
+      ],
+      "interactive_elements": [
+        "Product feature education panels",
+        "Footwear testing cues where applicable",
+        "Sport category zoning and hero franchises"
+      ],
+      "soundscape": "High-energy modern sport ambience"
+    },
+    "digital": {
+      "tone_adjustment": "More technical feature callouts and training utility online; short motivational headlines on social",
+      "content_ratio": {
+        "campaign_vs_product": "55:45",
+        "motion_vs_static": "55:45"
+      },
+      "platform_behavior": {
+        "Instagram": "Athlete action, training clips, bold headline overlays, franchise drops",
+        "Website": "Product-first with performance technology explanations, fit guidance, sport filters, and clear CTAs",
+        "Newsletter": "Franchise and athlete-led drops, product innovations, direct training value propositions"
+      }
+    },
+    "print": {
+      "paper": "Commercial stock with strong ink density for blacks and crisp logo reproduction",
+      "cover_rules": "Athlete or product hero with bold headline, high contrast, and clear UA mark placement"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Monogram stretched or distorted",
+      "Low-contrast logo placement",
+      "Logo placed over cluttered textures reducing legibility",
+      "Unauthorized recolors that weaken brand contrast system"
+    ]
+  }
+}

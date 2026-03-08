@@ -1,0 +1,274 @@
+{
+  "brand_info": {
+    "name": "Volzhenka",
+    "tagline": "Experience the wild taste of caviar.",
+    "category": "Caviar and gourmet foods",
+    "positioning": "A premium caviar maison positioned around heritage, savoir-faire, purity of origin, and sustainable sturgeon farming, sold through a direct-to-consumer luxury retail experience.",
+    "vision": "To preserve and share an authentic caviar heritage through responsible practices and uncompromising quality.",
+    "mission": "Produce and curate artisan caviar with minimal interference methods and sustainability-led farming, delivering a refined caviar experience from source to table.",
+    "origin_story": "Volzhenka traces its roots to Astrakhan on the banks of the Volga River, a historic crossroads linked to the Caspian Sea. Built on a family fishery heritage cultivated for over half a century, the maison extended into Europe in 2007 and established EU production in Greece, keeping standards aligned with its origin."
+  },
+  "brand_values": {
+    "core_values": [
+      "Savoir-faire and patience",
+      "Purity of origin",
+      "Sustainability and conservation",
+      "Minimal interference methods",
+      "Respect for sturgeon lines"
+    ],
+    "brand_promise": "Deliver artisan caviar defined by authentic taste, purity, and responsible production.",
+    "differentiators": [
+      "Heritage rooted in Astrakhan and the Volga-Caspian caviar culture.",
+      "EU flagship farm in Drama, Greece with spring-fed water fields and controlled conditions.",
+      "Sustainability and conservation positioning, including sturgeon preservation efforts.",
+      "Luxury retail execution combining product ritual, gifting, and curated accessories."
+    ],
+    "non_negotiables": [
+      "Maintain authenticity of taste and origin-led storytelling.",
+      "Preserve sturgeon welfare and sustainability principles.",
+      "Keep product and service execution premium, precise, and discreet.",
+      "Avoid mass-market cues that dilute maison positioning."
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-70",
+      "gender": "All",
+      "income_level": "High to ultra-high"
+    },
+    "psychographics": {
+      "lifestyle": "Gourmet consumers, hosts, and gift buyers seeking rare, premium food experiences and ritual-driven occasions.",
+      "values": [
+        "Taste authenticity",
+        "Craft and provenance",
+        "Discreet luxury",
+        "Sustainability with credibility",
+        "Occasion and gifting culture"
+      ],
+      "behavior": "Purchases for celebrations, gifting, and fine dining moments; expects premium packaging, express delivery, and concierge-style service."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Refined",
+      "Heritage-led",
+      "Confident",
+      "Precise",
+      "Responsible"
+    ],
+    "communication_style": "Maison language blending heritage and craft with calm confidence, expressing provenance, ritual, and sustainability without exaggeration.",
+    "language_register": "Luxury / Gastronomic / Editorial",
+    "preferred_structures": [
+      "Origin and craft storytelling",
+      "Ritual and serving guidance",
+      "Occasion-led gifting cues"
+    ],
+    "avoid": [
+      "Overly technical jargon without sensory payoff",
+      "Discount-led messaging",
+      "Sensationalist health claims"
+    ],
+    "emotional_temperature": "Quiet indulgence",
+    "tone_dos": [
+      "Emphasize provenance, savoir-faire, and patience",
+      "Maintain precision in product descriptors and service promises",
+      "Highlight conservation through concrete actions"
+    ],
+    "tone_donts": [
+      "Hyperbole and miracle language",
+      "Noisy luxury clichés",
+      "Competitor comparisons"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Volzhenka wordmark.",
+      "usage_rules": "Use with high contrast and generous clear space; avoid effects, gradients, or distortion.",
+      "lockup_behavior": "Wordmark centered in premium layouts; minimal co-branding; product-first hierarchy.",
+      "safe_area": "Minimum padding equals the height of the first letter in the wordmark."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "secondary_colors": [
+        "#C8A24A",
+        "#E6E6E6"
+      ],
+      "color_usage_rules": "High-contrast black and white for maison clarity with restrained gold accents for premium cues; backgrounds remain clean and minimal."
+    },
+    "typography": {
+      "primary_font": "Refined modern serif or high-end sans-serif",
+      "secondary_font": "Minimal sans-serif for functional information",
+      "weights": {
+        "headlines": "Regular to Medium",
+        "body": "Regular",
+        "captions": "Regular"
+      },
+      "spacing": {
+        "letter_spacing": "+0.02em",
+        "line_height": "1.5–1.7"
+      },
+      "hierarchy": [
+        "H1 – Refined headline type",
+        "H2 – Regular",
+        "Body – Regular",
+        "Captions – Regular"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Luxury editorial grid with generous margins",
+      "white_space_ratio": "High",
+      "image_vs_text_balance": "Image-led with concise copy blocks",
+      "cta_placement": "Discrete, lower third or end of section",
+      "alignment": "Centered, calm compositions with premium restraint"
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "premium",
+        "minimal",
+        "sensory",
+        "ritual-driven",
+        "heritage"
+      ],
+      "preferred_photographers": [
+        "Gastronomy photographers specializing in luxury food",
+        "Still-life photographers with editorial restraint",
+        "Documentary-style craft photographers for farms and savoir-faire"
+      ],
+      "camera_feel": "High-end still life and lifestyle gastronomy with controlled light, elevated materials, and clear product textures.",
+      "pose_guidelines": "Hands and moments of opening, serving, and sharing; minimal staged posing; focus on ritual authenticity.",
+      "casting_attitude": "Discreet, elegant presence; emphasis on hands, hosting, and intimate social moments."
+    },
+    "technical": {
+      "lighting": "Soft, shaped light with controlled specular highlights on jars and pearls.",
+      "contrast": "Medium with clean blacks and crisp whites.",
+      "grain": "Very low to subtle.",
+      "depth_of_field": "Selective focus emphasizing caviar pearls and jar details.",
+      "color_grading": "Neutral with warm premium accents; natural food color fidelity."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Maison savoir-faire",
+      "Occasion-led indulgence",
+      "Origin and authenticity",
+      "Responsible luxury"
+    ],
+    "preferred_locations": [
+      "Minimal studio still life sets",
+      "Elegant dining interiors",
+      "Craft and farm environments"
+    ],
+    "contexts": [
+      "Celebratory gifting",
+      "Hosting and sharing moments",
+      "Serving ritual and accessories",
+      "Conservation and sustainability narratives"
+    ],
+    "model_casting": {
+      "age_range": "25–70",
+      "diversity": "Broad with a discreet, premium presence",
+      "attitude": "Composed, intimate, and assured"
+    },
+    "product_presentation": {
+      "hero_visibility": "Jar, label, and caviar pearl texture clarity prioritized.",
+      "styling_approach": "Minimal, premium materials such as mother-of-pearl, stone, linen, and refined tableware.",
+      "avoid": [
+        "Messy food styling",
+        "Overcrowded scenes",
+        "Low-end props"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Slow and deliberate.",
+      "transitions": "Clean cuts, gentle dissolves, premium macro reveals."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use premium restraint with high negative space",
+        "Show ritual moments: opening, serving, sharing",
+        "Keep product texture and label legibility pristine"
+      ],
+      "visual_donts": [
+        "Discount banners and loud promotional overlays",
+        "Cluttered tablescapes",
+        "Over-processed food color"
+      ],
+      "copy_dos": [
+        "Describe taste through provenance and craft",
+        "Be precise about sustainability actions and methods",
+        "Keep language calm and maison-led"
+      ],
+      "copy_donts": [
+        "Unverifiable superiority claims",
+        "Medical or wellness promises",
+        "Competitor comparisons"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Maison positioning and savoir-faire focus",
+        "Origin roots in Astrakhan and Volga heritage",
+        "Sustainability and conservation narrative"
+      ],
+      "can_evolve": [
+        "Seasonal occasion campaigns",
+        "Retail experiences and tastings",
+        "Accessory curation and gifting formats"
+      ],
+      "test_zone": [
+        "New tasting formats",
+        "Limited editions and collaborations",
+        "Expanded destination distribution"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Luxury packaging and insulated delivery",
+        "Minimal signage and premium textures",
+        "Accessory-led ritual merchandising"
+      ],
+      "interactive_elements": [
+        "Private tastings and curated experiences",
+        "Concierge-style guidance on serving and storage"
+      ],
+      "soundscape": "Quiet and premium"
+    },
+    "digital": {
+      "tone_adjustment": "Editorial maison voice with clear commerce utilities",
+      "content_ratio": {
+        "campaign_vs_product": "40:60",
+        "motion_vs_static": "35:65"
+      },
+      "platform_behavior": {
+        "Instagram": "Still life, ritual moments, gifting, brand heritage",
+        "Website": "Story, sustainability, product education, delivery and preservation guidance",
+        "Newsletter": "Occasion-led drops, limited selections, tasting invitations"
+      }
+    },
+    "print": {
+      "paper": "Premium uncoated or lightly textured stock",
+      "cover_rules": "Minimal typography with strong still life hero image and restrained logo placement"
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Crowding the wordmark with other marks",
+      "Applying decorative effects to the logo",
+      "Placing the logo on low-contrast backgrounds"
+    ]
+  }
+}
